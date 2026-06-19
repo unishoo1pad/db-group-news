@@ -22,8 +22,9 @@ from urllib import request, parse
 # ── 설정 ──────────────────────────────────────────────
 NAVER_CLIENT_ID     = os.environ.get('NAVER_CLIENT_ID', '')
 NAVER_CLIENT_SECRET = os.environ.get('NAVER_CLIENT_SECRET', '')
-KAKAO_REST_API_KEY  = os.environ.get('KAKAO_REST_API_KEY', '')
-KAKAO_REFRESH_TOKEN = os.environ.get('KAKAO_REFRESH_TOKEN', '')
+KAKAO_REST_API_KEY    = os.environ.get('KAKAO_REST_API_KEY', '')
+KAKAO_CLIENT_SECRET   = os.environ.get('KAKAO_CLIENT_SECRET', '')
+KAKAO_REFRESH_TOKEN   = os.environ.get('KAKAO_REFRESH_TOKEN', '')
 SITE_URL            = 'https://db-group-news.vercel.app'
 KST                 = timezone(timedelta(hours=9))
 START_DATE          = datetime(2026, 6, 1, tzinfo=KST)
@@ -90,6 +91,7 @@ def get_kakao_access_token() -> str:
     data = parse.urlencode({
         'grant_type':    'refresh_token',
         'client_id':     KAKAO_REST_API_KEY,
+        'client_secret': KAKAO_CLIENT_SECRET,
         'refresh_token': KAKAO_REFRESH_TOKEN,
     }).encode()
     req = request.Request('https://kauth.kakao.com/oauth/token',
