@@ -26,6 +26,7 @@ KAKAO_REST_API_KEY    = os.environ.get('KAKAO_REST_API_KEY', '')
 KAKAO_CLIENT_SECRET   = os.environ.get('KAKAO_CLIENT_SECRET', '')
 KAKAO_REFRESH_TOKEN   = os.environ.get('KAKAO_REFRESH_TOKEN', '')
 SITE_URL            = 'https://db-group-news.vercel.app'
+SITE_URL2           = 'https://dbnews.unishoo1.xyz'
 KST                 = timezone(timedelta(hours=9))
 START_DATE          = datetime(2026, 6, 1, tzinfo=KST)
 STORAGE_KEY         = 'todo-app-items'
@@ -114,7 +115,8 @@ def send_kakao_message(new_count: int, total_count: int, today: str):
         f"📅 오늘은 {date_fmt} 입니다.\n"
         f"➕ 금일 추가건수 : {new_count}건.\n"
         f"📊 현재까지 총 {total_count}건의 기사가 있어요.\n\n"
-        f"🔗 {SITE_URL}"
+        f"🔗 {SITE_URL}\n"
+        f"🔗 {SITE_URL2}"
     )
     template = json.dumps({
         "object_type": "text",
