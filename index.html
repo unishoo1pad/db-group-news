@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DB그룹 뉴스</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ── 헤더 ── -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <a class="logo" href="#">
+        <span class="logo-badge">DB</span>
+        <span class="logo-text">그룹 뉴스</span>
+      </a>
+      <span class="header-date" id="header-date"></span>
+    </div>
+  </header>
+
+  <!-- ── 히어로 ── -->
+  <section class="hero">
+    <div class="container">
+      <p class="hero-eyebrow">DB Financial Group</p>
+      <h1 class="hero-title">그룹 뉴스</h1>
+      <p class="hero-sub">DB금융그룹 8개 계열사의 주요 뉴스를 한눈에 확인하세요</p>
+      <div class="hero-stats">
+        <div class="stat-chip">
+          <span class="stat-num" id="stat-total">—</span>
+          <span class="stat-label">전체 기사</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-chip">
+          <span class="stat-num" id="stat-today">—</span>
+          <span class="stat-label">오늘 기사</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-chip">
+          <span class="stat-num">8</span>
+          <span class="stat-label">계열사</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 필터 바 ── -->
+  <div class="filter-wrap" id="filter-wrap">
+    <div class="filter-inner container">
+      <nav class="filter-tabs" id="filter-tabs" role="tablist" aria-label="계열사 필터">
+        <button class="tab active" data-filter="all" role="tab">전체</button>
+        <button class="tab" data-filter="DB손해보험" role="tab">DB손해보험</button>
+        <button class="tab" data-filter="DB생명" role="tab">DB생명</button>
+        <button class="tab" data-filter="DB증권" role="tab">DB증권</button>
+        <button class="tab" data-filter="DB자산운용" role="tab">DB자산운용</button>
+        <button class="tab" data-filter="DB저축은행" role="tab">DB저축은행</button>
+        <button class="tab" data-filter="DB캐피탈" role="tab">DB캐피탈</button>
+        <button class="tab" data-filter="DBINC" role="tab">DB Inc.</button>
+        <button class="tab" data-filter="DB하이텍" role="tab">DB하이텍</button>
+      </nav>
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 20 20" fill="none">
+          <circle cx="9" cy="9" r="6.5" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M14 14L18 18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <input type="search" id="search" class="search-input" placeholder="뉴스 검색" autocomplete="off" />
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 본문 ── -->
+  <main class="main">
+    <div class="container">
+      <div class="result-bar" id="result-bar"></div>
+      <div class="news-grid" id="news-grid"></div>
+      <div class="empty-state" id="empty-state" style="display:none">
+        <div class="empty-icon">
+          <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+            <circle cx="22" cy="22" r="14" stroke="#005C2E" stroke-width="2" opacity="0.3"/>
+            <path d="M32 32L42 42" stroke="#005C2E" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+          </svg>
+        </div>
+        <p class="empty-title">검색 결과가 없습니다</p>
+        <p class="empty-sub">다른 키워드나 계열사를 선택해보세요</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ── 푸터 ── -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-row">
+        <span class="footer-logo">
+          <span class="logo-badge sm">DB</span> 그룹 뉴스
+        </span>
+        <span class="footer-copy">DB금융그룹 내부 서비스 &middot; IT전략부문</span>
+      </div>
+      <p class="footer-updated" id="footer-updated"></p>
+    </div>
+  </footer>
+
+  <script src="data/news-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
