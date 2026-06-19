@@ -90,6 +90,22 @@ function createCard(article) {
   return el;
 }
 
+// ── 날짜별 그룹 ───────────────────────────────────────
+function groupByDate(articles) {
+  const groups = {};
+  articles.forEach(a => {
+    const date = a.publishedAt.slice(0, 10);
+    if (!groups[date]) groups[date] = [];
+    groups[date].push(a);
+  });
+  return Object.entries(groups).sort((a, b) => b[0].localeCompare(a[0]));
+}
+
+function formatDateHeader(dateStr) {
+  const d = new Date(dateStr);
+  return `${d.getFullYear()}년 ${d.getMonth() + 1}월 ${d.getDate()}일`;
+}
+
 // ── 렌더링 ────────────────────────────────────────────
 function render() {
   const list = getFiltered();
@@ -98,14 +114,41 @@ function render() {
   if (list.length === 0) {
     emptyState.style.display = 'block';
     resultBar.textContent = '';
-  } else {
-    emptyState.style.display = 'none';
-    list.forEach(a => newsGrid.appendChild(createCard(a)));
-
-    const label = currentFilter === 'all' ? '전체' : currentFilter;
-    const searchLabel = currentSearch ? ` · "${escapeHtml(currentSearch)}" 검색` : '';
-    resultBar.textContent = `${label}${searchLabel} · ${list.length}건`;
+    return;
   }
+
+  emptyState.style.display = 'none';
+  const label = currentFilter === 'all' ? '전체' : currentFilter;
+  const searchLabel = currentSearch ? ` · "${escapeHtml(currentSearch)}" 검색` : '';
+  resultBar.textContent = `${label}${searchLabel} · ${list.length}건`;
+
+  const groups = groupByDate(list);
+  groups.forEach(([date, articles], idx) => {
+    const section = document.createElement('div');
+    section.className = 'date-section';
+
+    const header = document.createElement('button');
+    header.className = 'date-header';
+    header.innerHTML = `
+      <span class="date-label">${formatDateHeader(date)}</span>
+      <span class="date-count">${articles.length}건</span>
+      <svg class="date-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    `;
+
+    const grid = document.createElement('div');
+    grid.className = 'date-grid';
+    articles.forEach(a => grid.appendChild(createCard(a)));
+
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+    });
+
+    section.appendChild(header);
+    section.appendChild(grid);
+    newsGrid.appendChild(section);
+  });
 }
 
 // ── 통계 ──────────────────────────────────────────────

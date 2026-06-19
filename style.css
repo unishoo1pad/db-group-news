@@ -303,9 +303,59 @@ button { font-family: inherit; }
 
 /* ── 뉴스 그리드 ── */
 .news-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+/* ── 날짜 섹션 ── */
+.date-section { display: flex; flex-direction: column; gap: 16px; }
+
+.date-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  width: 100%;
+  text-align: left;
+}
+
+.date-label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-1);
+}
+
+.date-count {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #fff;
+  background: var(--db-red);
+  padding: 2px 9px;
+  border-radius: var(--r-pill);
+}
+
+.date-arrow {
+  margin-left: auto;
+  color: var(--text-2);
+  transition: transform 0.25s ease;
+}
+
+.date-section.collapsed .date-arrow { transform: rotate(-90deg); }
+
+.date-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  overflow: hidden;
+  transition: opacity 0.25s ease;
+}
+
+.date-section.collapsed .date-grid {
+  display: none;
 }
 
 /* ── 뉴스 카드 ── */
@@ -484,7 +534,7 @@ button { font-family: inherit; }
 
 /* ── 반응형 ── */
 @media (max-width: 1024px) {
-  .news-grid { grid-template-columns: repeat(2, 1fr); }
+  .date-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 640px) {
@@ -498,7 +548,7 @@ button { font-family: inherit; }
   .search-input { width: 140px; }
   .search-input:focus { width: 160px; }
 
-  .news-grid {
+  .date-grid {
     grid-template-columns: 1fr;
     gap: 14px;
   }
