@@ -35,15 +35,17 @@ function escapeHtml(str) {
 
 // ── 필터링 ────────────────────────────────────────────
 function getFiltered() {
-  return NEWS_DATA.articles.filter(a => {
-    const matchFilter = currentFilter === 'all' || a.subsidiary === currentFilter;
-    const q = currentSearch.toLowerCase();
-    const matchSearch = !q ||
-      a.title.toLowerCase().includes(q) ||
-      a.description.toLowerCase().includes(q) ||
-      a.source.toLowerCase().includes(q);
-    return matchFilter && matchSearch;
-  });
+  return NEWS_DATA.articles
+    .filter(a => {
+      const matchFilter = currentFilter === 'all' || a.subsidiary === currentFilter;
+      const q = currentSearch.toLowerCase();
+      const matchSearch = !q ||
+        a.title.toLowerCase().includes(q) ||
+        a.description.toLowerCase().includes(q) ||
+        a.source.toLowerCase().includes(q);
+      return matchFilter && matchSearch;
+    })
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 }
 
 // ── 카드 생성 ─────────────────────────────────────────
