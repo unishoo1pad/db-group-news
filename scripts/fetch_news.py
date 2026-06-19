@@ -156,6 +156,13 @@ def main():
             if not url or url in existing:
                 continue
 
+            # 관련성 필터: 제목 또는 본문요약에 계열사명 포함 여부 확인
+            keyword = sub["name"].replace("DBINC", "DB Inc").lower()
+            title_text = clean(item.get("title", "")).lower()
+            desc_text  = clean(item.get("description", "")).lower()
+            if keyword not in title_text and keyword not in desc_text:
+                continue
+
             # 언론사 도메인 추출
             try:
                 source_domain = item.get("originallink", url).split("/")[2]
