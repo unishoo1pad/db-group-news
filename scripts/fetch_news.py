@@ -22,6 +22,9 @@ from urllib import request, parse
 # ── 설정 ──────────────────────────────────────────────
 NAVER_CLIENT_ID     = os.environ.get('NAVER_CLIENT_ID', '')
 NAVER_CLIENT_SECRET = os.environ.get('NAVER_CLIENT_SECRET', '')
+KAKAO_REST_API_KEY  = os.environ.get('KAKAO_REST_API_KEY', '')
+KAKAO_REFRESH_TOKEN = os.environ.get('KAKAO_REFRESH_TOKEN', '')
+SITE_URL            = 'https://db-group-news.vercel.app'
 KST                 = timezone(timedelta(hours=9))
 START_DATE          = datetime(2026, 6, 1, tzinfo=KST)
 STORAGE_KEY         = 'todo-app-items'
@@ -80,6 +83,55 @@ def clean(text: str) -> str:
 def make_id(subsidiary: str, url: str) -> str:
     return f"{subsidiary}-{abs(hash(url)) % 0xFFFFFF:06x}"
 
+# ── 카카오톡 알림 ──────────────────────────────────────
+def get_kakao_access_token() -> str:
+    if not KAKAO_REST_API_KEY or not KAKAO_REFRESH_TOKEN:
+        return ''
+    data = parse.urlencode({
+        'grant_type':    'refresh_token',
+        'client_id':     KAKAO_REST_API_KEY,
+        'refresh_token': KAKAO_REFRESH_TOKEN,
+    }).encode()
+    req = request.Request('https://kauth.kakao.com/oauth/token',
+                          data=data, method='POST')
+    try:
+        with request.urlopen(req, timeout=10) as res:
+            return json.loads(res.read().decode()).get('access_token', '')
+    except Exception as e:
+        print(f"  [카카오] 토큰 갱신 실패: {e}")
+        return ''
+
+def send_kakao_message(new_count: int, total_count: int, today: str):
+    access_token = get_kakao_access_token()
+    if not access_token:
+        print("  [카카오] 토큰 없음 — 알림 건너뜀")
+        return
+    date_fmt = today.replace('-', '.')
+    text = (
+        f"📰 지현님께서 만드신 [DB그룹 뉴스수집 웹페이지]에 금일 기사 업데이트 완료!\n\n"
+        f"📅 오늘은 {date_fmt} 입니다.\n"
+        f"➕ 금일 추가건수 : {new_count}건.\n"
+        f"📊 현재까지 총 {total_count}건의 기사가 있어요.\n\n"
+        f"🔗 {SITE_URL}"
+    )
+    template = json.dumps({
+        "object_type": "text",
+        "text": text,
+        "link": {"web_url": SITE_URL, "mobile_web_url": SITE_URL},
+    })
+    data = parse.urlencode({"template_object": template}).encode()
+    req = request.Request(
+        'https://kapi.kakao.com/v2/api/talk/memo/default/send',
+        data=data,
+        headers={"Authorization": f"Bearer {access_token}"},
+        method='POST',
+    )
+    try:
+        with request.urlopen(req, timeout=10) as res:
+            print(f"  [카카오] 알림 발송 완료 ({new_count}건 추가, 총 {total_count}건)")
+    except Exception as e:
+        print(f"  [카카오] 알림 발송 실패: {e}")
+
 # ── 메인 ──────────────────────────────────────────────
 def main():
     # 기존 데이터 로드
@@ -88,6 +140,7 @@ def main():
         with open(NEWS_JSON_PATH, "r", encoding="utf-8") as f:
             for art in json.load(f).get("articles", []):
                 existing[art["url"]] = art
+    prev_count = len(existing)
 
     new_articles = []
     for sub in SUBSIDIARIES:
@@ -133,9 +186,11 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write(";\n")
 
-    print(f"\n완료: 기존 {len(existing)}건 + 신규 {len(new_articles)}건 = 총 {len(all_articles)}건")
+    print(f"\n완료: 기존 {prev_count}건 + 신규 {len(new_articles)}건 = 총 {len(all_articles)}건")
     print(f"저장: {NEWS_JSON_PATH}")
     print(f"저장: {NEWS_DATA_JS}")
+
+    send_kakao_message(len(new_articles), len(all_articles), today)
 
 if __name__ == "__main__":
     main()

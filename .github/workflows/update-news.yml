@@ -28,6 +28,8 @@ jobs:
         env:
           NAVER_CLIENT_ID:     ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          KAKAO_REST_API_KEY:  ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
 
       - name: 변경사항 커밋 & 푸시
         run: |
