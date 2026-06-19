@@ -46,7 +46,7 @@ SUBSIDIARIES = [
 ]
 
 # ── 네이버 API 호출 ────────────────────────────────────
-def fetch_naver_news(query: str, display: int = 50) -> list:
+def fetch_naver_news(query: str, display: int = 100) -> list:
     if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
         print(f"  [건너뜀] API 키 없음 — {query}")
         return []
