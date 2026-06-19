@@ -111,10 +111,10 @@ def send_kakao_message(new_count: int, total_count: int, today: str):
         return
     date_fmt = today.replace('-', '.')
     text = (
-        f"📰 지현님께서 만드신 [DB그룹 뉴스수집 웹페이지]에 금일 기사 업데이트 완료!\n\n"
+        f"💚 지현님께서 만드신 [DB그룹 뉴스수집 웹페이지]에 금일 기사 업데이트 완료!\n\n"
         f"📅 오늘은 {date_fmt} 입니다.\n"
-        f"➕ 금일 추가건수 : {new_count}건.\n"
-        f"📊 현재까지 총 {total_count}건의 기사가 있어요.\n\n"
+        f"🔄 금일 추가건수는 {new_count}건 이고,\n"
+        f"📊 현재 총 {total_count}건의 기사가 있어요.\n\n"
         f"🔗 {SITE_URL}\n"
         f"🔗 {SITE_URL2}"
     )
