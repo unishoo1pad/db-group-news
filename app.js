@@ -49,11 +49,16 @@ function getFiltered() {
 }
 
 // ── 카드 생성 ─────────────────────────────────────────
+function naverSearchUrl(title) {
+  return 'https://search.naver.com/search.naver?where=news&query=' + encodeURIComponent(title);
+}
+
 function createCard(article) {
-  const today = isToday(article.publishedAt);
+  const today     = isToday(article.publishedAt);
   const safeTitle = escapeHtml(article.title);
   const safeDesc  = escapeHtml(article.description);
   const safeSource = escapeHtml(article.source);
+  const linkUrl   = naverSearchUrl(article.title);
 
   const el = document.createElement('article');
   el.className = 'news-card';
@@ -71,9 +76,9 @@ function createCard(article) {
         <span class="card-dot">·</span>
         <span>${formatDate(article.publishedAt)}</span>
       </div>
-      <a class="card-link" href="${article.url}" target="_blank" rel="noopener noreferrer"
+      <a class="card-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer"
          onclick="event.stopPropagation()">
-        기사 보기
+        기사 검색
         <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
           <path d="M2 6h8M6 2l4 4-4 4" stroke="currentColor" stroke-width="1.5"
                 stroke-linecap="round" stroke-linejoin="round"/>
@@ -83,7 +88,7 @@ function createCard(article) {
   `;
 
   el.addEventListener('click', () => {
-    window.open(article.url, '_blank', 'noopener,noreferrer');
+    window.open(linkUrl, '_blank', 'noopener,noreferrer');
   });
 
   return el;
