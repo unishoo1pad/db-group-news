@@ -1,4 +1,4 @@
-// 자동 생성 파일 — 2026-06-20
+// 2026-06-20
 const NEWS_DATA = {
   "lastUpdated": "2026-06-20",
   "articles": [
@@ -12,33 +12,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-20T13:23:00+09:00"
     },
     {
-      "id": "DB손해보험-7005d6",
-      "title": "[mhn포토] 한아름, 인카금융 우승 향해 날리는 티샷",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428066",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T11:21:00+09:00"
-    },
-    {
-      "id": "DB손해보험-65d7d1",
-      "title": "[mhn포토] 한아름, 시선은 타구에 고정",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428065",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T11:21:00+09:00"
-    },
-    {
-      "id": "DB손해보험-34d65e",
-      "title": "[mhn포토] 한아름, 우승만 노린다",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428064",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T11:20:00+09:00"
-    },
-    {
       "id": "DB저축은행-6e15f9",
       "title": "[금융] DB저축은행 보통예금 금리 연 3% / NH농협은행 성수동 팝업스토어...",
       "description": "◼︎ DB저축은행, 수시입출금 보통예금 금리 연 3%로 인상 DB저축은행은 지난 19일부터 'Dream Big 보통예금'의 7000만원 이하 예치금에 대해 조건 없이 연 3.0% 금리를 적용한다고 20일 밝혔다. 자유로운 입출금이 가능한...",
@@ -46,33 +19,6 @@ const NEWS_DATA = {
       "source": "www.webeconomy.co.kr",
       "subsidiary": "DB저축은행",
       "publishedAt": "2026-06-20T10:16:00+09:00"
-    },
-    {
-      "id": "DB손해보험-1d2822",
-      "title": "[mhn포토] 안재희, 멀리 멀리 날린다",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 2번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428026",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T09:51:00+09:00"
-    },
-    {
-      "id": "DB손해보험-84f4f7",
-      "title": "[mhn포토] 안재희, 컨디션 좋은 미소",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 2번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428021",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T09:40:00+09:00"
-    },
-    {
-      "id": "DB손해보험-e252d6",
-      "title": "[mhn포토] 안재희, 들어가라 버디 퍼트",
-      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 1번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000428022",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T09:40:00+09:00"
     },
     {
       "id": "DB증권-7f5b80",
@@ -127,15 +73,6 @@ const NEWS_DATA = {
       "source": "www.pinpointnews.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-20T07:20:00+09:00"
-    },
-    {
-      "id": "DB손해보험-e3f95c",
-      "title": "삼성·KB는 축소, DB·현대는 확대… 엇갈린 美 보험 성적표",
-      "description": "삼성화재와 KB손해보험은 사업을 축소하거나 철수에 나선 반면, DB손해보험과 현대해상은 현지화 전략을 바탕으로 입지를 확대하는 모습이다. 20일 금융감독원에 따르면 작년 말 기준 미국에 보험사 지점 또는 법인을...",
-      "url": "https://n.news.naver.com/mnews/article/366/0001173115?sid=101",
-      "source": "biz.chosun.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-20T07:01:00+09:00"
     },
     {
       "id": "DB저축은행-793ce9",
@@ -261,15 +198,6 @@ const NEWS_DATA = {
       "url": "https://n.news.naver.com/mnews/article/037/0000038366?sid=101",
       "source": "weekly.donga.com",
       "subsidiary": "DB하이텍",
-      "publishedAt": "2026-06-19T17:36:00+09:00"
-    },
-    {
-      "id": "DB손해보험-f8ee0f",
-      "title": "손보사 K-ICS 개선폭 확대…삼성화재·DB손보·현대해상 상승",
-      "description": "삼성화재·DB손해보험·현대해상 등 주요 손보사의 K-ICS 비율이 일제히 상승하면서 보험업권 전반의 건전성 지표 개선을 이끌었다. 19일 금융감독원에 따르면 3월 말 기준 경과조치 적용 후 보험사 전체 K-ICS...",
-      "url": "https://www.betanews.net/article/view/beta202606190116",
-      "source": "www.betanews.net",
-      "subsidiary": "DB손해보험",
       "publishedAt": "2026-06-19T17:36:00+09:00"
     },
     {
@@ -424,15 +352,6 @@ const NEWS_DATA = {
       "source": "www.greened.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-19T16:05:00+09:00"
-    },
-    {
-      "id": "DB손해보험-1eaf70",
-      "title": "보험사 지급여력비율 216.1%… 주가 상승에 건전성 개선",
-      "description": "손해보험사 가운데서는 삼성화재가 270.1%, DB손해보험이 232.1%, 현대해상이 207.2%를 기록하며 200%를 웃돌았다. 반면 KB손해보험과 메리츠화재는 전분기 대비 소폭 하락했다. 금융감독원은 금융시장 불확실성이...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=203714",
-      "source": "www.lcnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-19T15:48:00+09:00"
     },
     {
       "id": "DB하이텍-222e5a",
@@ -678,15 +597,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-19T10:58:00+09:00"
     },
     {
-      "id": "DB손해보험-be8d8c",
-      "title": "보험사 지급여력비율 216%…생보 208%, 손보 230%",
-      "description": "손해보험사에서는 삼성화재가 270.1%, DB손해보험 232.1%, 현대해상 207.2%, 메리츠화재 240.6%를 기록했다. 서울보증은 395.1%, 알리안츠는 568.1%로 높은 지급여력비율을 보였다. 금융감독원은 최근 금융시장...",
-      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36829",
-      "source": "www.junggi.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-19T10:54:00+09:00"
-    },
-    {
       "id": "DB손해보험-7b7063",
       "title": "주가 상승에 보험사 건전성지표 개선…1분기 킥스비율 216%",
       "description": "손보사는 삼성화재 270.1%, DB손해보험 232.1%, 현대해상 207.2%, KB손해보험 185.9%, 메리츠화재 240.6% 등이다. 롯데손해보험도 전 분기 대비 4.9%P 상승한 164.4%를 기록했다. 주가 상승과 순이익 증가로 가용자본...",
@@ -703,15 +613,6 @@ const NEWS_DATA = {
       "source": "www.whitepaper.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-06-19T10:46:00+09:00"
-    },
-    {
-      "id": "DB생명-c79d94",
-      "title": "금감원, 증시 훈풍 타고 보험사 자본건전성 개선...주가 상승에 가용자...",
-      "description": "[사진=금융감독원] 주요 보험사 현황에서는 삼성생명이 12.0%p 개선된 209.9%를 나타냈다. 한화생명도 162.1%로 전 분기 대비 4.6%p 상승했으며, DB생명이 23.8% 개선된 292.5%를 기록했다. 하지만 교보생명과 신한라이프는...",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=342875",
-      "source": "www.greened.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-19T10:41:00+09:00"
     },
     {
       "id": "DB손해보험-fbd956",
@@ -975,15 +876,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-19T07:30:00+09:00"
     },
     {
-      "id": "DB손해보험-437eac",
-      "title": "왕정훈, KPGA 루키 우승 겨냥…강윤석과 하나은행 대회 1R 공동 선두",
-      "description": "코오롱 제68회 한국오픈, DB손해보험 프로미오픈에서 거둔 두 차례의 공동 3위를 포함해 4번 톱10에 입상했다. 2012년 KPGA 투어 데뷔 후 첫 우승에 도전하는 강윤석은 좀 더 공격적으로 코스를 공략해 버디 6개와...",
-      "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20020806",
-      "source": "golfhankook.hankooki.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-19T07:18:00+09:00"
-    },
-    {
       "id": "DB증권-a4a57f",
       "title": "코스피 9000 돌파에도 하락 종목 85%…반도체만 웃은 ‘반쪽 랠리’ [한...",
       "description": "현대차증권이 강세장 시나리오에서 올해 코스피 상단을 1만2000까지 오를 수 있다고 예상한 데 이어 DB증권(1만1700)과 유안타증권(1만1600), 메리츠증권(1만1500) 등 국내 증권사 8곳이 올해 지수 상단을 1만 이상으로...",
@@ -1200,15 +1092,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-18T20:20:00+09:00"
     },
     {
-      "id": "DB손해보험-070915",
-      "title": "[현장리포트] '왕정훈ㆍ강윤석' KPGA 하나은행 인비테이셔널 1R 공동 선...",
-      "description": "'코오롱 제68회 한국오픈'과 '제21회 DB손해보험 프로미 오픈' 공동 3위를 기록하는 등 신인상(명출상) 포인트 1위를 달리는 왕정훈은 우승을 향한 의지를 보였다. 플레이를 마친 왕정훈은 \"덥고 긴 경기였지만 보기를...",
-      "url": "https://m.sports.naver.com/golf/article/472/0000040527",
-      "source": "www.thesportstimes.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-18T20:09:00+09:00"
-    },
-    {
       "id": "DB손해보험-d023ca",
       "title": "“이번 주 안 되면 다음 주 다시”…유송규의 멈추지 않는 첫 승 도전",
       "description": "시즌 개막전 DB손해보험 프로미 오픈 공동 8위, KPGA 경북오픈 공동 6위, 그리고 지난주 KPGA 클래식 단독 3위를 기록했다. 8개 대회 가운데 4차례 컷을 통과했고, 그 중 3개 대회에서 톱10에 진입했다. 본선에만 오르면...",
@@ -1216,15 +1099,6 @@ const NEWS_DATA = {
       "source": "www.edaily.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-06-18T19:49:00+09:00"
-    },
-    {
-      "id": "DB손해보험-3c4d69",
-      "title": "유럽투어 3승 '중고신인' 왕정훈 KPGA 하나은행 인비테이셔널 1R 공동선...",
-      "description": "톱5(DB손해보험 프로미오픈 공동 3위, 코오롱 한국오픈 공동 3위, KPGA 선수권 공동 5위)에 드는등 변함없는 실력을 과시해 첫 우승이 멀지 않았음을 예고했다. KPGA투어 통산 5승의 베테랑 황인춘(52)과 KPGA선수권...",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=146532",
-      "source": "www.smartbizn.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-18T19:26:00+09:00"
     },
     {
       "id": "DB증권-730275",
@@ -1560,15 +1434,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-18T14:40:00+09:00"
     },
     {
-      "id": "DB손해보험-b35ed8",
-      "title": "[mhn포토] 안재희, 파워 실어 날린다",
-      "description": "컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 공식연습라운드가 열렸다. 안재희(DB손해보험)가 10번홀 경기를 펼치고 있다.",
-      "url": "https://m.sports.naver.com/golf/article/445/0000427085",
-      "source": "mhnse.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-18T14:30:00+09:00"
-    },
-    {
       "id": "DB손해보험-5ce9f2",
       "title": "“슬개골·피부병 되나요?”…펫보험 1000억 시대, 보장 조건은 ‘제각...",
       "description": "DB손해보험은 의료비 보상비율과 자기부담금을 선택할 수 있도록 설계하고, 슬·고관절과 피부·구강질환은 확장보장 특약으로 보장한다. 삼성화재도 치과·구강질환, 피부병, 슬관절 치료비 등을 특약으로 보장하지만...",
@@ -1594,15 +1459,6 @@ const NEWS_DATA = {
       "source": "www.newsworks.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-06-18T13:40:00+09:00"
-    },
-    {
-      "id": "DB손해보험-7be28a",
-      "title": "[안성찬의 골프&]한국골프발전에 '眞心'인 하나금융그룹",
-      "description": "코오롱 한국오픈에서 우승한 양지호(스릭슨)를 비롯해 KPGA 경북오픈 우승으로 제네시스 포인트 1위에 오른 문도엽(DB손해보험)과 올 시즌 데뷔 첫 우승을 경험하며 상승세를 타고 있는 오승택과 송민혁(동아제약)이...",
-      "url": "https://www.g-enews.com/view.php?ud=202606181248421807daecd3dad5_1",
-      "source": "www.g-enews.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-18T13:34:00+09:00"
     },
     {
       "id": "DB손해보험-703d21",
@@ -1810,15 +1666,6 @@ const NEWS_DATA = {
       "source": "www.topstarnews.net",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-06-17T18:32:00+09:00"
-    },
-    {
-      "id": "DB손해보험-2e5147",
-      "title": "\"마라톤보험 당일만 가입도 가능해져\"…손보사, '틈새 보험' 넓힌다",
-      "description": "실제로 DB손해보험의 경우 다이렉트 채널을 통해 '오잘공 골프보험'을 판매하고 있다. 이 상품은 보험기간 3년의 골프 특화 상품으로 반복적인 스윙으로 생길 수 있는 통증 관련 주사치료, 갈비뼈 염좌 치료 등을 특약으로...",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=138855",
-      "source": "www.bizwnews.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-17T17:22:00+09:00"
     },
     {
       "id": "DB손해보험-8a55e2",
