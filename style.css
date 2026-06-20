@@ -153,9 +153,15 @@ button { font-family: inherit; }
 .hero-sub {
   font-size: 1rem;
   color: rgba(255,255,255,0.65);
-  margin-bottom: 36px;
+  margin-bottom: 8px;
   max-width: 440px;
   line-height: 1.6;
+}
+
+.hero-notice {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.4);
+  margin-bottom: 28px;
 }
 
 .hero-stats {

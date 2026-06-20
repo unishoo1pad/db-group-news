@@ -82,6 +82,17 @@ def clean(text: str) -> str:
         text = text.replace(ent, ch)
     return text.strip()
 
+SPORTS_KEYWORDS = [
+    "스포츠", "야구", "축구", "농구", "배구", "골프", "테니스", "수영", "육상",
+    "올림픽", "월드컵", "kbo", "mlb", "nba", "k리그", "epl", "v리그", "kbl",
+    "프로야구", "프로축구", "프로농구", "선수권", "경기장", "감독", "코치",
+    "홈런", "득점", "우승", "준우승", "챔피언", "리그", "토너먼트", "매치",
+]
+
+def is_sports(title: str, desc: str) -> bool:
+    combined = (title + " " + desc).lower()
+    return any(kw in combined for kw in SPORTS_KEYWORDS)
+
 def make_id(subsidiary: str, url: str) -> str:
     return f"{subsidiary}-{abs(hash(url)) % 0xFFFFFF:06x}"
 
@@ -163,6 +174,10 @@ def main():
             title_text = clean(item.get("title", "")).lower()
             desc_text  = clean(item.get("description", "")).lower()
             if keyword not in title_text and keyword not in desc_text:
+                continue
+
+            # 스포츠 뉴스 제외
+            if is_sports(title_text, desc_text):
                 continue
 
             # 언론사 도메인 추출
