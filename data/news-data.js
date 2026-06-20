@@ -3,6 +3,159 @@ const NEWS_DATA = {
   "lastUpdated": "2026-06-20",
   "articles": [
     {
+      "id": "DB증권-b3cecc",
+      "title": "굳건한 ‘삼전닉스’ 꽃길 전망…증권가 “코스피, 아직 덜 올랐다”",
+      "description": "이외 DB증권(1만1700), KB증권(1만500), 유진투자증권(1만400), 하나증권(1만380)이 전망치를 상향했다. 해외 투자은행(IB)도 코스피의 장밋빛 전망을 예측했다. 글로벌 IB 골드만삭스는 지난 3일 코스피 목표치를 기존...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004136897?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-20T13:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7005d6",
+      "title": "[mhn포토] 한아름, 인카금융 우승 향해 날리는 티샷",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428066",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T11:21:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65d7d1",
+      "title": "[mhn포토] 한아름, 시선은 타구에 고정",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428065",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T11:21:00+09:00"
+    },
+    {
+      "id": "DB손해보험-34d65e",
+      "title": "[mhn포토] 한아름, 우승만 노린다",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 2라운드가 열렸다. 한아름(DB손해보험)이 1번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428064",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T11:20:00+09:00"
+    },
+    {
+      "id": "DB저축은행-6e15f9",
+      "title": "[금융] DB저축은행 보통예금 금리 연 3% / NH농협은행 성수동 팝업스토어...",
+      "description": "◼︎ DB저축은행, 수시입출금 보통예금 금리 연 3%로 인상 DB저축은행은 지난 19일부터 'Dream Big 보통예금'의 7000만원 이하 예치금에 대해 조건 없이 연 3.0% 금리를 적용한다고 20일 밝혔다. 자유로운 입출금이 가능한...",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2206456",
+      "source": "www.webeconomy.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-06-20T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1d2822",
+      "title": "[mhn포토] 안재희, 멀리 멀리 날린다",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 2번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428026",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T09:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-84f4f7",
+      "title": "[mhn포토] 안재희, 컨디션 좋은 미소",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 2번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428021",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T09:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e252d6",
+      "title": "[mhn포토] 안재희, 들어가라 버디 퍼트",
+      "description": "더헤븐 컨트리클럽(파72ㅣ6,726야드)에서 2026시즌 열세 번째 대회인 ‘인카금융 더헤븐 마스터즈’(총상금 10억 원 우승상금 1억 8천만 원) 1라운드가 열렸다. 안재희(DB손해보험)가 1번홀 경기를 펼치고 있다.",
+      "url": "https://m.sports.naver.com/golf/article/445/0000428022",
+      "source": "mhnse.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T09:40:00+09:00"
+    },
+    {
+      "id": "DB증권-7f5b80",
+      "title": "\"판매 부진이라는데\"…증권가, 현대차 목표주가 연달아 상향",
+      "description": "DB증권과 흥국증권은 90만원을 제안했다. 나머지 세 증권사는 목표주가를 70만원대 안팎으로 높였다. IBK투자증권은 77만원, 한화투자증권은 76만원으로, 유안타증권은 69만원으로 조정했다. 최근 현대차 판매 실적이...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421004",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-20T09:14:00+09:00"
+    },
+    {
+      "id": "DB증권-fc2a54",
+      "title": "[A 증권가 소식] KB증권, 아동 250명 초청 '한강공원 물놀이 행사' 개최...",
+      "description": "△DB증권 분당지점, 24일 하반기 증시 시황·투자전략 세미나 개최=DB증권 분당지점이 본격적인 하반기를 앞두고 국내외 증시 흐름을 짚어보는 자리를 마련해 투자자 유치에 나선다. DB증권 분당지점은 오는 24일 오후 4시...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=252847",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-20T09:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-182e84",
+      "title": "한덕화학, 평택 포승지구에 반도체 현상액 제조시설 착공",
+      "description": "한덕화학은 국내 유일의 반도체용 현상액 제조기업으로 삼성전자, 삼성디스플레이, SK하이닉스, SK키파운드리, DB하이텍등 국내 주요 반도체· 디스플레이 기업에 현상액을 공급하고 있다. 특히 반도체 핵심 공정소재...",
+      "url": "https://n.news.naver.com/mnews/article/417/0001148319?sid=102",
+      "source": "www.sidae.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-20T08:42:00+09:00"
+    },
+    {
+      "id": "DB증권-867244",
+      "title": "무너지는 유럽 안보 협력체, ‘종전’ 맞는 중동…글로벌 안보 공백에 ...",
+      "description": "DB증권에 따르면 이번 JV는 프랑스와 독일의 공동 프로젝트들이 난항을 겪는 가운데 발표된 독자적인 파트너십의 일환이다. 실제로 8일 6세대 전투기 개발 사업(FCAS)이 공식 취소됐으며 차세대 전차(MGCS), 무인기 등...",
+      "url": "https://www.etoday.co.kr/news/view/2595322",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-20T08:02:00+09:00"
+    },
+    {
+      "id": "DB생명-41f55c",
+      "title": "[N2 포커스] 암보장 강화 경쟁, 보험사마다 무기는 제각각",
+      "description": "동양생명과 DB생명 모두 생명보험사이면서도 사망보장 결합보다는 각각 치료비 범위 확장과 헬스케어 데이터 연계를 택한 셈인데, 이는 같은 생보업권에서도 회사가 보유한 헬스케어 인프라나 채널 경쟁력에 따라...",
+      "url": "https://www.news2day.co.kr/article/20260617500229",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-20T07:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2fb20c",
+      "title": "[주간 거래소 기관] SK하이닉스 삼성전자 사들이고 한미반도체 현대차는...",
+      "description": "이와 함께 지주회사 두산과 LG, 철강 기업 POSCO홀딩스, 반도체 기업 DB하이텍, 자동차 업체 기아가 기관 순매도 상위권에 포함됐다. AI 반도체 관련 기판 기업 이수페타시스와 2차전지 기업 LG에너지솔루션에서도 매도세가...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461630",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-20T07:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e3f95c",
+      "title": "삼성·KB는 축소, DB·현대는 확대… 엇갈린 美 보험 성적표",
+      "description": "삼성화재와 KB손해보험은 사업을 축소하거나 철수에 나선 반면, DB손해보험과 현대해상은 현지화 전략을 바탕으로 입지를 확대하는 모습이다. 20일 금융감독원에 따르면 작년 말 기준 미국에 보험사 지점 또는 법인을...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173115?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-20T07:01:00+09:00"
+    },
+    {
+      "id": "DB저축은행-793ce9",
+      "title": "만기 고객 증시에 뺏길라… 예금금리 인상 러시",
+      "description": "20일 금융권에 따르면 DB저축은행은 수시입출금 상품인 'Dream Big 보통예금'의 최고 금리를 연 3.0%로 인상했다. 만 19세 이상 개인 고객이라면 모바일 앱이나 영업점을 통해 가입할 수 있으며 별도의 우대 조건 없이...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164236",
+      "source": "it.chosun.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-06-20T06:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-20c71b",
+      "title": "국내 유일 반도체용 현상액 제조기업 한덕화학, 평택 포승에 수도권 생...",
+      "description": "한덕화학은 국내에서 유일하게 반도체용 현상액을 제조하는 기업으로, 삼성전자와 삼성디스플레이, SK하이닉스, SK키파운드리, DB하이텍 등 주요 반도체·디스플레이 기업에 제품을 공급하고 있다. 평택 공장이 완공되면...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1266920",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-20T00:44:00+09:00"
+    },
+    {
       "id": "DB손해보험-6de417",
       "title": "[ KLPGA] 서교림·김민별, 인카금융 더헤븐 마스터즈 1R 공동 선두",
       "description": "공동 4위 그룹에는 한아름(DB손해보험), 김서윤2(셀트리온), 배수연, 송은아(대보건설), 장은수(굿빈스), 클레어 신, 성유진(대방건설), 방신실(KB금융그룹), 김지수 등 9명이 5언더파 67타로 자리했다. 한편 KLPGA는 이날...",
@@ -2010,33 +2163,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T19:26:00+09:00"
     },
     {
-      "id": "DB생명-836d82",
-      "title": "신한금융-DB그룹 '맞손'…500억 생산적금융 펀드 띄운다",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=90958",
-      "source": "www.newsian.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T18:46:00+09:00"
-    },
-    {
-      "id": "DB자산운용-836d82",
-      "title": "신한금융-DB그룹 '맞손'…500억 생산적금융 펀드 띄운다",
-      "description": "15일 신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 밝혔다. 이 투자조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다....",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=90958",
-      "source": "www.newsian.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T18:46:00+09:00"
-    },
-    {
-      "id": "DB저축은행-836d82",
-      "title": "신한금융-DB그룹 '맞손'…500억 생산적금융 펀드 띄운다",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=90958",
-      "source": "www.newsian.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T18:46:00+09:00"
-    },
-    {
       "id": "DB하이텍-836d82",
       "title": "신한금융-DB그룹 '맞손'…500억 생산적금융 펀드 띄운다",
       "description": "DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인 수익...",
@@ -2044,33 +2170,6 @@ const NEWS_DATA = {
       "source": "www.newsian.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T18:46:00+09:00"
-    },
-    {
-      "id": "DB생명-fca085",
-      "title": "신한투증-DB운용, 생산적금융 위해 손잡았다",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 아울러 DB하이텍이 출자자로 참여해 반도체를 포함한 첨단산업 분야의...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005535151?sid=101",
-      "source": "www.fnnews.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T18:09:00+09:00"
-    },
-    {
-      "id": "DB자산운용-fca085",
-      "title": "신한투증-DB운용, 생산적금융 위해 손잡았다",
-      "description": "신한투자증권이 생산적금융 확대를 위해 DB자산운용과 함께 신기술투자조합을 출범했다. 15일 신한투자증권에 따르면 회사는 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범했다. 이...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005535151?sid=101",
-      "source": "www.fnnews.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T18:09:00+09:00"
-    },
-    {
-      "id": "DB저축은행-fca085",
-      "title": "신한투증-DB운용, 생산적금융 위해 손잡았다",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 아울러 DB하이텍이 출자자로 참여해 반도체를 포함한 첨단산업 분야의...",
-      "url": "https://n.news.naver.com/mnews/article/014/0005535151?sid=101",
-      "source": "www.fnnews.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T18:09:00+09:00"
     },
     {
       "id": "DB하이텍-fca085",
@@ -2082,24 +2181,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T18:09:00+09:00"
     },
     {
-      "id": "DB생명-576514",
-      "title": "신한금융그룹, DB그룹과 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여합니다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장...",
-      "url": "https://n.news.naver.com/mnews/article/422/0000874969?sid=101",
-      "source": "www.yonhapnewstv.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:58:00+09:00"
-    },
-    {
-      "id": "DB자산운용-576514",
-      "title": "신한금융그룹, DB그룹과 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한투자증권(대표이사 이선훈)은 DB자산운용과 공동 운용(Co-GP) 형태로 ‘신한-DB 생산적금융 신기술투자조합’을 출범한다고 15일 밝혔습니다. 본 조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원...",
-      "url": "https://n.news.naver.com/mnews/article/422/0000874969?sid=101",
-      "source": "www.yonhapnewstv.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:58:00+09:00"
-    },
-    {
       "id": "DB저축은행-576514",
       "title": "신한금융그룹, DB그룹과 500억 규모 생산적금융 투자조합 출범",
       "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여합니다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장...",
@@ -2107,33 +2188,6 @@ const NEWS_DATA = {
       "source": "www.yonhapnewstv.co.kr",
       "subsidiary": "DB저축은행",
       "publishedAt": "2026-06-15T17:58:00+09:00"
-    },
-    {
-      "id": "DB생명-eb0c09",
-      "title": "신한금융·DB그룹, 첨단산업 투자 동맹…500억 신기술펀드 결성",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 이름을 올렸다. DB하이텍도 참여해 반도체를 비롯한 첨단산업...",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=205329",
-      "source": "www.srtimes.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:50:00+09:00"
-    },
-    {
-      "id": "DB자산운용-eb0c09",
-      "title": "신한금융·DB그룹, 첨단산업 투자 동맹…500억 신기술펀드 결성",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식의 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 투자조합 규모는 총 500억원으로 신한금융그룹과 DB그룹이 각각 250억원씩 출자한다....",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=205329",
-      "source": "www.srtimes.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:50:00+09:00"
-    },
-    {
-      "id": "DB저축은행-eb0c09",
-      "title": "신한금융·DB그룹, 첨단산업 투자 동맹…500억 신기술펀드 결성",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 이름을 올렸다. DB하이텍도 참여해 반도체를 비롯한 첨단산업...",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=205329",
-      "source": "www.srtimes.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:50:00+09:00"
     },
     {
       "id": "DB하이텍-eb0c09",
@@ -2154,33 +2208,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T17:40:00+09:00"
     },
     {
-      "id": "DB생명-3cc032",
-      "title": "신한·DB금융 공동출자… 생산적금융 500억 펀드",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍(시스템반도체 파운드리 전문기업)도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005694176?sid=101",
-      "source": "www.mk.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:37:00+09:00"
-    },
-    {
-      "id": "DB자산운용-3cc032",
-      "title": "신한·DB금융 공동출자… 생산적금융 500억 펀드",
-      "description": "신한투자증권이 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 펀드는 신한금융그룹과 DB그룹이 각각 250억원을 출자해 총 500억원 규모로 조성된다. 이번...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005694176?sid=101",
-      "source": "www.mk.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:37:00+09:00"
-    },
-    {
-      "id": "DB저축은행-3cc032",
-      "title": "신한·DB금융 공동출자… 생산적금융 500억 펀드",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍(시스템반도체 파운드리 전문기업)도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자...",
-      "url": "https://n.news.naver.com/mnews/article/009/0005694176?sid=101",
-      "source": "www.mk.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:37:00+09:00"
-    },
-    {
       "id": "DB하이텍-3cc032",
       "title": "신한·DB금융 공동출자… 생산적금융 500억 펀드",
       "description": "DB하이텍(시스템반도체 파운드리 전문기업)도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등...",
@@ -2190,33 +2217,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T17:37:00+09:00"
     },
     {
-      "id": "DB생명-eccc17",
-      "title": "신한투자증권, DB자산운용 500억 규모 생산적금융 투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 이름을 올렸다. 특히 DB하이텍도 참여해 반도체를 비롯한 첨단산업 분야에 대한 전문성을 더할 계획이다. 주요 투자 대상은 국내 첨단산업...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=255716",
-      "source": "www.finomy.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:36:00+09:00"
-    },
-    {
-      "id": "DB자산운용-eccc17",
-      "title": "신한투자증권, DB자산운용 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 투자조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다....",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=255716",
-      "source": "www.finomy.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:36:00+09:00"
-    },
-    {
-      "id": "DB저축은행-eccc17",
-      "title": "신한투자증권, DB자산운용 500억 규모 생산적금융 투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 이름을 올렸다. 특히 DB하이텍도 참여해 반도체를 비롯한 첨단산업 분야에 대한 전문성을 더할 계획이다. 주요 투자 대상은 국내 첨단산업...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=255716",
-      "source": "www.finomy.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:36:00+09:00"
-    },
-    {
       "id": "DB하이텍-eccc17",
       "title": "신한투자증권, DB자산운용 500억 규모 생산적금융 투자조합 출범",
       "description": "특히 DB하이텍도 참여해 반도체를 비롯한 첨단산업 분야에 대한 전문성을 더할 계획이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 조합은 상장사의 전환사채(CB) 등 메자닌 투자로 안정적인 수익...",
@@ -2224,60 +2224,6 @@ const NEWS_DATA = {
       "source": "www.finomy.com",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T17:36:00+09:00"
-    },
-    {
-      "id": "DB생명-5d4f8c",
-      "title": "신한금융 x DB, 생산적금융 아래 손 잡았다",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사가 출자에 나선다. 반도체 기업인 DB하이텍도 투자자로 참여해 첨단산업 분야 전문성을 강화할 예정이다. 조합은 국내 첨단산업 분야의 상장 및...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304825",
-      "source": "www.straightnews.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
-    },
-    {
-      "id": "DB생명-bd43b0",
-      "title": "신한금융-DB그룹, 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이, DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행 등 주요 계열사가 각각 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014007618?sid=101",
-      "source": "www.newsis.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
-    },
-    {
-      "id": "DB자산운용-5d4f8c",
-      "title": "신한금융 x DB, 생산적금융 아래 손 잡았다",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식으로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 조합은 신한금융그룹과 DB그룹이 각각 250억원을 출자해 총 500억원 규모로 만들어진다. 동...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304825",
-      "source": "www.straightnews.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
-    },
-    {
-      "id": "DB자산운용-bd43b0",
-      "title": "신한금융-DB그룹, 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 신한금융그룹과 DB그룹이 각각 250억원씩을 출자한다. 신한금융그룹에서는 신한투자증권...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014007618?sid=101",
-      "source": "www.newsis.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
-    },
-    {
-      "id": "DB저축은행-5d4f8c",
-      "title": "신한금융 x DB, 생산적금융 아래 손 잡았다",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사가 출자에 나선다. 반도체 기업인 DB하이텍도 투자자로 참여해 첨단산업 분야 전문성을 강화할 예정이다. 조합은 국내 첨단산업 분야의 상장 및...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304825",
-      "source": "www.straightnews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
-    },
-    {
-      "id": "DB저축은행-bd43b0",
-      "title": "신한금융-DB그룹, 500억 규모 생산적금융 투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이, DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행 등 주요 계열사가 각각 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의...",
-      "url": "https://n.news.naver.com/mnews/article/003/0014007618?sid=101",
-      "source": "www.newsis.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:18:00+09:00"
     },
     {
       "id": "DB하이텍-5d4f8c",
@@ -2298,33 +2244,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T17:18:00+09:00"
     },
     {
-      "id": "DB생명-c7b368",
-      "title": "신한금융그룹·DB그룹, 생산적금융 확대 위해 500억원 규모 신기술투자...",
-      "description": "조합에는 신한금융그룹 계열사인 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사가 출자자로 참여한다. 특히 반도체 전문 기업인...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=734132",
-      "source": "www.polinews.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T17:17:00+09:00"
-    },
-    {
-      "id": "DB자산운용-c7b368",
-      "title": "신한금융그룹·DB그룹, 생산적금융 확대 위해 500억원 규모 신기술투자...",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식으로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 투자조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다....",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=734132",
-      "source": "www.polinews.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T17:17:00+09:00"
-    },
-    {
-      "id": "DB저축은행-c7b368",
-      "title": "신한금융그룹·DB그룹, 생산적금융 확대 위해 500억원 규모 신기술투자...",
-      "description": "조합에는 신한금융그룹 계열사인 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사가 출자자로 참여한다. 특히 반도체 전문 기업인...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=734132",
-      "source": "www.polinews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T17:17:00+09:00"
-    },
-    {
       "id": "DB하이텍-c7b368",
       "title": "신한금융그룹·DB그룹, 생산적금융 확대 위해 500억원 규모 신기술투자...",
       "description": "특히 반도체 전문 기업인 DB하이텍도 출자자로 이름을 올리며 첨단산업 분야에 대한 전문성을 더했다. 주요 투자 대상은 국내 첨단산업 분야의 상장기업과 비상장기업이다. 투자조합은 상장사의 전환사채(CB) 등 메자닌...",
@@ -2343,33 +2262,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T17:04:00+09:00"
     },
     {
-      "id": "DB생명-6c1c1d",
-      "title": "생산적금융 강화 나선 신한투자증권... DB그룹과 공동 투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권과 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험과 DB생명, DB증권, DB저축은행 등이 출자자로 이름을 올렸다. 특히 반도체 사업을 영위하는 DB하이텍이 참여하면서...",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=201339",
-      "source": "www.thefirstmedia.net",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:58:00+09:00"
-    },
-    {
-      "id": "DB자산운용-6c1c1d",
-      "title": "생산적금융 강화 나선 신한투자증권... DB그룹과 공동 투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식으로 '신한-DB 생산적금융 신기술투자조합'을 결성한다고 15일 밝혔다. 조합 규모는 총 500억원으로 신한금융그룹과 DB그룹이 각각 250억원씩 출자한다. 이번 조합은...",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=201339",
-      "source": "www.thefirstmedia.net",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:58:00+09:00"
-    },
-    {
-      "id": "DB저축은행-6c1c1d",
-      "title": "생산적금융 강화 나선 신한투자증권... DB그룹과 공동 투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권과 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험과 DB생명, DB증권, DB저축은행 등이 출자자로 이름을 올렸다. 특히 반도체 사업을 영위하는 DB하이텍이 참여하면서...",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=201339",
-      "source": "www.thefirstmedia.net",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:58:00+09:00"
-    },
-    {
       "id": "DB하이텍-6c1c1d",
       "title": "생산적금융 강화 나선 신한투자증권... DB그룹과 공동 투자조합 출범",
       "description": "특히 반도체 사업을 영위하는 DB하이텍이 참여하면서 첨단 제조업과 기술산업에 대한 산업적 이해도를 높였다는 평가가 나온다. 금융 계열사 중심의 투자조합을 넘어 산업 전문성을 접목한 점이 특징이다. 조합은...",
@@ -2377,33 +2269,6 @@ const NEWS_DATA = {
       "source": "www.thefirstmedia.net",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T16:58:00+09:00"
-    },
-    {
-      "id": "DB생명-6ec88f",
-      "title": "[더밸류 브리핑] 오늘의 증권 소식...신한투자·현대차·SK증권",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 참여해 반도체 등 첨단산업 분야 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다....",
-      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199375",
-      "source": "www.thevaluenews.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:44:00+09:00"
-    },
-    {
-      "id": "DB자산운용-6ec88f",
-      "title": "[더밸류 브리핑] 오늘의 증권 소식...신한투자·현대차·SK증권",
-      "description": "신한투자증권은 DB자산운용과 공동 운용하는 500억원 규모 신기술투자조합을 출범한다. 현대차증권은 KIA 타이거즈와 함께 스폰서 데이를 연다. SK증권은 AI 기반 차세대 금융플랫폼 구축을 위해 에스엠소프트랩과...",
-      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199375",
-      "source": "www.thevaluenews.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:44:00+09:00"
-    },
-    {
-      "id": "DB저축은행-6ec88f",
-      "title": "[더밸류 브리핑] 오늘의 증권 소식...신한투자·현대차·SK증권",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 참여해 반도체 등 첨단산업 분야 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다....",
-      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199375",
-      "source": "www.thevaluenews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:44:00+09:00"
     },
     {
       "id": "DB하이텍-6ec88f",
@@ -2415,33 +2280,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:44:00+09:00"
     },
     {
-      "id": "DB생명-d23a73",
-      "title": "신한금융그룹·DB그룹 ‘맞손’…생산적금융 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004631302?sid=101",
-      "source": "www.sedaily.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:40:00+09:00"
-    },
-    {
-      "id": "DB자산운용-d23a73",
-      "title": "신한금융그룹·DB그룹 ‘맞손’…생산적금융 신기술투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 ‘신한-DB 생산적금융 신기술투자조합’을 출범한다고 15일 밝혔다. 신한투자증권의 주도로 결성된 이번 투자조합은 신한금융그룹과 DB그룹이 각 250억 원씩...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004631302?sid=101",
-      "source": "www.sedaily.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:40:00+09:00"
-    },
-    {
-      "id": "DB저축은행-d23a73",
-      "title": "신한금융그룹·DB그룹 ‘맞손’…생산적금융 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할...",
-      "url": "https://n.news.naver.com/mnews/article/011/0004631302?sid=101",
-      "source": "www.sedaily.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:40:00+09:00"
-    },
-    {
       "id": "DB하이텍-d23a73",
       "title": "신한금융그룹·DB그룹 ‘맞손’…생산적금융 신기술투자조합 출범",
       "description": "DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인 수익...",
@@ -2449,33 +2287,6 @@ const NEWS_DATA = {
       "source": "www.sedaily.com",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T16:40:00+09:00"
-    },
-    {
-      "id": "DB생명-1343a6",
-      "title": "신한투자증권, DB자산운용과 함께 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이 참여하는 가운데 DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행 등이 참여하며 DB하이텍도 출자자로 참여한다. 주요 투자 대상은 국내 첨단산업...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=757500",
-      "source": "www.consumernews.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:30:00+09:00"
-    },
-    {
-      "id": "DB자산운용-1343a6",
-      "title": "신한투자증권, DB자산운용과 함께 500억 규모 신기술투자조합 출범",
-      "description": "신한투자증권이 DB자산운용과 함께 신기술투자조합을 출범하고 '생산적 금융' 확대에 나선다. 신한투자증권은 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 신한투자증권 주도로 결성된 본 조합은...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=757500",
-      "source": "www.consumernews.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:30:00+09:00"
-    },
-    {
-      "id": "DB저축은행-1343a6",
-      "title": "신한투자증권, DB자산운용과 함께 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이 참여하는 가운데 DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행 등이 참여하며 DB하이텍도 출자자로 참여한다. 주요 투자 대상은 국내 첨단산업...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=757500",
-      "source": "www.consumernews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:30:00+09:00"
     },
     {
       "id": "DB하이텍-1343a6",
@@ -2496,69 +2307,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:24:00+09:00"
     },
     {
-      "id": "DB생명-6cd07a",
-      "title": "신한투자증권·DB자산운용, 500억 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 참여한다. 반도체 기업인 DB하이텍도 출자에 참여해 첨단산업 분야 전문성을 더한다. 투자 대상은 국내 첨단산업 분야 상장·비상장...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=123855",
-      "source": "www.popcornnews.net",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB생명-5750c2",
-      "title": "[여의도단신]한국투자금융그룹·신한투자증권·SK증권",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 강화한다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "https://n.news.naver.com/mnews/article/088/0001014627?sid=101",
-      "source": "www.imaeil.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB자산운용-cf351c",
-      "title": "[업앤다운]증권주 상승, 한국금융지주↑·미래에셋증권↓",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식의 신기술투자조합을 출범하며 반도체 등 첨단산업분야 투자 역량 강화에 나섰다. 키움증권은 리테일 저변 확대를 위해 주식형 펀드 매수 고객을 대상으로...",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=816692",
-      "source": "www.nspna.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB자산운용-6cd07a",
-      "title": "신한투자증권·DB자산운용, 500억 신기술투자조합 출범",
-      "description": "신한투자증권이 DB자산운용과 함께 500억 원 규모 신기술투자조합을 조성한다. 반도체 등 첨단산업 기업을 대상으로 메자닌과 상장 전 지분투자(Pre-IPO)를 병행해 중장기 자금을 공급한다는 계획이다. 15일...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=123855",
-      "source": "www.popcornnews.net",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB자산운용-5750c2",
-      "title": "[여의도단신]한국투자금융그룹·신한투자증권·SK증권",
-      "description": "◆신한투자증권, DB자산운용과 500억 규모 신기술투자조합 출범 신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 본 조합은 신한금융그룹과...",
-      "url": "https://n.news.naver.com/mnews/article/088/0001014627?sid=101",
-      "source": "www.imaeil.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB저축은행-5750c2",
-      "title": "[여의도단신]한국투자금융그룹·신한투자증권·SK증권",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 강화한다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "https://n.news.naver.com/mnews/article/088/0001014627?sid=101",
-      "source": "www.imaeil.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
-      "id": "DB저축은행-6cd07a",
-      "title": "신한투자증권·DB자산운용, 500억 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 참여한다. 반도체 기업인 DB하이텍도 출자에 참여해 첨단산업 분야 전문성을 더한다. 투자 대상은 국내 첨단산업 분야 상장·비상장...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=123855",
-      "source": "www.popcornnews.net",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:20:00+09:00"
-    },
-    {
       "id": "DB하이텍-6cd07a",
       "title": "신한투자증권·DB자산운용, 500억 신기술투자조합 출범",
       "description": "반도체 기업인 DB하이텍도 출자에 참여해 첨단산업 분야 전문성을 더한다. 투자 대상은 국내 첨단산업 분야 상장·비상장 기업이다. 상장사에는 전환사채(CB) 등 메자닌 투자를 검토한다. 메자닌은 채권과 주식의 성격을...",
@@ -2577,6 +2325,15 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:20:00+09:00"
     },
     {
+      "id": "DB자산운용-cf351c",
+      "title": "[업앤다운]증권주 상승, 한국금융지주↑·미래에셋증권↓",
+      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 방식의 신기술투자조합을 출범하며 반도체 등 첨단산업분야 투자 역량 강화에 나섰다. 키움증권은 리테일 저변 확대를 위해 주식형 펀드 매수 고객을 대상으로...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=816692",
+      "source": "www.nspna.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-06-15T16:20:00+09:00"
+    },
+    {
       "id": "DB자산운용-9f7db1",
       "title": "신한금융 \"DB그룹과 생산적금융 신기술투자조합 출범\"",
       "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을...",
@@ -2584,33 +2341,6 @@ const NEWS_DATA = {
       "source": "www.smarttimes.co.kr",
       "subsidiary": "DB자산운용",
       "publishedAt": "2026-06-15T16:18:00+09:00"
-    },
-    {
-      "id": "DB생명-b3de38",
-      "title": "신한투자증권, 생산적 금융 확대 위해 DB그룹과 '맞손'",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 참여한다. 투자 대상은 국내 첨단산업 분야의 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7169528",
-      "source": "weekly.hankooki.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:14:00+09:00"
-    },
-    {
-      "id": "DB자산운용-b3de38",
-      "title": "신한투자증권, 생산적 금융 확대 위해 DB그룹과 '맞손'",
-      "description": "사진=신한투자증권 신한투자증권은 DB자산운용과 공동 운용 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 해당 조합은 신한금융과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7169528",
-      "source": "weekly.hankooki.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:14:00+09:00"
-    },
-    {
-      "id": "DB저축은행-b3de38",
-      "title": "신한투자증권, 생산적 금융 확대 위해 DB그룹과 '맞손'",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 참여한다. 투자 대상은 국내 첨단산업 분야의 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7169528",
-      "source": "weekly.hankooki.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:14:00+09:00"
     },
     {
       "id": "DB하이텍-b3de38",
@@ -2622,33 +2352,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:14:00+09:00"
     },
     {
-      "id": "DB생명-58e7b1",
-      "title": "우리은행·신한투자증권, 생산적 금융 지원 확대",
-      "description": "신한금융에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=313701",
-      "source": "www.wsobi.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T16:12:00+09:00"
-    },
-    {
-      "id": "DB자산운용-58e7b1",
-      "title": "우리은행·신한투자증권, 생산적 금융 지원 확대",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다. 본 조합은 신한금융과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다. 이번 투자조합은 신한투자증권...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=313701",
-      "source": "www.wsobi.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:12:00+09:00"
-    },
-    {
-      "id": "DB저축은행-58e7b1",
-      "title": "우리은행·신한투자증권, 생산적 금융 지원 확대",
-      "description": "신한금융에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=313701",
-      "source": "www.wsobi.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:12:00+09:00"
-    },
-    {
       "id": "DB하이텍-58e7b1",
       "title": "우리은행·신한투자증권, 생산적 금융 지원 확대",
       "description": "특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
@@ -2658,12 +2361,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:12:00+09:00"
     },
     {
-      "id": "DB생명-7c6930",
+      "id": "DB하이텍-7c6930",
       "title": "신한금융, DB그룹과 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 들어가 반도체를 포함한...",
+      "description": "특히 DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=4760662",
       "source": "www.newsinside.kr",
-      "subsidiary": "DB생명",
+      "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T16:00:00+09:00"
     },
     {
@@ -2676,60 +2379,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T16:00:00+09:00"
     },
     {
-      "id": "DB자산운용-7c6930",
-      "title": "신한금융, DB그룹과 500억 규모 신기술투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 투자조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다....",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4760662",
-      "source": "www.newsinside.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T16:00:00+09:00"
-    },
-    {
-      "id": "DB저축은행-7c6930",
-      "title": "신한금융, DB그룹과 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 들어가 반도체를 포함한...",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4760662",
-      "source": "www.newsinside.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T16:00:00+09:00"
-    },
-    {
-      "id": "DB하이텍-7c6930",
-      "title": "신한금융, DB그룹과 500억 규모 신기술투자조합 출범",
-      "description": "특히 DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4760662",
-      "source": "www.newsinside.kr",
-      "subsidiary": "DB하이텍",
-      "publishedAt": "2026-06-15T16:00:00+09:00"
-    },
-    {
-      "id": "DB생명-e73d7e",
-      "title": "신한금융그룹·DB그룹, 500억원 규모 생산적금융 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여했으며, DB하이텍도 출자자로 이름을 올려 반도체를 비롯한 첨단산업 분야 전문성을 강화했다. 투자조합의 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=117725",
-      "source": "www.delighti.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T15:54:00+09:00"
-    },
-    {
-      "id": "DB자산운용-e73d7e",
-      "title": "신한금융그룹·DB그룹, 500억원 규모 생산적금융 신기술투자조합 출범",
-      "description": "사진=신한투자증권 신한투자증권과 DB자산운용이 공동 운용(Co-GP) 방식의 투자조합을 출범하며 국내 첨단산업 투자 확대에 나선다. 신한투자증권은 DB자산운용과 함께 '신한-DB 생산적금융 신기술투자조합'을...",
-      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=117725",
-      "source": "www.delighti.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T15:54:00+09:00"
-    },
-    {
-      "id": "DB저축은행-e73d7e",
-      "title": "신한금융그룹·DB그룹, 500억원 규모 생산적금융 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여했으며, DB하이텍도 출자자로 이름을 올려 반도체를 비롯한 첨단산업 분야 전문성을 강화했다. 투자조합의 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=117725",
-      "source": "www.delighti.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T15:54:00+09:00"
-    },
-    {
       "id": "DB하이텍-e73d7e",
       "title": "신한금융그룹·DB그룹, 500억원 규모 생산적금융 신기술투자조합 출범",
       "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여했으며, DB하이텍도 출자자로 이름을 올려 반도체를 비롯한 첨단산업 분야 전문성을 강화했다. 투자조합의 주요 투자 대상은 국내 첨단산업 분야의 상장...",
@@ -2739,48 +2388,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T15:54:00+09:00"
     },
     {
-      "id": "DB생명-754202",
+      "id": "DB하이텍-754202",
       "title": "신한투자증권·DB자산운용, 500억원 신기술조합 출범…첨단산업 투자 확...",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 참여한다. 특히 DB그룹의 반도체 계열사인 DB하이텍도...",
+      "description": "특히 DB그룹의 반도체 계열사인 DB하이텍도 출자에 참여해 반도체를 비롯한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 조합은 상장사의 전환사채(CB)...",
       "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154458",
       "source": "www.koreaittimes.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T15:08:00+09:00"
-    },
-    {
-      "id": "DB자산운용-615c07",
-      "title": "[#증권톡톡] 하나증권 장애인 청년 채용 확대·신한증권 '신한-DB 신기술...",
-      "description": "신한투자증권은 DB자산운용과 '신한-DB 생산적금융 신기술투자조합'을 출범하고, LS증권은 '세계 대학생 모의투자대회' 한국대표 교육생을 모집한다. 키움증권은 '국내 주식형 펀드 투자 응원' 이벤트를 진행한다....",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843904",
-      "source": "www.newsworks.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T15:08:00+09:00"
-    },
-    {
-      "id": "DB자산운용-754202",
-      "title": "신한투자증권·DB자산운용, 500억원 신기술조합 출범…첨단산업 투자 확...",
-      "description": "이미지=Korea IT Times 신한투자증권과 DB자산운용이 공동 운용(Co-GP) 방식의 신기술투자조합을 출범시키며 첨단산업 투자 확대에 나선다. 금융그룹 간 협업을 기반으로 미래 성장산업에 대한 중장기 자금을 공급하는...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154458",
-      "source": "www.koreaittimes.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T15:08:00+09:00"
-    },
-    {
-      "id": "DB저축은행-615c07",
-      "title": "[#증권톡톡] 하나증권 장애인 청년 채용 확대·신한증권 '신한-DB 신기술...",
-      "description": "신한금융그룹에서는 ▲신한투자증권 ▲신한자산운용 ▲신한캐피탈 등이 참여하며, DB그룹에서는 ▲DB손해보험 ▲DB증권 ▲DB저축은행 등이 참여한다. DB하이텍의 출자로 반도체를 포함한 첨단산업 분야의 전문성을 더할...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843904",
-      "source": "www.newsworks.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T15:08:00+09:00"
-    },
-    {
-      "id": "DB저축은행-754202",
-      "title": "신한투자증권·DB자산운용, 500억원 신기술조합 출범…첨단산업 투자 확...",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 참여한다. 특히 DB그룹의 반도체 계열사인 DB하이텍도...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154458",
-      "source": "www.koreaittimes.com",
-      "subsidiary": "DB저축은행",
+      "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T15:08:00+09:00"
     },
     {
@@ -2793,33 +2406,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T15:08:00+09:00"
     },
     {
-      "id": "DB하이텍-754202",
-      "title": "신한투자증권·DB자산운용, 500억원 신기술조합 출범…첨단산업 투자 확...",
-      "description": "특히 DB그룹의 반도체 계열사인 DB하이텍도 출자에 참여해 반도체를 비롯한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 조합은 상장사의 전환사채(CB)...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154458",
-      "source": "www.koreaittimes.com",
-      "subsidiary": "DB하이텍",
-      "publishedAt": "2026-06-15T15:08:00+09:00"
-    },
-    {
-      "id": "DB생명-9c985c",
-      "title": "신한금융-DB그룹, 500억 규모 신기술투자조합 출범...생산적 금융 확대",
-      "description": "이미지=신한투자증권 이 조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성되며 신한금융에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명...",
-      "url": "https://hbnpress.com/news/view/1065592129529368",
-      "source": "hbnpress.com",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:52:00+09:00"
-    },
-    {
-      "id": "DB자산운용-9c985c",
-      "title": "신한금융-DB그룹, 500억 규모 신기술투자조합 출범...생산적 금융 확대",
-      "description": "신한투자증권과 DB자산운용은 공동 운용(Co-GP) 형태로 ‘신한-DB 생산적 금융 신기술투자조합’을 출범한다고 15일 밝혔다. 이미지=신한투자증권 이 조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원...",
-      "url": "https://hbnpress.com/news/view/1065592129529368",
-      "source": "hbnpress.com",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T14:52:00+09:00"
-    },
-    {
       "id": "DB저축은행-9c985c",
       "title": "신한금융-DB그룹, 500억 규모 신기술투자조합 출범...생산적 금융 확대",
       "description": "DB증권, DB저축은행 등 주요 계열사가 참여한다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인 수익 기반을 확보하는 동시에, 성장성이...",
@@ -2829,33 +2415,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T14:52:00+09:00"
     },
     {
-      "id": "DB생명-94a420",
-      "title": "신한금융그룹, 생산적금융 확대 위해 DB그룹과 맞손",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한...",
-      "url": "https://n.news.naver.com/mnews/article/079/0004157914?sid=101",
-      "source": "www.nocutnews.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:37:00+09:00"
-    },
-    {
-      "id": "DB자산운용-94a420",
-      "title": "신한금융그룹, 생산적금융 확대 위해 DB그룹과 맞손",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 본 조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다. 이번...",
-      "url": "https://n.news.naver.com/mnews/article/079/0004157914?sid=101",
-      "source": "www.nocutnews.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T14:37:00+09:00"
-    },
-    {
-      "id": "DB저축은행-94a420",
-      "title": "신한금융그룹, 생산적금융 확대 위해 DB그룹과 맞손",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한...",
-      "url": "https://n.news.naver.com/mnews/article/079/0004157914?sid=101",
-      "source": "www.nocutnews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:37:00+09:00"
-    },
-    {
       "id": "DB하이텍-94a420",
       "title": "신한금융그룹, 생산적금융 확대 위해 DB그룹과 맞손",
       "description": "특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
@@ -2863,33 +2422,6 @@ const NEWS_DATA = {
       "source": "www.nocutnews.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T14:37:00+09:00"
-    },
-    {
-      "id": "DB생명-47a164",
-      "title": "신한금융그룹-DB그룹, 생산적 금융 확대 '공조'…500 규모 신기술투자조...",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=403041",
-      "source": "www.epnc.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:30:00+09:00"
-    },
-    {
-      "id": "DB자산운용-47a164",
-      "title": "신한금융그룹-DB그룹, 생산적 금융 확대 '공조'…500 규모 신기술투자조...",
-      "description": "신한투자증권이 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적 금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이 조합은 신한금융그룹과 DB그룹이 각각 250억원씩 출자해 총 500억원 규모로 조성된다. 이번...",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=403041",
-      "source": "www.epnc.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T14:30:00+09:00"
-    },
-    {
-      "id": "DB저축은행-47a164",
-      "title": "신한금융그룹-DB그룹, 생산적 금융 확대 '공조'…500 규모 신기술투자조...",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=403041",
-      "source": "www.epnc.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:30:00+09:00"
     },
     {
       "id": "DB하이텍-47a164",
@@ -2910,33 +2442,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T14:30:00+09:00"
     },
     {
-      "id": "DB생명-cc6b7d",
-      "title": "신한금융그룹, DB그룹과 생산적금융 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할...",
-      "url": "https://n.news.naver.com/mnews/article/001/0016139401?sid=101",
-      "source": "www.yna.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:20:00+09:00"
-    },
-    {
-      "id": "DB자산운용-cc6b7d",
-      "title": "신한금융그룹, DB그룹과 생산적금융 신기술투자조합 출범",
-      "description": "신한투자증권은 DB자산운용과 공동 운용(Co-GP) 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 이번 투자조합은 신한투자증권 주도로 결성됐으며 신한금융그룹과 DB그룹이 각 250억원씩 출자해...",
-      "url": "https://n.news.naver.com/mnews/article/001/0016139401?sid=101",
-      "source": "www.yna.co.kr",
-      "subsidiary": "DB자산운용",
-      "publishedAt": "2026-06-15T14:20:00+09:00"
-    },
-    {
-      "id": "DB저축은행-cc6b7d",
-      "title": "신한금융그룹, DB그룹과 생산적금융 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 참여한다. DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할...",
-      "url": "https://n.news.naver.com/mnews/article/001/0016139401?sid=101",
-      "source": "www.yna.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:20:00+09:00"
-    },
-    {
       "id": "DB하이텍-cc6b7d",
       "title": "신한금융그룹, DB그룹과 생산적금융 신기술투자조합 출범",
       "description": "DB하이텍도 출자자로 들어가 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인 수익...",
@@ -2944,42 +2449,6 @@ const NEWS_DATA = {
       "source": "www.yna.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T14:20:00+09:00"
-    },
-    {
-      "id": "DB생명-f4ac80",
-      "title": "신한금융·DB금융, 500억 규모 신기술투자조합 출범…생산적금융 확대",
-      "description": "DB그룹 역시 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사를 비롯해 산업 계열사인 DB하이텍이 출자자로 참여해 250억원을 매칭했다. 주요 투자 대상은 반도체를 포함한 국내 첨단산업 분야의 상장 및...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712512",
-      "source": "www.ebn.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:08:00+09:00"
-    },
-    {
-      "id": "DB생명-0910ab",
-      "title": "\"생산적금융 공급\"…신한증권, DB운용과 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하고 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 힘을 보탠다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한...",
-      "url": "https://n.news.naver.com/mnews/article/119/0003101123?sid=101",
-      "source": "www.dailian.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-06-15T14:08:00+09:00"
-    },
-    {
-      "id": "DB저축은행-f4ac80",
-      "title": "신한금융·DB금융, 500억 규모 신기술투자조합 출범…생산적금융 확대",
-      "description": "DB그룹 역시 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사를 비롯해 산업 계열사인 DB하이텍이 출자자로 참여해 250억원을 매칭했다. 주요 투자 대상은 반도체를 포함한 국내 첨단산업 분야의 상장 및...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712512",
-      "source": "www.ebn.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:08:00+09:00"
-    },
-    {
-      "id": "DB저축은행-0910ab",
-      "title": "\"생산적금융 공급\"…신한증권, DB운용과 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하고 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 힘을 보탠다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한...",
-      "url": "https://n.news.naver.com/mnews/article/119/0003101123?sid=101",
-      "source": "www.dailian.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:08:00+09:00"
     },
     {
       "id": "DB하이텍-f4ac80",
@@ -3000,15 +2469,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T14:08:00+09:00"
     },
     {
-      "id": "DB저축은행-257048",
-      "title": "신한금융·DB그룹, 500억 규모 신기술투자조합 출범··· 첨단산업 투자...",
-      "description": "신한금융그룹에서는 신한투자증권과 신한자산운용, 신한캐피탈이 이름을 올렸으며, DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 출자자로 참여했다. 특히 DB하이텍도 투자자로 합류해 반도체를 비롯한...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=80999",
-      "source": "www.mediafine.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T14:06:00+09:00"
-    },
-    {
       "id": "DB하이텍-257048",
       "title": "신한금융·DB그룹, 500억 규모 신기술투자조합 출범··· 첨단산업 투자...",
       "description": "특히 DB하이텍도 투자자로 합류해 반도체를 비롯한 첨단산업 분야의 전문 역량을 더한다. 이를 통해 금융과 산업 현장의 전문성을 결합한 투자 체계를 구축한다는 구상이다. 투자 대상은 국내 첨단산업 분야의 상장사와...",
@@ -3016,15 +2476,6 @@ const NEWS_DATA = {
       "source": "www.mediafine.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T14:06:00+09:00"
-    },
-    {
-      "id": "DB저축은행-345fe5",
-      "title": "신한금융, DB그룹과 맞손…500억 펀드 결성",
-      "description": "신한금융에서는 신한투자증권과 신한자산운용, 신한캐피탈이 자금을 보탰으며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 자회사들이 대거 동참했다. 아울러 제조업 계열사인 DB하이텍도 투자자로...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308221",
-      "source": "www.pointdaily.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:52:00+09:00"
     },
     {
       "id": "DB하이텍-345fe5",
@@ -3036,15 +2487,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T13:52:00+09:00"
     },
     {
-      "id": "DB저축은행-7041c1",
-      "title": "신한금융, DB그룹과 500억 규모 '생산적금융' 투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 금융 계열사 전반이 참여했다. 특히 파운드리 전문 기업인 DB하이텍도 출자 전산망에 이름을 올려 반도체를 비롯한 기술 제조 산업 전반의 전문 심사 역량을 더한...",
-      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=252272",
-      "source": "www.asiaa.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:50:00+09:00"
-    },
-    {
       "id": "DB하이텍-7041c1",
       "title": "신한금융, DB그룹과 500억 규모 '생산적금융' 투자조합 출범",
       "description": "특히 파운드리 전문 기업인 DB하이텍도 출자 전산망에 이름을 올려 반도체를 비롯한 기술 제조 산업 전반의 전문 심사 역량을 더한 것이 특징이다. 투자조합의 핵심 운용 포트폴리오는 국내 하이테크 분야의 상장 및...",
@@ -3052,15 +2494,6 @@ const NEWS_DATA = {
       "source": "www.asiaa.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T13:50:00+09:00"
-    },
-    {
-      "id": "DB저축은행-7f744e",
-      "title": "신한투자증권-DB자산운용, 500억원 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 금융 계열사가 참여한다. DB하이텍도 출자자로 이름을 올려 반도체 등 첨단산업 분야의 전문성을 더한다. 주요 투자 대상은 국내 첨단산업 분야의 상장사와...",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202606151332254488de3f0aa1be_7",
-      "source": "www.thepowernews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:34:00+09:00"
     },
     {
       "id": "DB하이텍-7f744e",
@@ -3072,15 +2505,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T13:34:00+09:00"
     },
     {
-      "id": "DB저축은행-f41ce6",
-      "title": "신한투자증권-DB자산운용, '생산적금융 신기술투자조합' 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등이 출자자로 이름을 올렸다. 여기에 반도체 제조 기업인 DB하이텍도 함께 참여해 첨단산업 분야의 전문성을 한층 더했다. 주요 투자 대상은 국내 첨단산업 분야의...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=262539",
-      "source": "www.financialpost.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:22:00+09:00"
-    },
-    {
       "id": "DB하이텍-f41ce6",
       "title": "신한투자증권-DB자산운용, '생산적금융 신기술투자조합' 출범",
       "description": "여기에 반도체 제조 기업인 DB하이텍도 함께 참여해 첨단산업 분야의 전문성을 한층 더했다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사의 경우 전환사채(CB)를 비롯한 메자닌 투자를 통해...",
@@ -3088,15 +2512,6 @@ const NEWS_DATA = {
       "source": "www.financialpost.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T13:22:00+09:00"
-    },
-    {
-      "id": "DB저축은행-9abb42",
-      "title": "신한투자증권, DB자산운용 손잡고 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사들이 참여하고 DB하이텍 또한 출자자로서 첨단산업 분야에 전문성을 더할 예정이다. 조합의 주요 투자 대상은 국내 첨단산업 분야의 상장, 비상장...",
-      "url": "https://n.news.naver.com/mnews/article/008/0005371954?sid=101",
-      "source": "www.mt.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:15:00+09:00"
     },
     {
       "id": "DB하이텍-9abb42",
@@ -3108,15 +2523,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T13:15:00+09:00"
     },
     {
-      "id": "DB저축은행-3d5a08",
-      "title": "신한투자증권, DB자산운용과 500억 규모 ‘생산적금융 신기술투자조합’...",
-      "description": "DB그룹은 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 동참했다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더했다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장...",
-      "url": "https://www.etoday.co.kr/news/view/2593642",
-      "source": "www.etoday.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:14:00+09:00"
-    },
-    {
       "id": "DB하이텍-3d5a08",
       "title": "신한투자증권, DB자산운용과 500억 규모 ‘생산적금융 신기술투자조합’...",
       "description": "DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더했다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자로 수익 기반을 확보하고...",
@@ -3124,15 +2530,6 @@ const NEWS_DATA = {
       "source": "www.etoday.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T13:14:00+09:00"
-    },
-    {
-      "id": "DB저축은행-edd1cb",
-      "title": "신한투자증권·DB자산운용, 500억원 규모 신기술투자조합 출범",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더한다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=131453",
-      "source": "www.newslock.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T13:02:00+09:00"
     },
     {
       "id": "DB하이텍-edd1cb",
@@ -3153,15 +2550,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T12:38:00+09:00"
     },
     {
-      "id": "DB저축은행-ef1809",
-      "title": "신한금융·DB그룹 계열사 참여 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이, DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행·DB하이텍이 출자자로 참여한다. 이번 투자조합은 신한투자증권 주도로 결성된 생산적금융...",
-      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263527",
-      "source": "www.whitepaper.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T12:10:00+09:00"
-    },
-    {
       "id": "DB하이텍-ef1809",
       "title": "신한금융·DB그룹 계열사 참여 500억 규모 신기술투자조합 출범",
       "description": "신한금융그룹에서는 신한투자증권·신한자산운용·신한캐피탈이, DB그룹에서는 DB손해보험·DB생명·DB증권·DB저축은행·DB하이텍이 출자자로 참여한다. 이번 투자조합은 신한투자증권 주도로 결성된 생산적금융...",
@@ -3169,15 +2557,6 @@ const NEWS_DATA = {
       "source": "www.whitepaper.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T12:10:00+09:00"
-    },
-    {
-      "id": "DB저축은행-0c0a09",
-      "title": "신한투자증권·DB자산운용, 500억 신기술조합 결성…첨단산업 투자 본격...",
-      "description": "이번 조합에는 신한투자증권·신한자산운용·신한캐피탈을 비롯해 DB손해보험·DB생명·DB증권·DB저축은행 등이 참여한다. 반도체 기업인 DB하이텍도 출자자로 이름을 올렸다. 신한투자증권은 이번 조합의 공동...",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=816606",
-      "source": "www.nspna.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T12:08:00+09:00"
     },
     {
       "id": "DB하이텍-0c0a09",
@@ -3189,15 +2568,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T12:08:00+09:00"
     },
     {
-      "id": "DB저축은행-c42a07",
-      "title": "[경제소식] 우리금융, 자립준비청년 금융특강 홀로서기 지원",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장...",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2113186",
-      "source": "www.4th.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T11:56:00+09:00"
-    },
-    {
       "id": "DB하이텍-c42a07",
       "title": "[경제소식] 우리금융, 자립준비청년 금융특강 홀로서기 지원",
       "description": "DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장·비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인 수익...",
@@ -3205,15 +2575,6 @@ const NEWS_DATA = {
       "source": "www.4th.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T11:56:00+09:00"
-    },
-    {
-      "id": "DB저축은행-833c47",
-      "title": "신한·DB그룹 협업 '생산적금융 신기술투자조합' 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2438819",
-      "source": "www.enewstoday.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T11:26:00+09:00"
     },
     {
       "id": "DB하이텍-833c47",
@@ -3225,15 +2586,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-15T11:26:00+09:00"
     },
     {
-      "id": "DB저축은행-1638f2",
-      "title": "신한證-DB운용, 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "http://www.metroseoul.co.kr/article/20260615500140",
-      "source": "www.metroseoul.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T11:02:00+09:00"
-    },
-    {
       "id": "DB하이텍-1638f2",
       "title": "신한證-DB운용, 500억 규모 신기술투자조합 출범",
       "description": "특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채(CB) 등 메자닌 투자를 통해 안정적인...",
@@ -3241,24 +2593,6 @@ const NEWS_DATA = {
       "source": "www.metroseoul.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T11:02:00+09:00"
-    },
-    {
-      "id": "DB저축은행-93c019",
-      "title": "신한투자증권, DB자산운용과 500억 규모 신기술투자조합 출범",
-      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. 특히 DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
-      "url": "https://n.news.naver.com/mnews/article/015/0005298748?sid=101",
-      "source": "www.hankyung.com",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T10:58:00+09:00"
-    },
-    {
-      "id": "DB저축은행-ed26a9",
-      "title": "신한투자증권, DB그룹과 신기술투자조합 출범…생산적 금융 드라이브",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 이름을 올렸다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의...",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419975",
-      "source": "news.einfomax.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T10:58:00+09:00"
     },
     {
       "id": "DB하이텍-93c019",
@@ -3277,15 +2611,6 @@ const NEWS_DATA = {
       "source": "news.einfomax.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-06-15T10:58:00+09:00"
-    },
-    {
-      "id": "DB저축은행-a6746b",
-      "title": "신한금융-DB그룹, 500억 신기술조합 출범…반도체·첨단산업 투자",
-      "description": "DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 출자자로 이름을 올렸다. 특히 DB하이텍도 출자자로 참여해 반도체 등 첨단산업 분야의 전문성을 더한다. DB하이텍은 전력반도체 중심의 파운드리...",
-      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49067",
-      "source": "www.1conomynews.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-06-15T10:24:00+09:00"
     },
     {
       "id": "DB하이텍-a6746b",
