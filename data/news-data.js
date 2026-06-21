@@ -1,7 +1,169 @@
-// 자동 생성 파일 — 2026-06-21
+// 자동 생성 파일 — 2026-06-22
 const NEWS_DATA = {
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-22",
   "articles": [
+    {
+      "id": "DB캐피탈-2a3818",
+      "title": "현대캐피탈, 캐피탈 브랜드평판 6월 빅데이터 1위...\"안정적 성장세 구...",
+      "description": "MG캐피탈, DB캐피탈, JT캐피탈 순으로 조사됐다. 현대캐피탈 브랜드의 세부 지표를 보면 참여지수 387,989, 미디어지수 497,534, 소통지수 272,469, 커뮤니티지수 574,725, 사회공헌지수 111,177을 기록했다. 특히 커뮤니티지수...",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202606220744577782d0a8833aad_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T07:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f867a8",
+      "title": "중동 휴전에 애물단지 되나…車 5부제 특약 '존폐 변수'",
+      "description": "삼성화재를 시작으로 현대해상·KB손해보험·DB손해보험 등 주요 손해보험사들도 이달 들어 잇달아 관련 상품을 출시했다. 자동차보험을 취급하는 주요 손해보험사들이 금융당국 발표 직후 일제히 상품 출시를 서두른...",
+      "url": "https://dealsite.co.kr/articles/163888",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T07:32:00+09:00"
+    },
+    {
+      "id": "DB생명-5b00ef",
+      "title": "IFRS17 착시에 보험부채 줄던 생보업계…2분기부터 '역주행' 예고",
+      "description": "국내 생명보험사들의 핵심 보험부채인 최선추정부채(BEL)가 지난 1년 동안 70조원 넘게 감소한 것으로... 감소율 기준으로는 라이나생명(-46.6%), 교보라이프플래닛(-38.3%), DB생명(-31.0%), 메트라이프생명(-25.8...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026061810074075535",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dd0b76",
+      "title": "5년 새 5배 커진 펫보험 시장…메리츠 독주에 손보사 경쟁 격화",
+      "description": "특히 펫 보험 1위인 메리츠화재와 왕좌를 노리는 DB손해보험·삼성화재·현대해상 등 다른 보험사들의 경쟁은 더욱 확대될 것으로 전망된다. 22일 보험업계에 따르면 펫 보험 시장은 최근 5년 새 가파른 성장세를 보이고...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1378233",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-961dcd",
+      "title": "미래에셋자산운용 연금 1위…4041만 건 빅데이터가 선택한 연금 브랜드",
+      "description": "연금, DB손해보험 연금, 하나손해보험 연금, IBK기업은행 연금, KB국민은행 연금, 아이엠뱅크 연금, 하나생명보험 연금, 현대해상화재보험 연금, 광주은행 연금, 우리자산운용 연금, 한화손해보험 연금, 우리은행...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461849",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T06:56:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-2b7aa0",
+      "title": "금융은 이제 신뢰 경쟁…브랜드 가치가 캐피탈 승부 가른다",
+      "description": "6위부터 17위까지는 한국캐피탈, 롯데캐피탈, JB우리캐피탈, BNK캐피탈, 신한캐피탈, OK캐피탈, IBK캐피탈, 애큐온캐피탈, KDB캐피탈, MG캐피탈, DB캐피탈, JT캐피탈 순으로 집계됐다. 이번 조사에서는 현대캐피탈이...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461848",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T06:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ff9149",
+      "title": "치료 8주 넘긴 경상환자 10명 중 9명 한방병원행…‘8주룰’ 표류에 새...",
+      "description": "21일 금융계에 따르면 삼성화재·현대해상·KB손해보험·DB손해보험 등 4대 손해보험사 기준 지난해 8주 이상 치료를 받은 경상환자 가운데 한방 또는 양·한방 협진 환자가 전체의 90.3%를 차지한 것으로 집계됐다. 양...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004633463?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T06:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e463e3",
+      "title": "[브랜드평판] 미래에셋자산운용, 연금 6월 1위... 하나은행, NH농협은행...",
+      "description": "한화자산운용 ▲DB손해보험 ▲하나손해보험 ▲IBK기업은행 ▲KB국민은행 ▲아이엠뱅크 ▲하나생명보험 ▲현대해상화재보험 ▲광주은행 ▲우리자산운용 ▲한화손해보험 ▲우리은행 ▲롯데손해보험...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=51453",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T06:04:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-d9853f",
+      "title": "[브랜드평판] 현대캐피탈, 캐피탈 6월 1위... KB캐피탈, NH농협캐피탈 뒤...",
+      "description": "MG캐피탈 ▲DB캐피탈 ▲JT캐피탈 순이다. 구창환 한국기업평판연구소 소장은 \"캐피탈 브랜드 빅데이터가 전월 대비 2.37% 소폭 줄어든 가운데, 브랜드소비 2.23%, 브랜드이슈 18.83%, 브랜드공헌 5.48%가 각각...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=51452",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T06:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-59cb1f",
+      "title": "청년층 보험 접근성 과제…보험권, 2030 보장 공백 줄일까",
+      "description": "이 외에 DB손해보험은 '청춘어람플러스 종합보험'을, 한화손해보험은 '더건강한 0540 종합보험'을, 롯데손해보험은 'let:play 1540종합보험(10플러스)' 등을 통해 40세 전후까지 가입 가능한 보장성보험 시장을 공략하고 있다....",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=108867",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T06:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-172dfc",
+      "title": "[CSM 추월한 사업비③] 판매채널에 넘긴 이익, 현대해상만 되찾았다",
+      "description": "19일 대한금융신문이 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 주요 손해보험 5개사()의 지난해 신계약 최초 인식 현황을 분석했다. 5개사 중 현대해상의 보험취득현금흐름(이하 신계약비)...",
+      "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=225247",
+      "source": "www.kbanker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T05:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-293e61",
+      "title": "[포용금융 확대] 고령층·유병자 문턱 낮추니 14조 원대 ‘폭풍 성장’",
+      "description": "현재 삼성화재, DB손해보험, KB손해보험, 현대해상, 하나손해보험, AXA손해보험 등이 유상운송용 이륜차보험을 판매하고 있다. 2022년 기준 유상운송용 이륜차보험 가입률은 38.7% 수준에 불과했다. 다만 정부가 이달부터...",
+      "url": "https://www.g-enews.com/view.php?ud=20260619161816331e30fcb1ba8_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T05:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b76a5c",
+      "title": "‘멍냥이’부터 기계 파손까지 챙긴다… 생활 파고드는 이색보험",
+      "description": "대표적으로 DB손해보험은 최근 유통채널과 손잡고 펫보험 판매 저변을 넓혔다. 이마트 반려동물 브랜드 ‘몰리스’와 제휴해 전용 보험상품을 선보이며 매장을 찾는 손님층 확보에 나섰다. 이 회사는 개 물림 사고가...",
+      "url": "https://www.g-enews.com/view.php?ud=202606191645486089a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T05:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-76a234",
+      "title": "5세대 실손 출시에 손보 ‘특허 경쟁’ 숨 고르기⋯ 한화손보 독주 체제",
+      "description": "지난해 DB손해보험이 9건을 신청해 특허 경쟁을 주도할 당시 한화손보의 신청은 2건에 불과했으나, 올해는 현재까지 손보업계 전체 신청 7건 중 5건을 쏟아냈다. 한화손보는 그간 추진해 온 여성 특화 및 어린이보험 영역의...",
+      "url": "https://www.etoday.co.kr/news/view/2594159",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T05:00:00+09:00"
+    },
+    {
+      "id": "DB증권-37e1f3",
+      "title": "연초 대비 740%↑ … 삼전닉스 부럽지 않은 삼성전기 향한 질문들 [시크...",
+      "description": "DB증권은 지난 1일 일찌감치 목표가를 160만원에서 300만원으로 대폭 높였다. 조한지 DB증권 애널리스트는 보고서에서 \"MLCC와 기판 모두 상위급 기술력을 보유하고 있다\"면서  \"현시점에선 대체 불가한 입지를...",
+      "url": "https://n.news.naver.com/mnews/article/665/0000007604?sid=101",
+      "source": "www.thescoop.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-21T19:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a0327",
+      "title": "상품 개발부터 손해사정까지…보험업계, AI로 수익성 높인다",
+      "description": "DB손해보험과 KB손해보험은 사고 사진이나 블랙박스 영상 등을 분석해 보상 업무와 과실 비율 산정에 AI를 활용하는 사례로 거론된다. 보험사기 탐지도 AI 활용도가 높은 분야다. 보험금 청구 데이터와 사고 정보, 진료...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002231562?sid=101",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-21T19:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a4ffdd",
+      "title": "임금격차 … 충북 떠나는 반도체 인재",
+      "description": "21일 한국고용정보원이 발간한 기본연구 보고서 `지역 제조업 일자리 지원 사례와 모델'에 따르면 충북의 경우 SK하이닉스 청주사업장, DB하이텍 음성공장 등 앵커기업을 중심으로 반도체산업이 급성장하고 있지만 청년...",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=912574",
+      "source": "www.cctimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-21T19:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-762ffe",
+      "title": "한덕화학, 평택 포승에 1300억원 반도체 현상액 생산공장 첫 삽",
+      "description": "삼성전자, 삼성디스플레이, SK하이닉스, SK키파운드리, DB하이텍 등 국내 주요 반도체·디스플레이 기업에 제품을 공급하고 있다. 경기경제자유구역청은 평택공장이 조성되면 수도권 주요 고객사와 가까운 생산거점이...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003439657?sid=102",
+      "source": "www.etnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-21T17:55:00+09:00"
+    },
     {
       "id": "DB손해보험-ed8d51",
       "title": "킥스 200% 훌쩍 넘긴 보험업계…옥석가리기 기준은 ‘자본의 질’",
