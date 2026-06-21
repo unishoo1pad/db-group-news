@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: 저장소 체크아웃
@@ -24,7 +25,21 @@ jobs:
           python-version: '3.11'
 
       - name: 뉴스 수집 실행
+        id: fetch
         run: python scripts/fetch_news.py
+        env:
+          NAVER_CLIENT_ID:     ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          KAKAO_REST_API_KEY:   ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_CLIENT_SECRET:  ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN:  ${{ secrets.KAKAO_REFRESH_TOKEN }}
+
+      - name: 뉴스 수집 재시도 (실패 시)
+        if: failure() && steps.fetch.outcome == 'failure'
+        run: |
+          echo "첫 번째 시도 실패 — 30초 후 재시도"
+          sleep 30
+          python scripts/fetch_news.py
         env:
           NAVER_CLIENT_ID:     ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
