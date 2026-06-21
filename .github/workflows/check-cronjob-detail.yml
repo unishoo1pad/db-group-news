@@ -1,0 +1,14 @@
+name: Check cron-job.org Job Detail
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get job detail
+        run: |
+          curl -s \
+            -H "Authorization: Bearer ${{ secrets.CRONJOB_API_KEY }}" \
+            https://api.cron-job.org/jobs/7873170 | python3 -m json.tool
