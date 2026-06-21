@@ -159,6 +159,7 @@ def send_dooray_message(new_count: int, total_count: int, today: str):
         f"📅 {date_fmt}\n"
         f"🔄 금일 추가: {new_count}건\n"
         f"📊 총 기사: {total_count}건\n\n"
+        f"🔗 {SITE_URL}\n"
         f"🔗 {SITE_URL2}"
     )
     payload = json.dumps({"botName": "DB뉴스봇", "text": text}).encode()
