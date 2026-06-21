@@ -25,7 +25,13 @@ jobs:
                 },
                 {
                   "color": "#00843D",
-                  "text": "🔗 https://db-group-news.vercel.app\n🔗 https://dbnews.unishoo1.xyz"
+                  "title": "🔗 db-group-news.vercel.app",
+                  "titleLink": "https://db-group-news.vercel.app"
+                },
+                {
+                  "color": "#00843D",
+                  "title": "🔗 dbnews.unishoo1.xyz",
+                  "titleLink": "https://dbnews.unishoo1.xyz"
                 }
               ]
             }'
