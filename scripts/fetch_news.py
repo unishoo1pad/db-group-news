@@ -154,15 +154,24 @@ def send_dooray_message(new_count: int, total_count: int, today: str):
         print("  [두레이] 웹훅 URL 없음 — 알림 건너뜀")
         return
     date_fmt = today.replace('-', '.')
-    text = (
-        f"💚 DB그룹 뉴스 업데이트 완료!\n\n"
-        f"📅 {date_fmt}\n"
-        f"🔄 금일 추가: {new_count}건\n"
-        f"📊 총 기사: {total_count}건\n\n"
-        f"🔗 {SITE_URL}\n"
-        f"🔗 {SITE_URL2}"
-    )
-    payload = json.dumps({"botName": "DB뉴스봇", "text": text}).encode()
+    payload = json.dumps({
+        "botName": "DB뉴스봇",
+        "text": "💚 DB그룹 뉴스 업데이트 완료!",
+        "attachments": [
+            {
+                "color": "#00843D",
+                "fields": [
+                    {"title": "날짜", "value": date_fmt, "short": True},
+                    {"title": "금일 추가", "value": f"{new_count}건", "short": True},
+                    {"title": "총 기사", "value": f"{total_count}건", "short": True},
+                ],
+            },
+            {
+                "color": "#00843D",
+                "text": f"🔗 {SITE_URL}\n🔗 {SITE_URL2}",
+            },
+        ],
+    }).encode()
     req = request.Request(
         DOORAY_WEBHOOK_URL,
         data=payload,
