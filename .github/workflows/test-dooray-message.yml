@@ -12,6 +12,20 @@ jobs:
           curl -s -X POST "${{ secrets.DOORAY_WEBHOOK_URL }}" \
             -H "Content-Type: application/json" \
             -d '{
-              "botName": "테스트봇",
-              "text": "안녕하세요! 두레이 메신저 API 테스트 메시지입니다. 🎉"
+              "botName": "DB뉴스봇",
+              "text": "💚 DB그룹 뉴스 업데이트 완료!",
+              "attachments": [
+                {
+                  "color": "#00843D",
+                  "fields": [
+                    {"title": "날짜", "value": "2026.06.21", "short": true},
+                    {"title": "금일 추가", "value": "12건", "short": true},
+                    {"title": "총 기사", "value": "345건", "short": true}
+                  ]
+                },
+                {
+                  "color": "#00843D",
+                  "text": "🔗 https://db-group-news.vercel.app\n🔗 https://dbnews.unishoo1.xyz"
+                }
+              ]
             }'
