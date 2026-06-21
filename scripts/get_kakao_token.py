@@ -2,13 +2,14 @@
 """카카오 토큰 발급 도우미 — 브라우저 로그인 후 자동으로 토큰을 받아옵니다."""
 
 import json
+import os
 import threading
 import webbrowser
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib import parse, request as urllib_request
 
-CLIENT_ID     = 'edb023fcb7e51f70f6ae94ec71946afc'
-CLIENT_SECRET = 'wZaLKQkS36cWuuiyBVSaZr4UzHgJpsCR'
+CLIENT_ID     = os.environ.get('KAKAO_REST_API_KEY', '')
+CLIENT_SECRET = os.environ.get('KAKAO_CLIENT_SECRET', '')
 REDIRECT_URI  = 'http://localhost:8080'
 
 class Handler(BaseHTTPRequestHandler):
