@@ -1,0 +1,25 @@
+name: cron-job.org 스케줄 변경
+
+on:
+  workflow_dispatch:
+    inputs:
+      hour:
+        description: '실행 시각 (시) - KST 기준'
+        required: true
+        default: '8'
+      minute:
+        description: '실행 시각 (분) - KST 기준'
+        required: true
+        default: '0'
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: cron-job.org 스케줄 업데이트
+        run: |
+          curl -s -X PATCH "https://api.cron-job.org/jobs/7873170" \
+            -H "Authorization: Bearer ${{ secrets.CRONJOB_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"job\":{\"schedule\":{\"timezone\":\"Asia/Seoul\",\"hours\":[${{ github.event.inputs.hour }}],\"minutes\":[${{ github.event.inputs.minute }}],\"mdays\":[-1],\"months\":[-1],\"wdays\":[-1]}}}"
+          echo "스케줄 변경 완료: ${{ github.event.inputs.hour }}시 ${{ github.event.inputs.minute }}분 KST"
