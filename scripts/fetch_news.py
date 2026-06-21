@@ -25,6 +25,7 @@ NAVER_CLIENT_SECRET = os.environ.get('NAVER_CLIENT_SECRET', '')
 KAKAO_REST_API_KEY    = os.environ.get('KAKAO_REST_API_KEY', '')
 KAKAO_CLIENT_SECRET   = os.environ.get('KAKAO_CLIENT_SECRET', '')
 KAKAO_REFRESH_TOKEN   = os.environ.get('KAKAO_REFRESH_TOKEN', '')
+DOORAY_WEBHOOK_URL    = os.environ.get('DOORAY_WEBHOOK_URL', '')
 SITE_URL            = 'https://db-group-news.vercel.app'
 SITE_URL2           = 'https://dbnews.unishoo1.xyz'
 KST                 = timezone(timedelta(hours=9))
@@ -147,6 +148,32 @@ def send_kakao_message(new_count: int, total_count: int, today: str):
     except Exception as e:
         print(f"  [카카오] 알림 발송 실패: {e}")
 
+# ── 두레이 메신저 알림 ────────────────────────────────
+def send_dooray_message(new_count: int, total_count: int, today: str):
+    if not DOORAY_WEBHOOK_URL:
+        print("  [두레이] 웹훅 URL 없음 — 알림 건너뜀")
+        return
+    date_fmt = today.replace('-', '.')
+    text = (
+        f"💚 DB그룹 뉴스 업데이트 완료!\n\n"
+        f"📅 {date_fmt}\n"
+        f"🔄 금일 추가: {new_count}건\n"
+        f"📊 총 기사: {total_count}건\n\n"
+        f"🔗 {SITE_URL2}"
+    )
+    payload = json.dumps({"botName": "DB뉴스봇", "text": text}).encode()
+    req = request.Request(
+        DOORAY_WEBHOOK_URL,
+        data=payload,
+        headers={"Content-Type": "application/json"},
+        method='POST',
+    )
+    try:
+        with request.urlopen(req, timeout=10) as res:
+            print(f"  [두레이] 알림 발송 완료 ({new_count}건 추가, 총 {total_count}건)")
+    except Exception as e:
+        print(f"  [두레이] 알림 발송 실패: {e}")
+
 # ── 메인 ──────────────────────────────────────────────
 def main():
     # 기존 데이터 로드
@@ -217,6 +244,7 @@ def main():
     print(f"저장: {NEWS_DATA_JS}")
 
     send_kakao_message(len(new_articles), len(all_articles), today)
+    send_dooray_message(len(new_articles), len(all_articles), today)
 
 if __name__ == "__main__":
     main()

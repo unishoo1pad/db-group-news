@@ -31,6 +31,7 @@ jobs:
           KAKAO_REST_API_KEY:   ${{ secrets.KAKAO_REST_API_KEY }}
           KAKAO_CLIENT_SECRET:  ${{ secrets.KAKAO_CLIENT_SECRET }}
           KAKAO_REFRESH_TOKEN:  ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          DOORAY_WEBHOOK_URL:   ${{ secrets.DOORAY_WEBHOOK_URL }}
 
       - name: 뉴스 수집 재시도 (실패 시)
         if: failure() && steps.fetch.outcome == 'failure'
@@ -44,6 +45,7 @@ jobs:
           KAKAO_REST_API_KEY:   ${{ secrets.KAKAO_REST_API_KEY }}
           KAKAO_CLIENT_SECRET:  ${{ secrets.KAKAO_CLIENT_SECRET }}
           KAKAO_REFRESH_TOKEN:  ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          DOORAY_WEBHOOK_URL:   ${{ secrets.DOORAY_WEBHOOK_URL }}
 
       - name: 변경사항 커밋 & 푸시
         run: |
