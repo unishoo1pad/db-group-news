@@ -1,0 +1,21 @@
+name: Test cron-job.org API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check cron-job.org API access
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer ${{ secrets.CRONJOB_API_KEY }}" \
+            https://api.cron-job.org/jobs)
+          echo "HTTP Status: $response"
+          if [ "$response" = "200" ]; then
+            echo "✅ API 접근 성공!"
+          else
+            echo "❌ API 접근 실패 (status: $response)"
+            exit 1
+          fi
