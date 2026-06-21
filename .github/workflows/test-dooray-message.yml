@@ -1,0 +1,17 @@
+name: Test Dooray Messenger
+
+on:
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test message to Dooray
+        run: |
+          curl -s -X POST "${{ secrets.DOORAY_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "botName": "테스트봇",
+              "text": "안녕하세요! 두레이 메신저 API 테스트 메시지입니다. 🎉"
+            }'
