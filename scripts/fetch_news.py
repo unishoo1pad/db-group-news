@@ -168,7 +168,13 @@ def send_dooray_message(new_count: int, total_count: int, today: str):
             },
             {
                 "color": "#00843D",
-                "text": f"🔗 {SITE_URL}\n🔗 {SITE_URL2}",
+                "title": f"🔗 db-group-news.vercel.app",
+                "titleLink": SITE_URL,
+            },
+            {
+                "color": "#00843D",
+                "title": f"🔗 dbnews.unishoo1.xyz",
+                "titleLink": SITE_URL2,
             },
         ],
     }).encode()
