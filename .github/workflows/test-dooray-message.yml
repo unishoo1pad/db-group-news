@@ -13,25 +13,5 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "botName": "DB뉴스봇",
-              "text": "💚 DB그룹 뉴스 업데이트 완료!",
-              "attachments": [
-                {
-                  "color": "#00843D",
-                  "fields": [
-                    {"title": "날짜", "value": "2026.06.21", "short": true},
-                    {"title": "금일 추가", "value": "12건", "short": true},
-                    {"title": "총 기사", "value": "345건", "short": true}
-                  ]
-                },
-                {
-                  "color": "#00843D",
-                  "title": "🔗 db-group-news.vercel.app",
-                  "titleLink": "https://db-group-news.vercel.app"
-                },
-                {
-                  "color": "#00843D",
-                  "title": "🔗 dbnews.unishoo1.xyz",
-                  "titleLink": "https://dbnews.unishoo1.xyz"
-                }
-              ]
+              "text": "💚 DB그룹 뉴스 업데이트 완료!\n\n📅 2026.06.21\n🔄 금일 추가: 12건\n📊 총 기사: 345건\n\n🔗 https://db-group-news.vercel.app\n🔗 https://dbnews.unishoo1.xyz"
             }'
