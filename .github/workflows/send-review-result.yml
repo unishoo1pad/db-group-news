@@ -1,4 +1,4 @@
-name: 계약서 검토결과 두레이 전송
+﻿name: 계약서 검토결과 두레이 전송
 
 on:
   workflow_dispatch:
@@ -7,11 +7,11 @@ jobs:
   send:
     runs-on: ubuntu-latest
     steps:
-      - name: 두레이 메신저 전송
+      - name: 두레이 메신저 전송 (파일 링크 포함)
         run: |
           curl -s -X POST "${{ secrets.DOORAY_WEBHOOK_URL }}" \
             -H "Content-Type: application/json" \
             -d '{
               "botName": "계약서검토봇",
-              "text": "📋 **계약서 체크리스트 검토 결과** (2026-06-22)\n계약서: 두레이 서비스계약 (DB증권 ↔ NHN CLOUD)\n\n✅ **총 28개 항목 중 27개 존재 / 1개 누락**\n\n❌ **누락**: 정보처리 위수탁 9번 — 보험가입 조항 없음\n⚠️ **주의**: 클라우드 위수탁 1.2 — 재위탁 시 금융회사 \"동의\"가 아닌 \"사전 통지\" 방식으로 명시 → 전자금융감독규정 요건 충족 여부 별도 검토 필요\n\n📁 검토 완료 파일: 계약서 체크리스트_검토완료.xlsx"
+              "text": "📋 **계약서 체크리스트 검토 완료** (2026-06-22)\n계약서: 두레이 서비스계약 (DB증권 ↔ NHN CLOUD)\n\n✅ 28개 항목 중 27개 존재 / 1개 누락\n❌ 누락: 정보처리 위수탁 9번 — 보험가입 조항\n⚠️ 주의: 클라우드 위수탁 1.2 — 재위탁 \"동의\" 아닌 \"사전 통지\" 방식\n\n📥 검토 완료 파일 다운로드:\nhttps://github.com/unishoo1pad/db-group-news/releases/download/checklist-review-20260622/_._.xlsx"
             }'
