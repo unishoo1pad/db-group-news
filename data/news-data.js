@@ -1,7 +1,1150 @@
-// 자동 생성 파일 — 2026-06-22
+// 자동 생성 파일 — 2026-06-23
 const NEWS_DATA = {
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "articles": [
+    {
+      "id": "DB손해보험-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB생명-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB증권-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB자산운용-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "신기술투자조합 출범…첨단산업 상장사 메자닌·Pre-IPO 투자 병행 신한투자증권은 DB자산운용과 공동 운용 형태로 '신한-DB 생산적금융 신기술투자조합'을 출범한다고 15일 밝혔다. 본 조합은 신한금융그룹과 DB그룹이...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB저축은행-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "신한금융그룹에서는 신한투자증권, 신한자산운용, 신한캐피탈이 참여하며 DB그룹에서는 DB손해보험, DB생명, DB증권, DB저축은행 등 주요 계열사가 참여한다. DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-75bb04",
+      "title": "[生기업TALK] 신한금융그룹, 태양광·AI·블록체인·반도체 투자 통해 생...",
+      "description": "DB하이텍도 출자자로 참여해 반도체를 포함한 첨단산업 분야의 전문성을 더할 예정이다. 주요 투자 대상은 국내 첨단산업 분야의 상장 및 비상장 기업이다. 상장사 전환사채 등 메자닌 투자를 통해 안정적인 수익...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96709",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-23T07:54:00+09:00"
+    },
+    {
+      "id": "DB증권-e7b37a",
+      "title": "제일기획, AI로 비용 축소…고배당 매력도 유지-DB",
+      "description": "DB증권은 23일 제일기획(030000)에 대해 “광고 제작 과정의 인공지능(AI) 도입으로 장기적인 비용 절감 효과가 기대되고 견조한 주주환원 정책도 이어질 것”이라며, 투자의견 ‘매수’와 목표주가 2만6000원을...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006312645?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-23T07:44:00+09:00"
+    },
+    {
+      "id": "DB증권-24df92",
+      "title": "DB證 “제일기획, 광고 제작에 AI 적용, 효율적 관리…목표가 2만6000원”",
+      "description": "DB증권은 23일 제일기획이 최근 광고 제작 과정에 인공지능(AI)을 적용해 효율적으로 관리 중이라고 평가했다, 고배당 매력도 여전히 유효하다고 분석했다. 투자 의견 ‘매수(Buy)’와 목표 주가 2만6000원을 유지했다....",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173568?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-23T07:41:00+09:00"
+    },
+    {
+      "id": "DB생명-e92f3f",
+      "title": "\"70세는 기본, 80세도 고객\"…보험사들 실버보험 시장 선점 경쟁",
+      "description": "DB생명은 '건강100 내가고른 통합보험' 가입 가능 연령을 남성 83세, 여성 85세까지 높이며 업계 최고 수준의 문턱 완화에 나섰다. 최근에는 만기 연장형 건강보험을 통해 75세까지 가입할 수 있도록 설계하고 일정 조건...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=108869",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-23T07:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1c41e5",
+      "title": "베트남서 결실 맺은 DB손보…포테그라 품고 선진시장 승부",
+      "description": "베트남 법인 체질 개선·외형 성장 동시 성과…포테그라 인수로 미국·유럽 시장 공략 교두보 확보 DB손해보험의 주요 해외법인이 올해 1분기 베트남, 중국, 미국 등 주요 거점에서 흑자를 기록했다. 아시아...",
+      "url": "https://dealsite.co.kr/articles/163904",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T07:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5032e9",
+      "title": "[포토] DB손보, '부·울·경 거점' 부산 신사옥 준공식 개최",
+      "description": "DB손해보험은 지난 19일 부산 부산진구 부전동에 들어선 신사옥 준공식을 개최했다. 지하 8층~지상 24층 규모의 부산 신사옥에는 DB손보와 주요 자회사, 관계사들이 입주해 부산·울산·경남지역 거점을 역할을 할...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=304865",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0dbc1c",
+      "title": "[N2 포커스]'AI 보험사기 탐지' 중소형사도 시동…책임소재는 숙제",
+      "description": "DB손해보험도 이달 16일 블랙박스 영상을 분석해 차대차 사고 과실비율을 5초 안에 안내하는 AI 과실판정 시스템(정확도 92.4%)을 업계 최초로 공개했다. 일각에서는 이 같은 변화에 대해 '후발주자의 본격 진입'으로...",
+      "url": "https://www.news2day.co.kr/article/20260622500169",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T06:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9c83a9",
+      "title": "[2026 100대 CEO]정종표 DB손해보험 사장, ‘디지털 혁신과 글로벌 확장...",
+      "description": "정종표 DB손해보험 사장은 2026년 경영 방향으로 ‘경영효율 우위를 기반으로 한 글로벌 보험회사 도약’을 제시했다. 이를 위해 수익구조 경쟁력 회복을 위한 전사적 대응에 나서는 한편 금리 하락과 시장 변동성...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000107627?sid=101",
+      "source": "magazine.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T06:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-828291",
+      "title": "챗GPT로 진료비 조작해 보험금 1.5억 편취…AI 보험사기, 손해율 변수로",
+      "description": "DB손해보험은 7만건의 사고 데이터를 학습한 '블랙박스 영상 활용 AI 과실판정 시스템'을 운영 중이다. 삼성화재는 AI 기반 인수심사 시스템 '장기 U'를 통해 계약 심사를 자동화하고 있으며, 메리츠화재 역시 보험사기...",
+      "url": "https://www.newspim.com/news/view/20260622000993",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e0c5fd",
+      "title": "DB손해보험, 부산 신사옥 준공···부울경 영업 거점 강화",
+      "description": "DB손해보험이 부산 서면에 신사옥을 준공하고 부산·울산·경남 지역 영업과 고객서비스 강화에 나선다. DB손해보험은 지난 19일 부산진구 부전동 부산사옥에서 신사옥 준공식을 개최하고 부울경 지역 거점으로서...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695824",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-e7781a",
+      "title": "'다중적층 기판 강자' 이수페타시스, 글로벌 AI 인프라 시장 공략 박차",
+      "description": "조현지 DB증권 연구원은 \"멀티램 제품의 리드타임이 장기화되고 중장기 수주 가시성이 높아지면서 내년 1분기부터는 다중적층 부문 역시 실질적인 풀가동 체제에 진입할 것\"이라며 \"2분기 이후 판가 인상과 3분기...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713360",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-23T06:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2a1ab2",
+      "title": "[ETF업&다운]반도체 자금이동…소부장 TIGER↓ 美 담은 PLUS↑",
+      "description": "이 상품은 SK하이닉스(32.79%)와 삼성전자(30.57%) 외에도 한미반도체(8.53%), 원익IPS(5.91%), DB하이텍(5.55%) 등 국내 대표 반도체 밸류체인 기업들을 담고 있다. 최근 대형 두 종목만 상승세를 지속하고 소부장 기업들의...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009017577?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-23T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-540709",
+      "title": "럭스코 등 5개 벤처기업, 코스닥 상장예비심사 접수",
+      "description": "상장 주관사는 DB증권이다. 이에스티는 디스플레이와 반도체 공정용 정전척을 주제품으로 두고 있는 제조업이다. 지난해 354억1천800만원의 매출과 7천만원의 영업손실을 냈다. 대신증권이 상장을 주선했다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016152616?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-23T05:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3c665a",
+      "title": "DB손보·삼성화재, 美·유럽 보험사 M&A·지분 인수… 해외진출 전략 다...",
+      "description": "DB손해보험 2조3000억원 규모 미국 특화보험사를 인수했고, 삼성화재는 영국 로이즈보험사 캐노피우스의 지분 40%를 확보했다. 선진국 보험시장도 포화한 만큼 자체 지점으로 성장하기보단 우량 보험사 인수와 지분...",
+      "url": "https://www.g-enews.com/view.php?ud=202606221547362558a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T05:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b8dcf8",
+      "title": "DB손해보험, 부산 신사옥으로 부울경 시장 공략 본격화",
+      "description": "DB손해보험이 부산 신사옥 완공을 계기로 부산·울산·경남 지역 영업기반을 넓히며 현장 대응력과 고객 서비스 경쟁력 강화에 나섰다. DB손해보험은 6월 22일 이 같은 계획을 밝히고, 지난 19일 부산진구 부전동에 있는 새...",
+      "url": "https://www.tokenpost.kr/news/economy/371827",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-23T01:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c65e5c",
+      "title": "28만 서구민, 자전거보험 자동가입",
+      "description": "보험금 청구는 서구청 누리집 분야별정보(도시·환경·위생-자전거)에서 관련 서류를 내려받아 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청하면 된다. 김이강 서구청장은 \"자전거는 누구나 쉽게 이용하는...",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=914437",
+      "source": "www.namdonews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T21:34:00+09:00"
+    },
+    {
+      "id": "DB생명-7ea17e",
+      "title": "[보험사 이모저모] 교보생명, DB생명, 동양생명 등",
+      "description": "이와 함께 교보생명은 올해 초 글로벌 신용평가사 피치(Fitch Ratings)에서도 'A+' 등급을 14년 연속 획득했고 지난달에는 국내 3대 신용평가사의 보험금지급능력 평가에서 최고 등급인 'AAA'를 받았다. DB생명이 업무용 AI...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=139196",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T20:38:00+09:00"
+    },
+    {
+      "id": "DB증권-93b95a",
+      "title": "코스닥 상장예심에 5개사 도전...반도체·소프트웨어·조선기자재 기업...",
+      "description": "아이알큐더스는 IR 컨설팅과 소프트웨어를 주력으로 하는 기업으로 DB증권이 상장 주관을 맡았으며, 이에스티는 디스플레이와 반도체 공정용 정전척을 생산하는 특수목적기계 제조업체로 대신증권이 대표 주관사로...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462158",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T20:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c0e37a",
+      "title": "DB손해보험, 부산 신사옥 준공·청소년 대상 안전캠프… \"지역과 함께 성...",
+      "description": "DB손해보험이 부산 신사옥 준공을 계기로 부울경(부산·울산·경남) 지역 거점 기능을 강화하는 한편, 청소년 대상 안전교육 프로그램을 통해 지역사회와의 접점을 넓히고 있다. 아울러 소비자중심경영과 전사적...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=41930",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T19:52:00+09:00"
+    },
+    {
+      "id": "DB증권-9ca421",
+      "title": "티앤이코리아 등 5곳 코스닥 예심 신청",
+      "description": "상장주선인은 티앤이코리아가 신한투자증권, 영광이 한국투자증권, 럭스코가 IBK투자증권, 아이알큐더스가 DB증권, 이에스티가 대신증권이다. 한국거래소 서울 사옥. [사진=한국거래소] 티앤이코리아는...",
+      "url": "https://www.newspim.com/news/view/20260622001133",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T19:39:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dd1bff",
+      "title": "DB손보, 부산 신사옥 준공…부울경 거점 본격 가동",
+      "description": "DB손해보험은 지난 19일 부산진구 부전동 부산사옥 2층 강당에서 신사옥 준공식을 개최했다고 22일 밝혔다. 2022년 6월 착공한 부산사옥은 약 4년간의 공사를 거쳐 이달 2일 완공됐으며, 지하 8층~지상 24층, 연면적 4만4769....",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=108894",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T19:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1e0c3d",
+      "title": "DB손보, 부산 신사옥 준공…부울경 거점 본격 가동",
+      "description": "지난 19일 부산광역시 부산진구 부전동 DB손해보험 부산사옥에서 DB그룹 김정남 부회장(오른쪽 7번째)과 DB손해보험 정종표 사장(오른쪽 6번째) 및 주요 관계자들이 준공식 기념촬영을 하고 있다. [사진=DB손해보험]...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=275314",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T19:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-306ab2",
+      "title": "DB손보, 부산 신사옥 준공식 개최…'부울경' 영업 거점 구축",
+      "description": "박재찬 보험전문기자 = DB손해보험은 지난 19일 부산진구 부전동 부산사옥에서 신사옥 준공식을 개최했다고 22일 밝혔다. DB손보 부산사옥은 2022년 6월 착공해 이달 2일 준공됐다. 건물은 지하 8층~지상 24층, 연면적...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009017373?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e3d3e6",
+      "title": "광주 서구민 28만명 자전거보험 자동가입…정작 가입 사실은 모른다",
+      "description": "보험금을 받으려면 서구청 누리집에서 관련 서류를 확인한 뒤 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청해야 한다. 제도를 모르면 사고를 당해도 청구까지 이어지기 어렵다. 자전거는 출퇴근, 산책...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=734790",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:39:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9cdaa2",
+      "title": "DB손보, 부산 신사옥 준공…부울경 시장 공략 강화",
+      "description": "서면 핵심 입지에 지상 24층 규모 신사옥 준공 고객 접근성 높이고 스마트 오피스 기반 업무 혁신 \"글로벌 도약 위한 새로운 출발점\"…부울경 성장 기반 확대 [서울타임즈뉴스 = 허성미 기자] DB손해보험이 부산 신사옥...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000096901",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cadfeb",
+      "title": "DB손해보험, 부울경 거점 '부산 신사옥' 준공… \"글로벌 도약의 시작\"",
+      "description": "DB손해보험이 부산 신사옥 준공식을 열고 부산·울산·경남(부울경) 지역 거점으로서의 본격적인 출발을 알렸다. 22일 DB손해보험에 따르면 지난 2022년 6월 착공해 약 4년간의 공사를 거쳐 이달 2일 완공된 부산사옥은...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026062218245840369",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f376c",
+      "title": "안 아프면 보장 기간 늘어나요…건강관리까지 '후끈'",
+      "description": "[기자] DB손해보험은 일정기간 특정 질병이 발생하지 않으면 추가 보험료 없이 보험기간을 100세까지 연장해 주는 보험 상품에 대해 배타적 사용권을 신청했습니다. 가입자가 첫 갱신시점인 55세까지 고혈압이나 당뇨 등...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517510?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-762888",
+      "title": "DB손보, 부산 신사옥 준공…\"부·울·경 영업 거점 본격 가동\"",
+      "description": "DB손해보험이 부산 신사옥 준공을 마치고 부산·울산·경남(부울경) 지역 영업 경쟁력 강화에 나선다. 22일 DB손보는 지난 19일 부산진구 부전동 DB손해보험 부산사옥에서 신사옥 준공식을 개최했다고 밝혔다. 이번...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=844710",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a0500f",
+      "title": "1년반 동안 561% 뛴 반도체지수… 전망은 여전히 '장밋빛' [반도체 슈퍼...",
+      "description": "삼성전자·SK하이닉스를 비롯해 한미반도체, 주성엔지니어링, DB하이텍, 리노공업, 파두, 원익IPS 등 35개 종목으로 구성돼 있다. 한국거래소가 KRX 섹터지수를 발표한 2006년 이후 KRX 반도체지수가 연간 세자릿수...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005538165?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T18:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4e3e41",
+      "title": "DB손해보험, 부산 신사옥 준공…고객서비스·영업경쟁력 강화",
+      "description": "DB손해보험이 부산 신사옥을 준공하며 부산·울산·경남(부울경) 지역 거점으로서의 본격적인 출발을 알렸다. DB손해보험은 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을 열고 부울경...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51027",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ff2bdc",
+      "title": "DB손보, 부산사옥 완공…부울경 거점으로 시장 확대 나서나",
+      "description": "DB손해보험이 부산사옥이 완공됐다. DB손보는 이를 통해 부산·울산·경남 지역의 거점으로 활용하겠다는 구상이다. DB손보는 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을 진행했다고...",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49208",
+      "source": "www.1conomynews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-10a7e7",
+      "title": "DB손해보험, 여름방학 맞아 소방청과 안전리더 캠프 열어",
+      "description": "사진=DB손해보험  DB손해보험이 체험형 안전교육 프로그램을 통해 청소년 안전의식 제고에 나선다. DB손해보험은 소방청과 함께 운영하는 '제3회 프로미119 안전리더 캠프' 참가자를 모집한다고 22일 밝혔다. 캠프는 재난...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=96980",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1ee426",
+      "title": "DB손해보험, 지상 24층 규모 부산 신사옥 준공식",
+      "description": "DB손해보험이 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥의 준공식을 열고 부산·울산·경남 지역 거점으로서의 본격적인 출발을 알렸습니다. 지난 2022년 6월 첫 삽을 뜬 DB손해보험 부산사옥은...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517496?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T18:07:00+09:00"
+    },
+    {
+      "id": "DB증권-f41db1",
+      "title": "아이알큐더스, 코스닥 상장 도전장",
+      "description": "대표 주관사는 DB증권이다. 2000년 설립된 이 회사는 국내 자본시장에서 전통적인 IR과 주주관리(SR) 서비스를 융합한 통합 솔루션 전문 기업이다. 매년 수백 곳의 상장사와 비상장사에 서비스를 제공하며 IR 컨설팅...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301496?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T18:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3ca318",
+      "title": "DB손보, 부산 새 거점 운영 개시…부울경 영업 강화",
+      "description": "지역 밀착형 고객 접점 확대·디지털 업무 환경 구축  보험업계가 수도권 중심 영업 구조에서 벗어나 지역 거점을 강화하는 움직임을 이어가는 가운데 DB손해보험이 부산 신사옥을 마련했다. 지역 고객 접점을 넓히고...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=205828",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f93102",
+      "title": "DB손보, 부산 서면에 신사옥 '우뚝'",
+      "description": "DB손해보험 부산 신사옥 전경. [사진=DB손해보험] DB손해보험이 만 4년의 공사 끝에 부산에 신사옥을 세웠다. 국내 1위 손해보험사로의 도약을 천명한 바 있는 DB손보는 금융중심도시 부산에 신사옥을 건설해 글로벌...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=305350",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3b349f",
+      "title": "[금융권 이모저모]DB손해보험, 부산 신사옥 준공 外",
+      "description": "지난 19일 부산 부산진구 DB손해보험 부산사옥에서 김정남 DB그룹 부회장(오른쪽 일곱 번째)과 정종표 DB손해보험 사장(오른쪽 여섯 번째) 등 주요 관계자들이 준공식 기념촬영을 하고 있다. / 사진=DB손해보험...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=113172",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9eac56",
+      "title": "DB손해보험, 부산 신사옥 준공식... \"지역 사회와 호흡\"",
+      "description": "DB손해보험이 지난 19일 부산 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥의 준공식을 열었다고 22일 밝혔다. 지난 2022년 6월 첫 삽을 뜬 DB손보 부산사옥은 지난 2일 공사를 마쳤다. 지하 8층부터 지상 24층까지...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301458?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c42e96",
+      "title": "DB손보, 부산 신사옥 준공식…\"부울경 지역 경쟁력 강화\"",
+      "description": "DB손해보험이 부산 신사옥 완공을 계기로 부산·울산·경남 지역에서의 영업경쟁력을 강화해 나갈 예정이라고 22일 밝혔다. DB손보는 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥의 준공식을...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016152444?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c5604a",
+      "title": "부산 서면 한복판 솟아오른 24층 랜드마크… DB손해보험, '영남권 시대'...",
+      "description": "전통의 금융 강자 DB손해보험이 영남권 금융의 심장부인 부산 서면에 초대형 신사옥을 구축하며 대대적인 영토 확장에 나선 것이다. 이번 신사옥 건립은 단순한 지역 거점 마련을 넘어 급변하는 글로벌 금융 환경 속에서...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=125879",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c3e312",
+      "title": "[보험 뉴스브리핑] 교보생명 12년 연속 무디스 A1 신용등급 획득",
+      "description": "DB손해보험은 22일 청소년 안전교육 체험 프로그램 '제3회 프로미119 안전리더 캠프' 참가자를 모집한다고 밝혔다.(자료=DB손해보험) □ DB손보 프로미119 안전리더 캠프 참가자 모집 DB손해보험은 청소년 안전교육 체험...",
+      "url": "https://www.asiatime.co.kr/article/20260622500417",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-48d6af",
+      "title": "DB손보, 부울경 지역 도약 위한 새 거점 부산사옥 준공식",
+      "description": "19일 부산광역시 부산진구 부전동 DB손해보험 부산사옥에서 DB그룹 김정남 부회장(오른쪽 일곱번째)과 DB손해보험 정종표 사장(오른쪽 여섯번째) 및 주요 관계자들이 준공식 기념촬영을 하고 있다. 사진=DB손해보험...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309177",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a32240",
+      "title": "DB손해보험, 부산 신사옥 준공…부울경 영업 거점 강화",
+      "description": "DB손해보험이 부산 신사옥 준공을 마치고 부산·울산·경남 지역 거점 강화에 나선다. 22일 DB손보는 지난 19일 부산진구 부전동 DB손보 부산사옥 2층 강당에서 신사옥 준공식을 열었다고 밝혔다. 이번 준공식은 부산사옥...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=263499",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1709c5",
+      "title": "[A 보험가 소식] DB손해보험, 부산 신사옥 준공식...부울경 지역 거점 본...",
+      "description": "△DB손해보험, 부산 신사옥 준공식...부울경 지역 거점 본격 출발=DB손해보험은 지난 19일 부산진구 부전동에 위치한 신사옥 2층 강당에서 준공식을 개최하며 부산·울산·경남(부울경) 지역 거점으로서의 본격적인...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=253044",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ddcec6",
+      "title": "DB손해보험, 부산 신사옥 준공…\"지역사회 상생 거점\"",
+      "description": "부울경 고객 서비스 향상 기대 아주경제=이성진 기자 leesj@ajunews.com 지난 19일 부산광역시 부산진구 부전동 DB손해보험 부산사옥에서 김정남 DB그룹 부회장(오른쪽 일곱 번째)과 정종표 DB손해보험 사장(오른쪽 여섯...",
+      "url": "https://www.ajunews.com/view/20260622172028045",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2e27bd",
+      "title": "DB손해보험 '119 안전리더 캠프' 열고 순직소방관 자녀 도와",
+      "description": "화이트페이퍼, WHITEPAPER(사진=DB손해보험)  DB손해보험이 소방청과 손잡고 청소년들이 재난 대응 능력을 배우며 안전의식을 고취할 수 있는 체험 프로그램을 선보인다. 프로그램 참가비 전액은 소방가족희망나눔을...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263754",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e7be06",
+      "title": "보험업계 지급여력비율 216.1%… 4분기 연속 개선세",
+      "description": "현대해상은 전 분기 대비 17.0%포인트 오른 207.2%를 기록했으며 DB손해보험(232.1%)과 삼성화재(270.1%)도 각각 13.9%포인트, 7.3%포인트 상승했다. 반면 메리츠화재(240.6%)와 KB손해보험(185.9%)은 각각 0.7%포인트, 5.7%포인트...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=41919",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-04b3be",
+      "title": "DB손보, 부산 신사옥 준공…지상 24층 규모 '지역거점' 구축",
+      "description": "DB손해보험이 부산·울산·경남(부울경) 지역 거점으로서의 본격적인 출발을 알리는 부산 신사옥 준공식을 열었다. DB손해보험은 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=854",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1a814d",
+      "title": "DB손보, 부산 신사옥 준공식 진행…부울경 지역 거점 본격 가동",
+      "description": "DB손해보험이 부산·울산·경남 지역 거점 역할을 할 부산사옥 준공식을 열었다. DB손해보험은 지난 19일 부산 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을 개최했다고 22일 밝혔다. DB손해보험...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=131947",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a13801",
+      "title": "DB손보, 부산 신사옥 완공…정종표 대표 “글로벌 시장 도전”",
+      "description": "DB손해보험이 부산 신사옥 준공식을 열고 부산·울산·경남 지역 거점으로서 출발을 알렸다. DB손보는 부산광역시 진구 사옥 2층 강당에서 준공식을 했다고 22일 밝혔다. DB손보의 부산 사옥은 지난 2022년 첫 삽을 뜬 뒤...",
+      "url": "https://www.g-enews.com/view.php?ud=202606221706026902a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7fae7f",
+      "title": "DB손보, 부울경 거점 ‘구축’… 정종표 대표 \"더 큰 도약의 시작\"",
+      "description": "DB손해보험이 부산·울산·경남(부울경) 지역 거점이 될 부산사옥의 출발을 알렸다. 정종표 DB손보 대표는 \"글로벌 시장에서의 새로운 도전, 더 큰 도약의 시작\"이라고 강조했다. DB손보는 지난 19일 부산진구 부전동...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003033065?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:09:00+09:00"
+    },
+    {
+      "id": "DB손해보험-de8196",
+      "title": "[iN The Scene] DB손보 부산 신사옥 준공…김정남 부회장 “지역상생 공...",
+      "description": "인더뉴스 문승현 기자ㅣDB손해보험(대표 정종표)은 19일 부산 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을 열었다. 2022년 6월 첫삽을 뜬 DB손해보험 부산사옥은 4년의 공사를 거쳐 이달 2일 완공됐다. 지하...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=88363",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a2954",
+      "title": "DB손해보험, 부산 신사옥 준공",
+      "description": "컨슈머타임스=김예령 기자 | DB손해보험이 부산 신사옥 준공을 마쳤다. 22일 DB손해보험에 따르면 회사는 지난 19일 DB손해보험 부산사옥 부산진구 부전동 DB손해보험 부산사옥에서 준공식을 열고 부산·울산·경남...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=710625",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:06:00+09:00"
+    },
+    {
+      "id": "DB증권-13c666",
+      "title": "메디톡스, 뉴럭스주200단위 허가보다 커진 '주가 문제'···주주 신뢰 시...",
+      "description": "지난 5월 27일 DB증권 김지은 애널리스트는 메디톡스에 대해 \"톡신 사업의 이익 모멘텀은 유효하지만, 소송 리스크가 지속되는 한 투자심리 회복에는 한계가 있다\"고 분석했다. 그러면서 \"연내 소송 리스크가 지속되고...",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=119253",
+      "source": "www.koreastocknews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T17:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dcef82",
+      "title": "[보험 NOW] DB손보·동양생명·현대해상·교보생명",
+      "description": "■ DB손보, 초등생 400명 대상 '프로미119 안전리더 캠프' 참가자 모집 DB손해보험이 청소년 대상 안전체험 프로그램인 '제3회 프로미119 안전리더 캠프' 참가자 모집에 나선다. 22일 보험업계에 따르면 DB손보는 오는 8월...",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188898",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3459af",
+      "title": "DB손보, 부산 신사옥 준공식 개최",
+      "description": "DB손해보험은 지난 19일 부산 부산진구 DB손보 부산사옥 2층 강당에서 신사옥 준공식을 열었다고 22일 밝혔다. 지난 2022년 6월 첫 삽을 뜬 DB손보 부산사옥은 약 4년간의 공사를 거쳐 지난 2일 완공됐다. 지하 8층부터 지상...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005779812?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cefc03",
+      "title": "DB손보, 부산 신사옥 준공...김정남 \"부울경 지역 거점\"",
+      "description": "더트래커 박민정 기­자 mjp@thetracker.co.kr 더트래커 = DB손해보험이 부산 신사옥을 준공하고 부산·울산·경남(부울경) 지역 거점으로서의 본격적인 출발을 알렸다. DB손해보험은 지난 19일 부산진구 부전동 DB손해보험...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4121280",
+      "source": "thetracker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-09500b",
+      "title": "DB손해보험, 부산 신사옥 준공…부울경 지역 거점 구축",
+      "description": "지방 금융 벨트의 핵심인 동남권 시장을 선점하고 현지 밀착형 고객 접점을 넓히기 위해 DB손해보험이 약 4년 만에 부산 신사옥을 완공했다. DB손해보험은 지난 19일 부산진구 부전동에 위치한 부산사옥에서 신사옥...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1005443",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9b5134",
+      "title": "DB손해보험, 부산 신사옥 준공으로 '부울경 시대' 개막…청소년 안전캠...",
+      "description": "DB손해보험이 부산·울산·경남(부울경) 지역의 새로운 거점이 될 부산 신사옥을 완공하고, 미래 인재 양성을 위한 청소년 안전 캠프를 개최하는 등 지역사회 상생과 영토 확장에 본격적으로 나선다. ■ 지하 8층·지상...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=99920",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T17:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-29e2f0",
+      "title": "DB손해보험, 부산 서면 신사옥으로 부울경 거점 강화",
+      "description": "DB손해보험이 부산 신사옥 준공을 계기로 부산·울산·경남 지역 영업 기반 강화에 나선다. 22일 DB손해보험에 따르면 회사는 지난 19일 부산진구 부전동 DB손해보험 부산사옥 2층 강당에서 신사옥 준공식을 진행했다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=124466",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-53bafa",
+      "title": "DB손해보험, 부산 신사옥 준공식 거행",
+      "description": "지난 19일 부산광역시 부산진구 부전동 DB손해보험 부산사옥에서 김정남 DB그룹 부회장(오른쪽 일곱 번째)과 DB손해보험 정종표 사장(오른쪽 여섯 번 째), 그리고 관계자들이 준공식 기념촬영을 하고 있다. 사진...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7170814",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f72a51",
+      "title": "[보험업계 동향] DB손해보험ㆍ현대하이카손해사정ㆍKB손해보험ㆍDB생명...",
+      "description": "■ DB손해보험, '프로미119 안전리더 캠프' 참가자 모집 - 초등 4~6학년 400명 선착순 접수…8월 1~4일 전북서 진행 - 참가비 전액 순직소방공무원 자녀 장학금으로 기부 [위클리오늘=홍정기 기자] DB손해보험이 청소년...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=781194",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:46:00+09:00"
+    },
+    {
+      "id": "DB생명-f72a51",
+      "title": "[보험업계 동향] DB손해보험ㆍ현대하이카손해사정ㆍKB손해보험ㆍDB생명...",
+      "description": "회사 측은 하반기 보험 설계사 전용 AI 등 영업 채널 지원 서비스로 범위를 넓혀 전사 AI 생태계를 구축하겠다고 밝혔다. DB생명은 지난 5월 업계 최초로 AI 건강코칭 서비스를 선보이는 등 AI 활용 범위를 확대하고...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=781194",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-de2423",
+      "title": "[코스피 지수선물 옵션] 반도체 중심 재편 지속…SK하이닉스·삼성전자...",
+      "description": "금융주에서는 KB금융, 신한지주, 하나금융지주, 우리금융지주, 메리츠금융, 삼성생명, 삼성화재, DB손해보험 등이 동반 거래를 이어가며 금리 기대 변화에 민감하게 반응하고 있다. 소비·유통 및 식품 섹터에서는 신세계...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462145",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-de2423",
+      "title": "[코스피 지수선물 옵션] 반도체 중심 재편 지속…SK하이닉스·삼성전자...",
+      "description": "반도체 장비와 소재 섹터에서는 원익IPS, 주성엔지니어링, 리노공업, DB하이텍, 이수페타시스, LG이노텍, LG디스플레이 등이 엇갈린 흐름을 보이고 있다. 특히 장비주 중심으로는 기관 매수세가 유입되며 종목별 차별화가...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462145",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-55d0b6",
+      "title": "갱신까지 건강하면 100세까지 무료…DB손보 배타적 도전",
+      "description": "DB손해보험이 가입 후 첫 갱신이 도래하기까지 건강을 유지하면 향후 보험료 없이 100세까지 보장하는 담보를 선보였다. 22일 DB손보에 따르면 '건강관리보험기간연장대상보장' 담보를 개발하고 손해보험...",
+      "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=225258",
+      "source": "www.kbanker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-141772",
+      "title": "DB손보, '제3회 프로미 119 안전리더 캠프' 참가자 모집",
+      "description": "DB손해보험이 청소년 안전교육 체험 프로그램 참가자를 모집한다. DB손해보험은 청소년들이 체계적인 안전교육과 체험을 통해 안전의식을 기를 수 있도록 '제3회 프로미 119 안전리더 캠프' 참가자를 모집한다고 22일...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=131941",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-37c3d9",
+      "title": "코스피, 9110선 사상 최고치 마감...SK하이닉스, 삼성전자 제치고 시총 ...",
+      "description": "기가비스, 파두, 피에스케이홀딩스, DB하이텍, 원익IPS, 테스 등도 동반 상승하며 반도체 밸류체인 전반에 매수세가 확산됐다. 건설주도 견조했다. 성도이엔지는 9.27% 상승했고 대우건설은 2.59%, 삼성E&A는 2.57...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462114",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a84911",
+      "title": "보험사도 주담대 5%대로 인상… 대출 수요 몰리자 관리 돌입",
+      "description": "삼성화재는 안정적인 보험계약 유지를 위해 일부 장기보험 상품의 보험계약대출을 중단했다. 이외에도 현대해상·DB손해보험·한화손해보험·KB손해보험 등 대형 보험사들이 상품별 대출 한도를 조정해 운영하고 있다.",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1383949",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6c4528",
+      "title": "DB손보,'프로미119 안전리더 캠프' 참가자 선착순 모집",
+      "description": "DB손해보험이 소방청과 손잡고 청소년들이 재난 대응 능력을 배우며 안전의식을 고취할 수 있는 특별한 여름철 체험 프로그램을 선보인다. DB손해보험은 청소년들이 체계적인 안전 교육을 경험하며 미래의 안전리더로...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=823",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d9e020",
+      "title": "DB하이텍 주가, 6월 22일 174,000원 11.47% 상승 마감",
+      "description": "22일 KRX 마감 기준, 네이버페이 증권에 따르면 DB하이텍은 지난 종가 대비 11.47% 상승한 174,000원으로 거래를 마감했다. 주가는 시가 152,800원으로 출발하여 하루 동안 152,100원의 저점과 174,300원의...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16106564",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T16:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-af12d5",
+      "title": "[거래소 기관] SK하이닉스 삼성전기 SK스퀘어 LG전자 '폭풍매수' 눈길.....",
+      "description": "현대모비스, 삼성전자우, POSCO홀딩스, DB하이텍, LG에너지솔루션 등도 포함되며 전통 대형주와 소재·에너지까지 고르게 자금이 유입되는 흐름이다. 이 밖에도 SK텔레콤, 셀트리온, KB금융, HD현대일렉트릭, 두산...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462117",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-182858",
+      "title": "DB손해보험, '제3회 프로미119 안전리더 캠프' 청소년 참가자 모집",
+      "description": "DB손해보험이 청소년들의 안전의식 제고를 위한 체험 캠프를 운영한다. 22일 DB손해보험에 따르면 회사는 '제3회 프로미119 안전리더 캠프' 참가자를 모집한다. 올해로 3회째를 맞은 '프로미119 안전리더 캠프'는...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=124438",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T16:00:00+09:00"
+    },
+    {
+      "id": "DB생명-c11b2b",
+      "title": "DB생명, 임직원용 AI 포털 DBAI 2단계 서비스 오픈",
+      "description": "서비스로 범위를 넓혀, 전사 AI 생태계를 만들어 가겠다\"라고 덧붙였다. 아울러 DB생명은 지난 5월 22일 생명보험업계 처음으로 'AI 건강코칭 서비스'를 출시하는 등 전사적인 디지털 전환과 AI 대중화에 고삐를 죄고 있다.",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309136",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T16:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0fb52c",
+      "title": "[1% 초고수의 선택] 시총 순위 변동 속 '삼성전자' 매수, 'SK하이닉스' 매...",
+      "description": "DB하이텍(11.47%), 삼성전기우(17.92%), 원익IPS(10.58%), 하나마이크론(15.92%) 등이 차례로 순매도 4, 5, 6, 10위에 올랐다. 이날 상위 1% 투자자들은 반도체 섹터 내에서의 롱숏(Long-Short) 및 순환매 대응에 나선 것으로...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713432",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T15:48:00+09:00"
+    },
+    {
+      "id": "DB생명-4c3010",
+      "title": "[금융 브리핑] DB생명·교보생명·KB손해보험",
+      "description": "DB생명 디지털혁신본부 데이터전략팀장은 \"이번 2단계 오픈으로 반복 업무가 자동화되면서 전사 업무 효율이 한 단계 도약할 것으로 기대한다\"며, \"하반기에는 보험 설계사 전용 AI 등 영업 채널을 돕는 서비스로...",
+      "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90099",
+      "source": "www.niceeconomy.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T15:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a554d4",
+      "title": "[EBN 데이터센터] 22일 상승 종목 30選…비비안·부국철강 가격제한폭까...",
+      "description": "미래산업 4만7450원, 대양금속 2065원, 프리티 301원, DB하이텍 17만4000원, SK스퀘어 197만원, 케이씨텍 9만4000원도 두 자릿수 상승률로 상위권에 올랐다. 코스피에서는 우선주와 반도체 관련 종목의 탄력이...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713431",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T15:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e56559",
+      "title": "한 해 적자 7080억 車보험…경상환자 '8주룰' 연기에 손보사 속앓이",
+      "description": "올해 1분기 5대 손보사인 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험의 자동차보험 합산 손익은 461억 원 적자였다. KB손보 249억 원, 현대해상 140억 원, 삼성화재 96억 원, 메리츠화재 64억 원 적자를...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263750",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T15:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ee1dbf",
+      "title": "[손보업계 소식] 롯데손해보험, 현대하이카손해사정, KB손해보험, DB손해...",
+      "description": "◆DB손해보험, ﻿'제3회 프로미119 안전리더 캠프' 청소년 참가자 모집 DB손해보험은 ﻿'제3회 프로미 119 안전리더 캠프' 참가자를 모집한다고 22일 밝혔다. ﻿프로미119 안전리더 캠프는 DB손보와 소방청이 공동 주최하고...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=263404",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T15:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2b5123",
+      "title": "[광주소식]서구, '서구민 자전거보험' 재가입 등",
+      "description": "보험금 청구는 서구청 누리집에서 서류를 준비해 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청하면 된다. ◇남구, 청소년 대상 '퍼퓸 디자이너' 진로 체험 운영 광주 남구는 27일 남구 청소년도서관에서...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014020666?sid=102",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T15:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d08c84",
+      "title": "[보험사 풍향계] 교보생명, 12년 연속 무디스 ‘A1’ 등급 획득 外",
+      "description": "◇ DB손해보험, '프로미 119 안전리더 캠프' 참가자 모집 DB손해보험과 소방청이 청소년들의 안전 의식 함양을 위한 '제3회 프로미 119 안전리더 캠프' 참가자를 모집한다. 이번 캠프는 전북소방본부와 남원시가 주관하는...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260622029545379",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T15:28:00+09:00"
+    },
+    {
+      "id": "DB생명-d08c84",
+      "title": "[보험사 풍향계] 교보생명, 12년 연속 무디스 ‘A1’ 등급 획득 外",
+      "description": "DB생명은 올 하반기 보험 설계사 전용 AI 등 영업 채널을 지원하는 서비스로 범위를 확장, 전사 AI 생태계를 만든다는 계획이다. ◇ 현대하이카손해사정, 어린이마을에 자전거 기부 현대해상의 자회사...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260622029545379",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T15:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-711576",
+      "title": "광주 서구민 28만 명 자전거 사고 최대 3000만 원 보장",
+      "description": "DB손해보험 안내센터를 통해서도 신청할 수 있다. 화정동에 거주하는 주민 최(여,45)씨는 “ 자전거를 타다보면 예기치못한 사고가 날까봐 불안했는데, 최대 3000만원까지 보장해주는 보험이있어 큰 위안이 된다”며 이어...",
+      "url": "https://gj.newdaily.co.kr/site/data/html/2026/06/22/2026062200204.html",
+      "source": "gj.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e7701c",
+      "title": "DB금융계열사, 안전교육·AI 혁신으로 미래 경쟁력 강화",
+      "description": "DB손해보험은 '제3회 프로미119 안전리더 캠프' 참가자를 선착순 모집한다고 22일 밝혔다. 프로미119 안전리더 캠프는 DB손해보험과 소방청이 공동 주최하는 청소년 안전교육 프로그램으로, 오는 8월 전북119안전체험관과...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=203796",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:26:00+09:00"
+    },
+    {
+      "id": "DB생명-e7701c",
+      "title": "DB금융계열사, 안전교육·AI 혁신으로 미래 경쟁력 강화",
+      "description": "이러한 변화 흐름 속에서 DB손해보험과 DB생명의 이번 사업도 각각 안전교육과 AI 업무 혁신을 통해 보험업의 핵심 기능인 위험 관리 역량을 확장하는 사례로 해석된다.",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=203796",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T14:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-260593",
+      "title": "\"참가비가 전액 장학금으로\"… DB손해보험, '순직소방관 자녀' 돕는 착한...",
+      "description": "DB손해보험이 청소년들이 체계적인 안전 교육과 생생한 체험을 통해 안전의식을 기르고 미래의 안전 리더로 성장할 수 있도록 돕는 '제3회 프로미119 안전리더 캠프'의 참가자 모집을 오는 25일부터 시작한다고 22일...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=125871",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-259077",
+      "title": "DB손보, 청소년 대상 '제3회 프로미119 안전리더 캠프' 참가자 모집",
+      "description": "DB손해보험이 소방청과 손잡고 청소년 안전체험 프로그램을 전개한다. DB손보는 청소년들이 체계적인 안전 교육과 생생한 체험을 통해 안전 리더로 성장할 수 있도록 돕는 '제3회 프로미119 안전리더 캠프' 참가자를...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1005383",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-63853c",
+      "title": "DB손해보험, '프로미119 안전리더 캠프' 참가자 모집",
+      "description": "이미지/ DB손해보험 제공 DB손해보험이 여름방학을 맞아 전국 초등학생들을 대상으로 체험형 안전교육 프로그램인 '제3회 프로미119 안전리더 캠프'를 개최한다. '프로미119 안전리더 캠프'는 DB손해보험과 소방청이 공동...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154618",
+      "source": "www.koreaittimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c8aab9",
+      "title": "[보험사 이모저모] DB손해보험, KB손해보험, 현대하이카손해사정",
+      "description": "DB손해보험이 청소년 안전리더 캠프 참가자를 모집한다. 사진=DB손해보험  ◆DB손해보험, 청소년 안전리더 캠프 참가자 모집 DB손해보험은 청소년들이 체계적인 안전 교육과 체험으로 안전의식을 기르고 미래...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=139135",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-134a75",
+      "title": "광주 서구, 구민 28만 명 자전거보험 자동가입",
+      "description": "보험금 청구는 서구청 누리집 분야별정보의 도시·환경·위생 자전거 항목에서 관련 서류를 확인한 뒤 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청하면 된다. 김이강 서구청장은 \"자전거는 누구나 쉽게...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1267506",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T14:12:00+09:00"
+    },
+    {
+      "id": "DB증권-7858cc",
+      "title": "[더벨][중앙미디어 회생신청] 증권사, '공모주 하이일드펀드' 긴급 점검",
+      "description": "18일 금융투자업계에 따르면 DB증권과 BNK투자증권, iM증권, 미래에셋증권 등 주요 판매사들은 최근 자산운용사들을 대상으로 공모주 하이일드 펀드 내 중앙일보 관련 채권 및 전자단기사채 편입 현황을 파악하는 공문을...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606181047340560108714",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T13:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-17702c",
+      "title": "[더밸류 브리핑] 오늘의 DB 보험 소식…DB손보·DB생명",
+      "description": "DB손해보험이 여름방학을 맞이한 청소년들이 재난 대응 능력을 몸소 익히고, 참가비 기부로 순직 소방관 자녀들을 돕는 안전 체험의 장을 마련했다. DB생명이 거대언어모델(LLM)과 최신 검색 기술을 융합한 임직원용...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199520",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T13:50:00+09:00"
+    },
+    {
+      "id": "DB생명-17702c",
+      "title": "[더밸류 브리핑] 오늘의 DB 보험 소식…DB손보·DB생명",
+      "description": "◆ DB생명, ‘DBAI’ 2단계 오픈…자사 업무용 AI 포털 서비스 DB생명보험(대표이사 김영만)은 지난 19일 임직원 및 전담 상담사의 실무 효율을 지원하는 자사 업무용 AI 포털 서비스 ‘DBAI’의 2단계 고도화 버전을 전격...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199520",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-06-22T13:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-efff10",
+      "title": "[광주 소식] 광주시립극단 '출장연극' 순회·북구 사회적가치지표 개선...",
+      "description": "보험금 청구는 서구청 누리집의 관련 서류를 준비해 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청하면 된다. 김이강 서구청장은 \"자전거원은 누구나 쉽게 이용하는 생활 교통수단인 만큼 구민들이...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=844645",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T13:42:00+09:00"
+    },
+    {
+      "id": "DB하이텍-267407",
+      "title": "AI 데이터센터 확대 수혜 본격화…반도체 밸류체인 재평가 시작",
+      "description": "케이씨텍과 엘티씨, 아이텍, 원익QnC, 피델릭스, 삼양엔씨켐, DB하이텍, 티에스이 역시 반도체 소재와 검사, 테스트 분야에서 성장 기대감이 반영되고 있다. 타이거일렉과 SK하이닉스는 첨단 패키징 및 HBM 시장 확대 기대...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462031",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T13:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a790a9",
+      "title": "광주 서구, 구민 28만명 자전거보험 자동가입 '눈길'",
+      "description": "보험금 청구는 서구청 누리집 분야별정보(도시/환경/위생-자전거)란의 관련 서류를 준비해 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청하면 된다. 김이강 서구청장은 \"자전거는 누구나 쉽게 이용하는...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=62827",
+      "source": "www.newswhoplus.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T13:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a968d3",
+      "title": "초고수는 삼성전기 담고 SK하이닉스 덜었다…AI 수혜주 옥석가리기[주식...",
+      "description": "반면 SK하이닉스와 삼성전기우선주, DB하이텍은 순매도 상위권에 올랐다. 인공지능(AI)·반도체 랠리가 이어지는 가운데 초고수들은 급등한 종목에 대해서는 차익 실현에 나서고 상대적으로 덜 오른 종목을 담는...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004633622?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T13:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-05f731",
+      "title": "전력 효율 경쟁 시대 개막… 차세대 반도체 수혜주 찾아라",
+      "description": "DB하이텍도 4.10% 상승한 16만2500원에 거래중이며 전력반도체와 파운드리 사업 경쟁력을 바탕으로 성장 기대감이 이어지고 있다. LB세미콘은 후공정 테스트와 패키징 기술력을 바탕으로 반도체 공급망에서 역할을...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462024",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-22T13:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d0b804",
+      "title": "DB손보, 안전리더 캠프 참가자 모집",
+      "description": "DB손해보험은 소방청과 공동 주최로 청소년 안전의식 고취를 위한 ‘제3회 프로미119 안전리더 캠프’ 참가자 400명을 선착순 모집한다고 22일 밝혔다. 이번 캠프는 전국 초등학교 4~6학년 학생을 대상으로 하며, 오는...",
+      "url": "https://www.naeil.com/news/read/592721?ref=naver",
+      "source": "www.naeil.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T13:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-581195",
+      "title": "연금 2026년 6월 브랜드평판...미래에셋자산운용, 하나은행, NH농협은행",
+      "description": "한화자산운용, DB손해보험, 하나손해보험, IBK기업은행, KB국민은행, 아이엠뱅크, 하나생명보험, 현대해상화재보험, 광주은행, 우리자산운용, 한화손해보험, 우리은행, 롯데손해보험, 전북은행, 제주은행...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226254",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T12:38:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-a84fcb",
+      "title": "캐피탈 2026년 6월 브랜드평판...현대캐피탈, KB캐피탈, NH농협캐피탈 順",
+      "description": "MG캐피탈, DB캐피탈, JT캐피탈 순이었다. 캐피탈 브랜드평판 1위를 기록한 현대캐피탈 브랜드는 참여지수 387,989 미디어지수 497,534 소통지수 272,469 커뮤니티지수 574,725 사회공헌지수 111,177이 되면서...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226253",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T12:34:00+09:00"
+    },
+    {
+      "id": "DB저축은행-d916ed",
+      "title": "은행보다 싼 금리… 대출 받으러 보험사로 간다",
+      "description": "애큐온·JT친애·DB저축은행도 취급액이 늘었다. 소액신용대출 수요 증가는 규제 영향이 크다는 분석이다. 1억 원 이하 신용대출은 스트레스 DSR 규제 적용 대상에서 제외되며, 연소득 3500만 원 이하 차주는 대출 한도...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002799429?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-06-22T12:17:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b427b",
+      "title": "[경제소식] DB손보 '프로미119 안전리더 캠프' 모집",
+      "description": "2026.6.22./사진=DB손해보험 DB손해보험, '프로미119 안전리더 캠프' 참가자 모집 DB손해보험은 청소년 안전교육 체험 프로그램 '제3회 프로미 119 안전리더 캠프' 참가자를 모집한다고 22일 밝혔다. 올해로 3회째를 맞은 이번...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2113505",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T11:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-08c4fc",
+      "title": "손해율·증시·계리가정까지 … 보험사 2분기 셈법 복잡",
+      "description": "DB손해보험은 4286억원으로 전년 동기(6504억원)보다 34.1% 줄어들 것으로 예상된다. 현대해상의 별도 기준 당기순이익은 2320억원으로 전년 동기(2478억원) 대비 6.4% 감소할 것으로 전망됐다. 올해 1분기 보험사...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/22/2026062200134.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T11:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4426c4",
+      "title": "DB손해보험, '프로미119 안전리더 캠프' 참가자 모집",
+      "description": "DB손해보험이 청소년들의 안전의식 함양과 재난 대응 역량 강화를 위한 '프로미 119 안전리더 캠프' 참가자를 모집한다고 22일 밝혔다. 체험 중심 안전교육을 통해 미래 안전리더 육성에 나서는 모습이다. 이번 캠프는...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=306191",
+      "source": "www.cnbizm.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T11:52:00+09:00"
+    },
+    {
+      "id": "DB증권-2a7441",
+      "title": "[장현국의 원스토어]③ 적자 앱마켓에 626억…넥써쓰가 본 것",
+      "description": "이 CB는 웹젠, 히스토리투자자문, DB증권 등 펀드·기관 투자자들이 인수한다. 표면이자율은 0%이고 만기이자율은 연 3%다. 전환가액은 2524원이며 전환 가능 주식 수는 839만9366주다. 유상증자와 CB를 합친 조달액은 약...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086589?sid=105",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T11:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-05eea6",
+      "title": "[금융복합그룹]①삼성금융, 자본적정성 반등 '삼성電 좌지우지'",
+      "description": "삼성생명·한화생명·교보생명·DB손해보험이 그룹 자본의 중심이어서 킥스(K-ICS) 시행과 금리 하락이라는 동일한 환경에 노출됐다. 그러나 결과는 갈렸다. 순수 생명보험 중심인 한화·교보는 충격을 완충할...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001036586?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T11:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b810b9",
+      "title": "\"위기대응 몸으로 배운다\" DB손보, 6월25일까지 초등생 '안전리더 캠프...",
+      "description": "DB손해보험은 이달 25일까지 '제3회 프로미 119 안전리더 캠프' 참가자를 모집한다. [이미지 DB손보] DB손해보험은 이달 25일까지 청소년들이 체계적인 안전 교육을 통해 위기 상황 대처 능력을 기르고 미래의 안전...",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=125225",
+      "source": "www.catchnews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:53:00+09:00"
+    },
+    {
+      "id": "DB손해보험-548ff3",
+      "title": "[금융레이더]토스뱅크/BNK부산은행/DB손해보험/롯데손해보험/KB손해보험...",
+      "description": "◆DB손해보험, ‘프로미119 안전리더 캠프’ 참가자 모집 DB손해보험이 ‘제3회 프로미119 안전리더 캠프’ 참가자를 모집한다고 22일 밝혔다. 이번 캠프는 DB손해보험과 소방청이 공동 주최하는 청소년 안전교육 체험...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606220906422100161",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cd99f1",
+      "title": "DB손보, '프로미119 안전리더 캠프' 참가자 모집…초등생 400명 선착순 접...",
+      "description": "DB손해보험이 청소년 대상 안전체험 교육 프로그램인 '제3회 프로미119 안전리더 캠프' 참가자를 모집한다. DB손보는 소방청과 공동 주최하는 '프로미119 안전리더 캠프'를 오는 8월 1일부터 4일까지 3박 4일 일정으로...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=137591",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a83718",
+      "title": "광주 서구, 28만 구민 자전거보험 재가입…최대 3000만원 보장",
+      "description": "보험금 청구는 서구청 누리집 분야별 정보란에서 관련 서류를 내려받아 전자우편으로 제출하거나 DB손해보험 안내센터를 통해 신청할 수 있다. 김이강 서구청장은 \"자전거는 누구나 쉽게 이용하는 생활 교통수단인...",
+      "url": "http://www.siminsori.com/news/articleView.html?idxno=322111",
+      "source": "www.siminsori.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-286443",
+      "title": "광주 서구, 주민 28만명 자전거보험 자동가입 \"최대 3천만원 보장\"",
+      "description": "보험금 청구는 서구청 누리집 자전거 관련 메뉴에서 서류를 내려받아 제출하거나 DB손해보험 안내센터를 통해 신청할 수 있다. 김이강 서구청장은 \"자전거는 많은 주민들이 일상적으로 이용하는 교통수단인 만큼...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005779526?sid=102",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:33:00+09:00"
+    },
+    {
+      "id": "DB증권-cc3aba",
+      "title": "돈은 벌고 책임은 '뒷전'…ESG 하위권 증권사들 '초긴장'",
+      "description": "상상인증권, 한양증권, 코리아에셋투자증권은 B등급에 그쳤고, 대신증권과 DB증권은 B+에 머물렀다. A등급 이상을 받은 증권사들과 비교하면 사회책임경영 수준의 격차가 뚜렷하다. KCGS의 사회(S) 부문 평가는 단순한...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=131885",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T10:30:00+09:00"
+    },
+    {
+      "id": "DB증권-1941ea",
+      "title": "올해만 주가 735% 폭등한 삼성전기…증권가는 \"여전히 싸다\"",
+      "description": "KB증권, DB증권 등은 삼성전기의 실적과 업황이 아직 과소평가된 만큼 추가 반등 여력이 충분하다며 목표주가를 300만 원으로 상향 조정하기도 했다. KB증권은 특히 GPU 아키텍처와 ASIC(주문형반도체)의 고사양화 흐름이...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001015584?sid=101",
+      "source": "www.imaeil.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-22T10:29:00+09:00"
+    },
+    {
+      "id": "DB손해보험-151db0",
+      "title": "DB손보, 여름방학 맞아 청소년 안전체험 캠프 운영...참가자 모집",
+      "description": "▲ DB손해보험이 '프로미119 안전리더캠프' 참가자를 모집한다.(사진: DB손해보험 제공) DB손해보험이 여름방학을 맞아 청소년들이 재난 상황 대처 능력과 안전의 중요성을 직접 체험할 수 있는 교육 프로그램을...",
+      "url": "https://idsn.co.kr/news/view/1065575940582291",
+      "source": "idsn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a96100",
+      "title": "“미래 안전리더 찾아요” DB손보, 청소년 119캠프 참가자 모집",
+      "description": "DB손해보험이 청소년들이 미래의 안전리더로 성장할 수 있도록 지원하는 캠프를 운영한다. DB손보는 ‘제3회 프로미 119 안전리더 캠프’ 참가자를 모집한다고 22일 밝혔다. 이 캠프는 DB손보와 소방청이 공동 주최하고...",
+      "url": "https://www.g-enews.com/view.php?ud=202606191606188532a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-56125a",
+      "title": "DB손보, 프로미 안전캠프 청소년 참가자 모집",
+      "description": "이미지=DB손해보험  DB손해보험이 소방청과 손잡고 청소년들에게 실전형 안전 지식을 전수하며 미래의 안전 전문가를 육성하는 사회공헌 활동에 나선다. DB손보는 청소년들이 다채로운 체험 활동을 통해 안전의식을...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309061",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2fd71e",
+      "title": "[빅데이터투데이] 연금 2026년 6월 브랜드평판 랭킹... 1위 미래에셋자산...",
+      "description": "한화자산운용, DB손해보험, 하나손해보험, IBK기업은행, KB국민은행, 아이엠뱅크, 하나생명보험, 현대해상화재보험, 광주은행, 우리자산운용, 한화손해보험, 우리은행, 롯데손해보험, 전북은행, 제주은행 연금...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=386664",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T09:58:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-a2d383",
+      "title": "[빅데이터투데이] 캐피탈 2026년 6월 브랜드평판 랭킹... 1위 현대캐피탈...",
+      "description": "MG캐피탈, DB캐피탈, JT캐피탈 순으로 집계됐다. 구창환 한국기업평판연구소 소장은 \"현대캐피탈이 커뮤니티와 미디어 지표에서 압도적 강점을 발휘하며 캐피탈 브랜드평판 1위를 수성했다\"며 \"브랜드이슈가...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=386662",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T09:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0ede7e",
+      "title": "[금융권 이모저모]신용보증기금, 녹색전환 기업에 1900억원 보증 外",
+      "description": "DB손해보험 '제3회 프로미119 안전리더 캠프' 홍보 이미지. / 그래픽=DB손해보험 ◇DB손해보험, 프로미119 안전리더 캠프 참가자 모집 DB손해보험은 '제3회 프로미119 안전리더 캠프' 청소년 참가자를 모집한다고 22일...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=113127",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T09:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5798e6",
+      "title": "[#금융톡톡] KB손보 아이스버킷 챌린지 후원·롯데손보 디지털 헬스케어...",
+      "description": "DB손해보험은 청소년 대상 안전교육 프로그램 참가자 모집에 돌입했다. ◆KB손해보험 '아이스버킷 챌린지 RUN' 후원 KB손해보험은 지난 20일 서울 반포한강공원 달빛광장에서 열린 '2026 아이스버킷 챌린지 RUN in Seoul'에...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=844601",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-22T09:32:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-6a0d71",
+      "title": "현대캐피탈, 6월 캐피탈 브랜드평판 1위 독주…우리금융캐피탈 74% '폭풍...",
+      "description": "MG캐피탈, DB캐피탈, JT캐피탈 순으로 나타났다. 구창환 한국기업평판연구소 소장은 \"6월 캐피탈 브랜드 카테고리를 분석한 결과, 세부 지표에서 소통과 확산 지표는 주춤했으나 브랜드 공헌이 5.48%, 특히 브랜드 이슈...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=124381",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-06-22T09:10:00+09:00"
+    },
     {
       "id": "DB캐피탈-2a3818",
       "title": "현대캐피탈, 캐피탈 브랜드평판 6월 빅데이터 1위...\"안정적 성장세 구...",
