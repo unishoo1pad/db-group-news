@@ -1,7 +1,871 @@
-// 자동 생성 파일 — 2026-06-26
+// 자동 생성 파일 — 2026-06-27
 const NEWS_DATA = {
-  "lastUpdated": "2026-06-26",
+  "lastUpdated": "2026-06-27",
   "articles": [
+    {
+      "id": "DB증권-930e50",
+      "title": "유가는 되돌렸는데 달러는 강세…환율, 결국 금리의 문제",
+      "description": "문홍철 DB증권 연구원은 \"유가가 전쟁 이전 수준에 거의 근접하는 수준까지 하락했으나 달러-원 환율은 당분간 높은 수준에 머무를 것\"이라며 \"유가 부담은 완화됐지만 중앙은행의 통화정책 변수는 여전히 남아 있다\"고...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422156",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-27T07:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ccce06",
+      "title": "[주간 거래소 기관] 삼성전기 삼성전자우 DB하이텍 SK 폭풍매수...삼성전...",
+      "description": "한국거래소에 따르면 지난 22일부터 26일까지 기관 순매수 상위 종목에는 삼성전기, 삼성전자우, DB하이텍, SK, 삼성물산, 삼양식품 등이 이름을 올렸다. 이어 한국항공우주, 대한항공, LIG디펜스앤에어로스페이스...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463508",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-27T06:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-42d08a",
+      "title": "[주간 거래소 외국인] 삼성전자 SK하이닉스 차익실현 지속... HD현대중공...",
+      "description": "이어 삼성전기, SK, 한화오션, 삼성전기우, NAVER, LS ELECTRIC, 한미반도체, 한온시스템, DB하이텍, LIG디펜스앤에어로스페이스, LG디스플레이, 한국항공우주, LG씨엔에스, HL만도가 순매도 대상에 포함됐다. SK하이닉스와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463507",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-27T06:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9d800e",
+      "title": "DB손보, '청소년 안전리더 캠프' 개최…참가비 전액 기부",
+      "description": "DB손해보험은 소방청과 함께 오는 8월 1일부터 4일까지 3박 4일간 전북 임실군에 위치한 전북119안전체험관에서 '제3회 프로미 119 안전리더 캠프'를 개최한다. 이 캠프는 청소년들이 안전 교육과 체험을 통해...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=304762",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-27T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-e9b8ca",
+      "title": "\"코스피 7700선까지 밀릴 수도\"…7월은 변동성 장세",
+      "description": "DB증권은 금리가 오를수록 성장주보다 가치주가 강세를 보이는 경향이 있다며 역사적 평균 대비 주가 수준이 낮으면서 이익 증가율이 양호한 호텔레저·화장품·음식료 업종을 대안으로 제시했다.",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256758?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-27T05:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9e51fa",
+      "title": "김홍택·정한밀·왕정훈 '피 말리는 3파전'… 그 뒤엔 '3연패 노리는' 장...",
+      "description": "DB손해보험 프로미오픈과 코오롱 한국오픈에서 기록한 공동 3위가 올 시즌 최고 성적이다. 이날 경기 후 왕정훈은 \"14번 홀(파4)에서 짧은 거리 퍼트를 놓치고, 16번 홀(파5)에서 더블보기를 해서 아쉽다\"면서도 \"이 2개...",
+      "url": "https://m.sports.naver.com/golf/article/014/0005540287",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T23:17:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1673ec",
+      "title": "DB손해보험, 'KBS119상' 24년 연속 후원",
+      "description": "사진=DB손해보험. DB손해보험은 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속으로 후원하고 있다고 26일 밝혔다. 'KBS119상'은...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1380453",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T22:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-086ee4",
+      "title": "왕정훈, 군산CC 오픈 2R 공동 선두...김홍택, 정한밀 합류",
+      "description": "올 시즌 '코오롱 제68회 한국오픈'과 '제21회 DB손해보험 프로미 오픈'에서 공동 3위가 시즌 베스트 성적이다. 김홍택은 \"오늘 티샷이 잘 안 돼서 아쉬웠다. 생각보다 공이 많이 휘어서 몇 차례 좋지 않은 위치세 볼이...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60910",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T21:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-433be6",
+      "title": "차량 5부제 차보험 특약, 시장 외면 속 가입률 1%대",
+      "description": "삼성화재가 1.70%로 가장 높은 수준을 기록했지만 KB손해보험(0.84%)·DB손해보험(0.38%)·현대해상(0.32%)·메리츠화재(0.12%) 등은 모두 1%를 밑돌았다. 전체적으로 보험사 간 가입률은 0.07%에서 4.41%까지 벌어지며 뚜렷한...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=243780",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T21:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6cb013",
+      "title": "왕정훈·김홍택·정한밀, KPGA 군산CC 오픈 2R 공동 선두",
+      "description": "시즌 최고 성적은 DB손해보험 프로미오픈과 코오롱 한국오픈에서 기록한 공동 3위다. 왕정훈은 경기 후 \"14번 홀(파4)에서 짧은 거리 퍼트를 놓치고, 16번 홀(파5)에서 더블보기를 해서 아쉽지만, 이 2개 홀만 빼면...",
+      "url": "https://m.sports.naver.com/golf/article/003/0014031227",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T19:39:00+09:00"
+    },
+    {
+      "id": "DB증권-beb5c2",
+      "title": "‘종전 수혜 기대’ 건설·방산주 사볼까 [S머니+]",
+      "description": "설태현 DB증권 연구원은 “미국과 이란의 종전 MOU에 언급된 이란 재건 펀드를 중심으로 민간 자본의 대형 프로젝트 발주 기대감이 고조되고 있다”며 “규제 완화, 국제 제재 해제 흐름을 반영한 ETF 투자 전략이...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635427?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T18:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ff016e",
+      "title": "[ESG경영] AI·ESG·인재 육성까지…'지속가능 성장' 위한 사회적 투자 ...",
+      "description": "DB손해보험은 'KBS119상'을 24년 연속 후원하며 소방공무원의 헌신을 응원했다. 올해 시상식에서는 대상을 포함해 총 28개 부문을 시상하고 상금과 치유 여행상품권 등을 제공했다. DB손해보험은 순직 소방공무원 유가족...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100085",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d75a42",
+      "title": "DB손해보험, 'KBS119상' 24년 연속 후원…소방공무원 헌신 응원",
+      "description": "DB손해보험이 소방공무원의 헌신을 격려하고 안전문화 확산을 위해 'KBS119상'을 24년 연속 후원하며 사회공헌 활동을 이어가고 있다. DB손해보험은 지난 2003년부터 한국방송공사(KBS)가 주최하는 'KBS119상'을 24년째...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=735290",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cd871a",
+      "title": "외국인 10조 던진 SK하이닉스, 개미가 10조 매수",
+      "description": "2~10위는 삼성전자우, DB하이텍, SK, 알테오젠, 심텍, 원익IPS, 삼성물산, 피에스케이, 삼양식품이었다. 기관이 가장 많이 매도한 10개 종목은 SK하이닉스, 삼성전자, HD현대중공업, 현대모비스, LG에너지솔루션...",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038404?sid=101",
+      "source": "weekly.donga.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T17:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4b3d9c",
+      "title": "퍼스트무버 DB손해보험…직면 과제는 美포테그라 시너지·투자금 회수",
+      "description": "DB손해보험이 베트남과 중국 등 신흥시장에서 해외사업 기반을 다진 데 이어 미국 특화보험사 포테그라를 품으며 선진시장 공략에 나섰다. 2조3000억원 규모의 대형 인수인 만큼 향후 투자금 회수와 인수 후 통합(PMI)...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086867?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-435c5e",
+      "title": "[보험Pick] KB손보·DB손보, 보험 서비스·사회공헌 확대",
+      "description": "DB손보, 'KBS119상' 24년 연속 후원 DB손해보험이 소방공무원 포상 제도인 'KBS119상'을 24년 연속 후원했다고 밝혔다. KBS119상은 1995년 삼풍백화점 붕괴사고 당시 인명 구조 활동을 펼친 소방대원을 포상하기 위해 1996년...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=256425",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8aba45",
+      "title": "[보험사 풍향계] KB손해보험, 의료기관 ‘맞춤형 보험서비스’ 확대 外",
+      "description": "◇DB손해보험, 24년 연속 소방공무원 후원 DB손해보험이 24년 연속 소방공무원을 격려하고 심신 안정을 지원하는 등 사회밀착형 사회공헌사업을 지속하고 있다. DB손보는 한국방송공사 주최 'KBS119상'을 2003년부터 후원...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260626026426924",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:14:00+09:00"
+    },
+    {
+      "id": "DB증권-46f421",
+      "title": "반도체 팹리스 해치텍, 상장 증권신고서 제출…DB증권 주관",
+      "description": "주관사는 DB증권이다. 26일 해치텍은 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 본격적인 절차에 돌입했다고 밝혔다. 증권신고서에 따르면 해치텍은 희망 공모가격 2만3000~2만8000원에, 공모 예정금액...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000510994?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T17:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8ba685",
+      "title": "티맵, 이동 데이터 사업 확대…'라이프 사이클 플랫폼' 전환",
+      "description": "이번 행사는 삼성화재, 현대해상, DB손해보험, KB손해보험 등이 참여하며 각 사 보험료를 조회할 때마다 9000포인트씩 지급돼 총 3만6000포인트를 받을 수 있다. 티맵모빌리티는  자동차 생활 전반을 아우르는 플랫폼으로...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034759",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T17:08:00+09:00"
+    },
+    {
+      "id": "DB증권-719981",
+      "title": "해치텍, 증권신고서 제출…코스닥 상장 절차 돌입",
+      "description": "상장주관회사는 DB증권이 맡았다. 지난 2017년 설립된 해치텍은 국산 기술을 통해 초소형·저전력·고정밀 반도체 센서 IC(집적회로) 기술을 갖춘 기업이다. 최근 △지자기 센서 △디지털 자기센서 △아날로그...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=528657",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T17:06:00+09:00"
+    },
+    {
+      "id": "DB증권-885099",
+      "title": "해치텍, 증권신고서 제출...R&D 투자 강화",
+      "description": "상장주관사는 DB증권이다. 2017년 설립된 해치텍은 해외 제품에 의존해온 자기장센서 분야에서 국산화를 실현한 초소형·저전력·고정밀 반도체 센서 IC(Integrated Circuit·집적회로) 기술을 갖췄다. 지자기 센서, 디지털...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=711315",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T17:04:00+09:00"
+    },
+    {
+      "id": "DB증권-85933f",
+      "title": "반도체 센서 IC 팹리스 기업 해치텍, 증권신고서 제출",
+      "description": "상장 주관사는 DB증권이다. 2017년 설립된 해치텍은 자기장 센서 분야에서 국산화를 이뤄낸 팹리스 기업으로, 초소형·저전력·고정밀 반도체 센서 IC 기술을 보유하고 있다. 지자기 센서와 디지털·아날로그 자기센서...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006315982?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T16:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cfe794",
+      "title": "메리츠證, 3천680억원 사모 신종자본 발행…연 5.6%",
+      "description": "이밖에 엠에프에스제일차 950억원, KB손해보험 500억원, DB손해보험 500억원, 산은캐피탈 300억원, 하나캐피탈 200억원, 코리안리재보험 200억원, KB라이프생명보험 100억원, IBK캐피탈 100억원, 하나손해보험 100억원...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422107",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:54:00+09:00"
+    },
+    {
+      "id": "DB증권-7ae27d",
+      "title": "'반도체 센서부품' 해치텍, 코스닥 상장 위한 증권신고서 제출",
+      "description": "상장 주관사는 DB증권이다. 2017년 설립된 이 회사는 초소형·저전력·고정밀 반도체 센서 IC(집적회로) 기술을 갖춘 곳이다. 지자기 센서, 디지털 자기센서, 아날로그 자기센서, 환경(온도, 온·습도) 센서 등을 개발...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303250?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dc02e0",
+      "title": "박윤동 대전 대덕소방서 소방위, ‘KBS119상’ 대상",
+      "description": "KBS가 주최하고 KBS미디어가 주관하며 소방청과 DB손해보험이 후원ㆍ협찬한다. 올해 시상식에선 박 소방위가 받은 대상 외에도 본상 21, 소방영웅상 2, 공로상 2, 봉사상(단체) 1, 특별상(단체) 1, 명예상(단체) 1점 등 총...",
+      "url": "http://fpn119.co.kr/253067",
+      "source": "fpn119.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18f913",
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 와르르...원익IPS·주...",
+      "description": "이 밖에도 고려아연, POSCO홀딩스, SK이노베이션, 삼성SDI, LG디스플레이, 대한항공, NH투자증권, 크래프톤, DB손해보험, 키움증권, 삼양식품, 한진칼, LG씨엔에스, 한화, 대한전선, 두산로보틱스, GS 등이 약세를 기록했다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463469",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-142e93",
+      "title": "[박수진의 머니워치] 사이드카·서킷브레이커 발동…코스피 8400선 마감",
+      "description": "개인 투자자 순매수 상위 종목은 SK하이닉스, SK스퀘어, 삼성전자, 현대차, 삼성전기 순이고, 순매도 상위는 삼성전자우, 미래에셋증권, 셀트리온, DB하이텍, LG이노텍이다. 또한 ETF 시장에서는 RISE 2차전지TOP10인버스...",
+      "url": "http://www.newswatch.kr/news/articleView.html?idxno=80237",
+      "source": "www.newswatch.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T16:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-80be2c",
+      "title": "[보험업계 동향] 삼성화재ㆍDB손해보험ㆍKB손해보험(6.26)",
+      "description": "■ DB손해보험, 'KBS119상' 24년째 후원…소방공무원 헌신 기려 - 소방공무원 포상 제도 장기 후원으로 안전문화 확산 - 순직 소방관 유가족 장학금 등 사회공헌 활동도 지속 지난 24일 서울시 여의도 KBS공개홀에서 열린...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=782080",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-482cbd",
+      "title": "삼풍비극 속 피어난 'KBS119상'… DB손해보험, 24년째 묵묵한 '소방관의...",
+      "description": "DB손해보험이 소방공무원들의 노고를 치하하고 사회 전반에 안전 문화를 확산하기 위해 한국방송공사(KBS)가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속으로 공식 후원하고 있다고 26일 밝혔다. 'KBS119상'은 지난 1995년...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126091",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8bde9a",
+      "title": "DB손해보험, 'KBS119상' 24년 연속 후원…소방공무원 헌신 응원",
+      "description": "DB손해보험이 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 'KBS119상'을 24년 연속 후원하는 등 사회밀착형 나눔 경영을 통해 상생 가치 확산에 나섰다. DB손해보험은 한국방송공사가...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=998",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T16:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8517e5",
+      "title": "(마감시황) 코스피 5%대 급락 '검은 금요일'…매도 사이드카·서킷브레...",
+      "description": "반면 KT(0.38%)와 한국타이어앤테크놀로지(3.51%), DB하이텍(0.19%), LG유플러스(1.50%), 가온전선(10.22%) 등 일부 종목은 상승했다. 이경민 대신증권 연구원은 \"애플의 제품 가격 인상으로 메모리 반도체 가격 급등에...",
+      "url": "https://www.news2day.co.kr/article/20260626500159",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T16:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ac10ed",
+      "title": "[거래소 기관] 삼성전기·SK· 현대차 집중 매수… 삼성전자 SK하이닉스...",
+      "description": "미래에셋증권과 DB하이텍, NAVER, 한미반도체에도 매수세가 이어졌다. 금융과 반도체, 인터넷 플랫폼 등 다양한 업종으로 매수 범위가 확대되면서 업종별 분산 투자 전략이 나타나는 모습이다. 이후 한국항공우주와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463439",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T16:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-77b820",
+      "title": "[거래소 외국인] 삼성전기 HD현대중공업 LG전자 삼성SDI 폭풍매수...삼성...",
+      "description": "DB하이텍과 LIG디펜스앤에어로스페이스, LG이노텍에서도 매도세가 이어지며 일부 IT와 방산 종목의 비중 조절이 이뤄졌다. 후반부에서는 셀트리온과 LG디스플레이, 한올바이오파마가 순매도 대상에 올랐다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463434",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T16:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b48dab",
+      "title": "당국, 보험계약대출 죄나…업계 \"소비자 불편 최소화해야\"",
+      "description": "메리츠화재·삼성화재·현대해상·KB손해보험·DB손해보험 등 손보사 5곳은 같은 기간 520억원 증가했다. 앞서 금융당국은 지난 4월 보험사들에 보험계약대출 리스크 관리를 주문했고, 주요 보험사들은 일부 상품의 대출...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361129",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d48ca2",
+      "title": "[Tech & Now] 티맵, 차보험료 조회하면 네이버 포인트 3.6만 지급",
+      "description": "행사는 삼성화재, 현대해상, DB손해보험, KB손해보험 등이 참여한다. 각 사 보험료를 조회할 때마다 9000 포인트씩 총 3만 6000 포인트를 받을 수 있다. 이는 기존 대비 1만 2000포인트 늘어난 금액이다. 보험사들이 티맵과...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714099",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:48:00+09:00"
+    },
+    {
+      "id": "DB증권-359f89",
+      "title": "[특징주] 달바글로벌, 실적 성장 기대감에 상승…증권가 \"가이던스 상향...",
+      "description": "삼성증권은 목표주가 27만원으로 신규 커버리지를 개시했고, NH투자증권은 30만원, DB증권은 30만원, 유진투자증권은 32만원, 다올투자증권은 34만원을 제시했다. ◆\"실적 가이던스 상향 가능성\"…수익성 개선 기대 에픽...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714102",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T15:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c83374",
+      "title": "DB손해보험, '소방 대원 시상식' 24년째 후원",
+      "description": "DB손해보험은 소방공무원의 헌신을 격려하고 안전문화 확산에 기여하기 위해 'KBS119상'을 24년째 후원했다고 26일 밝혔다. 올해로 31회를 맞은 KBS119상은 1995년 삼풍백화점 붕괴사고 당시 인명 구조에 헌신한...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256713?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:21:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a0e491",
+      "title": "\"1인 1시편 필수\" 반도체 직접 만드는 서강대 강의 눈길",
+      "description": "연계 산학트랙 사업에 삼성전자, LG전자, 현대모비스, DB하이텍, LG이노텍 등이 함께하고 있으며, SK하이닉스 등 반도체 관련 33개 기업이 참여하고 있다. 범진욱 단장은 \"앞으로도 미래가치 창출을 통한 국가경쟁력...",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=207003",
+      "source": "www.kyosu.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d4c3dc",
+      "title": "DB손해보험, KBS119상 후원 지속…소방공무원 예우 앞장",
+      "description": "사진=DB손해보험  소방공무원들의 헌신을 격려하기 위한 'KBS119상'이 올해로 31회를 맞은 가운데 DB손해보험이 24년째 후원을 이어가며 현장 소방관 예우와 안전문화 확산에 힘을 보태고 있다. 시상 지원뿐 아니라 순직...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=97148",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4dd9fb",
+      "title": "[보험 트렌드] DB손해보험, '제3회 프로미119 안전리더 캠프' 청소년 참...",
+      "description": "-편집자 말 ◇ DB손해보험, '제3회 프로미119 안전리더 캠프' 청소년 참가자 모집 DB손해보험, '제3회 프로미119 안전리더 캠프' 청소년 참가자 모집. ⓒDB손해보험 DB손해보험(대표 정종표)은 청소년들이 체계적인 안전 교육과...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=152369",
+      "source": "www.ibabynews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7c5c94",
+      "title": "[나눔 트렌드] 굿네이버스 아주좋은이웃심리치유센터–세방이의순재단...",
+      "description": "◇ DB손해보험, 'KBS119상' 24년 연속 후원 DB손해보험, 'KBS119상' 24년 연속 후원. ⓒDB손해보험 DB손해보험(대표 정종표)은 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=152401",
+      "source": "www.ibabynews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1377c6",
+      "title": "DB손보, 'KBS119상' 후원 24년…\"소방공무원 노고에 감사\"",
+      "description": "DB손해보험은 소방공무원의 헌신을 격려하고 안전문화 확산에 기여하기 위해 'KBS119상'을 2003년부터 24년째 후원하고 있다고 26일 밝혔다. 올해로 31회를 맞은 KBS119상은 1995년 삼풍백화점 붕괴사고 당시 인명 구조에...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005540185?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T15:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ff58a6",
+      "title": "삼성전자·SK하이닉스 호남 팹 설립 거론되지만…용수·소부장 '물음표...",
+      "description": "업계 관계자는 \"소부장 협력사들이 삼성전자·SK하이닉스에만 납품하는 것이 아니라 DB하이텍, SK실트론 등 수도권 반도체 기업들과도 함께 일한다\"며 \"호남에 별도 라인을 세우더라도 기존 수도권 납품 라인을 유지해야...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=743590",
+      "source": "www.econovill.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T14:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0dfc68",
+      "title": "코스피 질주에 돈줄 총동원 … 보험 담보대출도 한 달 새 6000억 급증",
+      "description": "메리츠화재·삼성화재·현대해상·KB손해보험·DB손해보험 등 주요 손해보험사 5곳의 보험계약대출 잔액도 같은 기간 14조6073억원에서 14조6593억원으로 520억원 늘었다. 이에 따라 주요 보험사 10곳의 보험계약대출 잔액은...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600150.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4e3548",
+      "title": "[보험업계 소식] 교보생명, 동양생명, KB손해보험, DB손해보험, 보험연수...",
+      "description": "◆DB손해보험, 'KBS119상' 24년째 후원 DB손해보험은 한국방송공사가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속 후원하고 있다고 26일 밝혔다. KBS119상은 1995년 6월 삼풍백화점 붕괴사고 당시 인명구조 등 헌신적인...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=264123",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-64de47",
+      "title": "[금융계 동향] 삼성화재·한국투자증권·DB손해보험",
+      "description": "DB손해보험은 소방공무원들의 노고를 격려하기 위해 한국방송공사가 주최하는 KBS119상을 24년 연속 후원하고 있다고 26일 밝혔다. KBS119상은 1995년 삼풍백화점 붕괴사고를 계기로 1996년 제정된 시상으로 올해 31회를...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=165884",
+      "source": "www.iminju.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-183b0c",
+      "title": "[주목! e금융] DB손보·KB손보·빗썸나눔·두나무...사회안전망·의료지...",
+      "description": "지난 24일 서울시 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에서 DB손해보험 박제광 부사장(가운데)과 특별상, 명예상 수상자들이 기념촬영을 하고 있다. DB손해보험은 한국방송공사가 주최하는 'KBS119상'을 24년 연속...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=184612",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-03336d",
+      "title": "DB손해보험, 'KBS119상' 24년 연속 후원",
+      "description": "삼풍백화점 붕괴 계기 제정된 KBS119상…올해 31회 시상 대상에 대전 대덕소방서 박윤동 소방위…총 28개 부문 포상 순직 소방관 유가족 장학금 등 사회공헌 활동 이어가 [서울타임즈뉴스 = 최남주 기자] DB손해보험이...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000097083",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e18872",
+      "title": "티맵, 차보험료 조회하면 네이버 포인트 3.6만 지급",
+      "description": "행사는 삼성화재, 현대해상, DB손해보험, KB손해보험 등이 참여한다. 각 사 보험료를 조회할 때마다 9000 포인트씩 총 3만 6000 포인트를 받을 수 있다. 이는 기존 대비 1만 2000포인트 늘어난 금액이다. 보험사들이 티맵과...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002428196?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a51469",
+      "title": "車보험 손해율 80%대 고착…보험료 추가 인상 압박 커져",
+      "description": "26일 보험업계에 따르면 삼성화재·DB손해보험·현대해상·KB손해보험 등 4개 대형 손보사의 올해 5월 누적 차보험 손해율은 84.7%로 집계됐다. 이는 전년동기 대비 1.7%포인트(p) 상승한 수준이다. 회사별로는 DB손보가 84.9...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=264095",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4eb3c5",
+      "title": "DB손해보험, 24년 연속 'KBS119상' 후원",
+      "description": "DB손해보험이 소방공무원의 헌신을 격려하고 사회 전반의 안전의식을 높이기 위해 'KBS119상'을 24년 연속으로 후원하고 있다고 26일 밝혔다. KBS119상은 삼풍백화점 붕괴사고 당시 인명구조에 헌신한 소방대원을...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=306763",
+      "source": "www.cnbizm.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-de1079",
+      "title": "보험까지 끌어다 '빚투'…55조 약관대출에 금융당국 경고등",
+      "description": "실제 보험업계에 따르면 삼성생명·한화생명·교보생명·신한라이프·NH농협생명 등 생명보험사 5곳과 메리츠화재·삼성화재·현대해상·KB손해보험·DB손해보험 등 손해보험사 5곳의 보험계약대출 잔액은 지난 5월 말 기준...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140681",
+      "source": "www.opinionnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T14:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d087d7",
+      "title": "[금융 이모저모] KB손보, 의료기관 맞춤보험 추진…안정적 진료환경 조...",
+      "description": "◆ DB손해보험이 소방공무원의 헌신을 격려하기 위해 'KBS119상' 후원을 24년째 이어갔다. 올해로 31회를 맞은 KBS119상은 각종 재난 현장에서 국민의 생명을 지킨 소방공무원의 공로를 기리기 위한 시상으로, 올해는...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=288586",
+      "source": "www.goodkyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T13:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4da662",
+      "title": "DB손해보험, 소방공무원 헌신 응원 24년째 이어가",
+      "description": "우먼타임스 = 송현섭 기자 DB손해보험은 소방공무원들의 헌신을 응원하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사에서 주최하는 'KBS119상'을 2003년부터 24년째 후원하고 있다고 26일 밝혔다. 'KBS119상'은...",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=103935",
+      "source": "www.womentimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T13:40:00+09:00"
+    },
+    {
+      "id": "DB증권-ab08a1",
+      "title": "'애플 의존형 기업' 꼬리표 떼나···LG이노텍, 목표가 200만원 줄상향...",
+      "description": "KB증권(200만원), DB증권(185만원), 현대차증권(145만원) 등 이달 들어 7개 증권사가 목표주가를 상향 조정했다. LG이노텍 주가는 이달 1일 153만원으로 신고가를 기록한 뒤 최근 고점 대비 약 37% 하락한 상태다....",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255489",
+      "source": "www.womaneconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T13:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-870a2e",
+      "title": "\"슬개골은 되나요?\" 펫보험 1000억 시대, 여전히 헷갈리는 조건들",
+      "description": "메리츠화재가 장기 반려동물 실손보험을 앞세워 시장 점유율 1위를 유지하는 가운데 DB손해보험, 카카오페이손해보험, 마이브라운 등도 보장항목과 서비스 차별화에 나섰다. DB손보는 이마트 반려동물 전문 브랜드...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100024",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T13:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1fcbf5",
+      "title": "티맵모빌리티, 삼성화재·현대해상 등 자동차보험 조회 이벤트 진행",
+      "description": "이번 행사에는 삼성화재, 현대해상, DB손해보험, KB손해보험이 참여한다. 이용자는 각 보험사별 보험료를 조회할 때마다 9,000포인트를 받을 수 있다. 4개 보험사 보험료를 모두 조회하면 받을 수 있는 포인트는 최대 3만6...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545234",
+      "source": "www.autodaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T12:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b85cc1",
+      "title": "[경제소식] 하나증권, 전주금융센터 새롭게 이전 개점",
+      "description": "2026.6.26./사진=DB손해보험 DB손해보험, 'KBS119상' 24년 연속 후원 DB손해보험은 한국방송공사가 주최하는 'KBS119상'을 2003년부터 24년 연속 후원하고 있다고 26일 밝혔다. 'KBS119상'은 1995년 6월 삼풍백화점 붕괴사고 당시...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2113759",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T12:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a7a764",
+      "title": "“5초만에 과실 판정”… DB손보, 블랙박스 AI 영상분석 도입",
+      "description": "DB손해보험이 보험업계 최초로 인공지능(AI) 기술을 기반으로 한 ‘블랙박스 영상 활용 AI 과실판정 시스템’을 도입했다고 26일 밝혔다. 기존의 자동차 사고 과실 판정은 현장 출동 직원의 초기 조사와 정황 파악, 과거...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002800594?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T11:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a45840",
+      "title": "DB손보, 'KBS119상' 24년째 후원…\"소방공무원 헌신 응원\"",
+      "description": "지난 24일 서울시 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에 참석한 박제광 DB손해보험 부사장(가운데)이 수상자들과 기념촬영을 하고 있다. (사진=DB손해보험)  DB손해보험이 사회 전반의 안전을 위해 헌신하고...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=122933",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T11:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c764a4",
+      "title": "[카드] DB손해보험, 'KBS119상' 24년 연속 후원…소방공무원 헌신 응원",
+      "description": "DB손해보험(005830)은 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 ‘KBS119상’을 지난 2003년부터 24년 연속으로 후원하고 있다고 26일 밝혔다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=738128",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T11:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2fe05f",
+      "title": "DB하이텍 주가, 6월 26일 장중 160,500원 1.58% 상승",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 26일 오전 11시 7분 기준, 네이버페이 증권에 따르면 DB하이텍의 주가는 현재 160,500원을 기록하며 상승세를 나타내고 있다. 시가는 156,000원으로...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=528565",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9497d4",
+      "title": "[보험 PICK] 손보업계, 공공안전 지원 확대… 소방·의료 현장 협력 강화",
+      "description": "이 같은 흐름 속에서 DB손해보험은 소방공무원의 노고를 격려하고 사회 전반의 안전의식을 확산하기 위해 'KBS119상'을 24년 연속 후원하고 있다고 26일 밝혔다. KBS119상은 1995년 삼풍백화점 붕괴사고를 계기로 1996년 제정된...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=204026",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ca704b",
+      "title": "\"소방관은 영웅\" DB손해보험, 'KBS119상' 24년 연속 후원",
+      "description": "DB손해보험은 지난 24일 서울 여의도 KBS별관에서 열린 'KBS119상' 시상식을 24년 연속 후원하며 소방공무원의 헌신을 응원하고 국민 안전 의식 확산에 기여하고 있다고 26일 밝혔다. 1996년부터 소방청과 협력해 진행해 온...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=253528",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a0e771",
+      "title": "티맵 “자동차보험료 조회하면 건당 9000네이버 포인트 지급”",
+      "description": "행사에는 삼성화재, 현대해상, DB손해보험, KB손해보험 등이 참여하며, 각 사 보험료를 조회할 때마다 9000포인트씩 지급돼 총 3만 6000포인트를 받을 수 있다. 이는 기존 대비 1만2000포인트 늘어난 금액이며, 타 플랫폼과...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003441578?sid=103",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:49:00+09:00"
+    },
+    {
+      "id": "DB손해보험-00caf4",
+      "title": "[더밸류 브리핑] 오늘의 생명보험 소식...DB손해보험·교보생명·메트라...",
+      "description": "DB손해보험은 소방공무원의 헌신을 격려하고 포상하기 위해 'KBS119상'을 24년 연속 후원하고 있고, 교보생명은 디지털 독서 서비스 '서재'를 앞세워 MZ세대와의 접점 확대에 나선다. 메트라이프생명은 2026년...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199636",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-92d85c",
+      "title": "보험계약대출 급증에 당국 '경고'…보험사들 한도 추가 축소 검토",
+      "description": "주요 손해보험사 5곳(메리츠화재·삼성화재·현대해상·KB손해보험·DB손해보험)의 보험계약대출 잔액은 지난해 말 14조7245억원에서 올해 5월 14조6593억원으로 소폭 감소했다. 다만 올해 들어서는 3월 14조7001억원, 4월...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005781833?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:39:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d63885",
+      "title": "자동차보험 손해율 \"하반기 전망도 부정적\"...올해 적자 규모 1조원 육박...",
+      "description": "25일 손해보험업계에 따르면 국내 자동차보험 시장의 85% 가량을 점유하고 있는 대형 4개사(삼성화재·현대해상·DB손해보험·KB손해보험)의 올해 5월 자동차보험 누적 손해율(단순 평균)은 84.7%로 전년 동기 대비 1.9%p...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=343424",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3ff435",
+      "title": "[1% 초고수의 개장 선택] '반도체 대형주' 사고 '부품·장비주' 팔았다",
+      "description": "이어 SK(-0.82%), LG전자(-2.91%), DB하이텍(-1.27%), 마키나락스(6.09%), 리가켐바이오(-2.12%) 등이 순매도 상위 10위권에 이름을 올렸다. 한편 미래에셋증권은 AI 알고리즘 기반으로 구간별 수익률과 매매 패턴, 거래...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714039",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T10:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f477f4",
+      "title": "DB손보, 'KBS119상' 24년 연속 후원… 소방 영웅 조명하는 안전문화 확산...",
+      "description": "지난 24일 서울 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에서 DB손해보험 박제광 부사장(사진 가운데)과 특별상, 명예상 수상자들이 기념촬영을 하고 있다/ DB손해보험 제공 DB손해보험이 재난 현장에서 헌신해 온...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154748",
+      "source": "www.koreaittimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7cca69",
+      "title": "티맵, 자동자보험료 조회시 9000 네이버페이 포인트 지급",
+      "description": "이번 행사는 삼성화재, 현대해상, DB손해보험, KB손해보험 등이 참여하며, 각 사 보험료를 조회할 때마다 9000포인트씩 지급돼 총 3만6000포인트를 받을 수 있다. 이는 기존 대비 1만2000포인트 늘어난 금액이며, 타 플랫폼과...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=314142",
+      "source": "www.wolyo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f0316b",
+      "title": "눈앞으로 다가온 '피지컬 AI'…LG이노텍, 첨단 센싱 솔루션 최대 수혜주...",
+      "description": "반면 DB하이텍은 차량용 반도체 수요 성장 기대에도 단기 차익실현 매물이 이어지고 있다. 세코닉스는 차량용 카메라 부품 수요 확대 기대는 유지되고 있지만 매도세가 우위를 보이고 있으며, MDS테크도 자율주행...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463306",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-06-26T10:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-548c18",
+      "title": "DB손보, 24년째 'KBS119상' 후원…소방영웅 헌신 알린다",
+      "description": "지난 24일 서울시 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에서 박제광 DB손해보험  부사장(가운데)과 특별상, 명예상 수상자들이 기념촬영을 하고 있다. [DB손해보험] DB손해보험이 'KBS119상' 후원을 통해 안전문화...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=138098",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-023cb0",
+      "title": "DB손보, KBS119상 24년 연속 후원…사회 안전의식 확산 기여",
+      "description": "DB손해보험이 소방공무원의 헌신을 기리는 'KBS119상'을 24년 연속 후원하며 사회밀착형 사회공헌 활동을 이어가고 있다고 26일 밝혔다. KBS119상은 1995년 6월 삼풍백화점 붕괴사고를 계기로 이듬해 소방청 후원으로...",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202606260958103412c808fa9903_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T10:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e4871c",
+      "title": "DB손해보험, 'KBS119상' 24년째 후원",
+      "description": "DB손해보험이 올해로 31회를 맞이한 'KBS119상' 시상식을 후원했다. DB손보는 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속으로...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1005966",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:54:00+09:00"
+    },
+    {
+      "id": "DB증권-e303de",
+      "title": "LG이노텍, 증권가 목표가 줄줄이 상향…KB는 200만원 제시",
+      "description": "DB증권은 목표주가를 185만원으로 올리며 \"후발주자임에도 반도체 기판 기술 격차를 빠르게 줄이고 있다\"고 평가했다. 광학솔루션의 안정적인 수익성과 함께 FC-BGA 사업이 본격 성장 단계에 진입할 것으로 전망했다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463300",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T09:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e90adb",
+      "title": "DB손보, 'KBS119상' 24년 연속 후원",
+      "description": "DB손해보험은 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속으로 후원하고 있다고 26일 밝혔다. KBS119상은 1995년 삼풍백화점...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=108944",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d99d3e",
+      "title": "티맵서 차보험 조회하면 네이버 포인트 3.6만 지급",
+      "description": "티맵모빌리티는 이용자가 티맵 앱 내 ‘카라이프’ 탭에서 삼성화재, 현대해상, DB손해보험, KB손해보험 등의 보험료를 조회할 때마다 9000포인트씩 받을 수 있다고 26일 밝혔다. 최대 지급 규모는 총 3만 6000포인트로, 이는...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635220?sid=105",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e9f073",
+      "title": "DB손보, 소방관 노고 치하 KBS119상 24년째 후원 지속",
+      "description": "24일 서울시 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에서 박제광 DB손해보험  부사장(가운데)과 특별상, 명예상 수상자들이 기념촬영을 하고 있다. 사진=DB손해보험  DB손해보험은 한국방송공사가 주최하는...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309721",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:32:00+09:00"
+    },
+    {
+      "id": "DB증권-c88539",
+      "title": "코스피, 2%대 하락… 증권주도 나란히 내림세",
+      "description": "삼성증권(4.69%), SK증권(4.48%), 미래에셋증권(4.37%), DB증권(4.09%), 한국금융지주(3.97%), 유진투자증권(3.77%), 현대차증권(3.75%), 유화증권(3.59%) 등도 동반 하락 중이다. 같은 시각 코스피는 전 거래일 대비 240....",
+      "url": "https://n.news.naver.com/mnews/article/008/0005377533?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T09:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4f2eea",
+      "title": "티맵, 車보험 조회 혜택↑…최대 3.6만 네이버 포인트 지급",
+      "description": "이번 행사에는 삼성화재와 현대해상, DB손해보험, KB손해보험 등 4개 보험사가 참여한다. 이용자가 각 보험사 자동차보험료를 조회하면 건당 9000포인트를 받을 수 있다. 4개사를 모두 조회할 경우 최대 3만6000포인트까지...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026062609231338948",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8d4e3f",
+      "title": "DB손보, KBS119상 24년 연속 후원",
+      "description": "DB손해보험이 소방공무원의 헌신을 기리고 사회 전반의 안전의식을 높이기 위해 'KBS119상'을 24년 연속 후원했다. DB손해보험은 지난 24일 서울 여의도 KBS별관 공개홀에서 열린 제31회 KBS119상 시상식을 후원하고, 수상...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91522",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ebd6ee",
+      "title": "DB손해보험, 소방공무원 포상 'KBS119상' 후원",
+      "description": "DB손해보험이 소방공무원의 헌신을 기리는 'KBS119상'을 24년 연속 후원했다. 26일 DB손해보험에 따르면 회사는 지난 24일 서울 여의도 KBS 공개홀에서 열린 'KBS119상' 시상식을 후원했다. KBS119상은 지난 1995년...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=124882",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-34651a",
+      "title": "DB손보, 24년 연속 'KBS119상' 후원…소방공무원 헌신 조명",
+      "description": "컨슈머타임스=김예령 기자 | DB손해보험이 소방공무원의 헌신을 격려하고 사회 전반의 안전의식 확산을 위해 'KBS119상' 후원을 이어가고 있다. 26일 DB손해보험에 따르면 회사는 KBS 한국방송공사가 주최하는 'KBS119상...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=711222",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3a4bc0",
+      "title": "\"티맵서 차보험료 조회하면 네이버포인트 드려요\"",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험이 참여하는 이번 행사에서는 각 사 보험료를 확인할 때마다 네이버 포인트를 받을 수 있다. 또 운전점수 기반 할인 혜택도 확대된다. 그간 자동차보험(UBI) 할인에만...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014029539?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b05fcd",
+      "title": "DB손보, 'KBS119상' 24년 연속 후원…대전 대덕소방서 박윤동 소방위 대...",
+      "description": "박재찬 보험전문기자 = DB손해보험은 소방공무원의 노고를 격려하고 안전문화 확산을 위해 한국방송공사가 주최하는 'KBS119상'을 24년 연속 후원하고 있다고 26일 밝혔다. 'KBS119상'은 1995년 삼풍백화점 붕괴사고 당시...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009024925?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18a894",
+      "title": "[금융권 이모저모]하나은행, 실시간 스미싱 확인 서비스 도입 外",
+      "description": "/ 사진=DB손해보험 DB손해보험, 'KBS119상' 24년 연속 후원 DB손해보험은 소방공무원들의 노고를 격려하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 'KBS119상'을 2003년부터 24년 연속 후원하고...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=113358",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-98cbde",
+      "title": "DB손보, 24년째 'KBS119상' 후원…안전문화 확산 앞장",
+      "description": "DB손해보험은 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해 한국방송공사가 주최하는 'KBS119상'을 지난 2003년부터 24년 연속으로 후원하고 있다고 26일 밝혔다. 'KBS119상'은 지난 1995년 6월...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361097",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T09:06:00+09:00"
+    },
+    {
+      "id": "DB증권-5e2096",
+      "title": "DB證 \"원익머트리얼즈, 반도체 업황 호조·판가 인상 기대…목표주가 3...",
+      "description": "아주경제=류소현 기자 sohyun@ajunews.com DB증권은 26일 원익머트리얼즈에 대해 반도체 업황 호조와 고객사 가동률 상승, 판가 인상 효과로 하반기 실적 개선이 본격화될 전망이라며 목표주가를 기존 4만3000원에서...",
+      "url": "https://www.ajunews.com/view/20260626090130815",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T09:04:00+09:00"
+    },
+    {
+      "id": "DB증권-788fe7",
+      "title": "원익머트리얼즈, 하반기 실적 개선 '본격화'…판가 인상 효과 기대",
+      "description": "DB증권은 26일 원익머트리얼즈(104830)에 대해 반도체 업황 호조와 고객사 가동률 상승을 바탕으로 하반기 실적 개선이 본격화될 전망이라며 투자의견 '매수(BUY)'를 유지했다. 목표주가는 실적 추정치 상향과 밸류에이션...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=738078",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T09:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3e77f0",
+      "title": "DB손보, 삼풍백화점 사고 후 만든 소방공무원 시상식 24년째 후원",
+      "description": "DB손해보험은 1995년 삼풍백화점 붕괴사고 이후 시작된 한국방송공사 주최 'KBS119상'을 2003년부터 24년 연속 후원 중이라고 26일 밝혔다. DB손보는 소방공무원들의 노고를 치하하고 사회 전반에 안전의식을 확산하기 위해...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005781720?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T08:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dffa77",
+      "title": "DB손보, KBS119상 24년째 후원…소방공무원 헌신 조명",
+      "description": "DB손해보험은 한국방송공사가 주최하는 KBS119상을 지난 2003년부터 24년 연속 후원하고 있다고 26일 밝혔다. KBS119상은 지난 1995년 삼풍백화점 붕괴 사고 당시 인명 구조에 나선 소방대원들의 헌신을 기리기 위해 이듬해인...",
+      "url": "https://www.viva100.com/article/20260626500057",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T08:56:00+09:00"
+    },
+    {
+      "id": "DB증권-46d4f1",
+      "title": "75만원에서 50만원으로… 현대차, 지금이 바닥일까",
+      "description": "남주신 DB증권 연구원은 “자동차 업체들은 2분기를 저점으로 3분기부터 실적 개선 국면에 진입할 것”이라며 “HEV 판매 확대와 미국 공장 가동률 상승, 우호적인 환율 효과가 반영되면서 수익성이 개선될 전망”...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003984229?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-06-26T08:49:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a25f3c",
+      "title": "\"소방영웅 24년째 응원한다\"…DB손보, KBS119상 연속 후원",
+      "description": "|중앙이코노미뉴스 정재혁 기자|지난 24일 서울시 여의도 KBS공개홀에서 열린 'KBS119상' 시상식에서 DB손해보험 박제광 부사장(가운데)과 특별상, 명예상 수상자들이 기념촬영을 하고 있다. [사진=DB손해보험]...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=528475",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T08:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d7bfb9",
+      "title": "\"재난현장 지킨 소방영웅들의 헌신에 감사\" DB손보, 24년 한결같은 든든...",
+      "description": "박제광 DB손해보험 부사장(가운데)이 지난 24일 서울시 여의도 KBS공개홀에서 'KBS119상' 시상식을 했다. [사진 DB손보] DB손해보험이 우리 사회의 안전망을 사수하기 위해 사투를 벌이는 소방대원들의 고결한...",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=125420",
+      "source": "www.catchnews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T08:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5b8791",
+      "title": "티맵, 車보험 조회 혜택 키운다…최대 3.6만 네이버 포인트 지급",
+      "description": "이번 행사에는 삼성화재와 현대해상, DB손해보험, KB손해보험 등 4개 보험사가 참여한다. 이용자가 각 보험사 자동차보험료를 조회하면 건당 9000포인트를 받을 수 있다. 4개사를 모두 조회할 경우 최대 3만6000포인트까지...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248901",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-06-26T08:36:00+09:00"
+    },
     {
       "id": "DB생명-53be8a",
       "title": "생보는 뛰고, 손보는 숨 고르기…배타적사용권 판도 변화",
@@ -138,12 +1002,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-25T16:36:00+09:00"
     },
     {
-      "id": "DB손해보험-aee03c",
+      "id": "DB생명-aee03c",
       "title": "보험사 AI 경쟁 점화…과실판정·의료심사까지 확산[금융 AI 대전환]",
-      "description": "대표적으로 DB손해보험은 지난 15일 보험업계 최초로 '블랙박스 영상활용 AI 과실판정 시스템'을 오픈했다. 고객이 사고 접수 후 전달받은 URL에 블랙박스 영상을 업로드하면 AI가 사고 영상을 자동 분석해 평균 5초...",
+      "description": "특히 한국신용정보원(ICIS)의 보험금 청구 이력과 최신 LLM 기술을 접목해 계약 전 알릴의무 절차의 편의성을 높였다는 설명이다. DB생명은 최근 헬스케어 플랫폼에 대화형 'AI 건강코칭 서비스'를 도입했으며...",
       "url": "https://www.newsway.co.kr/news/view?ud=2026062513400946786",
       "source": "www.newsway.co.kr",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB생명",
       "publishedAt": "2026-06-25T16:24:00+09:00"
     },
     {
@@ -153,15 +1017,6 @@ const NEWS_DATA = {
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463090",
       "source": "www.pinpointnews.co.kr",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-25T16:24:00+09:00"
-    },
-    {
-      "id": "DB생명-aee03c",
-      "title": "보험사 AI 경쟁 점화…과실판정·의료심사까지 확산[금융 AI 대전환]",
-      "description": "특히 한국신용정보원(ICIS)의 보험금 청구 이력과 최신 LLM 기술을 접목해 계약 전 알릴의무 절차의 편의성을 높였다는 설명이다. DB생명은 최근 헬스케어 플랫폼에 대화형 'AI 건강코칭 서비스'를 도입했으며...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026062513400946786",
-      "source": "www.newsway.co.kr",
-      "subsidiary": "DB생명",
       "publishedAt": "2026-06-25T16:24:00+09:00"
     },
     {
@@ -219,15 +1074,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-06-25T14:28:00+09:00"
     },
     {
-      "id": "DB손해보험-5b7fdc",
-      "title": "유동주식 실종된 일정실업, 자산총액 대조군 대비 '극단적 저평가' 부각",
-      "description": "현대차증권, HS애드, 한미반도체, 메가스터디교육, 파수AI, 무학, 오리온, DB손해보험, HMM, 한미약품, 현대이지웰, 우리금융지주, 하나마이크론, 하이즈항공 역시 오름세를 나타낸다. 이들 기업은 각 산업 내 경쟁력을...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463046",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-25T14:12:00+09:00"
-    },
-    {
       "id": "DB하이텍-5b7fdc",
       "title": "유동주식 실종된 일정실업, 자산총액 대조군 대비 '극단적 저평가' 부각",
       "description": "엘앤씨바이오, 피에스케이홀딩스, DB하이텍, 삼양식품은 실적 성장과 함께 기업가치 재평가 기대가 더해지고 있다. 파라다이스와 이수페타시스 역시 업황 회복 기대가 반영되며 강세를 나타낸다. 보험과 금융 분야에서는...",
@@ -271,15 +1117,6 @@ const NEWS_DATA = {
       "source": "www.etoday.co.kr",
       "subsidiary": "DB증권",
       "publishedAt": "2026-06-25T13:42:00+09:00"
-    },
-    {
-      "id": "DB증권-7b9aaa",
-      "title": "밸류업 수혜주 폭등…SK·SK하이닉스가 시장 주도 뚜렷",
-      "description": "키움증권, 미래에셋증권, DB증권, 유안타증권, 다우데이타, KG이니시스 등이 동반 상승 흐름을 보이고 있다. 증권업은 대표적인 저PBR 업종으로 꼽히며 밸류업 정책의 직접적인 수혜 업종으로 분류된다. 배당 확대와...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463038",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-06-25T13:36:00+09:00"
     },
     {
       "id": "DB하이텍-7b9aaa",
@@ -334,15 +1171,6 @@ const NEWS_DATA = {
       "source": "www.newsworks.co.kr",
       "subsidiary": "DB생명",
       "publishedAt": "2026-06-25T11:14:00+09:00"
-    },
-    {
-      "id": "DB손해보험-9964c0",
-      "title": "DB하이텍, DB손보 지분 확대…김준기 지배력 강화",
-      "description": "DB그룹의 반도체 계열사 DB하이텍이 DB손해보험 주식을 다시 사들였다. 2월 자기주식 소각 공시 이후 주가 하락 국면을 매집 기회로 삼았다. 행동주의 펀드의 압박 속에 경영권 방어용 자사주가 소각으로 사라지는...",
-      "url": "https://n.news.naver.com/mnews/article/031/0001037542?sid=101",
-      "source": "www.inews24.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-25T11:13:00+09:00"
     },
     {
       "id": "DB하이텍-9964c0",
