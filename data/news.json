@@ -1,6 +1,843 @@
 {
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "articles": [
+    {
+      "id": "DB증권-ca4be5",
+      "title": "[투자노트] AI 투자 ‘선행지표’ 등장… ‘SDLLMTK’ 확인하세요",
+      "description": "대규모 언어 모델(LLM)의 토큰 소비량 ‘SDLLMTK’ DB증권 “지수 상승시 AI 투자 전략 유효” 인공지능(AI) 산업의 성장으로 관련 주식들이 가파르게 움직이면서 투자자들의 시선이 정밀한 수요 측정 지표로 이동하고...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176054?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-02T07:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a03881",
+      "title": "[Invest]대형 로펌 하반기 선거 모드 돌입…'광장 50주년·율촌 30주년' ...",
+      "description": "기업자문 부문에서는 칼라일그룹의 청호나이스 매각, KG그룹의 케이카 인수, DB손해보험의 포테그라 인수 거래 등을 자문했다.다른 대형 로펌 관계자는 \"과거와 같은 고성장을 이어가기 어려운 환경이 됐지만, 한편으로는...",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/07/01/2026070180177.html",
+      "source": "www.investchosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-02T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-d47ae1",
+      "title": "[클릭 e종목]'보유→매수' 투자의견 상향한 이 종목은",
+      "description": "DB증권이 에코프로비엠의 투자의견을 보유에서 매수로 올렸다. 목표주가는 26만원에서 21만원으로 내렸다. 2일 안회수 DB증권 연구원은 \"유상증자에 따른 희석 고려해 목표가를 하향 조정했다\"며 \"최근 급락한...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784390?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-02T07:00:00+09:00"
+    },
+    {
+      "id": "DB생명-5ac66e",
+      "title": "[브랜드평판] 미래에셋생명, 변액보험 7월 1위... 한화생명, 삼성생명 뒤...",
+      "description": "KB라이프생명 ▲DB생명 ▲라이나생명 ▲KDB생명 ▲ABL생명 ▲AIA생명 ▲푸본현대생명 ▲아이엠라이프 순이다. 구창환 한국기업평판연구소 소장은 \"변액보험 브랜드 빅데이터가 전월 대비 0.03% 소폭 증가하며...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=51905",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-02T05:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1c1e96",
+      "title": "교통사고 입원하면 공짜 피부관리…한방병원 기막힌 ‘호캉스 영업’",
+      "description": "1일 중앙일보가 입수한 손해보험사 4곳(삼성화재·현대해상·KB손해보험·DB손해보험)의 자료를 보면, 지난해 경상환자의 평균 치료 일수는 한방이 10.6일로 양방(이하 의과) 5.6일의 약 2배였다. 1인당 평균 치료비도...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003534791?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-02T05:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-892f1c",
+      "title": "[보험 뉴스브리핑] 한화생명-세브란스병원 치매 협력체계 구축",
+      "description": "(사진=한화생명) □ DB손보 교통·환경 챌린지 8기 모집 DB손해보험은 1일 환경재단과 함께 교통과 환경 분야 소셜벤처를 지원하는 '교통·환경 챌린지 8기' 참가 기업을 모집한다고 밝혔다. 설립 7년 미만 소셜벤처를...",
+      "url": "https://www.asiatime.co.kr/article/20260701500424",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T21:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-336948",
+      "title": "[데일리안 오늘뉴스 종합] 호남 반도체 800조원 딜레마, 與 전대 앞두고...",
+      "description": "충북 음성 상우산업단지는 DB하이텍을 앵커 기업으로 2005년 지정됐다. 그러나 경기침체와 토지보상 갈등, 공사 중단을 반복하며 여전히 준공 카우트다운이 밀리고 있다. 공장 하나 짓는 데 꼬박 21년이 넘은 것이다....",
+      "url": "https://n.news.naver.com/mnews/article/119/0003106981?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T21:01:00+09:00"
+    },
+    {
+      "id": "DB증권-ba106d",
+      "title": "“이 삼전은 300만원까지 갑니다”…삼성전기 목표가 줄상향 이유",
+      "description": "하나증권은 목표가를 기존 170만원에서 300만원으로 76.5% 상향 조정했다. iM증권과 메리츠증권은 각각 230만원, 280만원에서 300만원으로 높였다. 이에 앞서 KB증권과 DB증권도 삼성전기 목표주가로 300만원을 제시했다.",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701547?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T20:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-617d6b",
+      "title": "HMM, 서면에 임시 사옥…부전동 DB손해보험 신축 건물",
+      "description": "1일 〈부산일보〉 취재를 종합하면, HMM은 부산진구 부전동 DB손해보험 부산사옥에 3~4개 층을 임대해 임시 사옥으로 쓰기로 하고, 오는 9~10월께 서울 인력을 이곳으로 근무시키는 본사 이전 작업을 본격화할 예정이다....",
+      "url": "https://n.news.naver.com/mnews/article/082/0001387942?sid=101",
+      "source": "www.busan.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T20:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b0c8a9",
+      "title": "DB손해보험, 교통·환경 스타트업 육성 프로그램 참가기업 공모",
+      "description": "DB손해보험 사옥. 사진=DB손해보험   DB손해보험이 교통안전과 환경 분야의 사회문제 해결을 위한 스타트업 육성 사업을 본격 추진한다. 혁신 기술을 보유한 소셜벤처를 발굴해 사업화와 투자 연계 등을 지원하며...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=97345",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T19:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e02e2c",
+      "title": "[보험사 이모저모] DB손해보험 '교통·환경 챌린지 8기' 모집, 신한라이...",
+      "description": "DB손해보험 사옥 전경. 사진=DB손해보험  ◆DB손해보험, 교통·환경 분야 소셜벤처 지원 '교통·환경 챌린지 8기' 모집 DB손해보험이 환경재단과 손잡고 '교통·환경 챌린지 8기' 모집을 시작한다. DB손해보험에 따르면 이...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=139814",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T19:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e1ea06",
+      "title": "DB손보, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집",
+      "description": "사진=DB손해보험. DB손해보험은 환경재단과 손해보험업 관련 분야인 교통과 환경의 사회문제 해결을 위한 소셜벤처의 발굴, 지원 및 육성을 위한 사회공헌사업인 '교통∙환경 챌린지 8기'모집을 시작한다고 1일...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1381872",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bc0e9d",
+      "title": "DB손보, '교통·환경 챌린지 8기' 모집…소셜벤처 성장 지원",
+      "description": "DB손해보험이 교통과 환경 분야 사회문제 해결에 나설 소셜벤처 발굴에 나선다. DB손해보험은 환경재단과 함께 손해보험업과 연계된 교통·환경 분야 사회문제 해결을 목표로 한 사회공헌사업 '교통·환경 챌린지 8기...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=132529",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-90c0f6",
+      "title": "\"교통·환경 바꾸는 청년 스타트업 모십니다\"… DB손해보험, '사회문제 ...",
+      "description": "DB손해보험은 환경재단과 손잡고 교통, 환경 분야의 사회문제 해결을 위한 소셜벤처 발굴·육성 사회공헌사업인 '교통∙환경 챌린지 8기' 모집을 본격 시작한다고 1일 밝혔다. 이 프로젝트는 혁신적인 아이디어와...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126338",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9c2e63",
+      "title": "[보험사 풍향계] 신한라이프, 출범 5주년…‘따뜻한 금융’ 재정의 外",
+      "description": "◇ DB손해보험, '소셜벤처 육성' 박차…교통·환경문제 해결 DB손해보험이 '교통·환경 챌린지 8기'를 모집한다. 설립 7년 미만의 소셜벤처를 발굴·지원·육성하기 위함이다. 이 챌린지는 2019년 1기 출범을 필두로 현재까지...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260701025218318",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-722005",
+      "title": "[보험업계 소식] 한화생명, DB손해보험, 토스인슈어런스",
+      "description": "◆DB손해보험, '교통·환경 챌린지 8기' 참여 기업 모집 DB손해보험은 환경재단과 함께 오는 26일까지 '교통·환경 챌린지 8기' 참여 기업을 모집한다고 1일 밝혔다. 교통·환경 챌린지는 교통·환경 분야 혁신 기술을 보유한...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=264728",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:20:00+09:00"
+    },
+    {
+      "id": "DB증권-9cdb00",
+      "title": "코스피, 반도체株 조정에 8300선으로 밀려···외국인 2조원대 순매도",
+      "description": "한국금융지주는 3.17% 오른 22만8000원에 거래를 마쳤고 삼성증권(3.87%), 대신증권(3.33%), DB증권(2.88%), SK증권(2.79%) 등도 상승했다. 하반기 증권업종의 밸류에이션 매력이 부각된 영향으로 풀이된다. 코스닥은...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=632434",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T17:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-53cc01",
+      "title": "DB손해보험, '교통·환경 챌린지' 8기 모집… 소셜벤처 성장 지원 확대",
+      "description": "DB손해보험 사옥/ DB손해보험 제공 DB손해보험이 환경재단과 손잡고 교통과 환경 분야의 사회적 가치를 창출할 유망 소셜벤처 발굴에 나선다. 혁신 기술을 보유한 초기 창업기업을 대상으로 사업화와 투자, 경영 역량...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=154858",
+      "source": "www.koreaittimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T17:06:00+09:00"
+    },
+    {
+      "id": "DB증권-e924bc",
+      "title": "'1.2조 대규모 유증' 에코프로비엠, 금감원 중점심사 대상 여부 관심",
+      "description": "안회수 DB증권 연구원은 “이번 투자를 회수기간이 10년 이상에 달하는 장기 투자인 만큼 니켈 가격이 향후 투자 수익성 판단의 핵심 변수가 될 것”이라며 “목표주가는 유상증자 희석을 반영해 기존 대비 12% 낮춘...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006320215?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T17:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-424c9a",
+      "title": "[금융 브리핑] 한화생명·DB손해보험·토스인슈어런스",
+      "description": "[사진 = DB손해보험 제공] ◇DB손해보험, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집 DB손해보험은 교통과 환경의 사회문제 해결을 위한 소셜벤처의 발굴, 지원 및 육성을 위해 '교통∙환경 챌린지 8기' 모집을...",
+      "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90159",
+      "source": "www.niceeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T16:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1dd675",
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 흔들리자 뭉칫돈 대이동...",
+      "description": "KB금융과 하나금융지주, 미래에셋증권, 우리금융지주, 기업은행, 삼성증권, NH투자증권, 키움증권, 한국금융지주, 메리츠금융, DB손해보험, 삼성화재, 신한지주 등이 안정적인 흐름을 보이며 금리 환경 변화에 대한...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464755",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T16:40:00+09:00"
+    },
+    {
+      "id": "DB증권-304bd5",
+      "title": "외국인 '팔자'에 반도체주 급락…코스피 하락·환율은 1555원선",
+      "description": "삼성증권(3.9%), 대신증권(3.3%), DB증권(2.9%), SK증권(2.8%), 한양증권(2.3%) 등 다른 증권주도 일제히 상승했다. 외국인과 기관이 각각 1조 7011억원, 704억원을 순매도했고, 개인은 1조 7397억원을 순매수했다. 외국인과...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51215",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T16:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0423f0",
+      "title": "[거래소 기관] AI 투자 축 이동하나… SK스퀘어·이수페타시스 LS ELECTRIC...",
+      "description": "기관 순매도 1위는 SK하이닉스였으며, 삼성전자, DB하이텍, 한미반도체, 삼성물산, LG이노텍이 뒤를 이었다. 이어 LG에너지솔루션, 삼성생명, 삼성화재, LG전자, 포스코퓨처엠, NAVER, 현대모비스, 현대백화점, LG화학...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464745",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T16:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-237647",
+      "title": "[1% 초고수의 선택] '한화오션' 사고 '주성엔지니어링' 팔았다",
+      "description": "반면 순매도 상위에는 SK스퀘어, 주성엔지니어링, DB하이텍, 브이엠, 에이피알, LG전자, 삼성전기우, NAVER, 테크윙 등이 포함됐다. 이날 한화오션은 10만3300원으로 전 거래일 대비 2.99% 상승하며 초고수 순매수 상위권에...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714725",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T16:30:00+09:00"
+    },
+    {
+      "id": "DB증권-73aca5",
+      "title": "코스피, 외국인 팔자에 2% 하락...코스닥은 상승",
+      "description": "한국금융지주(3.17%), 삼성증권(3.87%), 대신증권(3.33%), DB증권(2.88%), SK증권(2.79%), 한양증권(2.28%) 등이 올랐다. 이날 개장 30주년을 맞은 코스닥 지수는 전 거래일(916.18)보다 13.17포인트(1.44%) 상승한 929.35에...",
+      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=77602",
+      "source": "www.issuenbiz.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T16:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1b02ee",
+      "title": "[거래소 외국인] 수급 확 바뀌었다…반도체는 선별 매수, 대형주는 차익...",
+      "description": "한국거래소에 따르면 이날 외국인 순매수 1위는 DB하이텍이었다. 이어 삼성전기, 한미반도체, 삼성물산, 삼성생명, NAVER, LG이노텍, 현대로템, 삼성화재, 기아가 순매수 상위권을 차지했다. 이 밖에도 SK이터닉스...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464744",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T16:24:00+09:00"
+    },
+    {
+      "id": "DB증권-9a5596",
+      "title": "[특징주] 증권주, 하반기 '깜짝 호실적' 기대감에 강세 마감(종합)",
+      "description": "삼성증권(3.87%), 대신증권(3.33%), DB증권(2.88%), SK증권(2.79%), 한양증권(2.28%) 등 다른 증권주들도 상승했다. 이들 증권주의 강세 배경에는 하반기 증권 종목들에 대한 밸류에이션(평가가치) 매력이 확대될 것이라는...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016170898?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T15:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cb6576",
+      "title": "DB하이텍 주가, 7월 1일 133,200원 7.63% 하락 마감",
+      "description": "1일 KRX 마감 기준, 네이버페이 증권에 따르면 DB하이텍 주가가 지난 종가 대비 크게 하락하며 133,200원에 마감했다. 이는 지난 종가 144,200원과 비교하여 11,000원, 즉 7.63% 떨어진 수치이다. 같은 날 동일업종...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16119606",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T15:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-878bf0",
+      "title": "최대1.2조 유인책 통했나···예별손보 4파전",
+      "description": "협상에 따라 올해를 매각 마지막 시도로 공언한 상태다. 이번에도 매각이 무산되면 예별손보가 보유한 보험계약은 삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재 등 5대 손보사로 분할 이전될 전망이다.",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697324",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T15:48:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c9a827",
+      "title": "[EBN 데이터센터] 코스피, 대형주 약세에 2% 하락…상승종목은 더 많았다",
+      "description": "반면 하락 종목군에서는 콘텐트리중앙이 29.93% 급락했고, 유니켐, 후성, 태원물산, SK, DB하이텍, LG이노텍, 삼성물산, 롯데손해보험 등이 큰 폭으로 밀렸다. 코스피 전체 등락 종목은 상승 700개, 보합 25개, 하락...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714718",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T15:48:00+09:00"
+    },
+    {
+      "id": "DB증권-7c2ef1",
+      "title": "반토막 난 공모주 시장…’상장 도우미’ IR큐더스, IPO 돌파구는",
+      "description": "상장 주관사는 2021년 시리즈A에 초기 투자자로 참여했던 DB증권이다. 그러나 예비 상장사로서 시장에 증명해야 할 실적 지표는 부담스러운 수준이다.외형 성장과 달리 내실이 악화돼서다.2025년도 감사보고서를 보면...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011410490060528",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T15:40:00+09:00"
+    },
+    {
+      "id": "DB증권-c7c780",
+      "title": "[특징주] 에코프로비엠, 1조2000억원 유증 충격에 7%대 급락…그룹주 동...",
+      "description": "안회수 DB증권 연구원은 BNSI 지분 확보에 대해 \"앞으로 다수의 니켈 제련소 투자 결과물로 동종 기업 대비 높은 수익성, 꾸준한 지분법 이익이 증명돼야만 높은 멀티플이 정당화될 수 있다\"고 강조했다.",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714706",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-16a405",
+      "title": "[카드] DB손해보험, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험(005830)은 환경재단과 손해보험업 관련 분야인 교통과 환경의 사회문제 해결을 위한 소셜벤처 발굴, 지원 및 육성을 위한 사회공헌사업 '교통∙환경 챌린지 8기'모집을 시작한다고 1일 밝혔다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=738721",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T15:16:00+09:00"
+    },
+    {
+      "id": "DB증권-b3b0d8",
+      "title": "1.2조 유증에 ‘급락’ 에코프로비엠…긍정론 나온 이유는?",
+      "description": "안회수 DB증권 연구원은 “광물 자원 확보와 원료 조달 측면의 이점은 분명하지만 투자 회수에는 단순 계산 기준 투자 회수 기간은 10년 이상으로 추정된다”며 “결국 니켈 가격이 이번 투자 수익성을 좌우할 핵심...",
+      "url": "https://www.kukinews.com/article/view/kuk202607010082",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T15:06:00+09:00"
+    },
+    {
+      "id": "DB증권-075903",
+      "title": "에코프로비엠, 1.2조 유증 승부수…니켈 공급망 강화 나선다",
+      "description": "안회수 DB증권 연구원은 \"앞으로 다수의 니켈 제련소 투자 결과물로 동종 기업 대비 높은 수익성, 꾸준한 지분법 이익이 증명돼야만 높은 멀티플이 정당화될 수 있다\"고 분석했다.단기 EPS(주당순이익) 희석도...",
+      "url": "https://news.mtn.co.kr/news-detail/2026070114190346795",
+      "source": "news.mtn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T14:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e1b803",
+      "title": "[보험 NOW] 토스인슈어런스·DB손보·한화생명·신한라이프",
+      "description": "■ DB손보, '교통·환경 챌린지 8기' 모집…소셜벤처 육성 DB손해보험이 교통안전과 환경 분야의 사회문제 해결에 나설 소셜벤처 발굴에 나선다. DB손보는 환경재단과 함께 교통·환경 분야 소셜벤처 지원사업인 '교통·환경...",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189279",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3ba7eb",
+      "title": "전기차·AI 반도체 폭발 위험 잡는다…코스텍시스 방열 기술 재조명",
+      "description": "대형 반도체주인 삼성전자와 SK하이닉스, DB하이텍은 하락세를 보이고 있다. 최근 큰 폭의 상승 이후 차익실현 매물이 유입된 데다 단기 급등에 따른 밸류에이션 부담이 영향을 미치는 것으로 풀이된다. 미국 반도체 업종...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464655",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T14:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4c1cc6",
+      "title": "메모리 가격 더 오른다…삼성전자·SK하이닉스 재평가 시간 온다",
+      "description": "이 밖에 HPSP, 이오테크닉스, DB하이텍, 리노공업 등도 시장 선호를 받고 있다고 설명했다. 전공정 대형 장비주는 2026년과 2027년 모두 수혜를 받을 수 있다는 분석이다. 올해는 삼성전자 P4, SK하이닉스 Y1 등...",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202606301514355152de3f0aa1be_7",
+      "source": "www.thepowernews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T14:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18ae68",
+      "title": "[금융 이모저모] 한화생명·세브란스병원, 치매 케어에 나선다",
+      "description": "◆ DB손보, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집 DB손해보험은 환경재단과 함께 교통·환경 분야 사회문제 해결을 위한 사회공헌 프로그램 '교통·환경 챌린지 8기' 참가 기업을 모집한다. 설립 7년 미만...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=288755",
+      "source": "www.goodkyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d40c0d",
+      "title": "DB하이텍 주가, 7월 1일 장중 130,200원 9.71% 하락",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 1일 오후 1시 48분 기준, 네이버페이 증권에 따르면 DB하이텍의 주가가 지난 종가 대비 하락세를 보이며 장중 130,200원에 거래되고 있다. 이는 지난...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=529738",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T14:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f701bf",
+      "title": "DB손보, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험이 교통·환경 분야 사회 문제 해결을 위한 소셜벤처를 발굴하고 육성한다. DB손해보험은 환경재단과 함께 '교통·환경 챌린지 8기' 모집을 시작한다고 1일 밝혔다. '교통·환경 챌린지'는 DB손해보험이...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91619",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cd16d5",
+      "title": "전기차 화재, 원인 몰라도 최대 150억원 보상받는다",
+      "description": "보험 운영은 DB손해보험, 현대해상, 삼성화재가 맡게 되며 보장 대상은 참여 기업이 국내에서 판매한 최초 등록 후 10년 이내 전기차다. 정선화 기후에너지환경부 녹색전환정책관은 \"전기자동차 화재안심보험 출범으로...",
+      "url": "http://autotimes.co.kr/detail.php?number=688282&thread=27",
+      "source": "autotimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c0acb8",
+      "title": "DB손해보험, '교통·환경 챌린지 8기' 모집…소셜벤처 육성 본격화",
+      "description": "DB손해보험이 교통안전과 환경 분야의 사회문제 해결을 위한 혁신 스타트업 발굴에 나선다. DB손해보험은 환경재단과 함께 교통 및 환경 분야 소셜벤처를 발굴·육성하는 사회공헌 프로그램인 '교통·환경 챌린지 8기...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=735633",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c0f2d1",
+      "title": "[주목! e금융] 신한라이프·토스·신협·업비트·DB손해보험...\"금융권, ...",
+      "description": "DB손해보험 DB손해보험은 환경재단과 함께 소셜벤처 지원사업인 '교통·환경 챌린지 8기' 참가 기업 모집을 시작했다. 교통·환경 챌린지는 교통안전과 환경 분야의 혁신 기술을 보유한 설립 7년 미만 소셜벤처를 발굴하고...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=184777",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-98e3a9",
+      "title": "[더밸류 브리핑] 오늘의 보험계 소식...한화생명·DB손해보험·신한라이...",
+      "description": "DB손해보험은 환경재단과 함께 교통·환경 분야 소셜벤처를 발굴·육성하는 사회공헌 프로그램 ‘교통·환경 챌린지 8기’ 모집을 시작했다. 신한라이프는 출범 5주년을 맞아 새로운 사회공헌 슬로건 '따뜻한 채움'을...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=199747",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T14:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0247ec",
+      "title": "DB손보, 교통·환경 챌린지 8기 모집",
+      "description": "사진=DB손해보험  DB손해보험이 교통과 환경 분야의 고질적인 사회문제를 혁신 기술로 해결할 유망 소셜벤처를 찾아 전방위적 육성에 나선다. DB손보는 환경재단과 손해보험업 관련 분야인 교통과 환경의 사회문제...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310300",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dad520",
+      "title": "'7修' 예별손보 매각, '마지막 허들' 넘으려면",
+      "description": "이후 적합한 인수자가 나타날 경우 매각을 추진하고 인수자가 없을 경우에는 보험계약을 삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재 등 5개 손해보험사로 이전한다는 방침을 세웠다. 보험업계 관계자는...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026070110585717267",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T13:46:00+09:00"
+    },
+    {
+      "id": "DB생명-dad520",
+      "title": "'7修' 예별손보 매각, '마지막 허들' 넘으려면",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재 등 5개 손해보험사로 이전한다는 방침을 세웠다.... 한국투자금융지주는 그동안 KDB생명, 롯데손해보험, BNP파리바카디프생명 등 보험사 매물을 꾸준히 검토하며...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026070110585717267",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-01T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6d6adb",
+      "title": "[보험업계 동향] 한화생명ㆍDB손보ㆍ신한라이프ㆍ하나손보(7.1)",
+      "description": "■ DB손보, '교통·환경 챌린지 8기' 모집 - 교통안전·환경 분야 소셜벤처 발굴 - 선정 기업에 사업화 자금·맞춤형 코칭 지원 DB손해보험이 환경재단과 함께 교통·환경 분야 소셜벤처를 지원하는 '교통·환경 챌린지 8기'를...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=782875",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T13:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-89768f",
+      "title": "DB손보, 소셜벤처 지원 '교통·환경 챌린지' 8기 모집",
+      "description": "서울 강남구 대치동에 위치한 DB손해보험 본사 야경. (사진=DB손해보험)  DB손해보험이 본업과 밀접한 교통·환경 분야의 사회문제 해결에 적극 나서고 있다. 문제 해결에 보탬이 되는 소셜벤처를 발굴, 육성하는...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=123033",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T13:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-819f2f",
+      "title": "청주 38년, 음성 21년 걸렸다…호남 반도체 800조원 딜레마 [세종 백브리...",
+      "description": "충북 음성 상우산업단지는 DB하이텍을 앵커 기업으로 2005년 지정됐다. 그러나 경기침체와 토지보상 갈등, 공사 중단을 반복하며 여전히 준공 카우트다운이 밀리고 있다. 공장 하나 짓는 데 꼬박 21년이 넘은 것이다....",
+      "url": "https://n.news.naver.com/mnews/article/119/0003106752?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T12:51:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7eebda",
+      "title": "코미코, 체코에 반도체 세정·코팅 신공장 건설…TSMC 정조준",
+      "description": "국내 안성, 강릉 거점은 삼성전자, SK하이닉스, DB하이텍, 세메스 등을 담당한다. 대만 신주에서는 TSMC, UMC, 마이크론, PSMC를, 중국 우시, 선전에서는 SK하이닉스, BOE, CSOT, LG디스플레이를 고객사로 확보했다....",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=58836",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T12:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1ff157",
+      "title": "[경제소식] KB금융 후원 '로보컵 2026 인천' 2일 개최",
+      "description": "DB손해보험 사옥. 2026.6.1./사진=DB손해보험 DB손보, 사회공헌사업 '교통·환경 챌린지 8기' 모집 DB손해보험은 환경재단과 함께 '교통·환경 챌린지 8기' 참가 기업 모집을 시작한다고 1일 밝혔다. '교통·환경 챌린지'는...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114025",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T12:08:00+09:00"
+    },
+    {
+      "id": "DB증권-3dc1aa",
+      "title": "에코프로비엠 1.2조 기습 유증 논란…\"이해는 가지만 주주가치 희석 우...",
+      "description": "안회수 DB증권 연구원은 이날 목표주가를 기존 26만원에서 21만원으로 하향 조정하며 \"앞으로 다수의 니켈 제련소 투자 결과물로 동종 기업 대비 높은 수익성, 꾸준한 지분법 이익이 증명돼야만 높은 멀티플이 정당화될...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014039955?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T12:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bea6bd",
+      "title": "[예별손보 M&A] 본입찰 4파전 흥행에도 '신중론' 확산",
+      "description": "이번 매각이 무산될 경우 보험계약은 삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재 등 5대 손해보험사로 이전된다. 보험업계 관계자는 “예보기금 지원이 일정 수준 제공되더라도 인수 이후 영업 정상화...",
+      "url": "https://dealsite.co.kr/articles/164542",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T12:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-81e492",
+      "title": "DB손보, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험이 교통안전 및 환경 분야의 혁신 솔루션을 보유한 소셜벤처 창업자 발굴과 지원, 육성에 나섰다. DB손해보험은 환경재단과 함께 손해보험업 관련 교통과 환경의 사회문제 해결을 위한 소셜벤처 발굴 및...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1087",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d7a89d",
+      "title": "저가 매수일까…삼전·하닉 5% 하락날 ‘상위 1%’는 집중 매입 [주식 초...",
+      "description": "이날 순매도 상위 종목은 DB하이텍, 에이피알, LG전자 순이다. 전 거래일 순매수는 SK하이닉스, 한미반도체, 포스코홀딩스 순서로 많았다. 전날 순매도 상위 종목은 삼성전기, LS일렉트릭, HD현대중공업이었다....",
+      "url": "https://n.news.naver.com/mnews/article/011/0004636890?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T11:41:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9f6aa8",
+      "title": "[특징주] 외국인 '대원전선', 기관 '이수페타시스' 주목…삼성전자는 '...",
+      "description": "반면 기관 순매도 상위 종목은 HPSP(403870)가 1위를 기록한 데 이어 스트라드비젼, 리노공업(058470), DB하이텍(000990), 지아이이노베이션 순으로 집계됐다. 키움증권 외국인/기관 매매상위 종목 [알림] 본 자료는 장중...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=708453",
+      "source": "www.newstnt.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T11:38:00+09:00"
+    },
+    {
+      "id": "DB증권-57b885",
+      "title": "삼성전기, AI 서버용 MLCC 공급 계약에 증권가 목표가 300만원 상향",
+      "description": "기반 범용 부품에서 장기공급계약 기반 스페셜티, 즉 고부가가치 특화 제품으로 바뀌고 있다는 것\"이라고 설명했다. 앞서 KB증권과 DB증권도 삼성전기의 목표주가를 300만 원으로 상향한 바 있다. (ㅍㅍㅅㅅ / PPSS )",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=300619",
+      "source": "www.ppss.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T11:35:00+09:00"
+    },
+    {
+      "id": "DB증권-6e86e5",
+      "title": "삼성전기 목표가도 '300만원 시대'…증권가 줄상향 배경은",
+      "description": "앞서 KB증권과 DB증권도 삼성전기 목표주가를 300만원으로 제시한 바 있다. 목표가 상향의 직접적인 계기는 전날 공시된 MLCC 공급계약이다. 삼성전기는 지난달 30일 글로벌 대형기업과 4539억9480만원 규모의 MLCC...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000512139?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-15cb9f",
+      "title": "전기차 화재보험 출시, 원인미상·제3자 피해 최대 150억 보상",
+      "description": "보험 운영은 지난 4월 선정된 DB손해보험, 현대해상, 삼성화재 등 3곳에서 맡게 되며 참여기업 명단과 구체적 약관은 무공해차 통합누리집(ev.or.kr)에서 확인할 수 있다.",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264098",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-190a48",
+      "title": "\"소셜벤처로 지속가능한 미래 혁신\" DB손보, 7월26일까지 '교통∙환경 챌...",
+      "description": "DB손해보험은 환경재단과 함께 사회문제 해결을 위한 소셜벤처 발굴·육성 프로그램인 '교통∙환경 챌린지 8기'를 통해 혁신 생태계 강화에 나섰다. [사진 DB손해보험] 고령화와 도시화가 가속화되면서 교통 체증과...",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=125614",
+      "source": "www.catchnews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c46858",
+      "title": "DB손보, 교통·환경 분야 소셜벤처 '8기 챌린지' 모집",
+      "description": "라이센스뉴스 = 이소라 기자 | DB손해보험이 교통·환경 영역 소셜벤처 발굴·육성 프로그램인 '교통·환경 챌린지' 8기 참가 기업 모집에 나섰다. 이번 사업은 업력 7년 미만 초기 창업기업을 대상으로 혁신 기술과 사업...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=204263",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:16:00+09:00"
+    },
+    {
+      "id": "DB증권-ec714c",
+      "title": "DB증권 \"씨어스 심전도 모니터링 기기 '모비케어' 미국서 인허가 받아, ...",
+      "description": "김지은 DB증권 연구원은 1일 \"씨어스 모비케어가 미국 식품의약국(FDA)으로부터 510(k) 인허가를 획득하면서 미국 시장 진출의 기반을 마련했다\"며 \"올해 안에 미국에서 매출이 발생할 것으로 기대한다\"고 바라봤다....",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441256",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b649da",
+      "title": "[Epic Why] 장기표류 MG손보, 4파전 흥행 반전 왜?",
+      "description": "이번에도 매각이 최종 불발되면 예별손보가 보유한 계약은 삼성화재·메리츠화재·DB손해보험·KB손해보험·현대해상 등 5대 손해보험사로 이전되는 수순을 밟을 것으로 전망된다. 예보 측은 \"공개매각 진행 여부와...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026070111024577577cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e242c5",
+      "title": "전기차 화재안심보험 1일 출범…‘원인 몰라도 보상’ 최대 150억 원",
+      "description": "보험 운영은 DB손해보험, 현대해상, 삼성화재가 맡는다. 다만 화재안심보험은 기존 보험을 대체하는 것이 아니라 보완하는 성격이다. 제조물책임보험이나 화재보험 등 기존 보험의 담보 범위가 우선 적용되고, 부족한...",
+      "url": "https://www.mediapen.com/news/view/1107524",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e24421",
+      "title": "DB손해보험, 교통·환경 소셜벤처 8기 모집",
+      "description": "DB손해보험이 교통과 환경 분야의 혁신 기술을 보유한 소셜벤처 창업기업을 지원한다. 1일 DB손해보험에 따르면 회사는 환경재단과 함께 '교통·환경 챌린지 8기'를 모집한다. 교통·환경 챌린지는 교통과 환경 분야의...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=125276",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T11:00:00+09:00"
+    },
+    {
+      "id": "DB증권-3251af",
+      "title": "“MLCC 사이클, 과거보다 강해”…삼성전기 ‘목표주가 300만원’ 상향 ...",
+      "description": "앞서 KB증권과 DB증권도 삼성전기 목표가를 300만원으로 상향한 바 있다. 삼성전기 수원사업장. 삼성전기 제공 전날 삼성전기는 내년 한 해 4540억원 규모의 인공지능(AI) 서버용 MLCC 공급계약을 맺었다고 공시했다....",
+      "url": "https://n.news.naver.com/mnews/article/022/0004139604?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T10:56:00+09:00"
+    },
+    {
+      "id": "DB증권-e73906",
+      "title": "\"삼성전기, 목표가 300만원\" 이구동성...하나증권·NH투자증권·iM증권 목...",
+      "description": "KB증권과 DB증권에 이어 하나증권·NH투자증권·iM증권도 삼성전기의 목표주가 300만원 행렬에 동참했다. 이들 증권사는 인공지능(AI) 서버용 MLCC 공급 부족에 따른 추가 가격상승을 이유로 제시했다. 삼성전기가 지난...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=202995",
+      "source": "www.livebiz.today",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T10:54:00+09:00"
+    },
+    {
+      "id": "DB증권-2bf9cc",
+      "title": "“삼성전기 300만원 간다…MLCC 4차 사이클 본격화” 목표가 일제히 상향",
+      "description": "앞서 KB증권과 DB증권도 삼성전기 목표가를 300만 원으로 상향한 바 있다. 한편, 삼성전기는 전체 MLCC 시장에서 약 25%의 점유율을 확보하고 있다. 기술 난도가 높은 AI 서버용 MLCC 시장에서는 40% 이상 점유율을...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002801548?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T10:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8534af",
+      "title": "김준기 리스크에 막힌 정책자금…DB하이텍 \"장비는 정부가\"?(1부)",
+      "description": "DB하이텍이 차세대 전력반도체 산업 육성을 명분으로 정부에 공공 양산팹 구축을 제안하면서 지원의 적정성을 둘러싼 논란이 커지고 있다. 회사는 충북 음성 공장과 공정기술을 제공하는 대신 정부가 핵심 장비를...",
+      "url": "https://www.sjsori.com/news/articleView.html?idxno=87217",
+      "source": "www.sjsori.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T10:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0fd676",
+      "title": "DB손해보험, '교통·환경 챌린지 8기' 참가기업 모집",
+      "description": "DB손해보험이 환경재단과 함께 교통·환경 분야 사회문제 해결을 위한 사회공헌사업 '교통·환경 챌린지 8기' 참가기업을 모집한다고 1일 밝혔다. 혁신 기술을 보유한 소셜벤처 지원에 나서는 모습이다. 교통·환경...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=307212",
+      "source": "www.cnbizm.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2cad12",
+      "title": "DB손보, 소셜벤처 육성 프로젝트 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험이 환경재단과 손잡고 손해보험업과 밀접한 교통안전과 환경 분야의 사회문제를 해결할 혁신 소셜벤처 발굴에 나선다. DB손보는 환경부 후원, 환경재단 주관으로 사회문제 해결형 스타트업을 육성하는...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1006465",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fe5871",
+      "title": "DB손보, 사회문제 해결 나설 혁신 스타트업 발굴...'밸류업' 프로젝트 본...",
+      "description": "DB손해보험이 우리 사회의 해묵은 과제인 교통안전과 환경 문제를 혁신적인 기술로 풀어갈 미래 청년 창업가들의 든든한 등대 역할을 자처하고 나섰다. DB손해보험은 환경재단과 공동으로 손해보험업과 밀접한 교통 및...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=253948",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-179698",
+      "title": "메모리값 또 뛰었다…유진테크·주성ENG 들썩 [칩칩폭폭]",
+      "description": "- 반면 대형 메모리주는 실적 기대에도 차익실현 매물이 나오며 약세를 나타냈다. DB하이텍은 6.17%, 파두는 6.40% 하락했고, 솔브레인과 ISC도 각각 1.37%, 0.22% 내렸다.",
+      "url": "https://n.news.naver.com/mnews/article/123/0002385707?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-01T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e53f5b",
+      "title": "DB손보, 교통·환경 챌린지 8기 모집…혁신 소셜벤처 육성",
+      "description": "DB손해보험은 환경재단과 손해보험업 관련 분야인 교통과 환경의 사회문제 해결을 위한 소셜벤처의 발굴, 지원 및 육성을 위한 사회공헌사업인 '교통·환경 챌린지 8기' 모집을 시작한다고 1일 밝혔다. DB손해보험의...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361373",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3adba5",
+      "title": "DB손해보험, 교통·환경 혁신 솔루션 스타트업 발굴..‘교통·환경 챌린...",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] DB손해보험(대표 정종표)이 교통안전과 환경 관련 혁신 솔루션을 보유한 소셜벤처 스타트업 발굴에 속도를 낸다.DB손해보험은 환경재단(대표자...",
+      "url": "https://kpenews.com/View.aspx?No=4132384",
+      "source": "kpenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9ac6ca",
+      "title": "DB손보, 8번째 교통·환경 소셜벤처 창업기업 육성",
+      "description": "DB손해보험이 교통·환경 소셜벤처 창업기업 육성에 나선다. DB손보는 ‘교통·환경 챌린지’를 모집한다고 1일 밝혔다. 이 챌린지는 교통·환경 분야에서 혁신 기술을 보유한 설립 7년 미만의 소셜벤처 창업기업을...",
+      "url": "https://www.g-enews.com/view.php?ud=202607010958117380a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-358cd8",
+      "title": "[금융권 이모저모]한화생명, 세브란스병원과 치매 케어 협력 外",
+      "description": "DB손해보험 사옥 전경. / 사진=DB손해보험 ◇DB손해보험, '교통·환경 챌린지 8기' 모집 DB손해보험은 환경재단과 소셜벤처 지원사업인 '교통·환경 챌린지 8기' 모집을 시작한다고 1일 밝혔다. 교통·환경 챌린지는 교통과...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=113553",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-263891",
+      "title": "롯데·예별·KDB 등 보험 3사 매각 작업 '속도'…숨은 승부처는 자본확충",
+      "description": "이번에도 최종 계약이 무산되면 예별손보 보유 계약은 삼성화재·메리츠화재·DB손해보험·KB손해보험·현대해상 등 5개사로 분산 이전된다. 롯데손해보험 인수전에는 신한금융지주와 한투지주가 뛰어들었다....",
+      "url": "https://www.raonnews.com/news/article.html?no=59212",
+      "source": "www.raonnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:42:00+09:00"
+    },
+    {
+      "id": "DB생명-263891",
+      "title": "롯데·예별·KDB 등 보험 3사 매각 작업 '속도'…숨은 승부처는 자본확충",
+      "description": "이번에도 최종 계약이 무산되면 예별손보 보유 계약은 삼성화재·메리츠화재·DB손해보험·KB손해보험... 현재 시장에 공식적으로 나온 유일한 생명보험 매물인 KDB생명도 실사가 한창이다. 산업은행이 일곱 번째로...",
+      "url": "https://www.raonnews.com/news/article.html?no=59212",
+      "source": "www.raonnews.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-01T09:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3cb546",
+      "title": "DB손해보험, 환경재단과 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험이 환경재단과 함께 손해보험업 관련 분야인 교통과 환경의 사회문제 해결을 위한 소셜벤처의 발굴, 지원 및 육성에 나선다. DB손해보험은 1일 환경재단과 교통과 환경의 사회문제 해결을 위한 소셜벤처의...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444099",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8c1e09",
+      "title": "DB손보, '교통·환경 챌린지 8기' 참가사 모집",
+      "description": "컨슈머타임스=김예령 기자 | DB손해보험이 교통·환경 분야 소셜벤처 육성을 위한 '교통·환경 챌린지 8기' 참가 기업 모집에 나선다. 1일 DB손해보험에 따르면 회사는 환경재단과 함께 교통 및 환경 분야의 사회문제...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=711762",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1848ae",
+      "title": "DB손보, 소셜벤처 '교통·환경 챌린지 8기' 모집 시작",
+      "description": "|중앙이코노미뉴스 정재혁 기자|DB손해보험은 환경재단과 함께 교통·환경 분야의 혁신 기술을 보유한 소셜벤처 발굴·육성 사회공헌사업인 '교통·환경 챌린지 8기' 모집을 시작한다고 1일 밝혔다. [사진=DB손해보험]...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=529557",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:26:00+09:00"
+    },
+    {
+      "id": "DB증권-37379a",
+      "title": "고액자산가 잡아라..증권사, 패밀리오피스·투자 세미나 강화",
+      "description": "DB증권도 VIP 고객을 대상으로 코스피·코스닥 투자 전략을 공유했다. iM증권은 AI와 반도체, 피지컬 AI, 로보틱스 산업을 중심으로 하반기 시장 전망을 제시했다. 한 증권사 관계자는 \"투자 수익률뿐 아니라 세무·상속...",
+      "url": "https://kpenews.com/View.aspx?No=4132212",
+      "source": "kpenews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T09:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-eb4b32",
+      "title": "DB손보, '교통·환경 챌린지 8기' 모집…소셜벤처 육성 확대",
+      "description": "DB손해보험 사옥. [DB손해보험]  DB손해보험이 교통안전과 환경 분야의 사회문제 해결에 나설 소셜벤처 발굴에 나선다. DB손보는 환경재단과 함께 교통안전과 환경 분야의 사회문제 해결에 기여할 소셜벤처를 발굴...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=138602",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7b8d6b",
+      "title": "DB손보, 소셜벤처 지원사업 '교통·환경 챌린지 8기' 모집",
+      "description": "DB손해보험(대표 정종표)은 환경재단(대표자 최열)과 손해보험업 관련 분야 교통과 환경의 사회문제 해결을 위한 소셜벤처 발굴, 지원 및 육성을 위한 사회공헌사업 '교통·환경 챌린지 8기' 모집을 시작한다고 1일...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003443071?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-732f40",
+      "title": "DB손보, '교통·환경 챌린지' 8기 모집",
+      "description": "DB손해보험이 교통안전과 환경 분야의 혁신 기술을 보유한 소셜벤처를 발굴·육성하기 위해 '교통·환경 챌린지' 8기 참가기업을 모집한다. DB손해보험은 환경재단과 함께 사회공헌사업인 '교통·환경 챌린지' 8기...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697185",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T09:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f761b7",
+      "title": "DB손보, '교통·환경 챌린지 8기' 모집…소셜벤처 육성 확대",
+      "description": "DB손해보험은 환경재단과 함께 사회공헌사업인 '교통·환경 챌린지 8기' 참가 기업을 모집한다고 1일 밝혔다. 이번 사업은 손보업과 연계성이 높은 교통과 환경 분야에서 혁신 기술과 아이디어를 보유한 설립 7년...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=108993",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T08:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6eb3c4",
+      "title": "올 상반기 보험업계 '새로운 질서' 자리 잡다",
+      "description": "삼성화재와 DB손해보험은 AI 기반 보험금 심사와 사고 접수 자동화를 확대했고, 교보생명과 한화생명은 생성형 AI 업무지원 시스템을 구축했다. KB손해보험도 AI 기반 언더라이팅과 리스크 분석 체계를 고도화하는 등 주요...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=204210",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T08:54:00+09:00"
+    },
+    {
+      "id": "DB증권-901c75",
+      "title": "씨어스 ‘모비케어’ 美수가 국내 5배… 수익성 높아진다 [Why 바이오]",
+      "description": "김지은 DB증권 연구원은 1일 보고서에서 “씨어스의 모비케어가 지난달 25일 FDA에서 510(k) 인허가를 획득하고 ‘MWJ 코드’를 부여받았다”며 “매출 약 1조 원 규모의 경쟁업체인 미국 아이리듬의 주력 제품 ‘지오...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004636765?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T08:50:00+09:00"
+    },
+    {
+      "id": "DB증권-6190b6",
+      "title": "\"삼성전기, MLCC 4차사이클 본격화\"…'목표가 300만원' 잇단 상향",
+      "description": "적시공급 기반 범용 부품에서 장기공급계약 기반 스페셜티(고부가가치 특화) 제품으로 바뀌고 있다는 것\"이라고 덧붙였다. 앞서 KB증권과 DB증권도 삼성전기 목표가를 300만원으로 상향한 바 있다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016168867?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-01T08:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-849f4e",
+      "title": "[애큐온 M&A] 한화생명, 한화솔루션처럼 유증할까…기본자본비율 '빠듯...",
+      "description": "투자자들에게 메리트를 제공하기 위해 높은 금리를 책정해야 하는 난점이 있어 DB손해보험과 같은 일부 회사를 제외하곤 기본자본 신종자본증권을 발행한 사례가 드물다. 한화생명은 이미 자본확충에 따른 금융비용...",
+      "url": "https://www.topdaily.kr/articles/110772",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-01T08:10:00+09:00"
+    },
     {
       "id": "DB손해보험-268af3",
       "title": "예별손보 매각 본입찰 4파전…흥국·OK·JC플라워·한투 참여",
@@ -335,12 +1172,12 @@
       "publishedAt": "2026-06-30T16:58:00+09:00"
     },
     {
-      "id": "DB손해보험-7b2e47",
+      "id": "DB생명-7b2e47",
       "title": "예별손보 재공고입찰 4곳 참여…매각 성사 기대감",
-      "description": "만약 이번에도 매각이 불발될 경우, 예별손보가 보유한 보험계약은 삼성화재·메리츠화재·DB손해보험·KB손해보험·현대해상 등 대형 손해보험사 5곳으로 모두 이전될 방침이다. 이번 입찰에 다수 기업이 관심을 보인...",
+      "description": "[사진=뉴스투데이DB] [뉴스투데이=김태규 기자] 예별손해보험(옛 MG손해보험) 매각을 위한 재공고입찰이 30일... KDB생명의 경우 한국투자금융지주를 비롯해 태광그룹, 대형 생명보험사 3곳 등 총 5개사가 예비입찰 단계에서...",
       "url": "https://www.news2day.co.kr/article/20260630500202",
       "source": "www.news2day.co.kr",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB생명",
       "publishedAt": "2026-06-30T16:54:00+09:00"
     },
     {
@@ -350,15 +1187,6 @@
       "url": "https://www.viva100.com/article/20260630500879",
       "source": "www.viva100.com",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-30T16:54:00+09:00"
-    },
-    {
-      "id": "DB생명-7b2e47",
-      "title": "예별손보 재공고입찰 4곳 참여…매각 성사 기대감",
-      "description": "[사진=뉴스투데이DB] [뉴스투데이=김태규 기자] 예별손해보험(옛 MG손해보험) 매각을 위한 재공고입찰이 30일... KDB생명의 경우 한국투자금융지주를 비롯해 태광그룹, 대형 생명보험사 3곳 등 총 5개사가 예비입찰 단계에서...",
-      "url": "https://www.news2day.co.kr/article/20260630500202",
-      "source": "www.news2day.co.kr",
-      "subsidiary": "DB생명",
       "publishedAt": "2026-06-30T16:54:00+09:00"
     },
     {
@@ -666,15 +1494,6 @@
       "source": "www.cnbnews.com",
       "subsidiary": "DB증권",
       "publishedAt": "2026-06-30T15:18:00+09:00"
-    },
-    {
-      "id": "DB손해보험-464a1c",
-      "title": "피에스케이홀딩스·주성엔지니어링 주가 질주…밸류업 대표주 재평가",
-      "description": "삼성화재와 DB손해보험도 단기 상승에 따른 부담이 반영되는 모습이다. 소비재와 서비스 업종에서도 매물이 출회되고 있다. 케이카와 경동나비엔, SOOP, 현대엘리베이터, 기아, 한전기술, 두산밥캣, 강원랜드, 제일기획...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464251",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-06-30T15:16:00+09:00"
     },
     {
       "id": "DB하이텍-464a1c",
