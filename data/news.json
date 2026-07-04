@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-07-04",
+  "lastUpdated": "2026-07-05",
   "articles": [
+    {
+      "id": "DB하이텍-cd0b82",
+      "title": "[코스피·코스닥지수] 코스피 8,000선 회복…삼성전자 실적·SK하이닉스...",
+      "description": "외국인의 주간 순매수 상위 종목에는 삼성전기 4천462억원, DB하이텍 2천860억원, LG이노텍 1천657억원, 한미반도체 1천485억원, 삼성바이오로직스 536억원 등이 포함됐다. 순매도 규모가 가장 컸던 종목은 SK하이닉스로...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=205633",
+      "source": "www.lecturernews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T07:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d2a05f",
+      "title": "[마켓인사이트] 8,000선 되찾은 코스피…삼전·닉스 이벤트 주목",
+      "description": "외국인 주간 순매수 상위 종목에는 삼성전기(4천462억원), DB하이텍(2천860억원), LG이노텍(1천657억원), 한미반도체(1천485억원), 삼성바이오로직스(536억원) 등이 이름을 올렸다. 외국인 주간 순매도 상위 종목은...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016176042?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T06:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-420128",
+      "title": "코스피 7000선까지 흔들려도 개인 15조 매수…외국인 19조 이탈",
+      "description": "이어 DB하이텍과 LG이노텍이 각각 2860억원, 1657억원으로 뒤를 이었다. 기관은 SK스퀘어를 2조3009억원 규모로 가장 많이 사들였다. 삼성전자의 순매수 거래대금은 1조8150억원을 기록했다. 이수페타시스가 4652억원...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087218?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-d50d52",
+      "title": "삼성전자·LG전자, 2분기 잠정실적 발표 '초읽기'...결과는?",
+      "description": "서승연 DB증권 애널리스트는 \"성과급 충당금에도 불구 메모리 판가 상승으로 견조한 디바이스설루션(DS) 실적이 예상되지만 부품 가격 상승에 따른 세트 사업부 부진이 예상된다\"라며 \"메모리는 PC 수요 약세를...",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=153121",
+      "source": "www.techm.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-04T13:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-79d497",
+      "title": "음성군, DB하이텍 제65회 도민체전 성공적 개최 후원금 기탁",
+      "description": "음성군에서 열리는 제65회 충북도민체육대회의 성공적인 개최를 기원하는 기업들의 후원 행렬이 이어지는 가운데, DB하이텍이 대규모 후원금을 쾌척하며 지역 사회...",
+      "url": "http://www.breaknews.com/1219138",
+      "source": "www.breaknews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-04T09:30:00+09:00"
+    },
+    {
+      "id": "DB증권-4b3fa2",
+      "title": "오락가락 반도체주 투심…\"59만전자·420만닉스 이상무\"",
+      "description": "DB증권도 메모리 가격 상승과 서버 중심 수요 확대를 바탕으로 삼성전자의 2분기 실적(83조조7000억원)이 시장 예상치에 부합할 것으로 전망했다. 최근 메타 이슈와 애플 관련 우려로 주가가 조정을 받았지만 메모리...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026070315474881391",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-04T08:04:00+09:00"
+    },
+    {
+      "id": "DB증권-78b7d2",
+      "title": "하반기 '1만피' 조준…변수는 국민연금·외국인·금리",
+      "description": "주요 증권가들의 목표치 상단을 살펴보면, 대신증권은 1만 1500포인트를, DB증권은 1만 1700포인트를 예상했고요. 현대차증권의 경우에는 강세장 시나리오에서 최대 1만 2000포인트에 도달할 수 있을 것이라고 전망했습니다....",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519931?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-04T08:01:00+09:00"
+    },
     {
       "id": "DB손해보험-8b6a52",
       "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 급등…반도체가 지...",
@@ -63,15 +126,6 @@
       "source": "daily.hankooki.com",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-07-04T07:00:00+09:00"
-    },
-    {
-      "id": "DB증권-613894",
-      "title": "반도체 대장주도 맥 못추는데…\"이 실적에 너무 싸\" 30% '쑥'[김근희의 ...",
-      "description": "서승연 DB증권 연구원은 \"삼성전자와 SK하이닉스의 적극적인 공정 전환과 신규 CAPA(생산시설) 투자는 케이씨텍의 반도체 장비 수주 증가로 이어지고 있다\"고 분석했다. 건설주도 3대 메가프로젝트에 따른 반도체...",
-      "url": "https://n.news.naver.com/mnews/article/008/0005381343?sid=101",
-      "source": "www.mt.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-07-04T06:12:00+09:00"
     },
     {
       "id": "DB하이텍-613894",
