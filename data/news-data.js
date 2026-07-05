@@ -1,7 +1,250 @@
-// 자동 생성 파일 — 2026-07-05
+// 자동 생성 파일 — 2026-07-06
 const NEWS_DATA = {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-06",
   "articles": [
+    {
+      "id": "DB증권-b3292a",
+      "title": "NH투자증권, 2분기 순이익 컨센서스 10% 상회 전망…높은 ROE 기반 고배당...",
+      "description": "DB증권은 NH투자증권의 올해 2분기 실적이 증시 거래대금 증가에 힘입어 시장 기대치를 웃돌 것으로 전망했다. 올해 자기자본이익률(ROE)이 16%를 넘어서는 가운데 7% 이상의 배당수익률이 기대된다며 투자의견 '매수...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=78908",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-06T07:30:00+09:00"
+    },
+    {
+      "id": "DB증권-b21e2d",
+      "title": "대웅제약, 나보타 미국향 물량 증가로 영업익 기대치 상회 전망",
+      "description": "DB증권은 대웅제약의 2분기 실적이 매출액 4139억원, 영업이익 711억원으로, 영업이익이 시장 기대치 512억원을 상회할 것으로 전망했다. 다이소 중심의 건기식 매출 증가와 나보타 수출 증가가 영업이익 개선을 이끌...",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=68613",
+      "source": "www.medicopharma.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-06T07:30:00+09:00"
+    },
+    {
+      "id": "DB증권-751029",
+      "title": "[더벨]유승종합건설, 울산 사업장 대출금액 일부 '조기 상환'",
+      "description": "와이디울산제일차는 유승종합건설이 DB증권으로부터 울산 다운2지구 유승한내들 에듀포레의 사업비를 조달할 때 설립한 유동화법인이다. 유승종합건설이 사업 추진을 위해 DB증권과 900억원 규모의 대출약정을...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607011641296760106523",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-06T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-1319e8",
+      "title": "[기업家] 삼성전기 ③ㅣ MLCC·유리기판 승부수…코스피 시총 5위 '점프...",
+      "description": "이보다 앞서 KB증권과 DB증권도 삼성전기 목표주가를 300만원으로 상향 조정한 바 있다. ● 2026-06-30 삼성전기, 4,540억원 AI 서버용 MLCC 공급 계약 체결…2027년까지 1년간 납품 삼성전기는 글로벌 빅테크 기업과...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=586703",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-06T07:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f3976a",
+      "title": "전력반도체 패권 격화…독일 50억 유로 ‘세계 최대급’ 팹 가동에 한국...",
+      "description": "이 시장에는 어보브반도체, SK실트론, DB하이텍 등 더 다양한 기업들이 업무협약(MOU)을 체결해 핵심 연합군을 이루며 대안의 씨앗을 함께 뿌리는 중이다. 정부와 출연연구기관 역시 오는 2028년까지 1385억 원을 투자하는...",
+      "url": "https://www.g-enews.com/view.php?ud=202607060635415942fbbec65dfb_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-06T06:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-00204d",
+      "title": "코스피 8,000선 회복…삼성전자 실적·SK하이닉스 ADR 주목",
+      "description": "반대로 외국인은 삼성전기 4천462억원, DB하이텍 2천860억원, LG이노텍 1천657억원, 한미반도체 1천485억원, 삼성바이오로직스 536억원을 순매수했다. 반도체 업종 전체에서 매도가 일방적으로 확산됐다기보다 대형...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16124540",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-06T06:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a115b8",
+      "title": "국민연금, IT·뷰티 담고 코스닥 소부장·바이오 덜었다",
+      "description": "비에이치(지분 증가분 5.88%포인트)·코리아써키트(2.71%포인트)·LG이노텍(2.08%포인트)·DB하이텍(1.14%포인트) 등 IT·전자부품 기업이 상위권에 이름을 올렸다. 한국콜마(2.28%포인트)·달바글로벌(1.96%포인트)·코스맥스(1....",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165146",
+      "source": "it.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-06T06:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-859fc4",
+      "title": "[주간수급리포트] 외인 20兆 매도 폭탄에 국장 하락...개인·기관 반도체...",
+      "description": "이어 DB하이텍(2860억원), LG이노텍(1657억원), 한미반도체(1485억원), 삼성바이오로직스(536억원) 순으로 순매수했다. 반면 SK하이닉스를 8조2824억원 팔아치웠으며, 삼성전자(7조6880억원), SK스퀘어(1조9875억원)...",
+      "url": "https://www.etoday.co.kr/news/view/2600265",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-06T06:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-624edc",
+      "title": "[비즈인사이트] DB하이텍, 전력반도체 '구조적 성장기' 진입… 1Q 어닝 ...",
+      "description": "DB그룹의 핵심 축인 DB하이텍이 시스템반도체 시장의 한파를 뚫고 고부가 전력반도체(PMIC) 중심의 체질 개선을 실적으로 증명하며 그룹 전체의 장기 성장 잠재력을 끌어올리고 있다. 단순한 단기 실적 반등을 넘어, AI...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=4883",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-06T05:51:00+09:00"
+    },
+    {
+      "id": "DB증권-bb5d11",
+      "title": "\"성과급 반영해도 85조\" 삼전 영업이익 또 대박?...올해 370조 보인다",
+      "description": "서승연 DB증권 연구원은 \"성과급 충당금에도 불구하고 강력한 메모리 판매가격 상승으로 견조한 DS부문의 실적이 예상된다\"며 \"다만 메모리 등 부품 가격 상승에 따른 세트 사업부들의 부진이 전망된다\"고 밝혔다.",
+      "url": "https://n.news.naver.com/mnews/article/008/0005381654?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-06T04:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e5682e",
+      "title": "[보험단상] 숫자가 아니라 사람을 설계합니다.",
+      "description": "묵묵히 삶의 무게를 견뎌내고 있는 '인간의 시간'을 향해 따뜻한 시선을 던져야 할 때다. 그 시선이야말로, 어떤 AI도 결코 흉내 낼 수 없는 보험인의 가장 고유한 자산일 것이다. 김덕출 생활칼럼니스트 前 DB손해보험 상무",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91570",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-06T00:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3a737a",
+      "title": "DB하이텍, 충북도민체육대회 성공적 개최 위해 성금 전달",
+      "description": "▲ DB하이텍은 65회 충북도민체육대회의 성공적인 개최를 기원하며 음성군과 음성군체육회에 후원금 전달했다.(사진은 왼쪽부터 장석태 DB하이텍 PL, 강준원 음성군체육회장, 김호윤 DB하이텍 상무, 조병옥 음성군수)...",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2425991",
+      "source": "www.ccdailynews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T20:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-34de6f",
+      "title": "AI가 웃고, 배터리가 울었다...시총 100위 성적표 '극과 극'",
+      "description": "삼성전기와 LG이노텍, 한미반도체, 대덕전자, DB하이텍, 주성엔지니어링, 원익IPS 등 반도체 부품·장비 기업까지 상승 흐름이 확산됐다. 유가증권시장과 코스닥을 대표하는 반도체 밸류체인이 상반기 상승장을...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465659",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T19:56:00+09:00"
+    },
+    {
+      "id": "DB하이텍-451d2a",
+      "title": "외국인, 반도체 '투톱' 16조 폭풍 매도…삼성전기는 ‘줍줍’",
+      "description": "DB하이텍(1848억원)과 한미반도체(992억원) 등 일부 중소형 반도체 및 후공정 종목에 대해서는 매수 우위를 유지했다. [자료=NH투자증권 리서치본부] 외국인이 쏟아낸 역대급 매물은 개인과 기관 투자자가 고스란히...",
+      "url": "https://www.news2day.co.kr/article/20260705500059",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T19:44:00+09:00"
+    },
+    {
+      "id": "DB증권-eca858",
+      "title": "\"NH투자증권, 2분기 실적 기대 이상…배당 매력도 부각\" -DB증권",
+      "description": "ㅣ DB증권 NH투자증권이 2분기 시장 기대치를 웃도는 실적과 높은 배당 매력을 바탕으로 증권업종 내 투자 매력이 부각될 것이라는 전망이 나왔다. 나민욱 DB증권 연구원은 5일 보고서를 통해 \"NH투자증권의 2분기...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=355534",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-05T19:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3e74d7",
+      "title": "DB하이텍, 도민 화합의 장에 힘 보태다",
+      "description": "지난 3일 국내 대표 시스템반도체 파운드리 기업인 DB하이텍은 음성군청을 찾아 대회 성송 개최를 기원하며 후원금 1억 원을 전달했다. 후원금은 충북도민체육대회의 기념품 제작과 전반적인 행사 운영비 등으로 전액...",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1086520",
+      "source": "www.ccdn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T15:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-79c86f",
+      "title": "DB하이텍 충북도민체전 성공 기원 1억원 후원",
+      "description": "［동양일보 심영선 기자］ 음성군이 오는 9월 10일~12일 사흘간 13년만에 개최하는 65회 충북도민체육대회 성공을 위해 DB하이텍이 1억원을 후원했다. DB하이텍 김호윤 상무가 지난 3일 군을 방문해 조병옥 군수에게...",
+      "url": "http://www.dynews.co.kr/news/articleView.html?idxno=856736",
+      "source": "www.dynews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T15:14:00+09:00"
+    },
+    {
+      "id": "DB증권-4ce67d",
+      "title": "2분기 실적발표 앞둔 삼성전자…메모리 초호황 속 영업익 80조 훌쩍?",
+      "description": "DB증권(83조7000억원), 신한투자증권(82조1000억원), LS증권(81조8000억원), 교보증권(80조3000억원), iM증권(80조원)도 80조원이 넘는 영업이익을 예상했다. 삼성전자는 올해 1분기 57조2000억원의 영업이익을 시현한 바 있다....",
+      "url": "http://www.segyebiz.com/newsView/20260705505378?OutUrl=naver",
+      "source": "www.segyebiz.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-05T13:38:00+09:00"
+    },
+    {
+      "id": "DB증권-df95ea",
+      "title": "이번 주 레몬헬스케어 코스닥 입성…에이치엘지노믹스, 수요예측 이어가",
+      "description": "이명선 DB증권 연구원은 \"만성질환 중심의 다양한 제품을 기반으로 2021~2025년 매출액이 연평균 16.7%로 안정적인 성장을 했다\"며 \"공정 효율화 및 수율 개선을 통해 업종 평균보다 높은 3개년 평균 30% 초반의...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423393",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-05T13:06:00+09:00"
+    },
+    {
+      "id": "DB증권-f64c54",
+      "title": "[채권-주간] 코스피·환율 바라기…24시간 돌아가는 외환시장",
+      "description": "문홍철 DB증권 자산전략팀장은 미국 고용지표 부진과 유가 안정에 따른 물가 기대치 하락에도 국내외 금리가 당분간 높은 수준을 유지할 수 있다고 지적했다. 중앙은행의 행동이 매우 후행적이라는 이유에서다. 문...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423395",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-05T13:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7b4e43",
+      "title": "2026 금융권 공동채용 박람회, 8월 19일 DDP서 개최",
+      "description": "보험권에서는 생명보험사 6곳(NH농협생명, 교보생명, 삼성생명, 신한라이프, 한화생명금융서비스, 한화생명)과 손해보험사 10곳(DB손해보험, KB손해보험, NH농협손해보험, SGI서울보증, 메리츠화재, 삼성화재, 코리안리...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91665",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-05T12:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f44e38",
+      "title": "DB하이텍, 충북도민체육대회 성공적 개최 위해 1억 쾌척",
+      "description": "▲ 사진은 DB하이텍이 3일 군청 집무실에서 제65회 충북도민체육대회의 성공적인 개최를 기원하며 후원금 1억 원을 기탁한 뒤 기념 촬영을 하고 있는 모습.(왼쪽부터 장석태 DB하이텍 PL, 강준원 음성군체육회장, 김호윤...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167429",
+      "source": "www.ggilbo.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T11:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4ec4e2",
+      "title": "[김수현의 상한가] \"AI 수요 둔화 우려 과도\"…증시 향방 삼성전자 2분기...",
+      "description": "외국인은 △삼성전기 △DB하이텍 △리노공업 등을 대거 매수했지만 △SK하이닉스 △삼성전자 △SK스퀘어 등에 대해 순매도를 형성했다. 특히 지난 2일 AI 관련 반도체 수요 둔화에 대한 공포심리가 작용하면서...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=530505",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6dacc2",
+      "title": "“‘삼전닉스’, 오를까 내릴까”…이번주 코스피 ‘운명’ 가른다",
+      "description": "외국인 순매수 상위 종목에는 삼성전기(4462억원), DB하이텍(2860억원), LG이노텍(1657억원), 한미반도체(1485억원), 삼성바이오로직스(536억원) 등이 이름을 올렸다. 반대로 순매도 상위에는 SK하이닉스(8조2824억원)...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665772?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T09:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0e7548",
+      "title": "삼성전자 실적에 쏠린 눈…변동성 장세 반등 시험대[주간증시전망]",
+      "description": "반면 삼성전기(009150), DB하이텍(000990), LG이노텍(011070), 한미반도체(042700), 삼성바이오로직스(207940) 등은 순매수했다. 시장에서는 이번 조정이 실적 펀더멘털 훼손보다는 밸류에이션 부담과 수급 쏠림이 한꺼번에...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006322953?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T09:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-04f8ed",
+      "title": "간병인보험 손해율 빨간불 켜졌는데...'20만원' 보장 경쟁 재개",
+      "description": "지난해 10월 이후 DB손해보험과 흥국화재가 간병인 사용일당 보장 한도를 다시 최대 20만원까지 높였고, 이후 올해 2~3월 다시 보장금액을 낮춘 바 있다. 손해율 부담이 커질 때마다 한도를 낮추고, 판매 경쟁이 붙으면...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=265001",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-06b2da",
+      "title": "코스피, 반도체·AI 우려에 8,000선 급변동… 기관 매수로 반등",
+      "description": "외국인은 삼성전기 4천462억원, DB하이텍 2천860억원, LG이노텍 1천657억원, 한미반도체 1천485억원, 삼성바이오로직스 536억원 등을 순매수한 반면, SK하이닉스는 8조2천824억원, 삼성전자는 7조6천880억원, SK스퀘어는...",
+      "url": "https://www.tokenpost.kr/news/market/375086",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-05T08:06:00+09:00"
+    },
     {
       "id": "DB하이텍-cd0b82",
       "title": "[코스피·코스닥지수] 코스피 8,000선 회복…삼성전자 실적·SK하이닉스...",
