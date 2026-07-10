@@ -1,7 +1,1132 @@
-// 자동 생성 파일 — 2026-07-10
+// 자동 생성 파일 — 2026-07-11
 const NEWS_DATA = {
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-11",
   "articles": [
+    {
+      "id": "DB하이텍-5c5c24",
+      "title": "KB증권, 7월 둘째주 POSCO홀딩스 등 17종목 매추 추천",
+      "description": "DB하이텍(000990) 8인치 파운드리 공급 부족 심화에 따른 수혜 기대. 2026년 매출 1조6300억원(+16% YoY), 영업이익 3752억원(+35% YoY, 영업이익률 23.1%) 추정.  목표주가 17만원과 투자의견 Buy로 커버리지 개시....",
+      "url": "https://www.bigtanews.co.kr/article/view/big202607100016",
+      "source": "www.bigtanews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-11T07:12:00+09:00"
+    },
+    {
+      "id": "DB생명-23f8a8",
+      "title": "보험도 '초개인화' 시대… 유병자·AI·연금까지 맞춤 경쟁",
+      "description": "DB생명의 '(무)AI 라이프케어 암보험'은 업계 최초로 자체 구축한 생성형 AI를 적용한 상품이다. 개인 건강등급을 분석해 보험료 할인과 연계하고, 가입 이후에도 AI 건강코칭 서비스를 통해 건강관리까지 이어지는 통합...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165534",
+      "source": "it.chosun.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-11T06:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0278e5",
+      "title": "[주간 거래소 외국인] 삼성전기 LG이노텍 SK 폭풍매수...SK하이닉스 삼성...",
+      "description": "이 밖에도 이수페타시스, 에이피알, 신한지주, 한국항공우주, 대한항공, HD건설기계, 하나금융지주, DB손해보험, LIG디펜스앤에어로스페이스, 삼성화재가 순매도 상위 종목에 포함됐다. 또 한국금융지주, 한화솔루션...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467482",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-11T06:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ca1b62",
+      "title": "[주간 거래소 기관] 삼성전자·KB금융 집중 매수… SK하이닉스·삼성전기...",
+      "description": "이어 대한항공, 현대차, LG전자, 셀트리온, SK이노베이션, HD건설기계, 한국금융지주, DB손해보험, 한국항공우주, 삼성에스디에스도 기관의 매수세가 집중된 종목으로 집계됐다. 기관은 반도체 대형주 가운데 삼성전자와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467481",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-11T06:04:00+09:00"
+    },
+    {
+      "id": "DB증권-a28e92",
+      "title": "\"삼성증권, 2분기 호실적 기대… 배당 확대는 제한적\" - DB증권",
+      "description": "DB증권은 삼성증권 2분기 지배주주순이익이 5243억원으로, 전년 동기 대비 123.4% 증가해 시장 기대치를 웃돌 것으로 전망했다. 10일 나민욱 DB증권 연구원은 \"브로커리지 수수료는 증시 호조에 따른 거래대금 증가...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=355810",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e95fa6",
+      "title": "예보 \"예별손보 우선협상대상자에 OK금융그룹 선정\"",
+      "description": "예보는 이번 매각도 최종 무산될 경우 삼성화재, DB손해보험, 현대해상, KB손해보험, 메리츠화재 등 5개 손해보험사로 보험계약 이전을 추진할 계획이다. 한편, 예별손해보험은 2022년 부실금융기관으로 지정된 이후...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=42335",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T22:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-21ba92",
+      "title": "삼성화재·한국증권금융, 금융보안 유공 금융위원장 표창",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상자로 선정됐다. 금융위원회는 이억원 금융위원장이 10일 서울 종로구 포시즌스호텔에서 금융보안원이 주최한...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=744891",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T22:22:00+09:00"
+    },
+    {
+      "id": "DB증권-8d03ce",
+      "title": "비상장기업 공동 발굴·토큰증권 추진…DB증권·서울거래 맞손",
+      "description": "비상장주식 거래 플랫폼을 운영하는 서울거래가 DB증권과 비상장주식 거래·토큰증권 분야 협력을 위한 업무협약을 체결했다고 10일 밝혔다. 양측은 이번 협약에 따라 △비상장주식 거래 서비스 연계·유망 비상장기업...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384487?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T20:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1b1b0d",
+      "title": "[업앤다운]보험주 상승…한화손해보험·한화생명↑",
+      "description": "흥국화재는 전 거래일 대비 8.9%(270원) 오른 3305원으로 장을 마쳤고 DB손해보험은 전 거래일 대비 6.35%(9300원) 상승한 15만5800원에 거래를 끝냈다. 현대해상은 전 거래일 대비 5.83%(2100원) 상승한 3만8150원에 장을...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=820257",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T19:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ca2944",
+      "title": "OK금융그룹, '예별손보' 인수 우선협상대상자 선정",
+      "description": "다만 매각이 불발될 시 예별손보의 계약은 5대 손해보험사(삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재)로 이전된다. OK금융그룹 관계자는 \"종합금융그룹 도약을 위해 사업 포트폴리오 다변화를 시도해...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173866",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T19:18:00+09:00"
+    },
+    {
+      "id": "DB증권-e52a86",
+      "title": "'바이오 대형주' HLB·펩트론, 돌발 악재에 동반 하한가",
+      "description": "28%, 1.21% 올랐다. 이명선 DB증권 연구원은 “바이오 섹터가 이미 상당한 조정을 받아 바닥권에 있는 만큼 지수 전반의 연쇄 하락으로 번지기보다 개별 종목 이벤트로 끝날 가능성이 높다”고 말했다.",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308738?sid=105",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T18:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5bc4d6",
+      "title": "OK금융, 예별손보 품나…관건은 재무 여력",
+      "description": "이번에도 최종 계약이 무산되면 예별손보가 보유한 보험계약은 삼성화재와 메리츠화재, DB손해보험, KB손해보험, 현대해상 등 5개 손해보험사로 이전하는 절차가 추진될 예정입니다. 이 경우 대규모 계약 이전에 따른...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607100061",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T18:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-60c092",
+      "title": "충청북도교육청, 현장 면접과 멘토링 결합한 ‘26 취업박람회 열어",
+      "description": "특히 기업 채용관에서는 DB하이텍, 네패스, 스태츠칩팩코리아 등 유망 기업들이 참여해 기업 홍보와 현장 면접을 동시에 진행했다. 스태츠칩팩코리아는 충북형...",
+      "url": "http://www.breaknews.com/1220931",
+      "source": "www.breaknews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T18:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c62c0e",
+      "title": "9000 찍고 18% 추락한 코스피…상장사 시총 구간은 그대로",
+      "description": "1조원 구간에서는 DL이 이탈하고 현대홈쇼핑이 새로 이름을 올렸고, 10조원 구간에서는 삼성에피스홀딩스가 밀려난 자리를 DB손해보험이 채웠다. 100조원 이상 종목은 현대차 시총이 119조원에서 93조7000억원으로...",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=104317",
+      "source": "www.womentimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T18:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-446a50",
+      "title": "[보험업계기상도]7월 둘째 주 ‘맑음’ 우세…교보생명 ‘구름 조금’,...",
+      "description": "DB손해보험은 한국표준협회의 ‘2026 한국서비스품질지수’ 평가에서 장기보험과 자동차보험 두 핵심 부문 동시 단독 1위를 기록했다. ◆예외 기업은 ‘구름 조금’ NH농협생명은 휴면보험금·미수령 연금·만기보험금...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=820028",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T18:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a5fbae",
+      "title": "경찰, 자생한방병원 압수수색…한방 자보 진료 관행 수사 본격화",
+      "description": "◆ 손보사들은 왜 '공동 고소'라는 방식을 택했나 이번 수사는 지난 4월 삼성화재·현대해상·KB손해보험·DB손해보험 등 4개 대형 손해보험사가 자생의료재단을 보험사기방지특별법 위반 혐의로 고소하면서 시작됐다....",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207286",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T17:54:00+09:00"
+    },
+    {
+      "id": "DB증권-64310e",
+      "title": "목표가 상향 행렬 멈춰…반도체 전망도 ‘극과 극’",
+      "description": "DB증권은 8일 삼성전자 목표주가를 최고점인 37만 4500원보다 낮은 36만 원으로 유지한 반면 같은 날 KB증권은 60만 원을 제시했다. 인공지능(AI) 수요를 바탕으로 추가 상승이 가능하다는 강세론에 반도체 업황이...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640384?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T17:51:00+09:00"
+    },
+    {
+      "id": "DB생명-043729",
+      "title": "교보·ABL ‘인프라·마케팅’ 지출 확대…삼성·신한라이프는 비용 효...",
+      "description": "이 밖에 처브라이프(-51.11%), DB생명(-6.95%), IBK연금보험(-4.41%), 동양생명(-2.70%), KDB생명(-2.65%) 등도 기타사업비를 줄이며 비용 관리에 나섰다. 업계는 이 같은 기타사업비 지출의 차별화가 생보업계 특유의 비용 구조와...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026070910275581347",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-10T17:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-147727",
+      "title": "OK금융, 예별손보 우협 선정…MG손보 정리 절차 매각 가닥",
+      "description": "이번 매각 절차가 끝내 불발될 경우 해당 계약은 삼성화재, DB손해보험, 현대해상, KB손해보험, 메리츠화재 등 5개 대형 손해보험사로 나뉘어 이전될 가능성이 거론돼 왔다. 이 때문에 이번 우선협상대상자 선정은 MG손보...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114585",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T17:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4cb615",
+      "title": "손해보험 업계 '누수 차단' 총력…사기·과잉진료에 강경 맞대응",
+      "description": "10일 보험 업계에 따르면 주요 손보사(삼성화재·DB손해보험·현대해상) 전반으로 자동차보험 수익성이 악화한 것으로 나타났다. 삼성화재는 1분기 자동차보험 손익에서 96억원의 손실을 기록했고, 현대해상도 140억원...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087500?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T17:26:00+09:00"
+    },
+    {
+      "id": "DB증권-e9754d",
+      "title": "나보타 성장에 웃음꽃 피는데…세무조사 마주한 대웅제약",
+      "description": "같은 날 DB증권 역시 2분기 매출액을 전년 동기 대비 13.7% 증가한 4139억 원, 영업이익을 전년 동기 대비 13.7% 증가한 711억 원으로 내다봤다. 실적 성장의 키는 보툴리눔 톡신 제제 나보타다. 다올투자증권은 이번 2분기...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202607101009381754923defd0cc_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T17:20:00+09:00"
+    },
+    {
+      "id": "DB증권-b2c6b1",
+      "title": "[10일 특징주] 반도체 흔들리자 방어주 '활짝'…은행株 '강세'",
+      "description": "DB증권은 올해 2분기 커버리지 은행 합산 지배 순이익이 전년 동기 대비 6.5% 상승한 6조6000억원을 기록할 것으로 예상했다. 나민욱 DB증권 연구원은 \"시장 금리 상승에 따른 NIM(순이자마진) 개선과 증권 자회사 실적...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846900",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7dd80d",
+      "title": "[코스피 지수선물 옵션] 선물시장서 확인된 투자심리…반도체·조선·금...",
+      "description": "KB금융, 신한지주, 하나금융지주, 우리금융지주, 기업은행, 메리츠금융, 삼성생명, 삼성화재, DB손해보험, 한국금융지주, 미래에셋증권, NH투자증권, 삼성증권, 키움증권이 상승하며 안정적인 실적 기대와 주주환원...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467452",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aa9b53",
+      "title": "'부실금융기관 4년' MG손보 새 주인 찾았다…OK금융 우협 선정",
+      "description": "이번 재매각이 무산될 경우 수의계약으로 전환할 수 있지만, 최종 매각이 불발되면 예별손보는 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 손해보험사로 계약 이전 절차가 추진된다. 업계 관계자는...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009052926?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:37:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ea2928",
+      "title": "이억원 “AI 공격은 AI로 방어”…금융권 망분리 전면 해제 속도",
+      "description": "삼성화재해상보험과 한국증권금융이 단체 부문 금융위원장 표창을 받았다. 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 홍석경 글로벌이코노믹 기자",
+      "url": "https://www.g-enews.com/view.php?ud=202607101604533950e30fcb1ba8_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:28:00+09:00"
+    },
+    {
+      "id": "DB생명-4ee1df",
+      "title": "상반기 보험업계 특허경쟁 생보 13건…손보 6건 그쳐",
+      "description": "총 19건 획득…전년동기대비 2건↓ \"제3보험 시장 경쟁 심화된 영향\" \"하반기 경쟁 구도 달라질 수 있어... 생보사 중에서는 삼성생명과 교보생명이 각각 3건으로 가장 많이 획득했고, 한화생명·DB생명이 2건씩 획득해 뒤를...",
+      "url": "https://www.asiatime.co.kr/article/20260708500192",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-10T16:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3c7059",
+      "title": "\"보험금 지급 불만에 흔들린 KB손보\"…5대 손보사 중 환산 민원건수 최...",
+      "description": "[사진=KB손해보험] 올해 1분기 KB손해보험의 보유계약 10만 건당 환산 민원건수가 5대 손해보험사(삼성화재·현대해상·DB손해보험·메리츠화재) 가운데 가장 많았던 것으로 나타났다. 접수된 민원의 상당수가...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=344788",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:15:00+09:00"
+    },
+    {
+      "id": "DB손해보험-73ad31",
+      "title": "OK금융, 예별손보 우협 선정… 보험업 진출로 종합금융그룹 도약",
+      "description": "이후에도 매각이 성사되지 않으면 예별손보의 보험계약을 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 주요 손해보험사로 이전하는 방안이 추진될 가능성이 거론된다. 다만, 계약 이전은 실무 절차가...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=355797",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f592db",
+      "title": "예별손보 우협에 OK금융그룹 선정…종합금융그룹 도약 발판",
+      "description": "이번에도 불발될 경우 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 5개 손해보험사로 보험계약을 이전하는 절차가 본격화된다. 예보는 우선협상대상자에게 배타적 협상기간을 부여하고 매각 협상과...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126276",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a7620b",
+      "title": "독일 보청기 송파·강남·서대문, 여름 맞이 4주 무료체험 프로모션 운...",
+      "description": "여기에 ㈜고귀는 DB손해보험과 협업해 분실·도난·파손·화재·침수 등을 보장하는 보청기 전용보험 상품도 함께 선보이고 있다. 보청기는 장기간 착용하는 청각재활 의료기기인 만큼, 구매 단계뿐 아니라 사용 이후의...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=387961",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:12:00+09:00"
+    },
+    {
+      "id": "DB증권-345c8a",
+      "title": "DB증권, 서울거래와 비상장주식·토큰증권 사업 맞손",
+      "description": "DB증권이 비상장주식 거래 플랫폼 서울거래와 손잡고 비상장주식 거래와 토큰증권 사업 확대에 나선다. DB증권과 서울거래는 10일 비상장주식 거래 및 토큰증권 분야 업무협력을 위한 양해각서(MOU)를 체결했다고 밝혔다....",
+      "url": "https://n.news.naver.com/mnews/article/018/0006327221?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bb3ad1",
+      "title": "카카오뱅크, 금융위 정보보호 유공 표창…AI 보안 역량 인정",
+      "description": "개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장에게 전달됐다. 개인 부문을 수상한 카카오뱅크는 금융 서비스에 AI 기술을 안전하게 적용할 수 있도록 금융 특화 AI 정보보호...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=265956",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2be785",
+      "title": "[거래소 기관] 삼성전자·SK하이닉스 동반 매수…반도체 대형주로 자금...",
+      "description": "금융주 가운데서는 KB금융, 신한지주, 삼성생명, DB손해보험에 매수세가 유입됐다. 금리 환경 변화 속에서도 안정적인 실적과 주주환원 정책이 투자 매력으로 평가받고 있다. 방산과 산업재에서는 한화시스템, HD건설기계...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467434",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d8f0f2",
+      "title": "유병자보험도 ‘맞춤형’ 경쟁…현대해상, 병력 나눠 보장 넓혔다",
+      "description": "DB손해보험은 상대적으로 건강 상태가 양호한 초경증 유병자 시장을 공략하고 있다. 병력 고지 기간을 나눠 심사하고 고혈압이나 당뇨, 고지혈증이 있는 고객도 심사를 거쳐 가입할 수 있도록 했다. 삼성화재도 Smart...",
+      "url": "https://sateconomy.co.kr/news/view/1065590312087267",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c10fd2",
+      "title": "[거래소 외국인] 삼성전자 SK 중심 대형주 매수 확대… SK하이닉스 대덕...",
+      "description": "외국인은 HD현대중공업, 삼성생명, DB손해보험, 한화솔루션에서도 매도 우위를 보였다. 조선과 보험, 친환경 에너지 업종에서도 종목별 수급 조정이 진행되는 모습이다. 또 삼화콘덴서, HD건설기계, 후성, 두산, SK이터닉스...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467433",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T16:06:00+09:00"
+    },
+    {
+      "id": "DB증권-bdcaee",
+      "title": "몸집 키우는 증권사들…신종자본증권 발행으로 '자본확충' 나선다",
+      "description": "10일 금융투자업계에 따르면 올해 신종자본증권을 발행 또는 발행 예정인 증권사는 메리츠증권, 신한투자증권, DB증권, 대신증권, iM증권 등이다. 해당 증권사들의 총 발행 물량은 1조1050억원 규모다. 메리츠증권은 올해...",
+      "url": "https://n.news.naver.com/mnews/article/417/0001151202?sid=101",
+      "source": "www.sidae.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T15:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ab50eb",
+      "title": "\"고객이 꼽은 최고 보험사\" DB손해보험, KS-SQI 장기·자동차보험 '독점...",
+      "description": "DB손해보험이 한국표준협회(KSA)가 주관하는 '2026 한국서비스품질지수(KS-SQI)' 평가에서 장기보험과 자동차보험 부문 모두에서 대망의 단독 1위를 차지했다고 10일 밝혔다. KS-SQI는 국내 서비스 산업의 품질 수준을 나타내는...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126765",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6eccff",
+      "title": "OK금융, 예별손보 인수 우협 선정…종합금융 도약",
+      "description": "매각 실패 시 예별손보는 삼성화재·DB손해보험 등 대형 손보사로 보험계약을 이전해야 하는데, OK금융이 인수하게 되면 이 과정에서 발생하는 전산 구축 등 비용 부담이 최소화되는 겁니다. 다만, 세부 계약 조항...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521028?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:46:00+09:00"
+    },
+    {
+      "id": "DB증권-9abe95",
+      "title": "호실적에도 외면받는 카카오…스톡옵션·RSU 가치도 흔들",
+      "description": "한국투자증권도 기존 7만원에서 6만원으로 낮췄고, 앞서 DB증권과 한화투자증권도 각각 5만7000원, 6만2000원을 제시했다.실적 전망 자체는 나쁘지 않다. 에프앤가이드에 따르면 카카오의 올해 2분기 매출액은...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003940",
+      "source": "www.asiatoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T15:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fab9d8",
+      "title": "\"계약자 대신 청약서 서명\"..DB손보 설계사 제재",
+      "description": "포쓰저널 강민혁 기자 DB손해보험 사옥. /사진=DB손해보험 DB손해보험 소속 보험설계사가 보험계약자의 자필서명을 받지 않고 청약서에 대신 서명한 사실이 적발돼 금융당국의 제재 절차에 올랐다. 10일 금융당국에...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114574",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f54bb1",
+      "title": "금융위원장 \"보안역량 갖춘 금융사 망분리 전면해제 조속히 구체화\"",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이 수상했으며 개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 금융위원장 표창을 받았다. 시상식 이후에는 금융 보안...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1385017",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:44:00+09:00"
+    },
+    {
+      "id": "DB증권-398eaa",
+      "title": "'금감원 제재 단골' 리딩투자증권이 중소기업 지원? [뉴스톡 웰스톡]",
+      "description": "반면 DB증권과 DS투자증권은 제외했다. '중기특화 금투사'란 중소·벤처기업 금융 업무에 특화된 중소형 증권사를 육성하고, 자본시장을 통한 자금조달을 지원하기 위해 2016년 도입됐다. 중기특화 금투사에는...",
+      "url": "http://www.newswell.co.kr/news/articleView.html?idxno=20212",
+      "source": "www.newswell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T15:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-47cb37",
+      "title": "이억원 \"물리적 제한만으로 AI 공격 못 막아…망분리 전면 해제 추진\"",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 표창받았다. 시상식 이후에는 고학수 서울대 교수의 '금융 보안 거버넌스', 이상근 고려대 교수의 'AI 혁신과 보안'을...",
+      "url": "https://n.news.naver.com/mnews/article/417/0001151193?sid=101",
+      "source": "www.sidae.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-50d247",
+      "title": "\"취업 역량 높인다\"…충북교육청 직업계고 취업박람회 개최",
+      "description": "기업 채용관에서는 DB하이텍, 네패스, 스태츠칩팩코리아 등 기업 42곳이 참여해 회사 홍보와 함께 현장에서 채용 면접을 진행했다. 청주상공회의소, 고용노동부 청주지청, 한국산업인력공단 충북지사, 충북기업진흥원...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009052743?sid=102",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T15:17:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1baa0c",
+      "title": "대부업 꼬리표 떼고 보험사 품는 최윤…OK금융 '종합금융' 마지막 퍼즐",
+      "description": "예별손보 매각이 무산될 경우 수의계약으로 전환할 수 있지만, 최종 매각이 불발되면 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 대형 손해보험사로 계약 이전 절차가 추진될 수 있다. 계약 이전은...",
+      "url": "https://www.newspim.com/news/view/20260710001109",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a5d7e1",
+      "title": "\"드디어 OK!\" OK금융, 예별손보 안고 종합금융사 향한다",
+      "description": "금융당국은 또다시 매각에 실패하면 삼성화재, DB손해보험, 현대해상, KB손해보험, 메리츠화재 등 대형 손보사에 예별손보의 보험계약을 이전하는 방안을 검토했었다. 이 방식은 전산 시스템 구축은 물론, 계약 검증...",
+      "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61886",
+      "source": "www.the-pr.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5529eb",
+      "title": "OK금융, 예별손보 품고 종합금융그룹 도약 '속도전'…인수 우선협상대상...",
+      "description": "다만 고용 보장과 함께 정상매각 재추진을 요구하는 노조 측 반발이 거세지면서 DB손해보험·메리츠화재·삼성화재·KB손해보험·현대해상 등 5개 손보사로 계약이전과 함께 공개매각 병행 추진이 결정됐다. 이후에도...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=874749",
+      "source": "www.getnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-063816",
+      "title": "이억원 금융위원장 \"AI 보안체계 구축 속도\"…망분리 전면 해제 방안도",
+      "description": "단체 부문에서는 삼성화재와 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 수상했다. 이어진 주제 강연에서는 서울대 고학수 교수가 '금융...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207269",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T15:00:00+09:00"
+    },
+    {
+      "id": "DB자산운용-6e2b04",
+      "title": "[더벨]금투협, '공모-사모' 운용사 매칭 행사 추진",
+      "description": "DB자산운용도 지난 1일 관련 공모펀드의 증권신고서 효력이 발생하며 대열에 합류했다. 앞서 유진자산운용과 우리자산운용, 다올자산운용 등도 사모운용사와 접촉하거나 기존 사모 네트워크를 재점검하는 단계에...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081033500360101928",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-07-10T14:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6738e8",
+      "title": "보험사 2분기 실적 방어 관건은 투자수익…자산운용 성과가 변수",
+      "description": "10일 금융정보업체 에프앤가이드에 따르면 삼성생명·한화생명·동양생명·미래에셋생명·삼성화재·현대해상·DB손해보험·한화손해보험 등 상장 보험사 8곳의 2분기 당기순이익 시장 전망치는 총 2조4916억원으로...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724213",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T14:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-684626",
+      "title": "충북교육청, '직업계고 취업박람회' 개최…42개 기업·13개 유관기관 참...",
+      "description": "기업 채용관에서는 DB하이텍, 네페스, 스태츠칩팩코리아 등 기업들이 현장 면접으로 채용 기회를 제공했으며, 유관기관 홍보관에서는 청주상공회의소, 고용노동부 청주지청 등이 취업·채용 정책과 청년 지원사업 등을...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4094362",
+      "source": "news.bbsi.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T14:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6388fa",
+      "title": "이억원 \"AI 공격 AI로 방어해야…금융사 망분리 전면해제 방침\"",
+      "description": "단체 부문에서는 삼성화재해상보험, 한국증권금융이 표창을 받았고 개인 부문에는 △윤호영 카카오뱅크 대표 △장은영 한국씨티은행 상무 △김대희 DB손해보험 본부장이 수상했다. 시상식 이후에는 고학수 서울대...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=532103",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T14:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65f233",
+      "title": "이억원 \"보안역량 갖춘 금융사 망분리 전면해제…조속히 발표\"",
+      "description": "개인 부문에는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 시상식 이후에는 고학수 서울대 교수의 '금융보안 거버넌스', 이상근 고려대 교수의 'AI 혁신과 보안'을 주제로...",
+      "url": "http://www.seouleconews.com/news/articleView.html?idxno=92330",
+      "source": "www.seouleconews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T14:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e19f1a",
+      "title": "이억원 금융위원장 \"AI 보안체계 고도화…망분리 전면 해제 조속 추진\"",
+      "description": "단체 부문에서는 삼성화재와 한국증권금융이 수상했으며 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다.",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83167",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T14:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d157eb",
+      "title": "충북교육청, '2026 충북교육 직업계고 취업박람회' 개최",
+      "description": "도내 직업계고 학생 1,500여 명과 DB하이텍, 네패스, 스태츠칩팩코리아 등 42개 우수기업, 13개 유관기관이 참여한 이번 박람회는 ▲ 기업채용관 ▲ 유관기관 홍보관 ▲ 졸업생 멘토링관 ▲ 취업지원 및 체험관...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=709755",
+      "source": "www.newstnt.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T14:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-47b8eb",
+      "title": "[주목 e-보험] 소비자 보호 전략 '분화'…\"삼성화재, GA 거버넌스 강화,...",
+      "description": "④ DB손해보험 : 라이프사이클 케어 (요양사업 등 돌봄 생태계 확장, ESG 연계) DB손해보험은 소비자 보호의 개념을 단순한 판매 통제를 넘어 '라이프사이클 케어'로 확장하고 있다. 고령화 시대에 맞춰 요양·돌봄...",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=422612",
+      "source": "www.economytalk.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bff737",
+      "title": "예별손보 인수 우선협상자로 OK금융 선정…종합금융그룹 발판 마련",
+      "description": "만약 이번 재매각마저 최종 불발될 경우 예별손보는 삼성화재와 DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 대형 손해보험사로 계약 이전 절차를 밟아야 하는 상황에 놓인다. 예별손보는 지난 3월 말 기준...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039618",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T13:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9dff13",
+      "title": "이억원 금융위원장 \"AI 보안체계 구축 위해 현장과 끊임없이 소통\"",
+      "description": "단체 부문은 삼성화재해상보험, 한국증권금융 2개 기관에, 개인 부문은 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장이 금융보안 유공 금융위원장 표창을 받았다. 주제 강연도 마련했다....",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430067?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T13:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-36b499",
+      "title": "삼성화재, KGA에셋과 맞손…민원 예방 협력 체계 가동",
+      "description": "DB손해보험 역시 주요 제휴 GA들과 정례적인 '소비자보호 협의회'를 구성해 불판율이 높은 상품군에 대한 완전판매 프로세스를 점검하는 등, 영업 현장의 리스크를 낮추고 금융소비자 권익을 지키기 위한 보험업계의...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207252",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T12:50:00+09:00"
+    },
+    {
+      "id": "DB증권-0873b7",
+      "title": "증권사 2026년 7월 브랜드평판...미래에셋증권, 삼성증권, 한국투자증권...",
+      "description": "유진투자증권, DB증권, IBK투자증권, LS증권, 다올투자증권, 부국증권, 아이엠증권, 케이프투자증권 순이었다. ​증권사 브랜드평판 1위를 기록한 미래에셋증권 브랜드는 참여지수 2,172,623 미디어지수 1...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226727",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T12:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cfb557",
+      "title": "[이슈] 금융당국, AI·보안 역량 갖춘 금융사 '망분리' 전면 해제 추진",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 정보보호 발전에 기여한 공로로 수상했다. 시상식에 이어 열린 특별강연에서는 고학수 서울대학교 교수가 '금융 보안...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=736605",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T12:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-15d3e7",
+      "title": "AI 시대 '망분리 규제' 전면 해제 눈앞…이억원 \"방안 구체화해 곧 발표...",
+      "description": "금융회사 각 업권별 모범사례를 바탕으로 단체 부문은 삼성화재해상보험, 한국증권금융 2개 기관에, 개인 부문은 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장에게 금융보안 유공...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=874721",
+      "source": "www.getnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c9e103",
+      "title": "이억원 위원장 “망분리 전면 해제 방안 조속히 구체화할 것”",
+      "description": "단체 부문은 삼성화재해상보험·한국증권금융 2개 기관에, 개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장에게 수여됐다. 고학수 서울대 교수의 ‘금융 보안 거버넌스’...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178226?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5cec41",
+      "title": "삼성전자·SK하이닉스 등 반도체株 상승...투자심리 개선",
+      "description": "10일 오전 11시 23분 기준 삼성전자는 3.60%(1만 원) 상승한 28만 8000원에, SK하이닉스는 0.82%(1만 8000원) 상승한 220만 4000원에, DB하이텍은 3.86%(4500원) 상승한 12만 1200원에 거래되고 있다. 이날 관련 주가 상승은...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3632179",
+      "source": "www.gukjenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T11:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a01a0a",
+      "title": "이억원 \"AI 보안 역량 갖춘 금융사, 망분리 전면 해제 추진\"",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 또한 금융회사 경영진의 보안 책임과 안전한 AI 도입 방안을 다룬 주제 강연도 진행됐다. 고학수 서울대학교...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91777",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-77193c",
+      "title": "금융당국, AI·보안 우수 금융사 망분리 전면 해제 추진",
+      "description": "단체 부문에서는 삼성화재와 한국증권금융이 선정됐다. 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 표창을 받았다. 토요경제",
+      "url": "https://sateconomy.co.kr/news/view/1065576287653880",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-680747",
+      "title": "이억원 금융위원장 “AI 보안 갖춘 금융사, 망분리 전면해제 곧 구체화...",
+      "description": "개인 부문은 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장에게 금융보안 유공 금융위원장 표창을 수여했다. 정보보호의 날은 지난 2009년 7월 7일 사이버 공격에 의한 정부기관, 금융회사...",
+      "url": "http://www.boannews.com/media/view.asp?idx=144622&kind=2",
+      "source": "www.boannews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a3efc1",
+      "title": "이억원 금융위원장, 정보보호 행사 참석…유공자 표창 수여",
+      "description": "개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 금융보안 유공 금융위원장 표창을 수상했다. 이어 전문가 주제 강연이 진행됐다. 고학수 서울대 교수는 금융회사가 갖춰야...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002233805?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-88bf49",
+      "title": "삼성화재·한국증권금융 ‘금융보안’ 금융위원장 표창",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 유공자 명단에 이름을 올렸다. 이억원 금융위원장은 10일 서울 종로구 포시즌스호텔에서 금융보안원이 주최한 금융회사...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668567?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-397c40",
+      "title": "금융위원장 “역량 갖춘 금융사는 조속히 망분리 전면해제”",
+      "description": "단체 부문에서는 금융산업의 신뢰성과 안정성을 높인 공로로 삼성화재해상보험, 한국증권금융이 표창을 받았다. 개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다.",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640256?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-81b4e8",
+      "title": "금융위원장 \"금융보안 체계 구축 시급 ... AI 공격은 AI로 방어해야\"",
+      "description": "상무, DB손해보험 김대희 본부장에게 금융보안 유공 금융위원장 표창을 수여했다. 주제 강연은 서울대 고학수 교수의 '금융 보안 거버넌스', 고려대 이상근 교수의 'AI 혁신과 보안'을 주제로 진행됐다. 고학수 교수는...",
+      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=130884",
+      "source": "www.efnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9c3ae9",
+      "title": "이억원 \"AI 보안역량 갖춘 금융사, 망분리 전면 해제...조속히 구체화\"",
+      "description": "기관과 임직원에 대한 금융위원장 표창도 수여됐다. 단체 부문에서는 삼성화재와 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다.",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92063",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f975b1",
+      "title": "금융위원장 \"망분리 전면 해제 구체화… AI보안 구축\"",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이 표창을 받았으며, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 이 위원장은 \"보안은 제품이...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165532",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-341d38",
+      "title": "이억원 금융위원장, \"망분리 전면 해제 방안 조속히 구체화할 것\"",
+      "description": "단체 부문은 삼성화재해상보험, 한국증권금융 2개 기관에, 개인 부문은 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장가 금융보안 유공 금융위원장 표창을 수여받았다.",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404138",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:42:00+09:00"
+    },
+    {
+      "id": "DB증권-b53cda",
+      "title": "미래에셋증권, 7월 증권사 브랜드평판 분석결과 1위",
+      "description": "유진투자증권, DB증권, IBK투자증권, LS증권, 다올투자증권, 부국증권, 아이엠증권, 케이프투자증권 순이었다. ​증권사 브랜드평판 1위를 기록한 미래에셋증권 브랜드는 참여지수 2,172,623 미디어지수 1...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272813",
+      "source": "www.businesskorea.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:42:00+09:00"
+    },
+    {
+      "id": "DB증권-787d22",
+      "title": "[N2 증시 풍향계] KB금융·신한지주 '신고가', 금호타이어·한성기업 '상...",
+      "description": "나민욱 DB증권 연구원은 \"시장금리 상승에 따른 NIM(순이자마진) 개선과 증권 자회사 실적 기여도 확대에 힘입어 대형은행 기준 연간 순이익 증가율이 10%에 달할 것\"이라며 \"강화된 주주환원 정책이 주가 하방을...",
+      "url": "https://www.news2day.co.kr/article/20260710500067",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d065fd",
+      "title": "OK금융, 예별손보 우협 선정…6차례 매각 무산 끝 새 주인 찾나",
+      "description": "당초 당국은 삼성화재, DB손해보험, 현대해상, KB손해보험, 메리츠화재 등 대형사에 계약을 이전하는 방안을 고려했으나, 전산 시스템 구축 및 고객 안내 등 실무적 부담과 막대한 비용 문제로 업계의 우려가 컸다....",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604404",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-41ff0e",
+      "title": "이억원, 금융사 CEO에 \"정보유출·해킹 교훈…보안체계 시급\"",
+      "description": "개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 받았다. 이후 고학수 서울대 교수가 금융 보안 거버넌스, 이상근 교수가 AI 혁신과 보안을 주제로 강연을 진행했다. 고학수...",
+      "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79838",
+      "source": "www.newsfc.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6fc778",
+      "title": "금융위원장 \"AI 보안체계 구축·망분리 전면 개선 추진\"…금융권 정보보...",
+      "description": "개인 부문에서는 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장이 금융보안 체계 강화와 정보보호 활동에 기여한 공로로 금융위원장 표창을 받았다. 이어진 주제 강연에서는 서울대학교...",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=207551",
+      "source": "www.dailysecu.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:36:00+09:00"
+    },
+    {
+      "id": "DB증권-05baa4",
+      "title": "증권 테마 훨훨…브로커리지·STO 기대감에 투자심리 살아난다",
+      "description": "상상인증권과 DB증권, 한양증권, 현대차증권은 물론 다올투자증권, 부국증권, 대신증권, 신영증권도 동반 강세를 보이고 있다. LS증권과 유화증권, 코리아에셋투자증권 역시 업종 전반의 투자심리 개선 영향을 받으며...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467302",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:32:00+09:00"
+    },
+    {
+      "id": "DB증권-ba6e7b",
+      "title": "은행주, 사상 최대 실적 기대감…우리·KB금융 6%대 강세[특징주]",
+      "description": "나민욱 DB증권 연구원은 \"시장 금리 상승에 따른 순이자마진(NIM) 개선과 증권 자회사 실적 기여도 확대에 따른 이익 개선으로 대형 은행 기준 연간 순이익 증가율은 10%에 달할 것으로 예상한다\"고 말했다. 아울러...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026071010180918863",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f0cf6a",
+      "title": "이억원, AI 사이버 공격 증가에 '망분리 전면 해제' 강조",
+      "description": "단체 부문에선 삼성화재와 한국증권금융이, 개인 부문은 카카오뱅크 윤호영 대표·한국씨티은행 장은영 상무·DB손해보험 김대희 본부장이 표창을 받았다. 이 위원장은 \"새로운 디지털 위협에 효과적으로 대응하기...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311442",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:24:00+09:00"
+    },
+    {
+      "id": "DB증권-109245",
+      "title": "[모닝 리포트] 신한지주, 실적 개선세 뚜렷…DB증권 \"목표주가 13만7000원...",
+      "description": "DB증권은 이에 따라 투자의견 '매수(BUY)'를 유지하고 목표주가를 기존보다 상향한 13만7000원으로 제시했다. DB증권은 10일 나민욱 애널리스트의 보고서를 통해 신한지주의 2026년 2분기 지배주주순이익이...",
+      "url": "https://www.newspim.com/news/view/20260710000385",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9e1026",
+      "title": "이억원 \"AI 공격은 AI로 방어\"…금융권 망분리 규제 전환 예고",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 표창을 받았다. 주제 강연은 고학수 서울대 교수의 '금융 보안...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2114536",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5f7e69",
+      "title": "예별손해보험 새 주인은 OK금융…우선협상대상자로 내정",
+      "description": "재매각이 무산될 경우 수의계약으로 전환할 수 있지만 최종 매각이 불발되면 예별손보는 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 손해보험사로 계약 이전 절차가 추진돼 예금보험공사...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264434",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d5c2d7",
+      "title": "이억원 금융위원장, 정보보호의 날 표창 수여 [포토]",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 표창을 받았다.",
+      "url": "https://www.etoday.co.kr/news/view/2602385",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T10:02:00+09:00"
+    },
+    {
+      "id": "DB증권-8610db",
+      "title": "중기특화 증권사 7곳 지정…3년간 모험자본 공급 주력",
+      "description": "리딩투자증권이 신규로 선임됐고, 기존 중기특화 증권사였던 DB증권과 DS투자증권은 제외됐다. 중기특화 증권사는 회사별 중소·벤처기업 금융지원 실적 등에 대해 산업은행, 성장금융, 신용보증기금·기술보증기금...",
+      "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79833",
+      "source": "www.newsfc.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-920162",
+      "title": "충북교육청 '직업계고 취업박람회' 성황…채용·취업 면접·상담",
+      "description": "채용관에서는 DB하이텍, 네패스, 스태츠칩팩코리아 등 도내 기업이 회사를 홍보하고 현장에서 취업 상담과 채용 면접을 진행했다. 청주상공회의소, 고용노동부 청주지청, 한국산업인력공단 충북지사, 충북기업진흥원 등...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014058489?sid=102",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d60a85",
+      "title": "충북교육청, 직업계고 취업박람회 열어…채용 면접 등 진행",
+      "description": "기업 채용관에서는 DB하이텍 등 참여 기업들이 회사 홍보와 채용 면접·상담을 진행했다. 스태츠칩팩코리아는 충북형 채용연계형 현장실습을 위한 필기시험과 면접을 진행했고, 네패스도 현장실습 참여 면접을 했다....",
+      "url": "https://n.news.naver.com/mnews/article/001/0016186847?sid=102",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-10T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e6777f",
+      "title": "[포토] 정보보호의 날 기념행사...금융사·핀테크기업 등 참석",
+      "description": "이억원 금융위원장과 김대희 DB손해보험 본부장이 10일 오전 서울 종로구 포시즌스 호텔에서 열린 '정보보호의 날 기념행사'에서 기념 촬영을 하고 있다.이억원 금융위원장과 유공장 수상자들이 10일 오전 서울 종로구...",
+      "url": "https://www.meconomynews.com/news/articleView.html?idxno=132699",
+      "source": "www.meconomynews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:58:00+09:00"
+    },
+    {
+      "id": "DB증권-494bc0",
+      "title": "[특징주] 은행주 강세, 우리ㆍKB금융 6%↑⋯“상반기 사상 최대 실적 전...",
+      "description": "나민욱 DB증권 연구원은 \"시장 금리 상승에 따른 순이자마진(NIM) 개선과 증권 자회사 실적 기여도 확대에 따른 이익 개선으로 대형 은행 기준 연간 순이익 증가율은 10%에 달할 것으로 예상한다\"고 분석했다. 전배승...",
+      "url": "https://www.etoday.co.kr/news/view/2602374",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3573a1",
+      "title": "이억원 \"AI 역량 갖춘 금융사 망분리 전면 해제 방안 구체화\"",
+      "description": "개인 부문에서는 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장이 수상했다. 이후 고학수 서울대 교수의 '금융 보안 거버넌스'와 이상근 고려대 교수의 'AI 혁신과 보안'을 주제로 한...",
+      "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89493",
+      "source": "www.thereport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:52:00+09:00"
+    },
+    {
+      "id": "DB증권-b5530b",
+      "title": "카카오뱅크, 2분기 순익 1394억원…컨센서스 웃돌 전망",
+      "description": "DB증권은 카카오뱅크가 올해 2분기 시장 기대치를 웃도는 실적을 기록하는 가운데 순이자마진(NIM) 개선이 이어지고 기업금융 확대를 위한 사업 다각화도 본격화될 것으로 전망했다. 투자의견 '매수(BUY)'와 목표주가...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79248",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:52:00+09:00"
+    },
+    {
+      "id": "DB증권-59414a",
+      "title": "[빅데이터투데이] 증권사 2026년 7월 브랜드평판 랭킹... 1위 미래에셋증...",
+      "description": "유진투자증권, DB증권, IBK투자증권, LS증권, 다올투자증권, 부국증권, 아이엠증권, 케이프투자증권 순으로 집계됐다. 구창환 한국기업평판연구소 소장은 \"미래에셋증권이 소통과 참여 지표에서 압도적...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=387856",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:52:00+09:00"
+    },
+    {
+      "id": "DB증권-926213",
+      "title": "우리금융지주, \"주주환원 여력 더 커진다\" - DB증권",
+      "description": "DB증권은 우리금융지주가 올해 2분기 시장 기대치에 부합하는 실적을 기록하는 가운데 자본비율 개선과 자사주 매입 확대를 바탕으로 주주환원 매력이 한층 높아질 것으로 전망했다. 투자의견 '매수(BUY)'와...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79246",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d1ab76",
+      "title": "예별손보 새 주인은 OK금융…예보, 우협 선정",
+      "description": "협상이 최종 무산되면 수의계약으로 갈 수도 있지만, 그마저 안 되면 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 5개사로 계약을 쪼개 넘겨야 한다. 앞서 2024년에도 예보는 메리츠화재를...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=531989",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:48:00+09:00"
+    },
+    {
+      "id": "DB증권-ff0d42",
+      "title": "하나금융지주, \"밸류에이션·주주환원 매력 여전\" - DB증권",
+      "description": "DB증권은 하나금융지주가 올해 2분기 시장 기대치에는 소폭 못 미치는 실적을 기록하겠지만 순이자마진(NIM) 개선과 견조한 이자이익 증가, 낮은 밸류에이션을 감안하면 투자 매력은 여전히 높다고 평가했다....",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79245",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:46:00+09:00"
+    },
+    {
+      "id": "DB증권-bf5522",
+      "title": "신한금융지주, \"실적·자본비율 모두 안정적\" - DB증권",
+      "description": "DB증권은 신한지주가 올해 2분기 시장 기대치를 웃도는 실적을 거두는 데 이어 순이자마진(NIM) 개선과 비은행 계열사의 실적 회복으로 안정적인 성장세를 이어갈 것으로 전망했다. 이에 투자의견 '매수(BUY)'를...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79242",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:44:00+09:00"
+    },
+    {
+      "id": "DB증권-01774b",
+      "title": "미래에셋증권, 7월 증권사 브랜드평판 1위…삼성증권·한국투자증권 뒤...",
+      "description": "유진투자증권, DB증권, IBK투자증권, LS증권, 다올투자증권, 부국증권, 아이엠증권, 케이프투자증권 순으로 나타났다. 한편 최근 순위 흐름을 보면 미래에셋증권은 5월과 6월, 7월 모두 1위를 유지하며 선두를...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=126212",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:42:00+09:00"
+    },
+    {
+      "id": "DB증권-641071",
+      "title": "KB금융지주, 2분기 순익 1.9조 전망…\"역대급 실적에 주주환원도 기대\" ...",
+      "description": "DB증권은 KB금융이 올해 2분기 시장 기대치를 웃도는 실적을 거두는 데 이어 하반기 대규모 자사주 매입까지 더해지며 주주환원 매력이 한층 부각될 것으로 전망했다. 이에 목표주가를 기존 20만원에서...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=79241",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9c10a6",
+      "title": "이억원 \"망분리 전면 해제 서두를 것...AI 공격은 AI로 방어\"",
+      "description": "개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장에게 표창이 수여됐다. 고학수 서울대 교수의 '금융 보안 거버넌스', 이상근 고려대 교수의 'AI 혁신과 보안' 주제 강연도...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546409?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c686df",
+      "title": "예별손보, OK금융 품에 안기나…예보, 우선협상대상자 내정",
+      "description": "이번 재매각이 무산될 경우 수의계약으로 전환할 수 있지만, 최종 매각이 불발되면 예별손보는 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 손해보험사로 계약 이전 절차가 추진된다. 앞서 예보가...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009051828?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:31:00+09:00"
+    },
+    {
+      "id": "DB증권-13e980",
+      "title": "은행주, 주가 조정 '방어주'로 뜬다…우리금융 8%대↑",
+      "description": "나민욱 DB증권 연구원은 이날 리포트에서 \"시장금리 상승에 따른 NIM(순이자마진) 개선과 증권 자회사 실적 개여도 확대에 따른 이익 개선으로 대형은행 기준 연간 순이익 증가율은 10%에 달할 것으로...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384181?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:29:00+09:00"
+    },
+    {
+      "id": "DB증권-b1e47a",
+      "title": "7500피 회복에 증권주 전종목 강세…NH證 7%대 상승",
+      "description": "이 밖에도 교보증권, 한양증권, 유진투자증권, 유안타증권, DB증권이 5%대, 현대차증권, 다올투자증권, 대신증권, 부국증권이 4%대, 상상인증권, 신영증권, {미래에세증권}이 3%대, LS증권...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384178?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-10T09:27:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c43615",
+      "title": "금융보안 유공 단체에 삼성화재·한국증권금융…윤호영 카뱅 대표도 표...",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 유공자 명단에 이름을 올렸다. 이억원 금융위원장은 10일 서울 종로구 포시즌스호텔에서 금융보안원이 주최한 금융회사...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668453?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-229922",
+      "title": "OK금융, 예별손보 인수 우선협상자 내정…보험업 진출 본격화",
+      "description": "동시에 금융당국이 매각 실패 시나리오로 검토했던 대형 손해보험사(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재)로의 보험계약 강제 이전 방안도 추진되지 않을 전망이다. 계약 이전은 전산 시스템...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026071009025779307cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d79fb7",
+      "title": "금융위원장, 금융보안원 주최 금융회사 CEO 초청 '정보보호의 날 기념 행...",
+      "description": "상무, DB손해보험 김대희 본부장에게 금융보안 유공 금융위원장 표창을 수여했다. 주제 강연은 서울대 고학수 교수의 '금융 보안 거버넌스', 고려대 이상근 교수의 'AI 혁신과 보안'을 주제로 진행됐다. 고학수 교수는...",
+      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2051855",
+      "source": "www.intn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-48d5ae",
+      "title": "금융 규제 풀리나… 망분리 해제 적극 추진하는 금융당국",
+      "description": "개인 부문 수상자로는 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장이 선정되었다. 이어진 세션에서는 고학수 서울대 교수가 '금융 보안 거버넌스' 주제로 강연을 진행했으며, 이상근...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=871720",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-481bd2",
+      "title": "DB손보 \"KS-SQI 장기·자동차보험 부문 1위\"",
+      "description": "DB손해보험은 한국표준협회(KSA)가 주관한 '2026 한국서비스품질지수(KS-SQI)' 평가에서 장기보험과 자동차보험 부문 1위를 차지했다고 9일 밝혔다. 회사는 장기보험 부문에서 6년 연속, 자동차보험 부문에서 2년 연속 1위에...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=310672",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9c05bc",
+      "title": "이억원, \"AI 역량 갖춘 금융사 망분리 전면 해제 속도\"",
+      "description": "단체 부문에서는 삼성화재와 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다. [신아일보]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039509",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-30b59e",
+      "title": "이억원 \"금융회사 '망분리 규제' 전면 해제 방안 조속히 구체화\"",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다. 이어 고학수 서울대 교수가 금융보안...",
+      "url": "https://www.ajunews.com/view/20260710085214822",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T09:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f44c87",
+      "title": "금융위, AI·보안 역량 갖춘 금융사 망분리 규제 푼다",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 표창을 받았다. 행사에는 금융회사와 유관기관, 핀테크기업 관계자 등 170여명이 참석했다. 고학수 서울대 교수와...",
+      "url": "https://www.viva100.com/article/20260710500039",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:54:00+09:00"
+    },
+    {
+      "id": "DB저축은행-1354e1",
+      "title": "[굿모닝금융] 하나금융·새마을금고·저축은행중앙회 등",
+      "description": "사진=저축은행중앙회 ◆ 저축은행업계, 취약계층에 '건강한 여름나기 꾸러미' 전달 저축은행중앙회(회장 오화경)는 신한저축은행, 대신저축은행, DB저축은행과 지난 8일 서울 중구 신당사회복지관에서 '건강한 여름나기...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140366",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-07-10T08:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0d5c86",
+      "title": "이억원 \"AI·보안 역량 갖춘 금융사 망분리 전면 해제 방안 조속히 마련...",
+      "description": "행사에서는 금융보안 유공 금융위원장 표창도 수여됐다. 단체 부문은 삼성화재해상보험, 한국증권금융이 선정됐고, 개인 부문은 카카오뱅크 윤호영 대표, 한국씨티은행 장은영 상무, DB손해보험 김대희 본부장이 수상했다.",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788110?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:43:00+09:00"
+    },
+    {
+      "id": "DB손해보험-676aaf",
+      "title": "이억원 금융위원장 “AI 공격은 AI로 방어”…금융권 망분리 전면 해제...",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다. 이후 고학수 서울대 교수가 금융 보안...",
+      "url": "https://www.etoday.co.kr/news/view/2602317",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6c0e0a",
+      "title": "이억원 금융위원장 \"AI 보안체계 구축…망분리 전면 개선 추진\"",
+      "description": "단체 부문에서는 삼성화재와 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표와 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 선정됐다. 행사에는 금융회사와 유관기관, 핀테크기업 대표 등 170여명이...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003109975?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-451a4f",
+      "title": "AI 쓰려는 금융권, 망분리 빗장 풀린다…이억원 “전면 해제 방안 곧 발...",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 주제 강연에서는 금융회사 보안 거버넌스와 AI 보안 대응이 집중적으로 다뤄졌다. 고학수 서울대 교수는 '금융...",
+      "url": "https://n.news.naver.com/mnews/article/123/0002386280?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9641ca",
+      "title": "이억원 금융위원장 \"망분리 전면 해제 방안 조속히 구체화할 것\"",
+      "description": "단체 부문은 삼성화재해상보험·한국증권금융 2개 기관에, 개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장에게 수여됐다. 고학수 서울대 교수의 '금융 보안 거버넌스', 이상근...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009051635?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-47479d",
+      "title": "이억원 \"금융사 망분리 전면 해제 방안, 조속히 구체화할 것\"",
+      "description": "단체 부문에서는 삼성화재해상보험과 한국증권금융이 표창을 받았다. 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다.",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384143?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f569b1",
+      "title": "DB손보, 상반기에만 신종자본증권 8천820억 발행…유동성 확보",
+      "description": "DB손해보험이 자본 건전성 제고와 유동성 확보를 위해 신종자본증권을 적극적으로 활용하고 있다. 10일 보험업계에 따르면 DB손보는 올해 상반기에만 총 8천820억원 규모의 신종자본증권을 발행했다. 올해 2월...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424302",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b17f13",
+      "title": "이억원 \"망분리 전면 해제 방안 조속히 구체화\"…AI 보안체계 구축",
+      "description": "금융회사와 임직원에게 금융위원장 표창을 수여했다. 단체 부문에서는 삼성화재와 한국증권금융이, 개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 각각 표창을 받았다.",
+      "url": "https://n.news.naver.com/mnews/article/003/0014058140?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3eaf17",
+      "title": "이억원, 금융 CEO에 \"정보유출·해킹 교훈…보안체계 시급\"",
+      "description": "개인 부문은 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 받았다. 이후 고학수 서울대 교수가 금융 보안 거버넌스, 이상근 교수가 AI 혁신과 보안을 주제로 강연을 진행했다. 고학수...",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048793?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b8a13f",
+      "title": "금융위, AI 보안체계 구축 속도…망분리 전면 해제 방안 구체화",
+      "description": "개인 부문에서는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 주제 강연은 고학수 서울대 교수와 이상근 고려대 교수가 맡았다. 고 교수는 금융회사의 보안 거버넌스와 CEO...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715806",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-45e489",
+      "title": "이억원 \"보안역량 갖춘 금융사 망분리 전면해제…조속히 발표\"",
+      "description": "개인 부문에는 윤호영 카카오뱅크 대표, 장은영 한국씨티은행 상무, 김대희 DB손해보험 본부장이 수상했다. 시상식 이후에는 고학수 서울대 교수의 '금융 보안 거버넌스', 이상근 고려대 교수의 'AI 혁신과 보안'을 주제로...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016186600?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d5f950",
+      "title": "이억원 \"금융회사 '망분리 규제' 전면 해제 방안 조속히 발표할 것\"",
+      "description": "한국씨티은행 상무, 김대희 DB손해보험 본부장에게 금융보안 유공 금융위원장 표창을 수여했습니다. 이후 강연은 고학수 서울대 교수의 '금융 보안 거버넌스', 이상근 고려대 교수의 'AI 혁신과 보안'을 주제로 진행됐습니다.",
+      "url": "https://n.news.naver.com/mnews/article/374/0000520935?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-10T08:30:00+09:00"
+    },
     {
       "id": "DB손해보험-6b1daa",
       "title": "손보사, 국지성 호우 피해에 車보험 손해율 사수 총력",
@@ -37,15 +1162,6 @@ const NEWS_DATA = {
       "source": "www.dailian.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-07-10T07:04:00+09:00"
-    },
-    {
-      "id": "DB손해보험-764453",
-      "title": "[더벨][상법개정 카운트다운] '지분율 요건·권고적 제안·일반주주 찬성...",
-      "description": "올해 DB손해보험 내부거래위원회 신설 정관 변경 안건의 경우 의결권 행사주식수 대비 찬성률은 60.8%로 부결됐으나 일반주주 내 찬성률은 86.2%에 달했다. 지배주주를 제외한 일반주주의 표결 성향이 별도로 공시된다면...",
-      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081413597920104794",
-      "source": "www.thebell.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-07-10T07:02:00+09:00"
     },
     {
       "id": "DB하이텍-764453",
@@ -471,12 +1587,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-07-09T16:12:00+09:00"
     },
     {
-      "id": "DB손해보험-b2e169",
+      "id": "DB저축은행-b2e169",
       "title": "[보험·카드24시] 삼성화재, 고객 DB 기반 영업조직 'TC지점' 출범 外",
-      "description": "◆DB손보, '2026 KS-SQI' 장기·자동차보험 2개 부문 단독 1위 DB손해보험이 한국표준협회(KSA)가 주관하는 '2026 한국서비스품질지수(KS-SQI, Korean Standard-Service Quality Index)' 평가에서 장기보험과 자동차보험 부문 1위를...",
+      "description": "◆저축은행업계, 취약계층 250가구에 여름물품 지원 저축은행중앙회는 8일 서울 중구 신당사회복지관에서 신한·대신·DB저축은행 임직원과 함께 ‘건강한 여름나기 꾸러미’ 봉사활동을 펼쳤다고 밝혔다. 손선풍기...",
       "url": "https://news.dealsitetv.com/articles/173077",
       "source": "news.dealsitetv.com",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB저축은행",
       "publishedAt": "2026-07-09T16:08:00+09:00"
     },
     {
@@ -486,15 +1602,6 @@ const NEWS_DATA = {
       "url": "https://n.news.naver.com/mnews/article/417/0001151042?sid=101",
       "source": "www.sidae.com",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-07-09T16:08:00+09:00"
-    },
-    {
-      "id": "DB저축은행-b2e169",
-      "title": "[보험·카드24시] 삼성화재, 고객 DB 기반 영업조직 'TC지점' 출범 外",
-      "description": "◆저축은행업계, 취약계층 250가구에 여름물품 지원 저축은행중앙회는 8일 서울 중구 신당사회복지관에서 신한·대신·DB저축은행 임직원과 함께 ‘건강한 여름나기 꾸러미’ 봉사활동을 펼쳤다고 밝혔다. 손선풍기...",
-      "url": "https://news.dealsitetv.com/articles/173077",
-      "source": "news.dealsitetv.com",
-      "subsidiary": "DB저축은행",
       "publishedAt": "2026-07-09T16:08:00+09:00"
     },
     {
