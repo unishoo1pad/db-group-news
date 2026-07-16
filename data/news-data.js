@@ -1,7 +1,511 @@
-// 자동 생성 파일 — 2026-07-16
+// 자동 생성 파일 — 2026-07-17
 const NEWS_DATA = {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "articles": [
+    {
+      "id": "DB손해보험-c5ca71",
+      "title": "[주간 거래소 기관] 대덕전자 SK이노베이션 삼성전자우 삼성SDI KB금융 '...",
+      "description": "금융주에서는 KB금융, 하나금융지주, 삼성화재, DB손해보험, 신한지주가 나란히 매수 우위를 기록하며 안정적인 실적과 주주환원 정책에 대한 기대를 반영했다. 방산과 산업재에 대한 관심도 이어졌다. 한국항공우주와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469219",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-17T07:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c5ca71",
+      "title": "[주간 거래소 기관] 대덕전자 SK이노베이션 삼성전자우 삼성SDI KB금융 '...",
+      "description": "가온전선, 삼양식품, 두산, LS ELECTRIC, 한국전력, 파라다이스, 한화솔루션, 현대로템, 삼성생명, DB하이텍, LIG디펜스앤에어로스페이스, 롯데관광개발, NAVER, 산일전기 등이 기관 순매도 상위 종목에 이름을 올렸다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469219",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-17T07:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d1cf00",
+      "title": "[주간 거래소 외국인] SK하이닉스 대덕전자 삼성전자 두산에너빌리티 대...",
+      "description": "KB금융, 삼성화재, 한화오션, DB손해보험, 한화엔진이 순매도 상위권에 포함됐으며 HD건설기계, 케이씨텍, 한국콜마, 한국항공우주, 한진칼, 대한전선, 우리금융지주 등도 외국인 매도 대상에 올랐다. 시장에서는 외국인...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469218",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-17T07:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d1cf00",
+      "title": "[주간 거래소 외국인] SK하이닉스 대덕전자 삼성전자 두산에너빌리티 대...",
+      "description": "이 밖에도 삼성생명, 삼성물산, 에이피알, 현대모비스, 미래에셋증권, 효성중공업, 셀트리온, DB하이텍, 한미약품, 삼성E&A, 두산, POSCO홀딩스, 카카오뱅크, 신세계 등도 외국인 순매수 상위 종목에 포함됐다. 반면 순매도...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469218",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-17T07:46:00+09:00"
+    },
+    {
+      "id": "DB자산운용-c2227c",
+      "title": "[ETF 언박싱] 아홉달 공들인 DB의 신상…Al데이터센터 밸류체인",
+      "description": "국내 인공지능(AI) 데이터센터 밸류체인 투자하는 신규 ETF…국내 주요 상장사만 모아 8월 초 출시 목표 DB자산운용이 국내 인공지능(AI) 데이터센터 밸류체인에 투자하는 신규 상장지수펀드(ETF)를 출시한다....",
+      "url": "https://dealsite.co.kr/articles/165392",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-07-17T07:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f4d8d",
+      "title": "한화 104만 ‘최저’ vs 롯데 2132만 ‘최고’… 배달 라이더 이륜차보험...",
+      "description": "이 두 회사를 제외한 나머지 손보사들의 보험료는 동일 조건 기준 KB손해보험 745만 원, 흥국화재 732만 원, 삼성화재 720만 원, 메리츠화재 618만 원, DB손해보험 332만 원, 하나손해보험 319만 원, 현대해상 295만 원 순으로...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026071010333296432",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-17T07:00:00+09:00"
+    },
+    {
+      "id": "DB증권-82fd70",
+      "title": "옵티미즘, 한국 진출 확대…두나무·토스·DB증권과 협력",
+      "description": "블록체인 인프라 기업 옵티미즘이 두나무와 토스, DB증권 등 국내 주요 기업과의 협력을 바탕으로 한국 사업을 확대한다고 16일 밝혔다. 옵티미즘은 국내 금융회사와 핀테크, 디지털자산 기업을 대상으로 기관용...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671458?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T21:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c8fd5",
+      "title": "“속도내라” 대통령까지 나선 ‘주가누르기 방지법’, 옥석가리기 ‘시...",
+      "description": "이 연구원은 지난달 보고서에서 PBR 1배 미만, ROE 5% 이상, 최대주주 지분율 20% 이상, 순현금 보유, 배당성향 40% 미만을 기준으로 한국앤컴퍼니와 코리안리, 현대그린푸드, 영원무역, DB손해보험 등 19개 기업을 수혜 가능...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671456?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T21:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8c3baa",
+      "title": "'수백억 車보험 사기 의혹' 자생한방병원 이르면 내주 소환",
+      "description": "앞서 지난 4월 삼성화재와 현대해상, DB손해보험, KB손해보험 등 보험사 4곳은 자생한방병원이 미리 제조한 한약을 교통사고 환자에게 개별 처방한 것처럼 제공해 보험금을 부당하게 청구했다는 취지(보험사기방지법 위반...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549373?sid=102",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T18:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-eb3467",
+      "title": "[업앤다운]삼성화재↑·롯데손해보험↓",
+      "description": "한화생명은 전 거래일 대비 0.44%(20원) 상승한 4540원에 거래를 마쳤고 DB손해보험은 전 거래일 대비 0.31%(500원) 오른 16만3000원에 장을 마감했다. 반면 같은 날 하락 마감한 대표 종목은 롯데손해보험이다....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=820989",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T18:20:00+09:00"
+    },
+    {
+      "id": "DB증권-51b150",
+      "title": "휴젤 '레티보' 미국 직진출 '승부수'…득 되나 독 되나",
+      "description": "이명선 DB증권 연구원은 \"대웅제약의 올해 연간 매출액과 영업이익은 전년비 각각 17.6%, 33.9% 증가한 1조6,358억원, 2,727억원으로 전망된다\"며 \"이 가운데 나보타 매출은 전년비 66% 증가한 3,800억원으로 전망되는 만큼...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=207715",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T18:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7ea86e",
+      "title": "경찰 이르면 내주 자생한방 소환...불송치 8건도 확인",
+      "description": "앞서 지난 4월 삼성화재와 현대해상, DB손해보험, KB손해보험 등 보험사 4곳은 자생한방병원이 미리 제조한 한약을 교통사고 환자에게 개별 처방한 것처럼 제공해 보험금을 부당하게 청구했다는 취지(보험사기방지법 위반...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549283?sid=102",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T17:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-996683",
+      "title": "솔루투스, 중기부 '팁스' 선정…독자 AI '라피'로 글로벌 보험산업 혁명...",
+      "description": "현재 DB손해보험, 삼성화재, 신한라이프 등 국내 대표 금융사들에 핵심 API를 공급하며 보험 서비스의 디지털 표준화를 주도하고 있다. 강승우 솔루투스 대표는 \"이번 팁스 과제를 통해 금융권의 엄격한 보안...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387183?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T17:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9a5a6e",
+      "title": "[손보사 2Q 실적 프리뷰] DB손해보험, 자동차·일반보험 순항…하반기 ...",
+      "description": "한국금융경제신문=함동희 기자 | DB손해보험의 올해 2분기 실적이 시장 예상치를 웃돌 것이라는 전망이 나온다. 사진=DB손해보험 자동차보험과 일반보험 손익이 고르게 개선되는 가운데, 하반기부터는 포테그라 인수...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=660618",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T17:12:00+09:00"
+    },
+    {
+      "id": "DB증권-1ef479",
+      "title": "[26.7.16 증시 인싸잇] 오늘의 종목- 하나금융지주, 금리 인상 최대 수혜...",
+      "description": "한화투자증권(17만 6000원), 하나증권(16만 6000원), KB증권(16만 원), DB증권(15만 8000원) 등 주요 증권사들도 모두 ‘매수(BUY)’ 의견을 유지하며 긍정적인 전망을 제시했다. 실적뿐 아니라 적극적인 주주환원 정책도 투자...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260394",
+      "source": "www.mediawatch.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T16:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-35fc9f",
+      "title": "[코스피 지수선물 옵션] \"1조원대 매물 쏟아졌다\"… 삼성전자·SK하이닉...",
+      "description": "KB금융, 신한지주, 하나금융지주, 우리금융지주, 기업은행, DB손해보험, 삼성화재, 메리츠금융지주 등이 선물 시장에서 움직였다. 특히 금융주는 기업가치 제고 정책과 배당 확대 기대감이 이어지면서 시장 조정기에...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469155",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T16:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-28f1f7",
+      "title": "이재명도 언급한 '한방병원 보험사기' 의혹, 손보업계 숙원 '8주 룰' 도...",
+      "description": "4월 삼성화재, 현대해상, DB손해보험, KB손해보험 등 주요 손해보험사는 자생한방병원이 교통사고 환자들에게 사전 조제된 한약을 대량 처방하는 방식으로 수백억 원 규모의 보험금을 부당 청구했다며 경찰에 고소장을...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442520",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T16:20:00+09:00"
+    },
+    {
+      "id": "DB증권-8b5298",
+      "title": "[단독] 이더리움 재단, 21일 韓 금융권과 회동…코스콤·DB증권 만난다",
+      "description": "오찬에는 금융투자협회, 코스콤, 한국수출입은행, DB증권 등 주요 금융기관 관계자들이 참석할 예정이다. (사진=이더리움 재단) 이번 회동은 금융권의 블록체인 인프라 도입 논의가 활발해지는 시점에서 마련됐다....",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430827?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T16:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f1938a",
+      "title": "NH농협손보, 1000억원 후순위채 차환 발행 연기… 올 하반기 시기 조율",
+      "description": "DB손해보험도 최대 6000억원까지 증액 가능성을 열어뒀지만 수요예측이 기대에 못 미치면서 4100억원만 발행했고, 금리는 5.30%로 확정됐다. 지난해에는 ABL생명이 후순위채 수요예측에서 모집 물량을 채우지 못했고...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356065",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T16:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-769bc6",
+      "title": "[거래 기관] 삼성전자·SK하이닉스 대량 매도… SK이노베이션·조선株 '...",
+      "description": "이어 대덕전자, SK텔레콤, 한화에어로스페이스, 삼성화재, S-Oil, KB금융, 한국항공우주, DB손해보험, HD현대중공업 등이 기관 순매수 상위 종목에 올랐다. 기관의 투자 방향은 기존 주도주였던 반도체에서 에너지와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469139",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T16:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-769bc6",
+      "title": "[거래 기관] 삼성전자·SK하이닉스 대량 매도… SK이노베이션·조선株 '...",
+      "description": "반도체 관련주 가운데서는 SK스퀘어, 삼성전기, 삼성전자우, 한미반도체, DB하이텍 등이 기관 순매도 대상에 포함됐다. 전기전자와 성장주에서도 일부 조정이 나타났다. 기관은 NAVER, LG이노텍, LG전자 등을 순매도하며...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469139",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-16T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b4ca1b",
+      "title": "[코스피 외국인] 현대차·NAVER 담고 삼성전자·SK하이닉스 던졌다",
+      "description": "외국인은 삼성전기, 대덕전자, SK스퀘어, 한미반도체, 이수페타시스, DB손해보험 등을 순매도했다. 대형 산업주에서도 매도 흐름이 이어졌다. 외국인은 LG전자, 한화오션, SK이노베이션, SK이터닉스, 한화에어로스페이스...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469138",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T16:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b4ca1b",
+      "title": "[코스피 외국인] 현대차·NAVER 담고 삼성전자·SK하이닉스 던졌다",
+      "description": "외국인은 삼성생명, 삼성물산, 케이뱅크를 비롯해 SK, 삼성에스디에스, DB하이텍 등을 순매수했다. 전력·인프라와 방산 관련 종목에도 관심을 보였다. 외국인은 한국전력, LIG디펜스앤에어로스페이스, LS, 두산...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469138",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-16T16:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1ea3c0",
+      "title": "8인치 파운드리 강세 지속…DB하이텍 2분기 실적 청신호",
+      "description": "DB하이텍 사옥 전경. 사진=DB하이텍 제공 DB하이텍이 8인치(200㎜) 파운드리 공급 부족에 따른 판가 상승 효과를 본격적으로 누릴 전망이다. 전력반도체 제품 평균판매가격(ASP) 인상이 2분기부터 실적에 반영되는 데다...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386789",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-16T16:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8db8f4",
+      "title": "[밸류메이커]이상목 컨두잇 대표 \"동전주 퇴출? 저평가를 퇴출해야\"",
+      "description": "2022년 DB하이텍 물적분할 사태 때 주주연대 대표로 나선 그는 이듬해 회사를 차렸고, 액트는 고려아연·두산·한미사이언스 등 굵직한 경영권 분쟁에서 개인주주 표심을 모으며 '개미들의 백기사'로 불려 왔다. 현재...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699847",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-16T16:02:00+09:00"
+    },
+    {
+      "id": "DB증권-e2cb3d",
+      "title": "옵티미즘, 두나무·토스·DB증권과 파트너십 체결",
+      "description": "전 세계 32개 이상 레이어2 네트워크에 'OP스택(OP Stack)' 기술을 제공하는 블록체인 인프라 기업 옵티미즘(Optimism)이 두나무의 블록체인 '기와(GIWA)', 토스, DB증권과의 파트너십을 공개하고 한국 사업을 본격화한다. 국내...",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=332409",
+      "source": "www.e2news.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:46:00+09:00"
+    },
+    {
+      "id": "DB증권-0c3cde",
+      "title": "옵티미즘, 한국 사업 본격화… 두나무·토스·DB증권과 주요 파트너십 ...",
+      "description": "전 세계 32개 이상 레이어2 네트워크에 'OP스택(OP Stack)' 기술을 제공하는 블록체인 인프라 기업 옵티미즘(Optimism)이 두나무의 블록체인 '기와(GIWA)', 토스, DB증권과의 파트너십을 공개하고 한국 사업을 본격화한다....",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404397",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:42:00+09:00"
+    },
+    {
+      "id": "DB증권-8b6bde",
+      "title": "옵티미즘, 한국 사업 확대…두나무·토스·DB증권과 협력",
+      "description": "전 세계 32개 이상의 레이어2 네트워크에 'OP스택(OP Stack)' 기술을 제공하는 블록체인 인프라 기업 옵티미즘(Optimism)이 두나무의 블록체인 '기와(GIWA)', 토스, DB증권과의 협력 내용을 공개하고 한국 사업 확대에 나섰다....",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=219304",
+      "source": "www.itbiznews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-27220f",
+      "title": "한방병원 보험사기 의혹에…금융당국 공조 강화하나",
+      "description": "삼성화재와 현대해상, KB손해보험, DB손해보험 등 손해보험사 4곳은 지난 4월 자생한방병원이 교통사고 환자들에게 미리 대량 조제한 한약을 처방해 보험금을 부당하게 수령했다며 자생의료재단 이사장과 전국...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724563",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T15:36:00+09:00"
+    },
+    {
+      "id": "DB생명-6038c3",
+      "title": "생보사, 배타적 사용권 경쟁 '주도권' 확보… AI·의료기술로 상품 차별...",
+      "description": "교보생명은 응급의료와 여성 건강, 한화생명은 암 치료 보장, DB생명은 생성형 AI 기반 건강관리 상품으로 차별화에 나섰다. 손해보험업계는 여성 건강과 고령층 보장 영역에서 경쟁력을 강화했다. 한화손해보험은 임신...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205079",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-16T15:20:00+09:00"
+    },
+    {
+      "id": "DB증권-050b4d",
+      "title": "옵티미즘, 두나무·토스·DB증권 손잡고 한국 시장 공략",
+      "description": "전 세계 32개 이상의 레이어2 네트워크에 ‘OP스택(OP Stack)’ 기술을 제공하는 블록체인 인프라 기업 옵티미즘(Optimism)이 두나무의 블록체인 ‘기와(GIWA)’, 토스, DB증권과의 파트너십을 공개하며 한국 사업을...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331792?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:19:00+09:00"
+    },
+    {
+      "id": "DB증권-8ffb43",
+      "title": "KB금융, 상반기 순익 3.8조 전망…자사주 추가 매입 여력도 '충분'",
+      "description": "DB증권은 2분기 전입액을 5479억원으로 추산했다. 1분기 4932억원보다 11.1% 늘어난 수치다. 반기 말 정기 신용평가와 중앙그룹 관련 충당금이 반영되면서 1분기보다는 증가하지만 지난해 2분기 전입액 6551억원보다는...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087720?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b95853",
+      "title": "보험사기 정조준…자동차보험 '한방진료' 수술대 오르나",
+      "description": "이번 수사는 삼성화재와 현대해상, KB손해보험, DB손해보험 등 주요 손해보험사 4곳이 지난 4월 자생한방병원을 공동 고소하면서 시작됐다. 보험사들은 교통사고 환자에게 개별적으로 처방돼야 할 한약이 사실상 사전에...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128223",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T15:16:00+09:00"
+    },
+    {
+      "id": "DB증권-d18f09",
+      "title": "‘싸다’는 증권가, 외면한 시장…네카오 목표가 괴리의 함정",
+      "description": "DB증권은 6만9000원에서 5만7000원, 한국투자증권은 7만원에서 6만원으로 내렸다. BNK투자증권과 한화투자증권도 각각 6만1000원과 6만2000원으로 하향했다. 카카오의 AI 서비스는 이용자를 확보했지만 수익화 방식이...",
+      "url": "https://n.news.naver.com/mnews/article/117/0004085300?sid=105",
+      "source": "www.mydaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T15:16:00+09:00"
+    },
+    {
+      "id": "DB증권-5e6cd8",
+      "title": "신세계 향한 상반된 신호...이마트 '울고' 백화점 '웃었다'",
+      "description": "이달 들어 ㈜신세계의 목표 주가를 올린 증권사는 LS증권(86만원), 교보증권(77만원), 신한투자증권(83만원), DB증권(90만원), NH투자증권(94만원), 삼성증권(97만원) 등 6곳이다. ㈜신세계 종가는 지난 15일 기준 61만원으로...",
+      "url": "https://www.g-enews.com/view.php?ud=202607161409321322923c501012_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T14:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a3b92b",
+      "title": "DB손해보험 21위·삼성화재 28위…ESG 베스트50 신규 진입",
+      "description": "DB손해보험·삼성화재 보험사의 지속가능 경영은 나무를 심거나 기부금을 내는 데서 끝나지 않는다. 금융 투자가 환경에 미칠 영향을 고민하고, 충분한 상품 설명으로 소비자의 손해를 예방하며, 투명한 책임구조를...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469036",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T14:46:00+09:00"
+    },
+    {
+      "id": "DB증권-ae143c",
+      "title": "옵티미즘, 두나무·토스·DB증권과 한국 진출 본격화",
+      "description": "옵티미즘 | 서울=한스경제 김종효 기자 | 블록체인 인프라 기업 옵티미즘이 두나무, 토스, DB증권과 파트너십을 맺고 한국 사업을 본격화한다. 옵티미즘은 16일 국내 주요 금융기관과 핀테크, 디지털자산 기업을 대상으로...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850757",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T14:40:00+09:00"
+    },
+    {
+      "id": "DB증권-12a04a",
+      "title": "“백화점 야호” 외친 증권가…외국인 지갑 열리자 기대감 ‘쑥’",
+      "description": "DB증권은 2분기 연결 영업이익이 시장 기대치를 웃돌 것으로 예상하며 목표주가를 기존 60만원에서 90만원으로 상향 조정했다. 롯데쇼핑 역시 실적 개선 기대가 크다. 백화점 기존점 성장세가 1분기에 이어 2분기에도...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708326?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T13:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7c9f18",
+      "title": "보험업계, 2분기 '깜짝 실적' 전망...보험손익 회복세 강화",
+      "description": "◇ 2분기 합산 순익 2.4조원...예실차 개선과 평가손실 축소 16일 LS증권에 따르면 삼성생명, 삼성화재, DB손해보험, 현대해상, 메리츠화재 등 국내 5대 대형 보험사의 2026년 2분기 합산 순이익은 약 2조4000억원으로 전년 동기...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=605122",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T12:52:00+09:00"
+    },
+    {
+      "id": "DB증권-0611f8",
+      "title": "옵티미즘, 두나무·토스·DB증권과 금융 인프라 사업 확대",
+      "description": "블록체인 인프라 기업 옵티미즘이 두나무·토스·DB증권과 온체인 금융 인프라 사업을 확대한다고 16일 밝혔다. 옵티미즘은 이더리움의 보안성을 기반으로 거래 처리 속도와 비용 문제를 개선한 블록체인 인프라...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448456?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T12:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7dc9f5",
+      "title": "\"행동주의펀드에 제동\" 日, 임시주총 문턱 높인다",
+      "description": "올해 정기주총에서는 얼라인파트너스가 DB손해보험에서 주주제안 이사 선임에 성공했다. 시가총액 10조원 이상 대기업 계열 상장사에서 행동주의 펀드가 추천한 이사가 선임된 첫 사례다. 차파트너스자산운용은...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549068?sid=104",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T12:43:00+09:00"
+    },
+    {
+      "id": "DB생명-704e37",
+      "title": "보험금 지급 심사 깐깐해졌다…흥국생명·NH농협손보, ‘의료자문 부지...",
+      "description": "이어 “정당한 보험금은 신속히 지급하되, 객관적 확인이 필요한 건은 공정하게 심사하고 있다. 이는 선량한 계약자의 권익을 보호하기 위한 조치”라고 덧붙였다. 뒤이어 신한라이프(10.50%p), DB생명(7.58%p), KB라이프(6....",
+      "url": "https://www.ceoscoredaily.com/page/view/2026071316470852516",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "id": "DB증권-62fa33",
+      "title": "옵티미즘, 한국 사업 본격화...두나무·토스·DB증권과 협력 사례 공개",
+      "description": "블록체인 인프라 기업 옵티미즘(Optimism)이 두나무 블록체인 '기와(GIWA)', 토스, DB증권과 파트너십을 공개하고 한국 사업을 본격화한다. 옵티미즘은 국내 금융기관·핀테크·디지털자산 기업을 대상으로 온체인 금융...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684648",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T11:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bdc413",
+      "title": "‘주가누르기 방지법’ 수혜 옥석가리기...KCC·한국전력·다우기술 주목",
+      "description": "이 연구원은 지난달 보고서에서 PBR 1배 미만, ROE 5% 이상, 최대주주 지분율 20% 이상, 순현금 보유, 배당성향 40% 미만을 기준으로 한국앤컴퍼니와 코리안리, 현대그린푸드, 영원무역, DB손해보험 등 19개 기업을 수혜 가능...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671211?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T11:43:00+09:00"
+    },
+    {
+      "id": "DB손해보험-157758",
+      "title": "손보업계, 헬스케어 격전…병원·디지털헬스 손잡기 경쟁",
+      "description": "DB손해보험은 지난 5월 카카오헬스케어와 포괄적 업무협약을 체결하고, 만성질환 진단 이후 건강개선과 생활관리를 지원하는 현물보장 담보를 공동 개발해 종합보험 상품에 탑재했다. 고혈압 진단 시 커프리스...",
+      "url": "https://www.news2day.co.kr/article/20260716500115",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-27f6e1",
+      "title": "자보 한방 진료비 60% 돌파...보험사기 논란 개선 요구 확산",
+      "description": "앞서 삼성화재와 현대해상, KB손해보험, DB손해보험 등 보험사들은 지난 4월 자생한방병원 등을 보험사기 혐의로 고소했다. 이에 대해 자생한방병원 측은 \"관련 법령과 의료 기준에 근거해 한약을 조제·처방해 왔으며...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3008504",
+      "source": "www.bosa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T11:12:00+09:00"
+    },
+    {
+      "id": "DB증권-ecadf3",
+      "title": "옵티미즘, 두나무·토스·DB증권과 손잡고 한국 사업 본격화",
+      "description": "전 세계 32개 이상 레이어2 네트워크에 OP스택 기술을 제공하는 옵티미즘은 7월 16일 두나무의 블록체인 기와, 토스, DB증권과의 파트너십을 공개하고 한국 사업을 본격화한다고 밝혔다. 옵티미즘은 국내 금융기관·핀테크...",
+      "url": "https://www.tokenpost.kr/news/blockchain/378312",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T10:48:00+09:00"
+    },
+    {
+      "id": "DB증권-bfa596",
+      "title": "고물가·성장 회복에 방향 튼 한은…3년 6개월 만에 긴축 사이클 진입",
+      "description": "문홍철 DB증권 연구원은 \"최근 재점화되고 있는 중동 분쟁으로 유가 상승 압력이 높고, 수급 쏠림 등으로 고환율이 계속되고 있다\"며 \"유가와 환율이 향후 통화정책에 영향을 미칠 중요한 변수\"라고 말했다.",
+      "url": "https://n.news.naver.com/mnews/article/421/0009062912?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T10:41:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9fb6b3",
+      "title": "차통령, 7개사 자동차보험 비교 안내",
+      "description": "차통령 홈페이지에는 해당 페이지가 KB손해보험과 DB손해보험, 현대해상 등 7개 손해보험사의 공동광고물로 표시돼 있다. 보험사별 광고 심의번호와 유효기간도 함께 제시됐다. 보험료 확인 과정에서 수집되는 정보는...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=384078",
+      "source": "www.vegannews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T10:26:00+09:00"
+    },
+    {
+      "id": "DB증권-394b72",
+      "title": "[금통위 금리 인상② 증권가] 빚투 경고음…관건은 환율, 외국인 돌아올...",
+      "description": "강현기 DB증권 연구원은 최근 보고서에서 “한국 주식시장 내에서 스타일별 움직임을 보면 금리 인하 시에는 성장주, 금리 인상 시에는 가치주의 상대적인 성과가 개선됐다”고 분석했다. 이어 “현재의 주도주인...",
+      "url": "https://www.news2day.co.kr/article/20260710500268",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T10:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ef5ca9",
+      "title": "[모닝 리포트] \"보험업 회복추세 강화, 보험·투자 손익 동반 개선\"",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재 등 5대 손보사의 올해 1분기 자동차보험 손익은 461억원 적자로 집계됐다. 1분기에 이어 예실차 개선이 이어지고 계리가정 변경에 따른 손실비용 환입이...",
+      "url": "https://www.newspim.com/news/view/20260716000246",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T09:27:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ddac67",
+      "title": "하나증권 \"금융주 기준금리 인상 수혜 전망, 관련주 KB금융지주 신한금...",
+      "description": "관련종목으로는 KB금융지주, 신한금융지주, 하나금융지주, 우리금융지주, 삼성생명, 한화생명, DB손해보험 등을 꼽았다. 한국은행은 이날 금융통화위원회를 열고 기준금리와 통화정책 방향을 결정한다. 시장에서는...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442469",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T09:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e422bb",
+      "title": "[어제장 오늘장] 코스피, 7천피 탈환…서킷브레이커 사흘 만에 사이드카...",
+      "description": "기관은 대덕전자, SK이노베이션, 삼성SDI 등을 순매수했고, DB손해보험도 순매수 상위 종목에 포함됐습니다. 코스닥에서는 외국인과 기관 순매수 상위 종목들이 좀 달랐습니다. 외국인은 반도체 소부장주를 담으면서도...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522036?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-16T08:47:00+09:00"
+    },
+    {
+      "id": "DB증권-07786c",
+      "title": "[삼성SDI 유증의 뒷장] ③LG에너지솔루션은 달랐다…유증 대신 회사채 선...",
+      "description": "DB증권 분석 기준 투하자본이익률(ROIC)은 삼성SDI가 2024년 1.5%에서 지난해 -5.7%로 악화했다. LG에너지솔루션은 -2.4%에서 -0.1%로 개선했다. 삼성SDI 자기자본이익률(ROE) 역시 3.1%에서 -3.2%로 떨어졌다. LG에너지솔루션은...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/109462",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T08:32:00+09:00"
+    },
+    {
+      "id": "DB증권-2ca52c",
+      "title": "DB증권, 옵티미즘 재단과 STO·RWA 업무협약",
+      "description": "이주식 DB증권 디지털자산사업팀장(왼쪽)이 카일 젠케 옵티미즘 재단 CBO. 사진=DB증권  DB증권은 이더리움 레이어2(L2) 기업 옵티미즘 재단(Optimism Foundation)과 손잡고 국내외 토큰증권(STO)과 실물자산(RWA) 비즈니스 체계...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=140728",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-16T08:28:00+09:00"
+    },
+    {
+      "id": "DB생명-217231",
+      "title": "보험업계, AI 활용 전방위 확산…업무 혁신 속도",
+      "description": "DB생명 관계자는 \"전사 업무 효율이 한 단계 도약할 것으로 기대한다\"며 \"하반기에는 보험 설계사 전용 AI 등 영업 채널을 돕는 서비스로 범위를 넓혀나갈 것\"이라고 말했다. NH농협생명 역시 보험 업무 전반의 디지털...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=713600",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-07-16T08:02:00+09:00"
+    },
     {
       "id": "DB손해보험-e1f26e",
       "title": "임윤아, ‘광고퀸’ 저력 굳건히 지켜",
