@@ -1,7 +1,115 @@
-// 자동 생성 파일 — 2026-07-25
+// 자동 생성 파일 — 2026-07-26
 const NEWS_DATA = {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "articles": [
+    {
+      "id": "DB손해보험-d873af",
+      "title": "보험금 노린 ‘고의 교통사고’ 혐의 현장출동 기사 항소심도 무죄",
+      "description": "검찰은 A씨가 삼성화재, KB손해보험, DB손해보험, 현대해상화재보험, 전국렌터카공제조합 등 5개 업체부터 보험금 8천100여만원을 편취한 것으로 판단했다. 그러나 1심과 2심 재판부는 검찰의 공소사실을 받아들이지...",
+      "url": "https://n.news.naver.com/mnews/article/658/0000150537?sid=102",
+      "source": "www.kookje.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T07:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-933e13",
+      "title": "'74조 매도 폭탄설' 아직 잠잠…큰손이 쓸어담은 '이 종목'",
+      "description": "이어 SK이노베이션(2,247억원), S-OIL(1,744억원), DB손해보험(1,094억원), 셀트리온(953억원), 대한항공(899억원) 순이었다. 반면 순매도 1위는 SK스퀘어(5,757억원)였고, 삼성전기(3,136억원)와 삼성생명(1,238억원), 삼성전자(1...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259969?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T07:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8d8713",
+      "title": "10거래일 연속 사이드카…‘삼전닉스 레버리지’ 규제 통할까[선데이 머...",
+      "description": "기아(-10.00%), 현대차(-7.60%), LG전자(-12.78%), DB하이텍(-17.22%) 등도 크게 밀렸습니다. 반면 삼성바이오로직스(9.76%), 네이버(9.44%), 한화오션(7.20%), 한화에어로스페이스(5.38%)는 상승해 업종별 차별화가 이어졌습니다....",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645165?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-26T07:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9107ef",
+      "title": "'고의 교통사고' 보험사기 혐의 현장출동 기사 항소심도 무죄",
+      "description": "검찰은 A씨가 삼성화재, KB손해보험, DB손해보험, 현대해상화재보험, 전국렌터카공제조합 등 5개 업체부터 보험금 8천100여만원을 편취한 것으로 판단했다. 그러나 1심과 2심 재판부는 검찰의 공소사실을 받아들이지...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214726?sid=102",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-72d9be",
+      "title": "상장 보험사 임원 평균연령 10년 새 1.1세↑…삼성화재 여성임원 0→11명...",
+      "description": "삼성화재, DB손해보험)의 2026년 1분기 임원 평균연령은 54.3세로 집계됐다. 이는 2016년 1분기(53.2세) 대비 1.1세 높아진 수치다. 전체 임원 수 역시 같은 기간 231명에서 263명으로 32명 늘었다. 보험사별로 살펴보면...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026071921350036679",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-af5770",
+      "title": "국민연금 '매도 폭탄' 없었다…SK하이닉스 가장 사고, SK스퀘어 가장 팔...",
+      "description": "이어 SK이노베이션(2천247억원), S-OIL(1천744억원), DB손해보험(1천94억원), 셀트리온(953억원), 대한항공(899억원) 순으로 순매수 규모가 컸다. 반면 가장 많이 판 종목은 SK스퀘어로 5천757억원을 순매도했다. 이어 삼성전기...",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=111736",
+      "source": "www.kizmom.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T06:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2931ad",
+      "title": "국민연금 74조 매도설 현실은 달랐다…하락장서 '큰손' 움직임 변화",
+      "description": "이어 SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 반면 매도 규모가 가장 컸던 종목은 SK스퀘어였다. 연기금은 SK스퀘어를 5757억원 순매도했다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471513",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T06:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-37bbca",
+      "title": "'리밸런싱 재개' 연기금, 이달 순매수…하이닉스 사고 삼전 팔아",
+      "description": "2위는 SK이노베이션(2천247억원)이었고, 그다음으로는 S-OIL(1천744억원)과 DB손해보험(1천94억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 순매도 1위에는 SK스퀘어(5천757억원)가 자리했다. 2, 3, 5위는...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214697?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T06:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c75442",
+      "title": "상반기 車보험 적자 1천890억원…6년 만에 적자 전환",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 다만 손보사별로 차별화된 흐름이 나타날 것으로 보인다. KB증권은...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214655?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T05:57:00+09:00"
+    },
+    {
+      "id": "DB증권-e4c6cd",
+      "title": "\"코스피 6700~7600선\"…다음주 반도체 실적이 방향 가른다",
+      "description": "문홍철 DB증권 연구원은 \"반도체 주가 반등 여지는 있지만 AI 시장을 신속하게 가늠할 수 있는 펀더멘털 지표 개선을 확인한 뒤 기회를 노려야 한다\"고 말했다. FOMC(30일)는 동결이 유력한 가운데, 워시 의장의 선제적...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259965?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-25T22:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-47daa3",
+      "title": "오를 땐 찬밥이더니…\"계좌 다 녹았어요\" 개미들 '피난처' 급부상",
+      "description": "이들 상품에는 DB손해보험과 기업은행이 높은 비중으로 편입됐으며 삼성카드, 삼성화재, LG유플러스 등도 주요 구성 종목에 포함됐다. 개인투자자들의 매수세도 커지고 있다. 같은 기간 ETF 개인 순매수 상위...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259930?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-25T08:53:00+09:00"
+    },
+    {
+      "id": "DB손해보험-500785",
+      "title": "'주식 계좌 녹는다더니'…폭락장에 개미들 '우르르' 몰린 곳 [투자톡]",
+      "description": "세 상품 모두 DB손해보험과 기업은행이 높은 비중으로 편입돼 있으며 삼성카드, 삼성화재, LG유플러스 등이 각각 포함됐다. 개인 투자자 자금도 몰리고 있다. 같은 기간 ETF 개인 순매수 상위에서 TIGER...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313711?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-25T08:03:00+09:00"
+    },
     {
       "id": "DB손해보험-9173a1",
       "title": "[주간 거래소 기관] SK하이닉스 2조원대 매도…새 선택지는 SK텔레콤·NA...",
@@ -165,15 +273,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-07-24T15:54:00+09:00"
     },
     {
-      "id": "DB손해보험-07a72b",
-      "title": "[더벨]DB손보, 신탁업 인가 획득…연금 사업 확대 첫발",
-      "description": "DB손해보험이 신탁업 라이선스를 획득하며 퇴직연금 사업 확대의 첫 단계를 마쳤다. 앞으로 투자중개업 인가까지 확보하면 펀드 등 실적배당형 상품 판매가 가능해질 것으로 전망된다. 22일 금융투자업계에 따르면...",
-      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221412089640105583",
-      "source": "www.thebell.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-07-24T15:52:00+09:00"
-    },
-    {
       "id": "DB자산운용-07a72b",
       "title": "[더벨]DB손보, 신탁업 인가 획득…연금 사업 확대 첫발",
       "description": "투자중개업 인가까지 마치면 계열사인 DB자산운용과의 협업도 가능해진다. DB자산운용이 운용하는 펀드를 DB손해보험 퇴직연금 상품 라인업에 편입할 수 있다는 설명이다. 한 투자업계 관계자는 \"신탁업은...",
@@ -289,15 +388,6 @@ const NEWS_DATA = {
       "source": "www.ebn.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-07-24T11:38:00+09:00"
-    },
-    {
-      "id": "DB손해보험-5ec48e",
-      "title": "[데이터 뉴스룸] 금융·지주사 50곳 중 20곳 임원 연봉 4억 넘어…두산 ...",
-      "description": "여기에는 ▲현대해상(187억 원) ▲다올투자증권(187억 원) ▲DB손해보험(183억 원) ▲대신증권(178억 원) ▲SK증권(158억 원) ▲한양증권(155억 원) ▲한화손해보험(142억 원) ▲삼성증권(135억 원) ▲DB증권(134억 원)...",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=345844",
-      "source": "www.greened.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-07-24T10:46:00+09:00"
     },
     {
       "id": "DB증권-5ec48e",
