@@ -1,7 +1,556 @@
-// 자동 생성 파일 — 2026-07-26
+// 자동 생성 파일 — 2026-07-27
 const NEWS_DATA = {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "articles": [
+    {
+      "id": "DB증권-1da133",
+      "title": "“한국 없으면 불가능하다”는 젠슨 황에게 “우리는 식구다”: 슬로우...",
+      "description": "설태현(DB증권 연구원)은 “꼬리가 몸통을 흔드는 왜그더독 현상을 방지하려면 단일 종목 레버리지 상품의 적정 순자산은 5.5조 원 규모로 추산된다”고 말했다. 악재가 많다. 미국 10년물 국채 금리가 4.7%를 넘어섰다....",
+      "url": "https://slownews.kr/163778",
+      "source": "slownews.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-27T07:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-17eeba",
+      "title": "리밸런싱 재개 연기금, SK하이닉스 4258억 순매수",
+      "description": "이어 SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 순이었다. 반면 가장 많이 처분한 종목은 SK스퀘어로 순매도액이 5757억원에 달했다. 삼성전기(3136억원)...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=754351",
+      "source": "www.slist.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-27T07:30:00+09:00"
+    },
+    {
+      "id": "DB증권-97ba5e",
+      "title": "떨어진 게 얼만데 “AI 아직 고점 아니다”…증권사 전망, 믿어도 되나...",
+      "description": "KB증권(60만원) 한국투자증권(59만원) 메리츠증권(50만원) 교보증권(50만원) IBK투자증권(46만원) BNK투자증권(43만원) DB증권(36만원) 등은 최고 60만원에 달하는 높은 목표가를 제시했다. 이달 들어 SK하이닉스 목표가를...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005712453?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-27T07:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c9fff",
+      "title": "쿠팡 물류센터 화재, 역대급 보험금 전망…\"보험사 부담은 제한적\"",
+      "description": "인수 비율은 간사 사인 DB손해보험이 40%로 가장 높고 메리츠화재 20%, 하나손해보험 15%, 삼성화재 10%, 한화손해보험 5%, KB손해보험 5%, 현대해상 5%다. 연면적이 2021년 화재가 발생한 이천 덕평물류센터의 두 배를 웃돌고...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1389218",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-27T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9eb479",
+      "title": "74조 '매도 폭탄'은 없었다…국민연금, 7월 순매수 전환 하이닉스 담았...",
+      "description": "이어 SK이노베이션(2247억원), S-Oil(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 순으로 매수 규모가 컸다. 반면 순매도 1위는 SK스퀘어(5757억원)였다. 삼성전기(3136억원), 삼성생명(1238억원)...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717821",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-27T06:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e49608",
+      "title": "'74조 매도 폭탄' 우려 빗나갔다…연기금, 7월 들어 순매수 전환",
+      "description": "이어 SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 순매수 상위권에 이름을 올렸다. 반면 가장 많이 판 종목은 SK스퀘어로 5757억원을 순매도했다. 삼성전기...",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=322175",
+      "source": "www.geconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-27T05:40:00+09:00"
+    },
+    {
+      "id": "DB증권-e8d19e",
+      "title": "\"널뛰는 증시? 오히려 좋아\"…발 빠른 '옥석 가리기' 액티브ETF 뜬다",
+      "description": "문홍철 DB증권 연구원은 \"글로벌 AI 시장이 복합적인 다변수 국면에 진입하면서 패시브 대비 액티브 투자방식의 매력이 높아지고 있다\"며 \"선별적인 비중조절이 가능해 기민하게 대응할 수 있는 액티브 ETF를...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391142?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-27T04:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-da6ab8",
+      "title": "정종표 DB손보 대표, 기업성보험 확대…해외 사업 다변화 [손보사 일반...",
+      "description": "<편집자 주> 정종표 DB손해보험 대표가 기업성보험을 미래 성장동력으로 육성하며 일반보험 경쟁력 강화에 속도를 내고 있다. 첨단산업 확산에 따른 새로운 위험에 대응하기 위해 드론과 인공지능(AI) 등을 활용한...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202607242211433867dd55077bc2_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-27T00:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fb1705",
+      "title": "[데이터 뉴스룸] 전자 50社 올 7개월 새 시총 1500조 넘게 상승했지만 절...",
+      "description": "10~50% 사이로 시총이 오른 곳은 ▲서울반도체(37.3%) ▲DB하이텍(35.7%) ▲하나마이크론(24.8%) ▲한화시스템(23.3%) ▲코리아써키트(21.4%)가 속했다. 이중 한화시스템은 올해 초 10조 4472억 원이던 것이 이달...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=345938",
+      "source": "www.greened.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-26T23:37:00+09:00"
+    },
+    {
+      "id": "DB손해보험-69b43c",
+      "title": "국민연금 매도 폭탄 없었다⋯하이닉스 사고 삼전 팔아",
+      "description": "그 뒤를 SK이노베이션(2247억원)과 S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 이었다. 순매도 1위는 SK스퀘어(5757억원)였다. 2, 3, 5위는 삼성전기(3136억원), 삼성생명(1238억원)...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001044860?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T19:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c53ba4",
+      "title": "직업계고 취업문 넓힌다…교육·채용 연계 확산",
+      "description": "하나은행과 한국전력, 한국항공우주산업(KAI), DB하이텍, 현대그린푸드, CJ프레시웨이 등 금융권과 제조업, 서비스업 분야의 기관과 기업들이 참여해 산업 수요를 반영한 직무교육을 제공하고 있다. 최교진 교육부 장관...",
+      "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34483",
+      "source": "www.rightknow.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-26T19:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-72c89a",
+      "title": "'따뜻한 마음, 행복한 나눔' 김치에 담아",
+      "description": "이번 활동은 DB손해보험 사랑나눔봉사단 임직원과 센터 이용 아동들이 함께 참여해 지역 어르신과 이웃들에게 건강한 먹거리와 따뜻한 마음을 전하고, 나눔의 가치를 실천했다. 이날 참가자들은 금사리 다인영농조합에서...",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1090230",
+      "source": "www.ccdn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T18:23:00+09:00"
+    },
+    {
+      "id": "DB증권-c4f577",
+      "title": "미국지수·AI ETF에 뭉칫돈…최근 1년 투자자 자금 집중",
+      "description": "설태현 DB증권 연구원은 \"글로벌 반도체 ETF 시장은 주가 조정에도 불구하고 누적 자금 유입이 가속화되는 모습을 보이고 있다\"며 \"최근 알파벳 실적 발표 이후 시장은 단순 어닝 서프라이즈뿐 아니라...",
+      "url": "https://www.ajunews.com/view/20260726141355904",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-26T18:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-77abf0",
+      "title": "'삼전닉스 더 담을까, 던질까'…'64조' 깜짝 전망, 개미 '시선집중'",
+      "description": "2위는 SK이노베이션(2247억원), S-OIL(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 반면 순매도 1위는 SK스퀘어(5757억원)가 차지했으며, 삼성전기(3136억원), 삼성생명(1238억원)...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260005?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T17:40:00+09:00"
+    },
+    {
+      "id": "DB증권-802749",
+      "title": "레버리지 예탁금 3000만원 D-4…변동성 노린 소액 개미 '막판 베팅'",
+      "description": "설대현 DB증권 연구원은 \"투자자 보호를 위한 사전교육, 기본예탁금 상향, 신용거래 제한 등 진입요건과 운용규제를 강화하는 흐름\"이라며 \"추가적인 신규 자금 유입이 제한적일 경우 왝더독(Wag the Dog) 영향은...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009079554?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-26T16:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5ddc6a",
+      "title": "삼전닉스 들어가 말아?…주식 전문가 \"다음주 정말 무서울 것\"",
+      "description": "이어 SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 순이었다. 반면 순매도 1위는 SK스퀘어(5757억원)가 차지했으며, 삼성전기(3136억원), 삼성생명(1238억원), LG이노텍...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313887?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T16:21:00+09:00"
+    },
+    {
+      "id": "DB증권-1a0304",
+      "title": "널뛰는 변동성, 빠른 대응 가능한 '액티브ETF' 쏟아진다",
+      "description": "문홍철 DB증권 연구원은 \"글로벌 AI 시장이 복합적인 다변수 국면에 진입하면서 패시브 대비 액티브 투자 방식의 매력이 높아지고 있다\"며 \"선별적인 비중 조절이 가능해 기민하게 대응할 수 있는 액티브 ETF를...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391080?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-26T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5da56d",
+      "title": "상반기 차 보험 적자 1890억원으로 6년 만에 적자",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 손보사별로는 차별된 흐름도 보인다. KB증권은 삼성화재·DB손보...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001044837?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T15:44:00+09:00"
+    },
+    {
+      "id": "DB증권-a519d6",
+      "title": "전필환 신한캐피탈 대표, 부실자산 정리 효과 순익 반등세…하반기 비이...",
+      "description": "지난 6월 신한투자증권과 DB증권이 공동 운용하는 ‘신한-DB 생산적 금융 신기술투자조합’에 참여하기도 했다. 하반기에도 자산의 양적, 질적 성장과 비이자수익 기반 확충에 주력한다는 방침이다. 신한캐피탈은...",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026072317164364208a55064dd1_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-26T15:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-adddd4",
+      "title": "‘큰 손’ 국민연금 리밸런싱 재개에도…연기금, 이달 순매수",
+      "description": "2위는 SK이노베이션(2247억원)이었고, 그다음으로는 S-OIL(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 순매도 1위는 SK스퀘어(5757억원)가 차지했했다. 2, 3, 5위는 삼성전기...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182000?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T15:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-13c4e3",
+      "title": "연기금 국내주식 리밸런싱 유예 끝났지만 오히려 684억 순매수, SK하이닉...",
+      "description": "SK이노베이션 2247억 원, S-OIL 1744억 원, DB손해보험 1095억 원, 셀트리온 954억 원 등이 뒤를 이었다. 반면 SK스퀘어는 5758억 원어치를 순매도했다. 삼성전기 순매도액은 3136억 원, 삼성생명은 1239억 원, LG이노텍은 1120억...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443157",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a1dabd",
+      "title": "상반기 자동차보험, 6년 만에 적자 전환",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 4사의 상반기 자동차보험 누적 손해율은 84.5%로, 지난해 같은 기간보다 1.9%포인트 상승했다. 이 같은 실적 악화의 주요 원인으로는 한방병원과 한의원을...",
+      "url": "http://www.segyebiz.com/newsView/20260726506348?OutUrl=naver",
+      "source": "www.segyebiz.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-91f548",
+      "title": "'8주룰' 지연에 車보험 손익 개선 '난망'…6년 만에 상반기 적자",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 4개사의 올해 상반기 자동차보험 누적 손해율(단순 평균)은 84.5%로 전년 동기 대비 1.9%포인트 상승했다. 올해 초 자동차보험료를 1%대 인상했지만 최근 4년간...",
+      "url": "https://www.ajunews.com/view/20260726140508895",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f90fd",
+      "title": "국민연금 '매도 폭탄' 없었다···7개월 만에 순매수",
+      "description": "SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 반면 순매도는 SK스퀘어(5757억원)가 가장 많았고 삼성전기(3136억원), 삼성생명(1238억원), LG이노텍...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852468",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b0e97",
+      "title": "‘74조 매도 폭탄’ 우려 무색…국민연금, 급락장서 오히려 순매수",
+      "description": "SK이노베이션 2247억원, S-OIL 1744억원, DB손해보험 1094억원, 셀트리온 953억원, 대한항공 899억원 등이 뒤를 이었다. 반면 SK스퀘어는 5757억원 순매도해 가장 많이 팔았다. 삼성전기 3136억원, 삼성생명 1238억원, 삼성전자...",
+      "url": "http://www.segyebiz.com/newsView/20260726506053?OutUrl=naver",
+      "source": "www.segyebiz.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1f2800",
+      "title": "2027년에 車보험료 또 오르나…6년 만에 상반기 적자 전환",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 올해 미국·이란 전쟁 여파로 유가가 급등하며 차량 운행량이...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145920?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-adc218",
+      "title": "車보험업계 상반기 적자 규모 1890억원…2020년 이후 6년 만에 적자전환",
+      "description": "특히 삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손해보험사 4사의 손해율은 올해 들어서 크게 악화했다. 이들 보험사의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 다만...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=203593",
+      "source": "www.livebiz.today",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T14:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5abc72",
+      "title": "한방병원 과잉진료 등에 자동차보험 적자 ‘눈덩이’",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 다만 손보사별로 차별화된 흐름이 나타날 것으로 보인다. KB증권은...",
+      "url": "https://n.news.naver.com/mnews/article/082/0001391270?sid=101",
+      "source": "www.busan.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T13:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b768e2",
+      "title": "한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자",
+      "description": "대형 손해보험 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 올 상반기 자동차보험 누적 손해율은 84.5%로 지난해 같은 기간 대비 1.9%포인트 상승했다. 업계는 손해율 80% 수준을 자동차보험 손익분기점으로...",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815756?sid=101",
+      "source": "www.hani.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T13:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-83a21e",
+      "title": "'고의 교통사고' 보험사기 혐의 현장출동 기사 항소심도 무죄",
+      "description": "검찰은 A씨가 삼성화재, KB손해보험, DB손해보험, 현대해상화재보험, 전국렌터카공제조합 등 5개 업체부터 보험금 8천100여만원을 편취한 것으로 판단했다. 그러나 1심과 2심 재판부는 검찰의 공소사실을 받아들이지...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109330",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T13:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1f9fe3",
+      "title": "상반기 車보험 적자 1천890억원…6년 만에 적자 전환",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 다만 손보사별로 차별화된 흐름이 나타날 것으로 보인다. KB증권은...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109329",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T13:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e844f0",
+      "title": "국민연금 ‘매도 폭탄’ 없었다…7월 순매수 전환 ‘하닉’ 집중 매입 ...",
+      "description": "2위는 SK이노베이션(2247억 원)이었고 S-Oil(1744억 원)·DB손해보험(1094억 원)·셀트리온(953억 원)·대한항공(899억 원)이 뒤를 이었다. 순매도 1위는 SK스퀘어(5757억 원)였고 2·3·5위가 삼성전기(3136억 원)·삼성생명(1238억...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645232?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T12:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-375275",
+      "title": "국민연금 리밸런싱 재개에도 연기금 이달 순매수 중",
+      "description": "2위는 SK이노베이션(2247억 원)이었고, 이어 S-OIL(1744억 원)과 DB손해보험(1094억 원), 셀트리온(953억 원), 대한항공(899억 원) 등을 사들였다. 순매도 1위는 SK스퀘어(5757억 원)였다. 2, 3, 5위는 각각 삼성전기(3136억 원)...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172065?sid=101",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T12:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-51a189",
+      "title": "\"매도 폭탄 우려는 옛말\"…국민연금, 올해 첫 국내 주식 '순매수' 전환",
+      "description": "이어 SK이노베이션(2,247억 원), S-OIL(1,744억 원), DB손해보험(1,094억 원), 셀트리온(953억 원), 대한항공(899억 원) 등이 순매수 상위권에 이름을 올렸다. 반면, 가장 많이 팔아치운 순매도 1위 종목은 SK스퀘어(5,757억 원)였다....",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=535440",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0d9bcf",
+      "title": "외인·개인 '삼성전자·SK하이닉스' 담고…기관은 4조 차익실현",
+      "description": "삼성전기(901억원)와 한화오션(736억원), SK텔레콤(697억원), 한국항공우주(542억원), DB손해보험(374억원), 한화엔진(291억원), OCI홀딩스(223억원) 등도 순매도 상위에 이름을 올렸다. 이는 외국인이 반도체 업종 내에서도...",
+      "url": "https://www.news2day.co.kr/article/20260726500021",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f8296d",
+      "title": "보험료 인하·정비원가 상승…상반기 車보험 6년만에 ‘적자’",
+      "description": "실제 대형 손보사 4곳(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 다만 2분기 들어선 적자 폭이 축소됐다. 앞서 KB증권은 대형...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005712210?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8b38a0",
+      "title": "연기금, 이달 684억원 순매수…SK하이닉스 사고 삼성전자 팔아",
+      "description": "SK이노베이션 2247억원, S-OIL 1744억원, DB손해보험 1094억원, 셀트리온 953억원, 대한항공 899억원 등이 뒤를 이었다. 반면 SK스퀘어는 5757억원어치 순매도해 매도 규모가 가장 컸다. 삼성전기 3136억원, 삼성생명 1238억원...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607260014",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9d7d17",
+      "title": "'매도 폭탄' 우려 연기금…SK하이닉스 샀다",
+      "description": "2위는 SK이노베이션(2247억원)이었고 그다음으로는 에쓰오일(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 순매도 1위에는 SK스퀘어(5757억원)가 자리했다. 2, 3, 5위는...",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360838",
+      "source": "www.smedaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-761b38",
+      "title": "[문혜원의 e콕보험] 연 7천 원 '상급병실 자동차보험 특약'의 반전...가...",
+      "description": "그런데, 이 알짜 특약은 시장 점유율 상위 3사인 현대해상, 삼성화재, DB손해보험 등 대형사들의 상품 조건이 다르다. 우선 현대해상은 상급병실 차액특약과 성형·치아보철비 특약을 세트로 묶어 판매한다. 1인실을...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=535435",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T11:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b68c1",
+      "title": "DB손보, '2026 KS-SQI' 평가서 최초 장기·자동차 두 부문 1위",
+      "description": "DB손해보험이 한국표준협회(KSA)가 주관하는 '2026 한국서비스품질지수(KS-SQI)' 평가에서 장기보험과 자동차보험 부문 1위를 차지했다고 26일 밝혔다. 장기보험과 자동차보험 부문에서 한 회사가 동시에 1위를 달성한...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390984?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:41:00+09:00"
+    },
+    {
+      "id": "DB손해보험-513cdd",
+      "title": "“한방병원 과잉진료 때문에” 자동차 손보사 6년 만에 적자 전환",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 유가 급등으로 차량 운행량이 감소하고 보험료 1.3∼1.4% 인상 효과까지...",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108964?sid=101",
+      "source": "magazine.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7786bf",
+      "title": "'74조 매도설' 빗나갔다...국민연금, 하이닉스 담고 삼성전자 줄였다",
+      "description": "이어 SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 순매수 상위권에 이름을 올렸다. SK하이닉스는 AI 메모리(HBM) 경쟁력과 실적 기대감이 반영되며 연기금의 대표...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717797",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2ccbe8",
+      "title": "'고의 사고 8000만원 편취 혐의' 보험 현장 요원, 항소심도 무죄",
+      "description": "검찰은 A 씨가 삼성화재, KB손해보험, DB손해보험, 현대해상화재보험, 전국렌터카공제조합 등 5개 업체로부터 총 8100여만 원을 편취한 것으로 판단하고 그를 기소했다. 하지만 1심과 2심 재판부 모두 검찰의 공소사실을...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009079114?sid=102",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3db5ad",
+      "title": "상반기 자동차보험 1890억원 적자…6년 만에 적자 전환",
+      "description": "대형 손해보험사 4곳인 삼성화재·현대해상·DB손해보험·KB손해보험의 상반기 누적 손해율은 84.5%로 지난해 같은 기간보다 1.9%포인트 상승했다. 업계에서는 한방병원과 한의원을 중심으로 한 경상환자의 장기·과잉...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607260009",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ef477d",
+      "title": "상반기 자동차 보험 적자 1890억원… 6년 만에 적자 전환",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했다. 최근 미국-이란 전쟁 영향으로 유가가 급등해 차량 운행이...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181930?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ba21f2",
+      "title": "국민연금 '매도 폭탄' 없었다…연기금, SK하이닉스 사고 삼성전자 팔아",
+      "description": "2위는 SK이노베이션(2,247억원)이었고, 그다음으로는 S-OIL(1,744억원)과 DB손해보험(1,94억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었습니다. 순매도 1위에는 SK스퀘어(5,757억원)가 자리했습니다. 2, 3, 5위는...",
+      "url": "https://n.news.naver.com/mnews/article/422/0000888934?sid=101",
+      "source": "www.yonhapnewstv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-741234",
+      "title": "국민연금, 7월 국내 주식 순매수 전환... 투자심리 변화 감지",
+      "description": "이어 SK이노베이션 2천247억원, S-OIL 1천744억원, DB손해보험 1천94억원, 셀트리온 953억원, 대한항공 899억원 순이었다. 반면 순매도 1위는 SK스퀘어 5천757억원이었고, 삼성전기 3천136억원, 삼성생명 1천238억원, LG이노텍...",
+      "url": "https://www.tokenpost.kr/news/market/381347",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-717ea6",
+      "title": "국민연금 매도 폭탄 없었다…'큰 손' 연기금, 이달 순매수",
+      "description": "2위는 SK이노베이션(2247억원)이었고, 그다음으로는 S-OIL(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었습니다. 순매도 1위에는 SK스퀘어(5757억원)가 자리했습니다. 2, 3, 5위는...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523723?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f70f17",
+      "title": "자동차보험, 상반기 1890억원 적자",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손보사 4곳의 올해 상반기 자동차보험 누적 손해율은 평균 84.5%로 지난해 같은 기간보다 1.9%포인트 올랐다. 업계에서는 사업비를 고려해 자동차보험의...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307679",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6d0fe6",
+      "title": "‘74조 매도 폭탄설’ 잠잠...‘리밸런싱’ 연기금, SK하닉 사고 삼전 팔...",
+      "description": "2위는 SK이노베이션(2247억원)이었고, 그다음으로는 S-OIL(1744억원), DB손해보험(194억원), 셀트리온(953억원), 대한항공(899억원) 등의 순이었다. 반면 순매도 1위는 SK스퀘어(5757억원)였고, 2, 3, 5위는 삼성전기(3136억원)...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038849?sid=105",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-47ae4b",
+      "title": "브레이크 풀린 ‘한방 진료비’… 車보험, 6년 만에 적자 늪 빠졌다",
+      "description": "삼성화재, 현대해상, DB손해보험, KB손해보험 등 대형 4개 사의 상반기 누적 손해율은 84.5%로 전년 동기 대비 1.9%포인트(p) 상승하며 적자 전환의 직격탄이 됐다. 다만 업체별 실적 차별화 조짐도 관측된다. KB증권은...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038848?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f16c9b",
+      "title": "상반기 자동차보험, 6년만에 적자 전환… 내년 車보험료 또 오르나",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 4사의 상반기 자동차보험 누적 손해율은 84.5%로, 작년 같은 기간보다 1.9%포인트 올랐다. 업계는 자동차보험 손익분기점에 해당하는 손해율을 80% 수준으로 본다....",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989633?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-378d6b",
+      "title": "자동차보험 상반기 1890억원 적자…6년 만에 흑자 행진 멈췄다",
+      "description": "삼성화재, 현대해상, DB손해보험, KB손해보험 등 대형 손보사 4곳의 상반기 자동차보험 누적 손해율은 84.5%로 지난해 같은 기간보다 1.9%포인트 상승했다. 다만 보험사별 실적은 다소 엇갈릴 것으로 예상된다. KB증권은...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=746169",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a7d005",
+      "title": "국민연금 74조 '매도 폭탄' 없었다…이달 들어 순매수 전환",
+      "description": "이어 △SK이노베이션(2247억원) △S-Oil(1744억원)△DB손해보험(1094억원) △셀트리온(953억원) △대한항공(899억원) 등이 순매수 상위 종목에 올랐다. 반면 SK스퀘어는 5757억원어치 순매도하며 매도 규모가 가장 컸다....",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336894?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ded904",
+      "title": "국장 급락하자 미장으로… 서학개미 순매수 4배 늘었다",
+      "description": "SK이노베이션(2247억원), S-OIL(1744억원), DB손해보험(1094억원), 셀트리온(953억원) 등이 뒤를 이었다. 반면 SK스퀘어는 5757억원어치 순매도했다. 삼성전기(-3136억원), 삼성생명(-1238억원), LG이노텍(-1119억원), 삼성전자...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989632?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-26f2e4",
+      "title": "‘74조원 매도 폭탄설’ 아직 잠잠…‘큰 손’ 연기금 이달 들어 순매수",
+      "description": "2위는 SK이노베이션(2247억원)이었고, 뒤이어 에쓰오일(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등 순이었다. 순매도 1위 종목은 SK스퀘어(5757억원)였다. 뒤이어 삼성전기(3136억원)...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675059?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:13:00+09:00"
+    },
+    {
+      "id": "DB손해보험-768248",
+      "title": "매도폭탄 우려 비껴간 연기금…SK하이닉스·정유주 담았다",
+      "description": "DB손해보험은 1094억9376만원으로 종목별 순매수 4위에 올랐다. 신한지주와 하나금융지주는 각각 711억4944만원, 638억223만원 순매수했다. 삼성화재에도 484억5239만원이 들어왔다. 셀트리온과 대한항공 순매수액은...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026072416552339176",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-097a81",
+      "title": "상반기 車보험 6년 만에 적자 전환…손해율 84.5%",
+      "description": "대형 손해보험사 4사(삼성화재·현대해상·DB손해보험·KB손해보험)의 상반기 자동차보험 누적 손해율은 84.5%로 작년 동기 대비 1.9%포인트 상승했습니다. 업계 전반의 실적이 악화한 배경으로는 한방병원·한의원...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523716?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f98995",
+      "title": "국민연금, 74조 '매도 폭탄' 우려 뚫고 순매수 전환한 배경은",
+      "description": "2위는 SK이노베이션(2247억원)이었으며, 에쓰오일(1744억원)과 DB손해보험(1094억원), 셀트리온(953억원), 대한항공(899억원) 등이 뒤를 이었다. 순매도 1위는 SK스퀘어(5757억원)였다. 이어 2·3·5위에는 삼성전기(3136억원)...",
+      "url": "https://n.news.naver.com/mnews/article/586/0000134535?sid=101",
+      "source": "www.sisajournal.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T09:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cbec15",
+      "title": "보험계약대출 4%대 '껑충'…그래도 은행보다 싸다",
+      "description": "24일 보험업계에 따르면 삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재 등 '빅5' 손해보험사의 올해 6월 보험계약대출 금리연동형 평균 금리는 3.96%로 집계됐다. 지난 1월과 비교하면 1.6%포인트(p)...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426862",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-26T08:32:00+09:00"
+    },
+    {
+      "id": "DB증권-455d31",
+      "title": "STO 플랫폼 선점전 불붙은 증권업계…상품화는 '숙제'",
+      "description": "DB증권은 제주시, 부산시 등 지방자치단체와 연계한 수익형 자산 발굴을 추진 중이다. 신한투자증권은 음악 저작권 조각투자 플랫폼 뮤직카우와 협력해 400억원 규모의 펀드를 조성했다. 우량 음원 IP를 확보하고 향후...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026072415384520608",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-26T08:12:00+09:00"
+    },
     {
       "id": "DB손해보험-d873af",
       "title": "보험금 노린 ‘고의 교통사고’ 혐의 현장출동 기사 항소심도 무죄",
