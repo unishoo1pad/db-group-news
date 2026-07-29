@@ -1,6 +1,735 @@
 {
-  "lastUpdated": "2026-07-29",
+  "lastUpdated": "2026-07-30",
   "articles": [
+    {
+      "id": "DB증권-4e4e76",
+      "title": "해성디에스, 리드프레임 호황에 안정적 실적 '주목'…\"패키지 기판도 재...",
+      "description": "\"풀가동 체제에도 불구하고 데이터센터향과 전장향 견조한 수요로 적극 생산 대응\" DB증권은 30일 해성디에스(195870)에 대해 리드프레임이 안정적인 실적을 지지하는 가운데 패키지 기판 역시 재차 성장 궤도 진입이...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=742003",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T07:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e8d210",
+      "title": "[더벨][빅사이즈 공매물건] '공정률 20%대' 일산 풍동 개발사업, 2100억 ...",
+      "description": "해당 사업의 PF 대주단으로는 DB손해보험과 미래에셋증권, IBK캐피탈 등이 참여했다. 와이에스개발은 2013년 설립돼 김포 풍무 유현지구 도시개발사업과 지역주택조합 사업 등을 진행해온 시행사다. 지난해 말...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271733562600107883",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-30T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-df6b10",
+      "title": "‘만스피’ 간다더니 5600선 추락… 시총 한달 2780조원 증발",
+      "description": "강현기 DB증권 연구원은 중국 AI·반도체 기업 부상으로 기존 AI 성장 서사가 흔들리면서 당분간 코스피가 횡보 국면에 진입할 가능성을 제시했다. 이어 “횡보장에서는 추세 추종보다 박스권 내 저점 매수·고점...",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863964?sid=101",
+      "source": "www.kmib.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T07:00:00+09:00"
+    },
+    {
+      "id": "DB증권-c0fd8a",
+      "title": "1300억 실적 대박에도 '목표가 줄하향'…한미약품 전망은? [종목+]",
+      "description": "실적 발표 다음날 보고서를 낸 증권사 가운데 DB증권은 목표주가를 63만원에서 57만원으로, 미래에셋증권은 70만원에서 64만원으로 내렸다. 다올투자증권은 71만원→69만원, 메리츠증권은 69만원→63만원, NH투자증권은...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315443?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T06:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5687db",
+      "title": "DB손해보험, 청각장애 학생 교육 지원…충주성심학교에 장학금",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다.ㅣDB손해보험 DB손해보험이 청각장애 학생들의 교육 환경 개선과 성장을 지원하기 위한...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356709",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-30T06:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-44b4d5",
+      "title": "레켐비 앞세운 치매보험 광고와 달리 지급 문턱 높아…보험금 지급 ‘첩...",
+      "description": "이후 흥국화재의 배타적사용권이 종료되자 삼성생명과 교보생명, DB손해보험 등도 표적치매약물 관련 특약을 잇따라 출시했다. 후발 상품들은 동일한 구조를 그대로 따르지는 않았다. 일부는 투약 횟수에 따라 보험금을...",
+      "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/29/2026072980122.html",
+      "source": "digitalchosun.dizzo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-30T06:02:00+09:00"
+    },
+    {
+      "id": "DB증권-aa3bbb",
+      "title": "시총 2800조 증발한 코스피, 고점 대비 40%↓…진짜 바닥은 어디?",
+      "description": "강현기 DB증권 연구원은 중국 AI·반도체 기업 부상으로 기존 AI 성장 서사가 흔들리면서 당분간 코스피가 횡보 국면에 진입할 가능성을 제시했다. 이어 \"횡보장에서는 추세 추종보다 박스권 내 저점 매수·고점...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014096909?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-361ba6",
+      "title": "하루 평균 6.12% 급등락… 금융위기급 널뛰기에 '현기證'",
+      "description": "이병건 DB증권 리서치센터장은 \"상품폐지, 레버리지 비율조정 등의 경우 실현 가능성이 제한적일 뿐만 아니라 홍콩, 미국 등 글로벌 시장에서 거래되는 효과를 완전히 차단하는 것은 불가능하다\"며 \"미국처럼 레버리지...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393067?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T04:10:00+09:00"
+    },
+    {
+      "id": "DB증권-951f77",
+      "title": "“바닥 6000”이라던 증권사들, 4000대 급선회…“바닥 안보여”",
+      "description": "DB증권은 이날 코스피 5300~5700선을 주요 지지대로 제시했다. 설태현 DB증권 연구원은 “코스피 5300~5700 구간에 거래량의 약 17%가 집중돼 강력한 매물대가 형성돼 있다”며 “해당 구간을 기준으로 외국인이 순매수에서...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541146?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-30T00:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-396bb1",
+      "title": "TSMC 구마모토 공장, 강진 여파에 생산 재개 지연…“성숙 공정 중심이...",
+      "description": "성숙 공정 물량이 이탈하더라도 UMC나 국내 DB하이텍 등이 대안으로 거론될 가능성이 크다. 다만 2028년 3나노 양산을 목표로 한 2공장 공사가 일부 중단된 점은 중장기 변수로 남는다. 첨단 공정 증설 일정이 밀릴 경우...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807897?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-30T00:11:00+09:00"
+    },
+    {
+      "id": "DB하이텍-dc3945",
+      "title": "\"8년 성과 위에서 '2030 음성시' 기틀 완성할 것\"",
+      "description": "특히 DB하이텍이 위치한 상우산업단지를 '차세대 전력반도체 특화단지'로 조성해 음성을 반도체 공급망의 핵심 거점으로 만들겠다. 아울러 충북혁신도시를 중심으로 글로벌 혁신성장 경제자유구역 지정을 추진하고...",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1091095",
+      "source": "www.ccdn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-29T18:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e1bb65",
+      "title": "DB손해보험, 충주성심학교 후원 이어가…14년째 장학금 지원",
+      "description": "DB손해보험은 청각장애인 특수교육기관인 충주성심학교에 장학금 3000만원을 전달했다. 사진=DB손해보험  기업들의 사회공헌 활동이 일회성 지원을 넘어 교육기관과의 장기적인 협력으로 이어지고 있다. 장학사업과...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=98280",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T18:28:00+09:00"
+    },
+    {
+      "id": "DB증권-b17476",
+      "title": "\"한미약품, 하반기 계열사 북경한미 회복 중요…목표가↓\"[클릭 e종목]",
+      "description": "DB증권은 29일 한미약품의 내년까지의 실적을 하향 조정하며 목표주가를 기존 63만원에서 57만원으로 낮추고 투자의견은 '매수'를 유지했다. 29일 이명선 DB증권 연구원은 한미약품에 대해 \"2027년까지 실적은 하향...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796419?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T18:11:00+09:00"
+    },
+    {
+      "id": "DB증권-210117",
+      "title": "[클릭 e종목]\"한세실업, 비용부담 확대에 보수적 접근 필요…목표가↓\"",
+      "description": "DB증권은 29일 한세실업에 대해 제한적인 매출 성장 속 비용 부담은 확대되고 있다고 보고 목표주가를 기존 1만8000원에서 1만2000원으로 하향 조정했다. 투자의견은 '매수'를 유지했다. 허제나 DB증권 연구원은 \"실적...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796413?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T17:57:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ddf551",
+      "title": "[업앤다운]보험주 하락…동양생명↑·삼성생명↓",
+      "description": "삼성화재는 전 거래일 대비 3.61%(2만2000원) 내린 58만7000원에 거래를 마쳤고 DB손해보험은 전 거래일 대비 2.7%(4300원) 하락한 15만4700원에 장을 마감했다. [업앤다운 브리핑] 보험업계에서는 미국 보험 중개업체...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=822404",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T17:54:00+09:00"
+    },
+    {
+      "id": "DB증권-29be70",
+      "title": "널뛰는 코스피, 7월 변동률 2008년 금융위기 넘어섰다",
+      "description": "이병건 DB증권 리서치센터장은 \"상품 폐지, 레버리지 비율 조정 등의 경우 실현 가능성은 제한적일 뿐만 아니라 홍콩, 미국 등 글로벌 시장에서 거래되는 효과를 완전히 차단하는 것은 불가능하다\"며 \"미국처럼...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392917?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T17:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-392fa5",
+      "title": "DB손해보험, 충주성심학교에 장학금 3천만원 전달…14년째 교육 지원 이...",
+      "description": "DB손해보험이 청각장애인 특수교육기관인 충주성심학교에 장학금을 전달하며 장애 학생들의 교육환경 개선과 꿈을 응원하는 사회공헌 활동을 이어갔다. DB손해보험은 지난 13일 충주성심학교에서 장학금 전달식을 열고...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=738447",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T16:49:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d17699",
+      "title": "[코스피 지수선물 옵션] 삼양식품·레인보우로보틱스 '고군분투'...삼성...",
+      "description": "KB금융, 신한지주, 하나금융지주가 내렸고 삼성생명, 삼성화재, 미래에셋증권, 메리츠금융지주, 기업은행, NH투자증권, 삼성증권, 한국금융지주, DB손해보험, 카카오뱅크, 키움증권, BNK금융지주, JB금융지주가 거래를...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472647",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T16:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3251dd",
+      "title": "DB손해보험, 충주성심학교에 장학금 3000만원 전달",
+      "description": "사진=DB손해보험. DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들의 교육환경 지원을 위해 장학금 3000만원을 전달했다고 29일 밝혔다. 전달식에는 DB손해보험 임직원과 충주성심학교...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1390832",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-375850",
+      "title": "[보험브리핑]DB손보·교보생명·신한라이프",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다./DB손해보험 DB손해보험이 충주성심학교에 장학금 3000만원을 전달했다. ◆ 누적 장학금...",
+      "url": "http://www.metroseoul.co.kr/article/20260729500450",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T16:38:00+09:00"
+    },
+    {
+      "id": "DB증권-5a664b",
+      "title": "“코스피 바닥 안 보인다” 커지는 공포…최악 땐 4800선 갈 수도",
+      "description": "DB증권은 이날 코스피 5300~5700선을 주요 지지대로 제시했다. 설태현 DB증권 연구원은 “코스피 5300~5700 구간에 전체 거래량의 약 17%가 집중돼 강력한 매물대가 형성돼 있다”며 “해당 구간을 기준으로 외국인이...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541016?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T16:29:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e92b69",
+      "title": "[ESG경영] \"단발성 지원 넘어 장기 동행으로\"…DB손보·고려아연·빙그레...",
+      "description": "사진=지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다. DB손해보험은 청각장애인 특수교육기관인 충주성심학교를 찾아 학생들의 교육환경...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101034",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T16:26:00+09:00"
+    },
+    {
+      "id": "DB증권-a49f8f",
+      "title": "'떨어지는 칼날' 잡은 개미…25조 반등 베팅에 계좌 녹았다",
+      "description": "DB증권은 코스피 1차 지지선은 6000포인트, 2차 지지선은 5500포인트라고 제시했다. 강현기 DB증권 연구원은\"최근 중국 AI 및 반도체 기업의 부상으로 서사가 긍정에서 부정으로 전환되며 주식시장이 기존 추세와 다른...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725286",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T16:22:00+09:00"
+    },
+    {
+      "id": "DB증권-4bf908",
+      "title": "\"이런 장은 처음\" 코스피, 사상 최악의 수요일 … 코스닥은 계엄 전 수준...",
+      "description": "설태현 DB증권 연구원은 \"코스피가 전통적 밸류에이션으로 설명하기 어려운 수급 주도형 변동성 장세를 보이고 있다\"며 \"외국인과 개인의 심리적 매물대가 교차하는 5300~5700 지지선과 7000~7100 저항선이 향후...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/29/2026072900227.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T16:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2cc008",
+      "title": "[주간스타트업동향] 디노티시아, STX엔진과 방산 AI 데이터센터 사업 협...",
+      "description": "지미션은 지난해 수행한 DB하이텍 반도체 품질관리 AX 실증사업에서 확보한 기술과 노하우를 기반으로 플랫폼을 고도화할 계획이다. 한준섭 지미션 대표는 \"생성형 AI와 AI 에이전트 기술은 제조 산업의 품질관리...",
+      "url": "https://it.donga.com/109277/",
+      "source": "it.donga.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-29T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-32758f",
+      "title": "DB손해보험, 충주성심학교에 장학금 전달",
+      "description": "충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다. 사진=DB손해보험  DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들의...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=141816",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T15:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-682033",
+      "title": "DB손보, 청각장애인 특수교육기관에 장학금 3000만원 전달",
+      "description": "DB손해보험이 청각장애인 특수교육기관의 환경 지원에 나섰다. DB손보는 최근 충주성심학교에서 학생들의 교육환경 지원을 위해 장학금 3000만원을 전달했다고 29일 밝혔다. 전달식에는 DB손보 임직원과 충주성심학교...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014096218?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T15:57:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f2817",
+      "title": "'8주 룰' 지연에 깊어지는 적자 늪 … 車보험 영업손실 1890억",
+      "description": "삼성화재·DB손해보험·현대해상·KB손해보험 등 대형 손해보험사 4곳의 상반기 자동차보험 누적 손해율은 평균 84.5%로 전년 동기 대비 1.9%포인트(p) 올랐다. 통상 자동차보험 손익분기점으로 여겨지는 82~83%를 웃도는...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/29/2026072900181.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T15:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4f49e2",
+      "title": "[보험·카드사 풍향계] ‘포르쉐 삼성카드’ 출시…주유·여행·충전 혜...",
+      "description": "◇ DB손해보험, 충주성심학교에 장학금 3000만원 전달 DB손해보험이 충주성심학교 학생들의 교육환경 개선을 위한 장학금 3000만원을 전달했다. 충주성심학교는 청각장애인 특수교육기관으로, 2013년 DB손보와 후원...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260729021197367",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T15:26:00+09:00"
+    },
+    {
+      "id": "DB증권-d55290",
+      "title": "[6월 상장예비심사上] 제이앤티지, 씨엔티테크, 티앤이코리아 등",
+      "description": "상장주선인은 DB증권이다. 아이비케이에스제24호기업인수목적 주식회사는 럭스코와 스팩소멸합병 예비심사를 신청했다. 럭스코는 1998년 설립된 선박용배전반 설계 및 제조, 산업용 배전반 설계 및 제조업체다....",
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37269",
+      "source": "www.junggi.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T14:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-201524",
+      "title": "DB손해보험, 충주성심학교와 14년 인연 이어가",
+      "description": "DB손해보험이 청각장애인 특수교육기관인 충주성심학교 학생들 지원에 나섰다. 29일 DB손해보험에 따르면 회사는 지난 13일 충주성심학교에서 학생들의 교육환경 지원을 위한 장학금 3000만 원을 전달했다. 이번...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=128029",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T14:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6f14fa",
+      "title": "[금융 브리핑] 교보생명·DB손해보험·손해보험협회",
+      "description": "[사진 = DB손해보험 제공] ◇DB손해보험, 충주성심학교에 장학금 3000만원 전달 DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들의 교육환경 지원을 위해 장학금 3000만원을 전달했다고 29일...",
+      "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90371",
+      "source": "www.niceeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T14:02:00+09:00"
+    },
+    {
+      "id": "DB증권-9d67a6",
+      "title": "[분석] KGM, 수출은 달리고 이익은 숨 고르기…증권가 \"이제는 이익률 입...",
+      "description": "DB증권 남주신 연구원도 판매 성장보다 비용 증가가 두드러진 분기였다고 분석했다. 그는 판매 인센티브 확대와 신차 출시 비용, 감가상각비 증가가 수익성을 끌어내렸지만, 9월 이후 판매 프로모션 축소로 비용 부담이...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356657",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T13:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c3c585",
+      "title": "[보험·카드24시] BC카드, 몽고DB와 AI 데이터 플랫폼 고도화 추진 外",
+      "description": "◆DB손보, 충주성심학교에 장학금 3000만원 전달 DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에 학생들의 교육환경 지원을 위해 장학금 3000만원을 전달했다고 29일 밝혔다. 경제적 어려움을 겪는...",
+      "url": "https://news.dealsitetv.com/articles/173931",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T13:18:00+09:00"
+    },
+    {
+      "id": "DB증권-707901",
+      "title": "코스피, 사상 첫 2거래일 연속 '서킷' … '패닉셀'에 1200조 증발, 개미...",
+      "description": "설태현 DB증권 연구원은 \"코스피가 전통적 밸류에이션으로 설명하기 어려운 수급 주도형 변동성 장세를 보이고 있다\"며 \"7100을 거래량 동반 돌파하면 8500~9000까지 목표가를 상향할 수 있지만 5300~5700 매물대를...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/29/2026072900146.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T13:16:00+09:00"
+    },
+    {
+      "id": "DB증권-6512d5",
+      "title": "한미약품, 상반기 누적 매출 8,602억원…2분기 영업이익 117% 증가",
+      "description": "이명선 DB증권 연구원은 북경한미의 실적으로 묵표주가를 63만원에서 57만원으로 하향조정했다. 그는 \"북경 한미의 실적은 동사의 집중구매 경쟁 품목군 내 점유율을 확대하고 비대상 품목을 집중 육성 노력에도 과거...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356649",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T12:36:00+09:00"
+    },
+    {
+      "id": "DB증권-3d8a3d",
+      "title": "최대 매물대 '5300~5700'...하향 이탈하면? \"또다시 급락\"",
+      "description": "일단 DB증권이 제시한 숫자는 5300~5700선입니다. 직전 강세장 이후 전체 거래량의 약 17%가 이 구간에 집중되며 강력한 매물대가 형성된 만큼, 하락 국면에서도 지지선 역할을 할 가능성이 있다는 진단입니다. 이런...",
+      "url": "https://n.news.naver.com/mnews/article/437/0000503562?sid=101",
+      "source": "news.jtbc.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T12:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-86481c",
+      "title": "DB손보, 충주성심학교에 장학금 3천만원 전달…14년째 후원",
+      "description": "DB손해보험이 청각장애 학생들의 교육환경 개선을 위해 충주성심학교에 장학금을 전달하며 14년째 사회공헌 활동을 이어갔다. DB손해보험은 지난 13일 충북 충주시에 있는 청각장애인 특수교육기관인 충주성심학교에서...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51785",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T12:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c06f9e",
+      "title": "[경제소식] 신한라이프, 고용노동부 주관 '미래내일 일경험 사업' 참여",
+      "description": "2026년 7월 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고 있다. 2026.7.29./사진=DB손해보험 DB손해보험, 충주성심학교에 장학금 3천만원 전달...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2115420",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T12:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b226f1",
+      "title": "SK디앤디 하한가…반도체·전력기기·방산주 주가 동반 급락",
+      "description": "DB하이텍은 11.32% 하락한 7만5200원, 해성디에스는 11.93% 내린 4만600원, 코리아써키트는 11.63% 하락한 4만1800원을 기록했다. 대덕전자는 11.50% 내린 8만800원, 케이씨텍은 9.20% 하락한 5만9200원, 이수페타시스는...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=592831",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-07-29T11:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18a198",
+      "title": "기업의 손길, 지역으로…사회공헌 활동 이어간다",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다. 사진=DB손해보험 기업들이 장학사업과 교육 지원, 취약계층 공간 개선 등 다양한 사회공헌...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185846",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7dc4fe",
+      "title": "[카드] DB손해보험, 충주성심학교에 장학금 3000만원 전달",
+      "description": "DB손해보험(005830)은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들의 교육환경 지원을 위해 장학금 3000만원을 전달했다고 29일 밝혔다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=741906",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-96ee7c",
+      "title": "車보험 손해율 상승에… 삼성화재, 한방병원 52곳과 소송",
+      "description": "올해 상반기 대형 4개 손보사(삼성화재·현대해상·DB손해보험·KB손해보험)의 자동차보험 누적 손해율(단순 평균)은 84.5%로 전년 동기 대비 1.9%포인트(p) 상승했다. 건강보험심사평가원의 ‘2025년 자동차보험 진료비...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182748?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-63fb9d",
+      "title": "DB손해보험, 충주성심학교 장학금 전달",
+      "description": "한국금융경제신문=함동희 기자 | DB손해보험이 청각장애 학생들의 교육환경 개선을 위해 충주성심학교에 장학금을 전달했다. 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=661436",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:18:00+09:00"
+    },
+    {
+      "id": "DB증권-f19d10",
+      "title": "코스피, 다시 5000선 … \"5300~5700 지지선 관건\"",
+      "description": "설태현 DB증권 연구원은 \"코스피가 전통적 밸류에이션으로 설명하기 어려운 수급 주도형 변동성 장세를 보이고 있다\"며 \"외국인과 개인의 심리적 매물대가 교차하는 5300~5700 지지선과 7000~7100 저항선이 향후...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/29/2026072900088.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-08f168",
+      "title": "[포토뉴스] DB손해보험, 충주성심학교에 장학금 3000만원",
+      "description": "DB손해보험이 지난 13일 청각장애인 특수교육기관인 충주성심학교에 학생들의 교육환경 지원을 위한 장학금 3000만원을 전달했다고 29일 밝혔다.",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009564",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-24c4a2",
+      "title": "DB손해보험, 청각장애인 교육 환경 지원 위해 장학금 3천만 원 전달",
+      "description": "DB손해보험이 청각장애인 교육 환경 지원을 위해 장학금을 전달했다. DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생 교육 환경 지원을 위해 장학금 3천만 원을 전달했다고 29일 밝혔다....",
+      "url": "https://n.news.naver.com/mnews/article/448/0000630092?sid=101",
+      "source": "news.tvchosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ccf7cb",
+      "title": "DB손보, 충주성심학교에 장학금 3000만원 전달…14년째 동행",
+      "description": "화이트페이퍼, WHITEPAPER지난 13일 충주성심학교에서 열린 장학금 전달식에 참석한 DB손해보험과 충주성심학교 관계자가 기념 촬영을 하고 있다. (사진=DB손해보험)  DB손해보험이 올해도 청각장애인 특수교육기관인...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265074",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-df2b0c",
+      "title": "[이슈] 자동차보험 5년만에 1% 올렸는데...손보사, 상반기 6년만에 적자",
+      "description": "손해율이 오르자 올해 2월 삼성화재와 현대해상은 1.4%, DB손해보험·KB손해보험·메리츠화재는 1.3%씩 보험료를 인상했다. 다만 인상률은 손보사들이 필요하다고 제시했던 2.5% 수준보다 낮았다. 새 보험료가 2월 이후...",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808094",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T11:00:00+09:00"
+    },
+    {
+      "id": "DB증권-75057b",
+      "title": "삼성카드, 조달비용 하반기에도 ‘발목’…증권가 잇단 눈높이 하향",
+      "description": "29일 금융투자업계에 따르면 하나증권과 DB증권은 전일 삼성카드의 목표주가를 내려잡았다. DB증권은 삼성카드의 목표주가를 기존 7만9000원에서 6만9000원으로 12.7% 하향 조정했다. 하나증권은 목표주가를 7만2000원에서...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260729028277240",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T10:54:00+09:00"
+    },
+    {
+      "id": "DB증권-66f09a",
+      "title": "“낙폭 과도하지만…” 中 반도체 역습에 분위기 달라진 증권가",
+      "description": "DB증권은 증시가 횡보세에 접어들었다고 분석했다. 강현기 연구원은 “최근 중국 인공지능(AI) 및 반도체 기업의 부상으로 서사가 긍정에서 부정으로 전환되며 주식시장이 기존 추세와 다른 방향으로 움직이게 됐다”...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004146783?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T10:42:00+09:00"
+    },
+    {
+      "id": "DB증권-a77110",
+      "title": "현대글로비스, 중국 물량 잇단 수주… 비계열 확대에 속도",
+      "description": "남주선 DB증권 연구원은 \"2분기 수익성 하락의 주요 원인은 유가 상승에 따른 PCTC 연료비 부담으로, 계약 구조상 2~3개월 시차를 두고 운임에 반영될 예정\"이라고 분석했다. 남 연구원은 \"하반기에는 연료비 보전과 함께...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356642",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-20a06c",
+      "title": "[함께가자 우리ESG] DB손해보험, 충주성심학교에 장학금 3000만원 전달",
+      "description": "DB손해보험이 청각장애 학생들의 교육환경 개선과 안정적인 학업을 지원하기 위해 충주성심학교에 장학금 3000만원을 전달했다. DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 장학금 전달식을...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=133590",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:34:00+09:00"
+    },
+    {
+      "id": "DB증권-fb283f",
+      "title": "코스피 5300~5700 '최대 매물대'…DB증권 \"핵심 지지선 될 것\"",
+      "description": "설태현 DB증권 연구원은 29일 'KOSPI 수급 교차 구간대에 기반한 시나리오 대응' 보고서를 통해 \"코스피 5300~5700 구간에 강력한 매물대 구간이 형성돼 있다\"며 \"하방 압력 지속으로 가장 거대한 매물대인 5300~5700마저 하향...",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049304?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7aa59f",
+      "title": "DB손해보험, 충주성심학교에 장학금 3000만원 전달…14년째 동행",
+      "description": "DB손해보험은 청각장애인 특수교육기관인 충주성심학교에 학생들의 교육환경 지원을 위한 장학금 3000만원을 전달했다고 29일 밝혔다. 장학금 전달식은 지난 13일 충주성심학교에서 열렸다. 행사에는 DB손해보험...",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202607291015514212be44c0aacd_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b07cf",
+      "title": "[보험브리핑] 손보협회, 창립80주년 수기·논문 공모전 시상 외",
+      "description": "DB손해보험은 지난 13일 충북 충주시에 있는 청각장애인 교육기관 충주성심학교에 장학금 3000만원을 전달했다고 29일 밝혔다. DB손보는 2013년부터 14년째 학교를 후원하고 있으며, 누적 장학금은 약 3억4000만원에 달한다....",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=634385",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:24:00+09:00"
+    },
+    {
+      "id": "DB증권-267b87",
+      "title": "\"실적 안정성과 저평가 매력\" 증권가 평가에 영원무역 주가↑",
+      "description": "이날 DB증권은 영원무역에 대해 투자의견 '매수(BUY)'와 목표주가 12만원을 유지했다. 올2분기 연결 기준 매출은 1조1516억원으로 전년 동기 대비 10.9%, 영업이익은 1944억원으로 33.4% 증가해 시장 컨센서스(1854억원)를...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3649413",
+      "source": "www.gukjenews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T10:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-69abbb",
+      "title": "DB손보, 충주성심학교에 3000만원 전달...14년째 지원",
+      "description": "13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자가 장학금 전달식을 갖고 기념 촬영을 하고 있다. 사진=DB손해보험 DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들을...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313540",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-90f1f7",
+      "title": "DB손해보험, 충주성심학교에 장학금 3천만원 전달",
+      "description": "DB손해보험이 청각장애인 특수교육기관인 충주성심학교에 장학금을 전달하며 학생들의 교육환경 지원에 나섰다. DB손해보험은 지난 13일 충주성심학교에서 장학금 전달식을 갖고 장학금 3000만원을 전달했다고 29일...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1789",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a2538",
+      "title": "DB손보, 충주성심학교와 14년 동행…올해도 장학금 전달",
+      "description": "지난 13일 충주성심학교에서 열린 장학금 전달식에 참석한 DB손해보험과 충주성심학교 관계자가 기념 촬영을 하고 있다. (사진=DB손해보험)  DB손해보험이 올해도 청각장애인 특수교육기관인 충주성심학교에 장학금...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=123624",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T10:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5bf1b2",
+      "title": "경상환자 진료비 9년새 130%↑...손해보험 \"과잉진료·보험사기 대응에...",
+      "description": "손해보험업계에 따르면 올해 상반기 기준 4개 대형 손보사(삼성화재·DB손해보험·현대해상·KB손해보험)의 누적 자동차보험 손해율은 84.5%로 집계됐다. 이는 전년 동기 대비 1.9%p 높은 수치로, 통상 손익분기점으로 보고...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=346212",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:57:00+09:00"
+    },
+    {
+      "id": "DB증권-3c1c73",
+      "title": "투기판으로 전락한 ETF 시장",
+      "description": "설태현 DB증권 연구원은 \"장 막판 호가 갭 폭증과 익일 시가 갭 반전은 기초자산 및 시장 전반의 변동성 위험을 가중시키고 있다\"며 \"특히 기초자산 호가 깊이가 상대적으로 얇은 SK하이닉스는 고변동성 장세에서 ETF...",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360984",
+      "source": "www.smedaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T09:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aca177",
+      "title": "DB손해보험, 충주성심학교에 장학금 3000만원 전달",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념 촬영을 하고있다. 컨슈머타임스=김예령 기자 | DB손해보험이 청각장애인 특수교육기관인 충주성심학교에...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=714989",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9a8fdd",
+      "title": "[금융권 이모저모]삼성자산운용, KODEX 200커버드콜액티브 첫 월배당 外",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 학교 관계자들이 장학금 전달식을 진행한 뒤 기념 촬영을 하고 있다. / 사진=DB손해보험 ◇DB손해보험, 충주성심학교에 장학금 3000만원 전달 DB손해보험은 지난 13일...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=114768",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-15dbd1",
+      "title": "DB손보, 14년째 청각장애학생 후원",
+      "description": "현대경제신문 임이랑 기자 | DB손해보험(대표 정종표)이 14년째 이어온 따뜻한 인연으로 청각장애 학생들의 배움을 뒷받침했다. DB손해보험은 지난 13일 청각장애인 특수교육기관인 충주성심학교에서 학생들의 교육환경...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=258211",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a893ad",
+      "title": "DB손보, '장애 넘어 성장' 돕는다…청각장애 학생 교육 후원 14년",
+      "description": "DB손해보험(대표 정종표)은 청각장애인 특수교육기관인 충주성심학교에 장학금 3000만원을 전달하고 학생들의 교육환경 개선과 꿈을 지원했다고 29일 밝혔다. 이번 장학금은 경제적 어려움을 겪는 학생들의 교육비와...",
+      "url": "https://www.g-enews.com/view.php?ud=202607290907206350cd0bfacc1c_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b864b2",
+      "title": "마이브라운 1년만에 2만8천명 가입…'2세대 펫보험'이 바꾼 판도",
+      "description": "이같은 흐름 속에서 메리츠화재, 삼성화재, KB손해보험, 현대해상, DB손해보험, 롯데손해보험, 한화손해보험, 흥국화재 등 주요 손보사들은 차별화 전략으로 시장을 선도하기 위해 총력을 기울이고 있다. ◆업계 선두권...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1718161",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:16:00+09:00"
+    },
+    {
+      "id": "DB증권-ac45e5",
+      "title": "에스티팜, 2분기 컨센서스 하회에도… “성장 기대감 유효” [Why 바이오...",
+      "description": "이명선 DB증권 연구원은 29일 보고서에서 “올 2분기 에스티팜은 매출 1085억 원, 영업이익 183억 원을 기록해 영업이익 시장 기대치인 199억 원을 하회했다”며 “고수익 저분자 신약 원료의약품(API)과 올리고 매출...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646305?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T09:15:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e57c6d",
+      "title": "\"14년째 이어진 인연\"…DB손보, 충주성심학교에 장학금",
+      "description": "|중앙이코노미뉴스 정재혁 기자|지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다. [사진=DB손해보험]  DB손해보험은 지난 13일 청각장애인...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=536191",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-497f52",
+      "title": "[집중분석] 퇴직연금 점유율 20% 붕괴…보험사 돌파구는",
+      "description": "DB손보 신탁업 인가...상품 다양화 넘어 K-ICS 부담까지 해소 DB손해보험은 이달 15일 금융위원회로부터 금전신탁업 변경인가를 3년여 만에 다시 획득하며 사업 개편에 나섰다. 주요 보험사들의 이 같은 신탁 인가 추진은...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026072908553789977cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1bf022",
+      "title": "DB손해보험, 충주성심학교 장학금 전달",
+      "description": "DB손해보험이 청각장애 학생들의 교육환경 개선과 체육활동 지원을 위해 충주성심학교에 장학금을 전달하며 14년째 후원을 이어가고 있다. 단순한 장학금 기부를 넘어 교육과 문화·체육 활동을 함께 지원하는 장기...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570822065289",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:08:00+09:00"
+    },
+    {
+      "id": "DB증권-b372cc",
+      "title": "[모닝 리포트] 에스티팜, 올리고 대형라인·RNA 치료제 타고 하반기 성장",
+      "description": "이명선 DB증권 연구원은 29일 리포트에서 에스티팜의 2분기 매출이 1085억원으로 전년 동기 대비 59.0% 증가, 영업이익은 183억원으로 41.7% 늘어났다고 밝혔다. 영업이익은 시장 기대치(199억원)를 다소 하회했다. 이...",
+      "url": "https://www.newspim.com/news/view/20260729000151",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T09:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0f418e",
+      "title": "DB손해보험, 충주성심학교에 3000만원 장학금 전달",
+      "description": "지난 13일 충주성심학교에서 DB손해보험 임직원과 충주성심학교 관계자들이 장학금 전달식을 진행하고 기념촬영을 하고있다. [DB손해보험]  DB손해보험이 청각장애인 학생들의 교육환경 지원을 위해 사회공헌 활동에...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=141454",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T09:00:00+09:00"
+    },
+    {
+      "id": "DB증권-dd89e3",
+      "title": "[모닝 리포트] \"영원무역, 환율·수주 효과에 실적 개선…저평가 매력 ...",
+      "description": "DB증권은 29일 영원무역에 대해 올해 2분기 시장 기대치를 웃도는 실적이 예상되는 데다 주가도 저평가 상태라며 시장 변동성이 확대되는 국면에서 방어주로 주목할 만하다고 평가했다. 투자의견 '매수(BUY)'와 목표주가...",
+      "url": "https://www.newspim.com/news/view/20260729000074",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T08:57:00+09:00"
+    },
+    {
+      "id": "DB손해보험-77fe4f",
+      "title": "DB손해보험, 충주성심학교에 장학금 전달…“14년 동행”",
+      "description": "DB손해보험(005830)이 올해도 청각장애인 특수교육기관인 충주성심학교에 장학금을 전달했다. 햇수로는 14년째이며 누적 장학금은 약 3억 4000만 원에 달한다. DB손해보험이 지난 13일 충주성심학교에 장학금 3000만 원을...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338780?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T08:52:00+09:00"
+    },
+    {
+      "id": "DB증권-6f4143",
+      "title": "\"한세실업, 관세·인플레 속 신공장 부담…목표가↓\"-DB",
+      "description": "DB증권이 29일 한세실업에 대한 목표주가를 6개월 만에 33.3% 하향해 1만2000원으로 제시했다. 트럼프 2기 행정부가 촉발한 관세 충격이 이어지는 가운데 해외 공장 신설에 따른 비용 부담이 주가 부담요소로 작용할 것이란...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392425?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T08:44:00+09:00"
+    },
+    {
+      "id": "DB증권-9116a2",
+      "title": "DB증권 \"영원무역, 실적 좋고 저평가…방어주로서 매력 높아\"",
+      "description": "DB증권은 29일 영원무역에 대해 실적이 양호하고 저평가 매력이 뚜렷하다며 투자 의견 '매수'와 목표주가 12만원을 유지했다. 전 거래일 종가는 8만6천400원이다. 허제나 연구원은 영원무역의 2분기 연결 매출이...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016220526?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T08:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3dfc67",
+      "title": "DB손해보험, 충주성심학교 지원 14년…장학금 누적 3억4000만원",
+      "description": "라이센스뉴스 = 이소라 기자 | DB손해보험이 청각장애 학생들의 교육 지원을 위한 장기 사회공헌 활동을 이어가고 있다. DB손해보험은 충북 충주성심학교에 장학금 3000만원을 전달했다고 29일 밝혔다. 이번 지원금은...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205662",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T08:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c9b81e",
+      "title": "DB손해보험, 충주성심학교와 동행 이어가..장학금 3천만원 전달",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] DB손해보험(대표 정종표)이 청각장애인 특수교육기관인 충주성심학교에 대한 지원을 이어갔다. DB손해보험은 지난 13일 충주성심학교에서...",
+      "url": "https://kpenews.com/View.aspx?No=4166080",
+      "source": "kpenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T08:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65782d",
+      "title": "DB손보, 충주성심학교에 장학금 3000만원…14년째 '교육 동행'",
+      "description": "더트래커 강혜림 기­자 raak@thetracker.co.kr 더트래커 = 강혜림 기자 DB손해보험이 청각장애인 특수교육기관인 충주성심학교에 장학금 3000만원을 전달하며 14년째 교육 지원을 이어갔다. DB손해보험은 지난 13일 충북...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4166086",
+      "source": "thetracker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-07-29T08:27:00+09:00"
+    },
+    {
+      "id": "DB증권-2ebea5",
+      "title": "DB증권 \"코스피 횡보 국면 진입…1차 지지선 6000p, 2차 지지선 5500p\"",
+      "description": "강현기 DB증권 연구원은 29일 보고서를 내고 \"최근 중국 AI 및 반도체 기업의 부상으로 서사가 긍정에서 부정으로 전환되며 주식시장이 기존 추세와 다른 방향으로 움직이게 됐다\"며 \"직전까지 회자된 긍정적 서사와 최근...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014094387?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-07-29T08:09:00+09:00"
+    },
     {
       "id": "DB증권-23a4f8",
       "title": "영원무역, 어려운 업황에도 '어닝 서프라이즈'…\"저평가 매력 뚜렷한 시...",
@@ -180,15 +909,6 @@
       "source": "www.newspim.com",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-07-28T16:20:00+09:00"
-    },
-    {
-      "id": "DB손해보험-94a42f",
-      "title": "[거래소 기관] 반도체 다시 담았다... SK하이닉스·삼성바이오로직스 폭...",
-      "description": "DB손해보험, 농심, GS, 두산, 삼성E&A, LG생활건강, 우리금융지주, 코스맥스, HD건설기계, KT에도 매수세가 유입됐다. 기관은 메모리 반도체 업황 회복 기대와 대형 바이오 기업의 성장성에 주목하며 관련 종목의 비중을...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472264",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-07-28T16:12:00+09:00"
     },
     {
       "id": "DB하이텍-94a42f",
