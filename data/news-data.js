@@ -1,7 +1,1807 @@
-// 자동 생성 파일 — 2026-08-05
+// 자동 생성 파일 — 2026-08-06
 const NEWS_DATA = {
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "articles": [
+    {
+      "id": "DB증권-69c1f6",
+      "title": "급성장하는 AI데이터센터...“SKT 34% 더 오를 것”[오늘 나온 보고서]",
+      "description": "6일 DB증권은 SK텔레콤에 대한 매수의견을 유지하고 목표 주가를 11만원에서 12만5000원으로 상향했다. SK텔레콤은 지난해 해킹 사태로 인한 일시적 지출에 따른 기저효과와 데이터센터 사업 급성장에 힘입어...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717279?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-06T07:44:00+09:00"
+    },
+    {
+      "id": "DB증권-cb2442",
+      "title": "SK텔레콤, 신사업 인공지능 데이터센터 구체화 '주목'…앤트로픽 지분 ...",
+      "description": "\"연간 DPS 3540원 가정, 현 주가 기준 배당수익률 3.8%…올해부터 감액 배당 시행\" DB증권은 6일 SK텔레콤(017670)에 대해 2분기 양호한 이익을 실현한 가운데 새로운 비즈니스 모델인 인공지능 데이터센터(AIDC)의...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=742864",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-06T07:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-424482",
+      "title": "[오늘의 주요일정·6일] 구윤철 부총리 비상경제정부회의",
+      "description": "과기정통부, DB하이텍 장비 이전식(10:30 충북 음성) [사회] ▲ 오세훈 서울시장, 부동산 정상화를 위한 시민 대토론회(10:00 시청 3층 대회의실) ▲ 오세훈 서울시장, 애경산업(주) 기부전달식(14:30 시청 6층...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=244713",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-06T07:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-812dad",
+      "title": "보험사 퇴직연금 점유율 20% 붕괴…체질개선 속도 낸다",
+      "description": "삼성화재와 KB손해보험, DB손해보험 등은 신탁업을 활용하거나 관련 사업 확대를 추진하며 투자상품과 자산관리 서비스의 범위를 넓히고 있다. 신탁을 활용하면 고객의 투자 성향에 맞춘 자산배분과 실적배당형 상품...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003118732?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-06T07:03:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ea22c9",
+      "title": "코스피·코스닥 전 거래일(5일) 주요공시는...넷마블, 2분기 영업이익 8...",
+      "description": "3%↑ ▲ DB하이텍, 2분기 영업이익 1천52억원…전년 동기보다 42.5%↑ ▲ DB하이텍[000990] 2분기 영업이익 1천52억원…작년 동기 대비 42.5%↑ ▲ 카카오게임즈[293490] 2분기 영업손실 230억원…적자 확대...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474759",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-06T06:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8fa437",
+      "title": "저평가 기업 칼 뽑았지만… 적용 대상 509→87곳 줄어들 듯",
+      "description": "예컨대 DB손해보험은 PBR이 6월 말 0.75배로 0.8배를 밑돌았지만, GICS 금융 섹터에서 중하위권을 유지하며 적용 대상에서 벗어날 수 있었다. DB손해보험 최대주주는 김남호 명예회장(지분 9.74%)이지만, 2대주주인 김준기...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167381",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-06T06:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8670c0",
+      "title": "[소비자 분쟁] 5대 손보사, 분쟁조정 40% 증가…10건 중 8건 집중",
+      "description": "6일 손해보험협회에 따르면 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 대형 손보사의 올해 상반기 분쟁조정 신청 건수(중·반복 제외)는 1만4933건으로 전년 동기 1만635건에 비해 4298건(40.4...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=307669",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-06T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5cd8c7",
+      "title": "도수치료 '4만원 시대'라더니…병원비는 여전히 10만원 넘어",
+      "description": "6일 보험업계에 따르면 지난달 초 삼성화재·메리츠화재·DB손해보험·현대해상·KB손해보험·한화손해보험·흥국화재 등 7개 손해보험사의 8영업일간 일평균 신장분사치료 청구 금액은 3억 4500만 원으로 집계됐다. 이는...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009099591?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-06T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-c0bb81",
+      "title": "[상장 기대주 점검] 해치텍, 누적 7억개 공급에도 매출 안정성은 과제",
+      "description": "대표주관사는 DB증권이다. 누적 출하량 증가가 연간 매출 성장으로 그대로 이어지지 않는 배경에는 낮은 제품 단가와 고객사별 발주 변동이 있다. 증권신고서상 매출 추정에 적용한 스마트폰용 지자기센서...",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46807",
+      "source": "www.newstopkorea.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-06T05:50:00+09:00"
+    },
+    {
+      "id": "DB증권-379107",
+      "title": "[N2 모닝 경제 브리핑-8월 6일] 美 증시, 엔비디아 강세에 다우 3일째 최...",
+      "description": "쿠콘 : DB증권과 50억원 규모 자기주식취득 신탁계약 체결 결정 - 아이티엠반도체 : 종속회사 ITM SEMICONDUCTOR VIETNAM CO., LTD에 대한 102억8304만원 규모 채무보증 결정 - 빛과전자 : 17회차 무기명식 이권부 무보증 사모...",
+      "url": "https://www.news2day.co.kr/article/20260805500080",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-06T05:36:00+09:00"
+    },
+    {
+      "id": "DB증권-a916bd",
+      "title": "반도체 살아나도 삼전닉스 레버리지 '잠잠'…\"규제, 일단 먹혔다\"",
+      "description": "DB증권은 5일 \"산업의 체질은 변할 수 있지만 주가 급락 시 발생하는 투자자의 심리적 편향은 반복될 가능성이 크다\"며 \"감정적 매매를 지양하고 개별 종목의 특성을 고려한 규칙 기반의 대응 전략(가이드라인 수립)이...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004175943?sid=101",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-06T05:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-dd3f41",
+      "title": "[오늘의 주요일정]과기정통부·방미통위·개보위(8월6일 목요일)",
+      "description": "심지혜 박은비 윤현성 기자 = <과학기술정보통신부> ▲배경훈 부총리, 스마트쉼센터 방문(16:30, 서울 중구 스마트쉼센터) ▲구혁채 1차관, DB하이텍 장비 이전 협약식(10:30, 충북 음성 DB하이텍 상우캠퍼스)...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014111002?sid=105",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-06T05:00:00+09:00"
+    },
+    {
+      "id": "DB저축은행-5e7408",
+      "title": "오화경 저축은행중앙회장, '사람 살리는 금융' 캠페인 참여…포용금융...",
+      "description": "중앙회는 지난달 신한저축은행, 대신저축은행, DB저축은행과 함께 서울 중구 신당사회복지관에서 '건강한 여름나기 꾸러미' 나눔 봉사활동을 진행했다. 임직원 30여명은 폭염 취약계층을 위해 손선풍기·쿨파스·여름 과일...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=357021",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-05T22:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-243831",
+      "title": "먹튀냐 동반자냐…기세등등 K-행동주의 [스페셜리포트]",
+      "description": "얼라인파트너스는 JB금융과 DB손해보험, 가비아 등에서 추천 인사를 이사회에 진입시키며 공개 요구를 의사결정 체계 안으로 끌어들였다. 행동주의 펀드의 이사회 참여는 기업 내부 정보 접근성과 전략 논의에 미치는...",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107354?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T21:01:00+09:00"
+    },
+    {
+      "id": "DB증권-ac2e7f",
+      "title": "“이날이 올 줄 알았다” 배터리주 다시 뛰나…여기저기서 호재 만발 [...",
+      "description": "안회수 DB증권 연구원은 LG에너지솔루션에 대해 목표주가 57만원과 투자의견 ‘매수’를 유지하며 “선제적인 미국 ESS 케파 확대 등을 통해 하반기 ESS 수주 모멘텀이 집중될 것으로 기대된다”며 “미국...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002680072?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T20:41:00+09:00"
+    },
+    {
+      "id": "DB증권-be5a14",
+      "title": "[이슈] 해치텍, 코스닥 출사표…\"글로벌 아날로그 반도체 기업 도약\"",
+      "description": "회사는 8월 3일에서 8월 7일까지 5영업일 동안 기관투자자 대상 수요예측을 진행해 최종 공모가를 확정하고 8월 12일과 13일 일반 청약을 받는다. 8월 중 상장할 예정이며, 상장주관회사는 DB증권이 맡았다.",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=278750",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T18:40:00+09:00"
+    },
+    {
+      "id": "DB증권-889ed1",
+      "title": "[生기업TALK] 영원무역, 글로벌 브랜드 수주 확대하며 견조한 성장세 시...",
+      "description": "DB증권은 올해 2분기 연결 매출액과 영업이익을 각각 1조1,516억원, 1,944억원으로 전망했다. 전년 동기 대비 각각 10.9%, 33.4% 증가한 수준이다. DB증권은 주요 바이어들의 견조한 수주와 OEM 사업부의 달러 기준 매출 성장...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=98529",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T18:24:00+09:00"
+    },
+    {
+      "id": "DB증권-bc4f20",
+      "title": "해치텍 \"피지컬AI용 반도체 센서로 영역 확장\" [IPO톡톡]",
+      "description": "해치텍은 다가오는 6일~7일 일반투자자청약을 진행하며, 공모가 희망밴드는 2만 3천원~2만 8천원입니다. 230억~280억원을 공모할 예정이며 대표주관사는 DB증권입니다. 한국경제TV 김예린 입니다.",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261299?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T18:13:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fa05ea",
+      "title": "파운드리 실적 탄탄 DB하이텍… 차세대 전력반도체 연말 양산",
+      "description": "데이터센터·로봇 호황 영향 8인치 파운드리 기업 DB하이텍의 올해 상반기 영업이익이 1700억원을 넘어섰다. 부가가치가 높은 자동차와 산업향 전력반도체 수요 증가 등이 실적을 견인했다는 분석이 나온다. 5일...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717184?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T17:56:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1ac5e5",
+      "title": "DB하이텍, 올해 2분기 연결기준 영업익 1052억…전년비 43% 증가",
+      "description": "\"신성장 응용 분야 중심 시장 확대 나설 것\"  DB하이텍이 2026년 2분기 연결기준 매출액 4,145억원, 영업이익1,052억원으로 잠정 집계됐다고 5일 밝혔다. 이는 각각 전년 동기 대비 23%, 43% 증가한 수치다. 영업이익률은 25...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=209234",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T17:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9342d7",
+      "title": "DB손해보험, 실전형 안전교육으로 미래 안전리더 키운다",
+      "description": "사진=DB손해보험  체험 중심 안전교육의 중요성이 커지는 가운데 민관이 함께하는 안전 프로그램도 확대되고 있다. 실제 재난 상황을 직접 경험하며 대응 능력을 키우는 교육이 미래 세대의 안전의식 향상에 기여하고...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=98524",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T17:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-86fe14",
+      "title": "[보험 뉴스브리핑] DB손보 프로미119 안전리더캠프 성료",
+      "description": "□ DB손보 프로미119 안전리더캠프 성료 DB손해보험은 5일 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 성황리에 마쳤다고 밝혔다. 캠프에는 전국 초등학교 4~6학년 학생 400여명이 참가해...",
+      "url": "https://www.asiatime.co.kr/article/20260805500200",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T17:40:00+09:00"
+    },
+    {
+      "id": "DB생명-88dc4b",
+      "title": "흥국생명, 일회성 걷어내도 본업 개선…CSM 2조6000억 눈앞",
+      "description": "1분기 보험이익 340억원·신계약 CSM 1595억원…하이프라임 가동·KDB생명 인수전은 성장 변수 ▲ 흥국생명 본사 전경.[토요경제DB] 흥국생명이 지난해 사옥 매각에 따른 일회성 이익을 제외하고도 보험 본업의 성장...",
+      "url": "https://sateconomy.co.kr/news/view/1065597550852715",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-05T17:16:00+09:00"
+    },
+    {
+      "id": "DB증권-9f791c",
+      "title": "'센서 반도체 명가' 해치텍, 코스닥 IPO 도전장",
+      "description": "기준 공모 예정금액은 230억~280억원, 예상 시가총액은 1268억~1544억원이다. 지난 3일 개시한 수요예측은 오는 7일 마감하고, 이달 12~13일 일반청약에 돌입할 계획이다. 상장 예정일은 이달 18일, 대표주관사는 DB증권이다.",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396140?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T17:06:00+09:00"
+    },
+    {
+      "id": "DB증권-486fdd",
+      "title": "해치텍 \"지자기 센서 넘어 고정밀 반도체 도약\"…25일 코스닥 상장",
+      "description": "기관투자자 대상 수요예측은 오는 7일까지 진행된다. 일반 청약은 12일과 13일 이틀 동안 진행할 예정이다. 상장 예정일은 8월 25일이며 예상 시가총액은 1268억원~1544억원이다. 주관사는 DB증권이 맡았다.",
+      "url": "https://www.viva100.com/article/20260805500811",
+      "source": "www.viva100.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T17:04:00+09:00"
+    },
+    {
+      "id": "DB증권-738362",
+      "title": "[현장] 해치텍, \"비모바일 시장 확대\"",
+      "description": "총 공모주식 수는 100만주이며 희망 공모가는 2만3000~2만8000원이다. 기관투자자 대상 수요예측은 오는 7일까지 진행되며 일반청약은 12~13일 실시한다. 상장 주관사는 DB증권이다.",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854750",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T17:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-63d948",
+      "title": "[금융레이더]BNK경남은행/카카오뱅크/교보생명/DB손해보험/신한카드/NH농...",
+      "description": "◆DB손해보험, 프로미119 안전리더 캠프 성료 DB손해보험이 소방청과 공동 주최한 ‘제3회 소방관과 함께하는 프로미119 안전리더 캠프’를 마쳤다고 5일 밝혔다. 이번 캠프는 8월 1일부터 4일까지 전북119안전체험관과...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050847300590802",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T17:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-220c7b",
+      "title": "코스피 2일 연속 급등 3.76%",
+      "description": "DB하이텍은 AI 데이터센터 수요 확대 기대에 강세를 보였다. 한화솔루션은 김동관 수석부회장의 유상증자 참여와 실적 개선 기대에 16%대 급등했다. LS에코에너지는 AI·전력 인프라 관련 기대에 8%대 상승을...",
+      "url": "https://www.thereport.co.kr/news/articleView.html?idxno=90192",
+      "source": "www.thereport.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T16:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f65f0a",
+      "title": "DB손해보험, '프로미119 안전리더캠프' 성료",
+      "description": "사진=DB손해보험  DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 제3회 소방관과 함께하는 프로미119 안전리더 캠프를 성황리에 마쳤다고 5일...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142437",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b6a1ff",
+      "title": "[금융家 브리핑] 금융권, 고객 서비스 확대···기업 지원부터 문화·안...",
+      "description": "DB손해보험, '제3회 프로미 119 안전리더 캠프' 진행 DB손해보험이 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프를' 진행했다. 이번 캠프는 전국 초등학교 고학년 학생들을 대상으로 8월...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=150424",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b8f17a",
+      "title": "[오늘의 주요공시] 알테오젠·고려아연·에이피알·카카오뱅크 등",
+      "description": "이투데이=정수천 기자 | △두산퓨얼셀, 독일에 SOFC 스택 첫 수출…1087억 규모 △DB하이텍, 2분기 영업익 1052억…전년比 42.5%↑ △SK텔레콤, 2분기 영업익 5660억…전년比 67.3%↑ △LS에코에너지, 2분기...",
+      "url": "https://www.etoday.co.kr/news/view/2611427",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T16:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-261d15",
+      "title": "[업앤다운]보험주 상승…미래에셋생명↑·흥국화재↓",
+      "description": "DB손해보험은 전 거래일 대비 0.52%(800원) 오른 15만5600원에 거래를 마쳤고 에이플러스에셋은 전 거래일 대비 0.16%(20원) 상승한 1만2290원에 장을 마감했다. 반면 같은 날 하락 마감한 대표 종목은 흥국화재다....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=823215",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6efa20",
+      "title": "[더밸류 브리핑] 오늘의 보험계 소식...교보생명·DB손해보험",
+      "description": "DB손해보험은 전국 초등학생 400여 명이 참여한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 성공적으로 마무리했다. ◆ 교보생명, '우리동네 무장애지도' 제작…이동약자 편의 높인다 교보생명(대표이사 신창재...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200553",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bc91eb",
+      "title": "DB손해보험, '제3회 소방관과 함께하는 프로미119 안전리더캠프' 성황리...",
+      "description": "사진=DB손해보험. DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393101",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:40:00+09:00"
+    },
+    {
+      "id": "DB자산운용-9bdeac",
+      "title": "[더밸류 브리핑] 오늘의 운용사 소식...KB자산운용·이지스자산운용·DB...",
+      "description": "DB자산운용은 AI 데이터센터 산업 밸류체인 전반에 투자하는 ETF를 상장한다. ◆ KB자산운용, RISE 버크셔포트폴리오TOP10 ETF 장기 투자 대안 주목 KB자산운용(대표이사 김영성)이 국내 증시가 반도체 업종을 중심으로...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200567",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-05T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-28feb7",
+      "title": "보험 성장동력 해외서 찾는다...삼성생명, 뉴욕·런던법인 재인수",
+      "description": "손해보험업계에서는 DB손해보험이 지난해 9월 미국 특화보험사 포테그라를 약 2조3000억원에 인수해 미국과 유럽 시장에 본격 진출하게 됐다. 보험연구원이 지난 1월 발표한 '보험회사의 국경 간 M&A 현황과 시사점...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=257762",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-05c9a0",
+      "title": "HMM, 서면 부산 임시사옥 계약 마무리…대표 집무실 등 10월 순차 이전",
+      "description": "5일 업계에 따르면 HMM은 지난달 31일 금요일 부산진구 부전동 DB손해보험 부산사옥 4개 층에 대한 임대 계약을 최종 체결했다. 앞서 HMM은 지난 4월 정기 주주총회에서 본사 부산 이전 안건을 의결하고 이후 6월 20일...",
+      "url": "https://www.ajunews.com/view/20260805160417227",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:26:00+09:00"
+    },
+    {
+      "id": "DB증권-4c46b9",
+      "title": "[종목+] 로보티즈, 데이터 사업 키운다…내년 '데이터 팩토리' 가동",
+      "description": "남주신 DB증권 연구원은 \"LG전자와의 협력 확대는 대규모 양산 체제 구축과 글로벌 고객사 확대 가능성을 높이는 요인\"이라며 \"향후 로보티즈는 액추에이터 제조업체를 넘어 로봇 데이터를 축적하는 플랫폼 업체로...",
+      "url": "https://www.newspim.com/news/view/20260805001167",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T16:17:00+09:00"
+    },
+    {
+      "id": "DB손해보험-830522",
+      "title": "[보험사 풍향계] 교보생명, 이동약자 위한 무장애지도 제작 外",
+      "description": "◇ DB손해보험, 초등생 위기 대응 역량 제고 DB손해보험과 소방청이 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 마쳤다. 이는 전북특별자치도 소방본부와 남원시가 주관하고, 소방가족희망나눔이 후원하는...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260805021379813",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ae97ce",
+      "title": "DB손해보험, 전국 초등생 400여명 대상 '프로미119 안전리더 캠프' 개최",
+      "description": "DB손해보험은 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 8월 4일 성황리에 마쳤다고 5일 밝혔다. 이번 캠프는 전국 초등학교 4~6학년...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3131634",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-40fa3e",
+      "title": "[1% 초고수의 선택] 코스피 상승장 'DB하이텍' 사고 '효성중공업' 팔았다",
+      "description": "투자수익률 상위 1%에 해당하는 이른바 '초고수' 투자자들이 DB하이텍을 순매수한 반면, 최근 주가가 급등한 효성중공업에 대해서는 차익실현에 나선 것으로 나타났다. 5일 미래에셋증권 '초고수의 선택'에 따르면 이날...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719279",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T16:12:00+09:00"
+    },
+    {
+      "id": "DB생명-bc09e8",
+      "title": "생보사 2분기 민원 0.5% 소폭 감소…하나생명 등 역주행",
+      "description": "DB생명과 처브라이프는 전분기와 동일한 수준을 유지했다. 반면 일부 보험사는 민원이 크게 늘었다. 하나생명은 1분기 49건에서 2분기 75건으로 26건 증가하며 53.06%의 증가율을 기록해 전체 생보사 중 가장 높은...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203277",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-05T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-20322e",
+      "title": "나이롱 환자 막는 '8주룰'···손보업계, 자동차보험 적자 끊을 전환점...",
+      "description": "삼성화재와 DB손해보험, 현대해상, KB손해보험 등 주요 손보사들은 자동차보험 부문에서 상반기 기준 약 1900억원의 적자를 기록하며 6년 만에 적자로 돌아섰다. 업계에서는 '8주룰'이 단순히 장기 치료를 줄이는 제도를...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422880",
+      "source": "www.sisajournal-e.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ff4d52",
+      "title": "[거래소 외국인] SK하이닉스 삼성전자 다시 쓸어 담은 이유는?",
+      "description": "순매도 상위에는 에이피알, LG이노텍, 대덕전자, 두산퓨얼셀, SK텔레콤, SK이터닉스, 두산, 한화솔루션, DB하이텍, 이수페타시스가 이름을 올렸다. 건설과 핀테크, 증권주에서도 매도세가 이어졌다. 대우건설, 카카오페이...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474691",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e9e8bb",
+      "title": "[기업들] 상미당홀딩스·DB손보·소노인터내셔널 등 ESG 행보 확산...소...",
+      "description": "미래 세대 및 동행 가치 실천…DB손해보험·빙그레·소노인터내셔널 청소년과 어린이를 대상으로 안전의식을 고취하고 건전한 문화 경험을 제공하는 활동도 활발히 전개되고 있다. 사진='제3회 프로미119 안전리더 캠프...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101289",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T16:02:00+09:00"
+    },
+    {
+      "id": "DB증권-b59bcb",
+      "title": "코스닥 도전하는 해치텍 \"글로벌 아날로그 반도체 전문기업 될 것\"[IPO출...",
+      "description": "8000원으로 공모가 상단 기준 공모 규모는 280억원이다. 회사는 이달 3~7일 기관투자자 대상 수요예측을 진행해 최종 공모가를 확정하고 12~13일 일반 청약을 받는다. 8월 중 상장할 예정이며, 상장주관회사는 DB증권이다.",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345203?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T16:01:00+09:00"
+    },
+    {
+      "id": "DB증권-b0199a",
+      "title": "“문턱 높였더니 미국 ETF만 불났다”…레버리지 규제가 부른 풍선효과...",
+      "description": "설태현 DB증권 연구원은 “단일종목 레버리지 상품은 약세장이 길어질수록 변동성 감가(음의 복리 효과)로 기초 종목보다 손실이 커지고 원금 회복도 어려워질 수 있다”면서 “손실을 만회하기 위한 감정적 추가...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717023?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T16:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fbe88d",
+      "title": "DB하이텍, 2분기 영업익 43% 증가···AI·전력반도체 수요 확대",
+      "description": "DB하이텍이 AI 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 확대에 힘입어 올해 2분기 실적 개선을 이뤘다. DB하이텍은 5일 공시를 통해 2026년 2분기 연결 기준 매출 4145억원, 영업이익 1052억원의 잠정 실적을...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456297",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T16:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7f931a",
+      "title": "DB손보, 소방관과 함께한 '프로미119 안전리더 캠프' 성료",
+      "description": "DB손해보험(005830, 대표 정종표)은 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일 밝혔다. 이번 캠프는 전국 초등학교 4~6학년 학생을 대상으로 남원시 일원에서...",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120343",
+      "source": "www.koreastocknews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T15:58:00+09:00"
+    },
+    {
+      "id": "DB증권-d1c305",
+      "title": "[IPO 현장터치] 해치텍 “센서 풀스택으로 글로벌 아날로그 반도체 도약...",
+      "description": "기관투자자 수요예측은 3일부터 7일까지, 일반투자자 청약은 12~13일 진행된다. 상장 예정일은 25일이며 주관사는 DB증권이다. 상장 후 최대주주 지분율은 48.7%, 유통 가능 물량은 약 38%다.",
+      "url": "https://www.news2day.co.kr/article/20260805500222",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:48:00+09:00"
+    },
+    {
+      "id": "DB증권-d25fe7",
+      "title": "해치텍, 韓 메모리 업체에 온도센서 IC 공급",
+      "description": "7일까지 공모가를 확정한다. 상장주관사는 DB증권이다. 2026년 매출 전망으로 231억원을 제시했다. 2027년 373억원, 2028년 542억원을 예상하고 있다. 연간 영업이익 흑자 전환 시점은 2027년(약 43억원)이다.",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=60583",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7d8e2b",
+      "title": "[26.8.5 증시 인싸잇] 오늘의 특징주 - 반도체 株, 美 반도체 랠리 훈풍...",
+      "description": "美 필라델피아반도체지수 6.55% 급등에 국내 반도체주 동반 강세 SK하이닉스 6.47%, 삼성전자 3.33% ↑… DB하이텍·서울반도체도 강세 AI 투자 확대 기대 지속…“반도체 쏠림 완화 속 상승 추세 이어질 것” 인싸잇...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260580",
+      "source": "www.mediawatch.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T15:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a19eea",
+      "title": "DB하이텍 상반기 영업익 1721억, 36.3%↑...매출도 21.9% 늘어",
+      "description": "국내 파운드리(반도체 위탁생산) 기업인 DB하이텍은 올해 상반기 누적 매출이 7741억 원으로 전년 동기 대비 21.9% 증가했다고 5일 공시했다. 상반기 영업이익은 1721억 원으로 36.3% 늘었다. 차량용∙산업용 전력반도체...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=760869",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T15:28:00+09:00"
+    },
+    {
+      "id": "DB증권-ad1019",
+      "title": "해치텍, 기술 초격차 앞세워 코스닥행…센서 IC 신시장 공략",
+      "description": "이번 상장 주관사는 DB증권이며 총 공모 주식수는 100만주, 희망공모밴드는 2만3000~2만8000원이다. 공모 예정 금액은 230억~280억원으로 알려졌다. 기관투자자 대상 수요예측은 오는 3일부터 7일까지이며, 일반투자자 대상...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260805021299797",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:22:00+09:00"
+    },
+    {
+      "id": "DB증권-676137",
+      "title": "[더벨][해치텍 IPO] \"공모자금 비모바일 R&D…엔코더·온도센서 부문 본...",
+      "description": "희망공모가는 2만3000~2만8000원으로 공모 규모는 230억~280억원이다. 수요예측은 오는 7일까지 진행하며 일반청약은 12~13일, 코스닥 상장은 25일로 예정돼 있다. 대표주관사는 DB증권이다. (출처: 해치텍 IR 자료)",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051448208960105293",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a558cc",
+      "title": "DB손해보험, 초등학생 대상 '프로미119 안전리더캠프' 운영",
+      "description": "DB손해보험이 전국 초등학생의 안전의식과 위기 대응 역량을 높이기 위한 체험형 교육을 진행했다. 5일 DB손해보험에 따르면 회사는 지난 4일 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 마쳤다. 이번 캠프는...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=128761",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T15:20:00+09:00"
+    },
+    {
+      "id": "DB증권-255669",
+      "title": "[IPO 간담회] 해치텍, 반도체 센서 국산화로 글로벌 시장 정조준",
+      "description": "지난 3일부터 7일까지 수요예측을 거쳐 12~13일 일반 청약을 받는다. 8월 중 코스닥 상장 예정으로 DB증권이 주관을 맡았고, 공모자금은 대부분 R&D 투자, 연구 인력 확충 등 인건비 위주로 쓰일 계획이다. /김아영 수습기자",
+      "url": "http://www.metroseoul.co.kr/article/20260805500403",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ce9511",
+      "title": "DB손해보험, 프로미119 캠프 성료",
+      "description": "한국금융경제신문=함동희 기자 | DB손해보험이 전국 초등학생 400여명을 대상으로 재난·화재·물놀이 등 실생활 안전교육을 진행하며 청소년들의 위기 대응 역량 강화에 나섰다. 4일 남원시 지리산유스캠프에서 열린...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=661923",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T15:12:00+09:00"
+    },
+    {
+      "id": "DB증권-3d2755",
+      "title": "해치텍, 코스닥 도전…스마트폰 센서 넘어 로봇·데이터센터로",
+      "description": "상장 예정일은 25일이며 주관사는 DB증권이다. 상장 후 보호예수 물량은 약 340만주로 전체 주식의 61.6% 수준이다. 반면 상장 직후 유통 가능한 물량은 212만주로 전체의 38.4%다. 공모가 상단 기준 약 593억원 규모로 초기...",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049552?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:11:00+09:00"
+    },
+    {
+      "id": "DB증권-1a9652",
+      "title": "[IPO챗] 해치텍 \"국산 반도체 센서 개발 앞세워 글로벌 기업 도약\"",
+      "description": "희망 공모가는 2만3천~2만8천원으로, 공모가 상단 기준 공모 예정 금액은 280억원이다. 기관투자자 대상 수요예측은 지난 3일부터 오는 7일까지 진행되며, 일반 청약은 12~13일 실시한다. 상장 주관사는 DB증권이다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016235356?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:08:00+09:00"
+    },
+    {
+      "id": "DB증권-a3089f",
+      "title": "해치텍 \"IPO 발판으로 글로벌 아날로그 반도체 기업 도약\"",
+      "description": "범위는 2만3000원~2만8000원으로 공모가 상단 기준 공모 규모는 280억원이다. 회사는 오는 7일까지 기관투자자 대상 수요예측을 진행해 최종 공모가를 확정하고, 12일과 13일 일반 청약을 받는다. 상장주관사는 DB증권이다.",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393020",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T15:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a87581",
+      "title": "교통사고 보험금, 8주 지나면 받기 까다로워진다",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손해보험사 4곳의 올해 상반기 자동차보험 누적 손해율은 평균 84.5%로 전년 동기보다 1.9%포인트 상승했다. 업계에서는 통상 80%대 초반을 손익분기점으로 본다. 8주...",
+      "url": "https://n.news.naver.com/mnews/article/417/0001154439?sid=101",
+      "source": "www.sidae.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b0df9c",
+      "title": "[포토] DB손보, 초등생 참가 '119 안전리더 캠프' 개최",
+      "description": "DB손해보험은 지난 1일부터 4일까지 3박 4일간 전북 임실군에 위치한 전북119안전체험관에서 '제3회 프로미 119 안전리더 캠프'를 개최했다. 소방청과 공동 주최한 이번 캠프에는 전국 초등학교 4~6학년 학생 400여명이...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=307894",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-87a23d",
+      "title": "DB손해보험, '프로미119 안전리더캠프' 성료…체험형 안전교육 확대",
+      "description": "| 이코노미사이언스 박성현 기자 | DB손해보험이 소방청과 함께 초등학생을 대상으로 한 체험형 안전교육 프로그램 '프로미119 안전리더캠프'를 마무리했다. 재난과 화재, 물놀이 사고 등 일상 속 다양한 위험 상황을 직접...",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=133006",
+      "source": "www.e-science.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:52:00+09:00"
+    },
+    {
+      "id": "DB증권-c7cd02",
+      "title": "[메모리 딜레마/下]반도체 반등, 기대해도 될까",
+      "description": "서승연 DB증권 연구원은 \"최근 빅테크들의 AI 투자 회수 가능성에 대한 의구심과 메모리 업체들의 실적 눈높이 하향 조정으로 주가가 하락세를 보였다\"며 \"내년에도 AI의 수요 강세와 타이트한 D램 공급으로 견조한 가격...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115087",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:48:00+09:00"
+    },
+    {
+      "id": "DB증권-141970",
+      "title": "해치텍, 모바일 넘어 피지컬 AI로…고부가 센서 시장 정조준[IPO레이더]",
+      "description": "상장 예정일은 25일이며 대표주관사는 DB증권이다. 상장 직후 유통 가능한 물량은 전체 상장 예정 주식의 약 38%다. 해치텍이 내세우는 핵심 경쟁력은 센서 기술의 수직 계열화다. 일반적인 팹리스가 회로 설계에...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080514224633475",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-473f94",
+      "title": "[보험·카드24시] 신한카드, 갤럭시Z 폴더블8 시리즈 이벤트 外",
+      "description": "◆DB손보, 소방청과 프로미119 안전리더캠프 성료 DB손해보험 지난 4일 전북특별자치도 남원시 일원에서 제3회 소방관과 함께하는 프로미119 안전리더 캠프를 성황리에 마쳤다고 5일 밝혔다. 이번 캠프는 DB손보와...",
+      "url": "https://news.dealsitetv.com/articles/174305",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:40:00+09:00"
+    },
+    {
+      "id": "DB증권-63ab06",
+      "title": "해치텍, 코스닥 출사표…\"비모바일 센서로 성장축 확대\"",
+      "description": "희망 공모가는 2만3000~2만8000원으로 공모 예정 금액은 230억~280억원이다. 기관투자자 수요예측은 이달 3~7일, 일반청약은 12~13일 진행한다. 상장 예정일은 25일이며 대표 주관사는 DB증권이다.",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251735",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-746795",
+      "title": "DB하이텍 2분기 영업익 43%↑, AI 데이터센터·로봇 수요 견인",
+      "description": "DB하이텍은 올해 2분기 연결기준 매출 4145억원, 영업이익 1052억원을 잠정 기록했다고 공시했다. 이는 지난해 같은 기간보다 매출은 23%, 영업이익은 43% 증가한 수치이다. 영업이익률은 25%를 기록했다. 자동차와 산업용...",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=140256",
+      "source": "www.tournews21.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T14:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e67270",
+      "title": "내달 10일부터 '8주룰' 도입…車보험료 3% 인하 기대",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손보사 4곳의 올해 상반기 자동차보험 평균 손해율은 84.5%로 전년 동기보다 1.9%포인트 상승해 손익분기점으로 여겨지는 82%를 웃돌았다. 전체 손해보험사의...",
+      "url": "https://www.newspim.com/news/view/20260805001082",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:28:00+09:00"
+    },
+    {
+      "id": "DB증권-2f8dcc",
+      "title": "해치텍, 기술특례상장으로 코스닥 노크 [IPO]",
+      "description": "8월 중 상장할 예정이며, 상장주관회사는 DB증권이 맡았다. 최성민 해치텍 대표이사는 \"피지컬 AI와 자동화 환경이 고도화될수록 미세한 변화를 오차 없이 측정하는 반도체 센서의 가치가 더욱 커질 것\"이라며...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203269",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:24:00+09:00"
+    },
+    {
+      "id": "DB증권-090a31",
+      "title": "'반도체 센서 국산화' 해치텍, 기술특례상장 도전",
+      "description": "상장 주관사인 DB증권이 선정한 비교기업은 어보브반도체를 제외하면 피어그룹은 모두 해외 기업으로 구성됐다. 우종환 해치텍 최고재무책임자(CFO)는 \"국내에는 해치텍과 완전히 부합하는 비교 기업이 없어...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001047420?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-64599d",
+      "title": "[보험브리핑]DB손보·NH농협손보·교보생명",
+      "description": "지난 4일 남원시 지리산유스캠프에서 열린 '제3회 프로미119 안전리더 캠프' 퇴소식에서 참가 어린이들이 임명장을 받고 기념 촬영을 하고 있다./DB손해보험 DB손해보험이 '제3회 소방관과 함께하는 프로미119 안전리더캠프...",
+      "url": "http://www.metroseoul.co.kr/article/20260805500328",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T14:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-21d71b",
+      "title": "[특징주] DB하이텍, 2분기 영업익 42% 급증에 9만원대 강세",
+      "description": "DB하이텍이 2분기 호실적을 발표한 데 이어 미국 반도체주 강세에 따른 투자심리 개선까지 더해지면서 장 초반 강세를 나타내고 있다. 한국거래소에 따르면 5일 오전 DB하이텍은 전 거래일보다 5300원(6.24%) 오른...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719232",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T14:14:00+09:00"
+    },
+    {
+      "id": "DB증권-5fd05f",
+      "title": "'코스닥 출사표' 해치텍 \"로봇·데이터센터로 센서 영토 확장\"",
+      "description": "예상 시가총액은 1268억∼1544억원이다. 기관투자자 대상 수요예측은 오는 7일까지 진행하며 일반 청약은 12∼13일 이뤄진다. 코스닥 상장 예정일은 오는 25일이다. 대표 주관사는 DB증권이다.",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317603?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T14:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-986951",
+      "title": "DB하이텍, 2분기 호실적에 6%대 강세…2분기 영업이익 1000억 돌파",
+      "description": "DB하이텍이 2분기 호실적을 발표하면서 주가가 강세를 보이고 있다. 5일 한국거래소에 따르면 DB하이텍은 오후 2시 4분 현재 코스피 시장에서 전 거래일보다 5300원(6.24%) 오른 9만300원에 거래되고 있다. 주가는...",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=442381",
+      "source": "www.econonews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T14:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-eaea77",
+      "title": "[공시 Pick] DB하이텍, 올 상반기 순익 전년 比 91% 증가…호실적에 주가...",
+      "description": "상반기 매출 7741억원…전년 대비 21.9% 증가 2분기 영업익 1052억원…전분기보다 57.3%↑ 향후 5년간 2조원 투자…파운드리 경쟁력 확보 DB하이텍 직원이 시스템반도체 파운드리 생산 공정에서 웨이퍼를 점검하고...",
+      "url": "https://www.news2day.co.kr/article/20260805500181",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T14:06:00+09:00"
+    },
+    {
+      "id": "DB증권-80ff5e",
+      "title": "[IPO] 해치텍 \"반도체 센서 풀스택 역량으로 글로벌 리딩 기업 도약\"",
+      "description": "기관투자자 대상 수요예측은 오는 7일까지 진행하며 일반투자자 청약은 12일부터 13일까지 이틀간 실시한다. 납입일은 18일, 코스닥 상장 예정일은 이달 25일이다. 상장 주관사는 DB증권이다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=742807",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T13:56:00+09:00"
+    },
+    {
+      "id": "DB증권-4995e0",
+      "title": "“국내 유일 기술로 피지컬AI 공략”…해치텍, 코스닥 입성 도전장 [시...",
+      "description": "공모주식 수는 100만 주이며 희망 공모가는 2만 3000~2만 8000원이다. 이에 따른 공모 예정 금액은 230억~280억 원으로 이달 12~13일 일반 청약을 거쳐 같은 달 25일 코스닥에 입성한다는 목표다. 상장 주관사는 DB증권이 맡았다.",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648785?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T13:56:00+09:00"
+    },
+    {
+      "id": "DB하이텍-59f30a",
+      "title": "DB하이텍, 2분기 영업익 1052억원...전년비 43%↑",
+      "description": "DB하이텍이 5일 올해 2분기 전년동기 대비 23% 성장한 연결 매출 4145억원을 공개했다. 영업이익은 1052억원으로 같은 기간 43% 성장했다. 영업이익률은 25%로 전년 대비 3%포인트 올랐다. 증권가가 예상한 매출은...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=60570",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T13:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-007835",
+      "title": "DB손해보험, 프로미119 안전리더 캠프 성료",
+      "description": "DB손해보험(대표 정종표)은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=258619",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T13:48:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9c8125",
+      "title": "DB하이텍, 2분기 영업익 1052억원…전년比 42.5%↑",
+      "description": "AI·로봇 등 고부가 제품 호조 차세대 화합물 전력반도체 공정 확대 DB하이텍은 올해 2분기 연결 영업이익이 1052억원으로 같은 기간 대비 42.5% 증가했다고 5일 공시했다. 같은 기간 매출액은 22.8% 증가한 4145억원으로...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000521936?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T13:37:00+09:00"
+    },
+    {
+      "id": "DB하이텍-327a21",
+      "title": "DB하이텍, 2분기 영업익 1052억원",
+      "description": "충북 음성 소재 DB하이텍은 올해 2분기 매출 4145억원, 영업이익 1052억원을 기록했다고 5일 공시했다. 전년 동기 대비 각각 22.8%, 42.5% 증가한 수치다. 영업이익률은 25%를 기록했다. 이번 실적은 자동차·산업향...",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=920352",
+      "source": "www.cctimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T12:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-91d440",
+      "title": "DB손보, '프로미119 안전리더캠프' 마무리...전국 초등생 400여명 참여",
+      "description": "DB손해보험은 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 마쳤다고 5일 밝혔다. 캠프는 전북특별자치도 소방본부와 남원시가 주관하고 소방가족희망나눔이 후원했다. 전국 초등학교 4...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=313838",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T12:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65c3f0",
+      "title": "보험업계, 여름철 안전 캠페인 전개",
+      "description": "DB손해보험은 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 지난 4일 마쳤다고 5일 밝혔다. 8월 1일부터 4일까지 3박 4일간...",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=103036",
+      "source": "www.pressman.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T12:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e6f55e",
+      "title": "[경제소식] DB손보 '프로미119 안전리더캠프' 성료",
+      "description": "2026.8.5./사진=DB손해보험 DB손해보험, '프로미119 안전리더캠프' 성료 DB손해보험은 1일부터 4일까지 전북119안전체험관, 지리산유스캠프 등 남원시 일원에서 전국 초등학교 4~6학년 학생을 대상으로  진행한 '제3회...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2115839",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T12:28:00+09:00"
+    },
+    {
+      "id": "DB증권-daeeca",
+      "title": "IPO 나선 해치텍 \"반도체 센서 풀스택으로 글로벌 도약\" [현장+]",
+      "description": "기관투자자 대상 수요예측을 오는 7일까지 진행해 최종 공모가를 확정한 후, 이달 12일과 13일 일반 청약을 진행한다. 코스닥 상장 예정일은 이달 중순이며, 상장 주관사는 DB증권이다.",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088630?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T12:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-936a26",
+      "title": "DB손해보험, '제3회 프로미119 안전리더캠프' 성료…전국 초등학생 400여...",
+      "description": "DB손해보험이 소방청과 함께 전국 초등학생을 대상으로 체험형 안전교육 프로그램을 운영하며 미래 세대의 안전의식 함양에 나섰다. DB손해보험은 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=739183",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T12:05:00+09:00"
+    },
+    {
+      "id": "DB저축은행-cd0323",
+      "title": "SBI저축은행 김문석, 저축은행 CEO 2026년 8월 브랜드평판 1위",
+      "description": "노명문, 모아저축은행 김상고, 대한저축은행 임용훈, 삼호저축은행 이규완, 한성저축은행 오의치, DB저축은행 윤재인, 푸른저축은행 송명구, 한화저축은행 강성수, 유안타저축은행 정영석 순이었다.",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=227248",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-05T12:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-346b1f",
+      "title": "DB하이텍, 2분기 영업이익 1052억원…전년比 43% 증가",
+      "description": "인더스트리뉴스 한원석 기자  DB하이텍이 AI 데이터센터와 로봇, 자동차 등 고부가가치 응용 분야의 반도체 공급 확대에 힘입어 올해 2분기 견조한 실적을 거뒀다. DB하이텍은 올해 2분기 연결 기준 영업이익이 작년...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=84075",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T12:00:00+09:00"
+    },
+    {
+      "id": "DB증권-c4c654",
+      "title": "DB증권, 12월까지 주식 롱숏 챌린지 대회",
+      "description": "DB증권이 헤지펀드 전문 운용사인 메리디안원자산운용과 손잡고 '2026 제1회 DB 메리디안원 아카데미 주식 롱숏 챌린지 대회'를 개최한다. 대회는 오는 9월 1일부터 12월 30일까지 진행된다. 5일 DB증권에 따르면,  참가...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=269225",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T11:56:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8eb13d",
+      "title": "반도체 상장기업 2026년 8월 브랜드평판...삼성전자, SK하이닉스, 한미반...",
+      "description": "2026년 8월 반도체 상장기업 브랜드평판 30위 순위는 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 피에스케이, 테스, DB하이텍, 하나마이크론, 이오테크닉스...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=227245",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5a078f",
+      "title": "[EBN 데이터센터] 반도체 대표주(생산) 일제히 급등...실적 힘 받은 DB하...",
+      "description": "DB하이텍은 전일 대비 6000원 오른 9만1000원으로 7.06% 상승했고, SK하이닉스는 10만4000원 오른 168만1000원으로 6.59% 뛰었다. 삼성전자도 8500원 상승한 24만8500원으로 3.54% 올랐다. 이날 반도체 생산주 강세는 종목별 재료가...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719203",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-938e22",
+      "title": "[포토뉴스] DB손보, '프로미119 안전리더캠프' 성료",
+      "description": "DB손해보험이 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일 밝혔다....",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1010432",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T11:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5fd778",
+      "title": "DB손해보험, 소방관과 함께한 청소년 안전캠프 성료",
+      "description": "기자] DB손해보험은 지난 4일 ‘제3회 소방관과 함께하는 프로미119 안전리더 캠프’를 마쳤다고 5일 밝혔다. 이번 행사는 소방청과 공동으로 주최했으며 전북특별자치도 소방본부와 남원시가 주관하고...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000098506",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fbe4d1",
+      "title": "\"불 끄고 물 빠지고 항공 탈출까지\"… DB손해보험, 청소년 400명과 '프로...",
+      "description": "DB손해보험이 자라나는 청소년들에게 위기 상황 대응 능력을 키워주기 위해 소방청과 손잡고 진행한 체험형 안전 교육 프로그램이 전국 초등학생들의 뜨거운 호응 속에 마무리됐다. DB손해보험은 소방청과 공동...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127878",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T11:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c4f2e9",
+      "title": "DB하이텍, 2분기 영업이익 1052억원···AI·로봇 물량 확대 효과",
+      "description": "DB하이텍은 올해 2분기 매출 4145억원, 영업이익 1052억원을 기록했다고 5일 공시했다. 매출은 전년 동기 대비 22.8%, 전분기 대비 15.2% 늘었으며 영업이익은 전년 동기 대비 42.5%, 전분기 대비 57.3% 증가했다....",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=634969",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f2ae0e",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년 比 42.5% 증가",
+      "description": "DB하이텍이 2026년 2분기 연결기준 매출 4145억원, 영업이익 1052억원을 기록했다고 5일 공시했다. 전년 동기 대비 매출은 22.8%, 영업이익은 42.5% 증가한 수치다. 영업이익률은 25%를 달성했다. 실적 개선은 자동차·산업용...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003454372?sid=105",
+      "source": "www.etnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:22:00+09:00"
+    },
+    {
+      "id": "DB증권-7515a8",
+      "title": "‘흑자’ 배터리 3사, ESS 기대 업고 다시 뛴다",
+      "description": "안회수 DB증권 연구원은 LG에너지솔루션에 대해 목표주가 57만원과 투자의견 ‘매수’를 유지하며 “선제적인 미국 ESS 케파 확대 등을 통해 하반기 ESS 수주 모멘텀이 집중될 것으로 기대된다”며 “미국...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679821?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T11:19:00+09:00"
+    },
+    {
+      "id": "DB하이텍-38dc24",
+      "title": "DB하이텍, 2분기 영업이익 43% 증가… 매출 4145억원",
+      "description": "DB하이텍은 올해 2분기 자동차와 산업용 전력반도체, 인공지능(AI) 데이터센터 및 로봇용 반도체 수요 확대에 힘입어 수익성을 크게 개선했다. 회사는 지난 2분기 연결기준으로 매출 4145억원, 영업이익 1052억원을 잠정...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155304",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:12:00+09:00"
+    },
+    {
+      "id": "DB증권-9c44b8",
+      "title": "[증권사 위험자산 이동]③ DB證, PF 줄고 채권위험 커졌다",
+      "description": "DB증권이 부동산 프로젝트파이낸싱(PF) 익스포저를 줄이는 동안 차입을 늘려 채권운용 규모를 키웠다. PF 총량은 감소했지만 부실사업장 정리가 끝나지 않은 상태에서 금리위험액과 레버리지가 함께 높아졌다....",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088625?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T11:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6cdd28",
+      "title": "DB하이텍, 2분기 영업익 42.5% 급증…\"하반기에도 가격 인상 이어간다\"",
+      "description": "DB하이텍이 전력반도체와 인공지능(AI) 수요 확대에 힘입어 2분기 두 자릿수 성장세를 기록하며 실적 개선 흐름을 이어갔다. 회사는 하반기에도 추가 가격 인상과 고부가 제품 비중 확대를 통해 수익성을 한층...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62460",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1dc964",
+      "title": "'8주룰' 내달 시행, 나이롱환자 막고 보험가입자 부담↓...車보험 손해율...",
+      "description": "국내 자동차보험의 85%를 차지하고 있는 대형 4개사(삼성화재·현대해상·DB손해보험·KB손해보험)의 올 상반기 자동차보험 누적 손해율은 전년 동기 대비 1.9%p 오른 84.5%를 기록했다. 이는 통상 자동차보험...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=346850",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T11:05:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f2c7bd",
+      "title": "DB하이텍, 전년보다 42% 껑충…영업이익 1천52억원 돌파",
+      "description": "DB하이텍은 올해 2분기에 우수한 실적을 기록하며 시장의 주목을 받았다. 회사 측의 발표에 따르면, 2분기 매출은 4천145억원으로, 영업이익은 1천52억원에 달했다. 이는 전년 동기 대비 각각 22.8%와 42.5% 증가한 수치로...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=874171",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9992fa",
+      "title": "DB하이텍, AI·로봇 올라탔다…영업익 43%↑",
+      "description": "DB하이텍 로고./DB하이텍 | 서울=한스경제 고예인 기자 | DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 반도체 수요 확대에 힘입어 올해 2분기 매출과 영업이익이 두 자릿수 성장했다. DB하이텍은 2026년...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854682",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-597bec",
+      "title": "삼성전자, 8월 반도체 상장기업 브랜드평판 1위…SK하이닉스·한미반도...",
+      "description": "8월 브랜드평판 순위는 1위 삼성전자, 2위 SK하이닉스, 3위 한미반도체, 4위 주성엔지니어링, 5위 제주반도체, 6위 원익IPS, 7위 리노공업, 8위 피에스케이, 9위 테스, 10위 DB하이텍, 11위 하나마이크론, 12위...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=594684",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T11:00:00+09:00"
+    },
+    {
+      "id": "DB증권-5b4a6e",
+      "title": "코스피 6600선 회복에 증권주 강세…SK증권 6%·한국금융지주 4%↑ [마켓...",
+      "description": "현대차증권(3.38%), DB증권(3.36%), LS증권(3.37%), 한화투자증권(3.70%), 유안타증권(4.59%) 등도 동반 상승했다. 증권주 강세는 국내 증시가 가파른 반등세를 나타낸 데 따른 것으로 분석된다. 이날 코스피는 전...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648732?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T10:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bdd745",
+      "title": "자동차보험 적자 '눈덩이'...삼성화재 '인수심사 강화' 시동?",
+      "description": "비슷한 시기 보험료를 인상한 자동차보험 상위 3개사(DB손해보험·현대해상·KB손해보험)의 보험료는 증가했다. DB손보는 지난해 1분기 1조916억원에서 올해 1분기 1조1315억원으로 보험료가 3.66%(399억원) 늘었다....",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=537807",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7e8e00",
+      "title": "DB하이텍, 2분기 영업익 1052억…이익률 25% 상회",
+      "description": "매출액 4145억, 전년比 23% 증가…영업이익률 25.4% 자동차·산업용 반도체 수요 확대…AI DC, 로봇 응용처 다변화 DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 반도체 수요 확대에 힘입어 2분기...",
+      "url": "https://www.topdaily.kr/articles/111305",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2a8dac",
+      "title": "DB하이텍 2분기 영업이익 1천억 43% 급증, 고부가 전력반도체 판매 확대",
+      "description": "DB하이텍이 2026년 2분기 호실적을 기록하며 전력반도체 중심 성장세를 이어갔다. DB하이텍은 5일 공시를 통해 2026년 2분기 연결기준으로 매출 4145억 원, 영업이익 1052억 원을 낸 것으로 잠정 집계됐다고 밝혔다....",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443986",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:42:00+09:00"
+    },
+    {
+      "id": "DB하이텍-339f43",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년비 42.5% 급증",
+      "description": "뉴스토마토 = 안정훈 기자 | DB하이텍이 2분기 인공지능(AI) 데이터센터와 로봇, 차량용 반도체 등의 수요 확대에 힘입어 매출과 영업이익 모두 두 자릿수 성장세를 기록했습니다. DB하이텍 부천사업잔 전경. (사진...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1309275&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-578820",
+      "title": "DB손보, 초등학생 400명 대상 '프로미119 안전리더캠프' 성료",
+      "description": "DB손해보험은 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 마무리했다고 5일 밝혔다. 이번 캠프는 전국 초등학교 4~6학년 학생 400여명을 대상으로 지난 1~4일 전북119안전체험관과...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=269171",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-77df94",
+      "title": "\"신성장 수요 확대\"…DB하이텍, 2Q 영업익 43%↑",
+      "description": "DB하이텍 사옥 전경. 사진=DB하이텍 제공 DB하이텍이 올해 2분기 연결기준 실적을 발표했다. 5일 DB하이텍에 따르면 매출액은 4145억원, 영업이익은 1052억원으로 잠정 집계됐다. 각각 지난해 같은 기간보다 23%, 43...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392883",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7090cb",
+      "title": "美 반도체지수 6.6% 폭등…삼성·SK·소부장 일제히 반등 [칩칩폭폭]",
+      "description": "• 국내에서는 외국인 매수세에 삼성전자·SK하이닉스와 소부장주가 동반 상승했으며, DB하이텍 호실적과 SK하이닉스 ADR 목표가·MSCI 편입 비중 확대 기대가 투자심리를 끌어올렸다. ■ 글로벌 지수 SOX: 12,179....",
+      "url": "https://n.news.naver.com/mnews/article/123/0002387859?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:35:00+09:00"
+    },
+    {
+      "id": "DB증권-7eacf4",
+      "title": "대형 증권사부터 중소형사까지 무더기 강세… 밸류업 정책 수혜 본격화",
+      "description": "상상인증권, 키움증권, DB증권, 현대차증권, 한화투자증권, LS증권 등도 우상향 곡선을 그리고 있다. 리테일 및 IB 강점을 보유한 증권사들로도 온기가 퍼지고 있다. 유화증권, 한양증권, 미래에셋증권, 교보증권...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474514",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T10:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-222a72",
+      "title": "[특징주] DB하이텍, AI 데이터센터 수요 확대…강세",
+      "description": "DB하이텍이 5일 장 초반 강세를 보이고 있다. 2분기 실적 개선과 인공지능(AI) 데이터센터 등 신성장 분야의 수요 확대가 투자심리에 긍정적인 영향을 미친 것으로 풀이된다. 한국거래소에 따르면 DB하이텍은...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260805028339690",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9f3b70",
+      "title": "\"안전의식 높인다\"… DB손보 '프로미119 안전리더캠프' 성료",
+      "description": "여름방학을 맞아 어린이 안전교육의 중요성이 커지는 가운데, DB손해보험이 소방관과 함께하는 체험형 안전캠프를 열고 재난 대응 능력과 안전의식 함양에 나섰다. DB손해보험은 소방청과 공동 주최한 '제3회 소방관과...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92175",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ad20c7",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년比 43%↑",
+      "description": "DB하이텍이 자동차·산업용 전력반도체와 인공지능(AI) 데이터센터 관련 수요 증가에 힘입어 올해 2분기 실적 개선에 성공했다. DB하이텍은 5일 공시를 통해 연결 기준 2분기 매출 4145억원, 영업이익 1052억원의 잠정...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040776?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:27:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6beef0",
+      "title": "[금융권 이모저모]하나금융, 포용금융 연간 목표 3조1000억원…상반기 ...",
+      "description": "/ 사진=DB손해보험 ◇DB손해보험, 초등학생 400여명 대상 안전리더캠프 5일 DB손해보험은 지난 1일부터 4일까지 전북119안전체험관과 지리산유스캠프 등 남원시 일원에서 '제3회 소방관과 함께하는 프로미119...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=115076",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f86491",
+      "title": "\"우리가 미래 안전리더\" DB손보 '소방관과 함께하는 프로미119 안전리더...",
+      "description": "DB손해보험이 지난 4일 남원시 지리산유스캠프에서 '제3회 프로미119 안전리더 캠프' 퇴소식을 했다. [사진 DB손보] 지진·화재·항공기 탈출·익수자 구조 등 실제 위기 상황을 가정한 청소년 대상 체험형 안전교육...",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=126957",
+      "source": "www.catchnews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-44efd4",
+      "title": "삼성·TSMC 철수에 8인치 파운드리 초호황…DB하이텍, 2분기 영업익 43% ...",
+      "description": "DB하이텍이 올 2분기 차량용∙산업용 전력반도체 수요 증가에 힘입어 연결기준 매출액 4145억원, 영업이익 1052억원을 기록했다고 5일 밝혔다. 영업이익률은 25%다. 8인치 파운드리(반도체 위탁생산) 사업을 주력으로...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679743?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:23:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6227b4",
+      "title": "DB하이텍, 2분기 영업익 1천52억원…\"하반기 추가 가격 인상\"(종합)",
+      "description": "DB하이텍은 올해 2분기 연결기준 매출 4천145억원, 영업이익 1천52억원을 기록했다고 5일 공시했다. 이는 전년 동기 대비 각각 22.8%, 42.5% 증가한 수치다. 영업이익률은 25%를 기록했다. 이번 호실적은 자동차·산업향...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016234416?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9efd06",
+      "title": "DB하이텍, 2분기 영업익 1052억원… 전년 동기 대비 43% 증가",
+      "description": "DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 증가에 힘입어 올해 2분기 매출과 영업이익이 두 자릿수 성장했다. DB하이텍은 올해 2분기 연결 기준 매출 4145억원, 영업이익 1052억원으로...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001184401?sid=105",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-20702a",
+      "title": "DB손보, ‘소방관과 함께’ 안전리더 캠프",
+      "description": "DB손해보험이 초등학교 고학년 학생들을 대상으로 안전리더 캠프를 진행했다. DB손보는 전북119안전체험관과 지리산유스캠프에서 ‘제3회 소방관과 함께하는 프로미119 안전리더 캠프’를 이같이 진행했다고 5일 밝혔다....",
+      "url": "https://www.g-enews.com/view.php?ud=202608051010166561a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ba18f6",
+      "title": "DB손해보험 '제3회 프로미119 안전리더캠프' 성료...청소년 안전역량 강...",
+      "description": "DB손해보험은 지난 1일부터 4일까지 전북119안전체험관과 지리산유스캠프, 남원시 일원에서 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 성공리에 마쳤다고 5일 밝혔다. 이번 캠프에는 전국 초등학교 4~6학년 학생...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=257669",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6046d5",
+      "title": "DB하이텍, 2분기 AI·신사업 수요에 수익성 향상",
+      "description": "매출 23%·영업익 43% 늘어…전력반도체와 신성장 응용 분야서 물량 확대 DB하이텍이 인공지능(AI)을 비롯해 신사업 분야의 성장을 바탕으로 올해 2분기 실적이 대폭 개선됐다. DB하이텍은 5일 올해 2분기 실적이...",
+      "url": "https://news.dealsitetv.com/articles/174268",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d69272",
+      "title": "DB하이텍, 美 반도체 호조·2분기 호실적에 8%대 강세",
+      "description": "DB하이텍이 2분기 호실적과 하반기 성장 기대감에 힘입어 장중 급등세를 나타내고 있다. 5일 한국거래소에 따르면 오전 9시 50분 기준 DB하이텍은 전장(8만5000원)보다 8.82% 상승한 9만2500원에 거래되고 있다. 주가는...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001022205?sid=101",
+      "source": "www.imaeil.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:13:00+09:00"
+    },
+    {
+      "id": "DB증권-ddbf90",
+      "title": "[핫타임] 삼성전자·SK하이닉스 동반 강세…美 반도체주 급등 훈풍",
+      "description": "서승연 DB증권 연구원은 SK하이닉스에 대해 \"내년에도 AI 수요 강세와 D램 공급 여력이 제한된 상황 속 분기별 판가 상승세가 이어질 것\"이라며  \"적극적인 주주환원 정책이 발표될 경우 탄력적인 주가 상승이...",
+      "url": "https://www.ajunews.com/view/20260805095014964",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T10:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c2d715",
+      "title": "DB손보, 청소년 '프로미119 안전리더캠프' 마무리",
+      "description": "(사진=DB손해보험)  DB손해보험이 소방관과 함께하는 '프로미119 안전리더 캠프'를 마무리했다. 올해까지 세 번째 이어진 청소년 안전체험 프로그램으로 전국 초등학교 4~6학년 학생 400여명이 참여해 지난 1일부터 3박...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=123754",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a6746",
+      "title": "DB손해보험, 전국 초등생 대상 프로미119 안전리더캠프 마무리…안전역...",
+      "description": "DB손해보험은 소방청과 공동으로 개최한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 마무리했다고 5일 밝혔다. 이번 캠프는 전북특별자치도 소방본부와 남원시가 주관하고 소방가족희망나눔이 후원했다. 전국...",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202608051002147192be44c0aacd_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-90c7bc",
+      "title": "美 반도체주 급등 훈풍…25만전자·132만닉스 안착[특징주]",
+      "description": "같은 시각 삼성전기(11.7%), LG이노텍(14.1%), DB하이텍(8.5%) 등 반도체·전자부품주도 일제히 상승세를 나타내고 있다. 간밤 뉴욕증시에서는 미국 정부의 AI 인프라 투자 기대감과 빅테크 기업들의 실적 모멘텀이...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026080509455785515",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-403918",
+      "title": "[카드] DB손해보험, 소방관과 함께한 '프로미119 안전리더캠프' 성료",
+      "description": "DB손해보험(005830)은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=742741",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T10:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6e2886",
+      "title": "DB하이텍, 2분기 영업익 43% 증가…AI 데이터센터·로봇 수요 확대",
+      "description": "DB하이텍이 자동차·산업용 전력반도체와 인공지능(AI) 데이터센터, 로봇 등 신성장 분야 수요 확대에 힘입어 올해 2분기 실적 개선세를 이어갔다. DB하이텍은 연결 기준 올해 2분기 매출 4145억원, 영업이익 1052억원의...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002236631?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:04:00+09:00"
+    },
+    {
+      "id": "DB저축은행-a911db",
+      "title": "[빅데이터투데이] 저축은행 CEO 2026년 8월 브랜드평판 랭킹... 1위 SBI저...",
+      "description": "오의치, DB저축은행 윤재인, 푸른저축은행 송명구, 한화저축은행 강성수, 유안타저축은행 정영석 순으로 집계됐다. 구창환 한국기업평판연구소 소장은 \"SBI저축은행 김문석 대표가 미디어와 소통 지표에서...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=389659",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-05T10:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-769f9f",
+      "title": "DB하이텍, 2분기 영업익 1052억 … AI·로봇 수요에 수익성 개선",
+      "description": "뉴데일리 윤아름 기자 = DB하이텍이 AI 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 확대에 힘입어 올해 2분기 두자릿수 성장세를 기록했다. 고부가 응용 분야 중심으로 제품 믹스가 개선되면서 영업이익률도...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500069.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c70fa2",
+      "title": "DB손보, 소방관과 청소년 안전교육…‘프로미119 안전리더캠프’ 마무리",
+      "description": "DB손해보험은 소방청과 공동 주최한 ‘제3회 소방관과 함께하는 프로미119 안전리더캠프’를 지난 4일 마무리했다고 5일 밝혔다. 최근 보험사들이 사고 이후 보상을 넘어 예방과 안전교육까지 사회공헌 영역을 넓히고...",
+      "url": "https://www.viva100.com/article/20260805500390",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c653e8",
+      "title": "AI가 되살린 8인치…DB하이텍, 2분기 영업익 전년비 43%↑",
+      "description": "DB하이텍 부천 공장 전경. / 사진=DB하이텍AI 데이터센터와 로봇 등 신성장 산업의 수요가 늘면서 8인치(200㎜) 레거시 파운드리 시장이 다시 활기를 띠고 있다.DB하이텍은 2분기 연결기준(잠정) 매출 4145억원, 영업이익...",
+      "url": "https://news.mtn.co.kr/news-detail/2026080509544668106",
+      "source": "news.mtn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4da63c",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년比 43% 성장",
+      "description": "DB하이텍이 올해 2분기 영업이익이 1052억 원으로 잠정 집계 됐다고 5일 밝혔다. 지난해 동기 대비 43% 성장했다. 2분기 매출도 같은 기간 23% 늘어난 4145억 원을 기록했다. DB하이텍(000990)은 자동차와 산업용 전력반도체...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648687?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d09155",
+      "title": "DB손보, 소방관과 함께한 '프로미119 캠프' 마쳐",
+      "description": "DB손해보험은 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성공적으로 마무리했다고 5일 밝혔다. 이번 캠프는 전북특별자치도 소방본부와 남원시가 주관하고 소방가족희망나눔이...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557411?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a68f52",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년비 43%↑",
+      "description": "DB하이텍이 올해 2분기 매출 4,145억 원, 영업이익 1,052억 원을 기록했다고 5일 밝혔다. 이는 전년 동기 대비 각각 22.8%, 42.5% 증가한 수치다. 영업이익률은 25%를 기록했다. 자동차와 산업용 전력반도체를 중심으로 고부가...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261210?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:53:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3062af",
+      "title": "[1% 초고수의 개장 선택] '삼성·SK하닉' 추가매수 '삼성물산' 순매도",
+      "description": "이 밖에 DB하이텍, 삼성전기, SK스퀘어, 테스, LS일렉트릭, 네이버, 알테오젠, 두산 등이 초고수 순매수 상위 종목에 이름을 올렸다. 반면 순매도 1위는 삼성물산이 차지했다. 2분기 호실적 발표 이후 주가가 상승한 데...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719177",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fa6840",
+      "title": "DB손보, 전국 초등생 대상 '프로미119 안전리더 캠프' 성료",
+      "description": "DB손해보험이 소방청과 함께 청소년 안전문화 확산을 위한 '프로미119 안전리더 캠프'를 성공적으로 마쳤다. 참가 학생들은 재난 대응과 응급처치 등 체험 중심의 안전교육을 받으며 생활 속 안전수칙과 위기 대응...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363085",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d1c09d",
+      "title": "DB하이텍, 2Q 영업이익 1052억원…AI·전장이 수요 견인",
+      "description": "DB하이텍이 2026년 2분기 연결기준 매출 4145억원, 영업이익 1052억원으로 잠정 집계됐다고 5일 공시했다. 전년 동기 대비 매출은 23%, 영업이익은 43% 증가했다. 영업이익률은 25%를 기록했다. 부가가치가 높은 자동차...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395817?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d3c523",
+      "title": "DB손해보험, '프로미119 안전리더 캠프' 성료…청소년 안전역량 강화",
+      "description": "DB손해보험은 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성공적으로 마쳤다고 5일 밝혔다. 이번 캠프는 전북특별자치도 소방본부와 남원시가 주관하고 소방가족희망나눔이 후원했다....",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=133942",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-abb8b6",
+      "title": "DB손보, 전국 초등생 대상 '프로미119 안전리더 캠프' 성료",
+      "description": "사진=DB손해보험 DB손해보험은 지난 4일 전국에서 온 400여 명의 초등학생이 참여한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일 밝혔다. DB손보가 소방청과 공동 주최하고 전북특별자치도...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314331",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-103ef1",
+      "title": "DB하이텍, 2분기 영업익 1052억…고부가 전력반도체 판매 늘어 수익성 개...",
+      "description": "DB하이텍이 AI 데이터센터와 자동차용 전력반도체 수요 확대에 힘입어 올해 2분기 두 자릿수 실적 성장세를 기록했다. 특히 고부가가치 제품 판매 비중이 높아지면서 수익성이 개선됐고, 회사는 생산능력 확대와...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=128702",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c08a6a",
+      "title": "소방관과 함께하는 3박4일…DB손보, 미래 안전리더 키웠다",
+      "description": "DB손해보험(005830)이 소방청과 함께 초등학생을 대상으로 한 체험형 안전교육 캠프를 열고 미래세대 안전의식 높이기에 나섰다. 화재·지진 대피부터 응급처치까지 실제 재난 상황을 반영한 프로그램을 통해 위기 대응...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344876?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:41:00+09:00"
+    },
+    {
+      "id": "DB하이텍-89773e",
+      "title": "'AI 데이터센터 덕분' DB하이텍, 2분기 영업익 1052억…전년比 43%↑",
+      "description": "DB하이텍은 2·4분기 연결기준 매출 4145억원, 영업이익 1052억원으로 잠정 집계됐다고 5일 밝혔다. 매출과 영업이익 각각 전년 동기 대비 23%, 43% 증가했고, 영업이익률은 25%를 기록했다. DB하이텍 측은 부가가치가 높은...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557388?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6f7c7e",
+      "title": "DB손보 \"프로미119 안전리더 캠프 성료\"",
+      "description": "DB손해보험은 지난 4일 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성료했다고 5일 밝혔다. 이번 행사는 DB손보와 소방청이 공동 주최하고 전북특별자치도 소방본부, 남원시가 주관하며 소방가족희망나눔이...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=115692",
+      "source": "www.newsdream.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:32:00+09:00"
+    },
+    {
+      "id": "DB증권-40d897",
+      "title": "[인더컴퍼니] 호텔신라, 면세점 매출 줄었지만 이익은 늘었다…체질 개...",
+      "description": "교보증권과 DB증권은 면세와 호텔을 포함한 전 사업부의 이익 체력이 달라졌다는 점에 초점을 맞췄습니다. 매출은 줄었지만 영업이익은 급증 호텔신라의 올해 2분기 연결 매출은 9718억원으로 전년 동기보다 5.2...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=90157",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T09:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4dcb71",
+      "title": "DB하이텍, 2Q 영업익 1052억…전년 동기 대비 43% 증가",
+      "description": "DB하이텍(000990)이 올해 2분기 연결기준 매출액 4145억 원, 영업이익 1052억 원으로 잠정집계됐다고 5일 공시했다. 각각 전년 동기 대비 23%, 43% 늘었다. 영업이익률은 25%다. DB하이텍은 부가가치가 높은 자동차...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009097668?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3e1de7",
+      "title": "온디바이스 AI·패키징 모멘텀 가속… 시스템반도체주 무더기 폭등",
+      "description": "자람테크놀로지가 10.16% 오른 21,900원에 거래 중이며, DB하이텍 역시 9.76% 상승한 93,300원에 거래를 이어가고 있다. 아이씨티케이, 이미지스, SK하이닉스, 동운아나텍 등도 투자자들의 관심을 집중시키고 있다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474471",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8df225",
+      "title": "DB손보, '프로미119 안전리더 캠프' 진행",
+      "description": "DB손해보험이 소방관과 청소년이 함께 안전의식을 높이는 자리를 만들었다. DB손해보험은 5일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456005",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2fefca",
+      "title": "DB손보, 초등학생 대상 '프로미119 안전리더 캠프' 성료",
+      "description": "컨슈머타임스=김예령 기자 | DB손해보험이 초등학생을 대상으로 한 체험형 안전교육 프로그램을 마무리했다. 5일 DB손해보험에 따르면 회사는 지난 4일 소방청과 공동 주최한 '제3회 소방관과 함께하는 프로미119 안전리더...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=715775",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:30:00+09:00"
+    },
+    {
+      "id": "DB저축은행-a88049",
+      "title": "김문석 SBI저축은행, 8월 저축은행 CEO 브랜드평판 1위…정길호 OK저축은...",
+      "description": "윤재인 DB저축은행, 송명구 푸른저축은행, 강성수 한화저축은행, 정영석 유안타저축은행 순으로 나타났다. 한편 최근 순위 흐름을 보면 김문석 SBI저축은행이 8월 1위를 차지한 가운데 상위권 순위는...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=128694",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-05T09:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3d4799",
+      "title": "반도체가 돌아왔다…삼성전자·SK하이닉스부터 소부장도 강세 [종목+]",
+      "description": "삼성전자와 SK하이닉스가 4~6%대 상승한 가운데 DB하이텍 등 중소형주도 급등하며 반도체 전반으로 온기가 확산되는 모습이다. 5일 오전 9시15분 기준 삼성전자는 전 거래일 대비 3.96% 오른 25만원에, SK하이닉스는 5....",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317498?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-db2238",
+      "title": "[특징주] DB하이텍, 2분기 호실적·美 반도체주 급등에 10%↑",
+      "description": "DB하이텍이 2분기 호실적을 기록한 가운데 미국 반도체주 급등에 따른 투자심리 개선까지 더해지며 장 초반 강세를 보이고 있다. 5일 오전 9시 27분 DB하이텍은 유가증권시장에서 전 거래일보다 8100원(9.53%) 오른...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001184376?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ac8b8a",
+      "title": "DB손해보험, 어린이 안전의식 교육 위한 '프로미119 안전리더캠프' 개최",
+      "description": "DB손해보험이 전국 초등학교 고학년을 대상으로 한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 성공적으로 마무리하며 어린이들의 안전의식 제고에 나섰다. DB손해보험은 소방청과 공동으로 주최하고...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1989",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7d13f4",
+      "title": "[특징주] DB하이텍, 미 반도체 랠리 훈풍에 10%대 강세…서울반도체·제...",
+      "description": "DB하이텍이 간밤 미국 반도체주 급등의 훈풍을 타고 장 초반 10%대 강세를 보이고 있다. 미국 필라델피아반도체지수(SOX)가 1년 3개월 만의 최대폭 수준으로 오르면서 국내 반도체 밸류체인 전반으로 매수세가 확산하는...",
+      "url": "https://www.tokenpost.kr/news/economy/385393",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cf4fb6",
+      "title": "DB하이텍, 2분기 영업이익 1052억..예상치 대폭 상회",
+      "description": "|스마트투데이=최성 기자| DB하이텍이 올해 2분기 시장 예상치를 크게 웃도는 영업이익을 기록했다. DB하이텍은 올해 2분기 연결 기준 영업이익이 1052억3300만원으로 지난해 같은 기간보다 42.5% 증가했다고 5일...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/110118",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f398b6",
+      "title": "“반려동물 넘어 가족”… 1200억 규모 ‘펫보험’ 시장 잡아라",
+      "description": "DB손해보험은 최근 이마트와 협업한 ‘올라 펫보험’을 통해 사고당 최대 700만 원, 연간 3000만 원 보장을 제공하며 생애주기 맞춤형 상품을 내놨다. 또 DB손보는 손보업계 최초로 도입한 ‘항암제 보장’ 담보를 통해...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002809240?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-39e850",
+      "title": "농협손해보험, 폭염 예방 현장 지원 강화",
+      "description": "연계해 축산 농가 대상 열해상 대책 컨설팅을 제공하고 폭염 특보 발효 시 실시간 알림 서비스를 운영 중이다. DB손해보험 역시 농가 시설물 대상 안전 점검 패키지를 마련해 여름철 폭염 피해 예방활동을 전개하고 있다.",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=209152",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-690d98",
+      "title": "코스피, 장초반 4.51% 올라 6640선...SK하이닉스 6%대·삼성전기 11%대 강...",
+      "description": "SK스퀘어는 7.26%, SK하이닉스는 6.66%, DB하이텍은 6.24% 오르고 있다. 에이직랜드는 5.41%, 코스텍시스는 5.36%, 다원넥스뷰는 5.33%, 오킨스전자는 5.09% 상승하고 있다. 이수페타시스는 4.65%, 유진테크는 4.56...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474460",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:22:00+09:00"
+    },
+    {
+      "id": "DB증권-05aac0",
+      "title": "\"코스피·코스닥 달린다\"…증권주 동반 상승",
+      "description": "SK증권(4.51%), DB증권(3.47%), 유진투자증권(3.35%), 신영증권(3.02%), 현대차증권(2.99%), 한화투자증권(2.89%), 미래에셋증권(2.64%), 다올투자증권(2.46%), 키움증권(2.29%), 교보증권(2.07%) 등도 오르고 있다. 코스피와...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395791?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T09:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-14a86c",
+      "title": "DB하이텍, 2분기 매출 4145억원…전년비 23% 증가",
+      "description": "영업익 1052억원…영업이익률 25% 자동차·산업향 전력반도체 수요 증가 [뉴스투데이=전소영 기자] DB하이텍이 5일 공시를 통해 2026년 2분기 연결기준 매출 4145억원과 영업이익 1052억원으로 잠정 집계됐다고 밝혔다....",
+      "url": "https://www.news2day.co.kr/article/20260805500081",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:18:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7e2e97",
+      "title": "DB하이텍, 2분기 영업이익률 25%…제품 믹스 개선 효과 ‘톡톡’",
+      "description": "기업 DB하이텍이 고부가가치 제품 비중 확대를 발판 삼아 올해 2분기 괄목할 만한 수익성 개선을 이뤄냈다. DB하이텍 상우캠퍼스 라인. (사진=DB하이텍) DB하이텍은 5일 공시를 통해 2026년 2분기 연결기준 잠정 매출액...",
+      "url": "https://www.asiatime.co.kr/article/20260805500026",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:18:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c6828c",
+      "title": "DB하이텍, 2분기 영업익 1052억원…전년比 43%↑",
+      "description": "DB하이텍이 인공지능(AI) 데이터센터, 로봇, 자동차 및 산업용 등 고부가가치 반도체 제품의 판매 호조에 힘입어 올해 2분기 1000억 원이 넘는 영업이익을 기록하며 견조한 성장세를 이어갔다. DB하이텍은 5일...",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405173",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c19c3a",
+      "title": "DB하이텍, 2분기 영업익 1052억원…전년比 42.5%↑",
+      "description": "DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 반도체 수요 확대에 힘입어 2분기 수익성을 끌어올렸다. DB하이텍은 올 2분기 연결 기준 영업이익이 1052억원으로 전년 동기보다 42.5% 증가한 것으로 잠정...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014108854?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:15:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e3989d",
+      "title": "DB손보, '프로미119 안전리더캠프' 마무리…청소년 안전의식 제고",
+      "description": "DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관한 '제3회 소방관과 함께하는 프로미119 안전리더캠프'를 마쳤다. [DB손해보험]  DB손해보험이 청소년들의 안전의식 제고와 위기...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=142177",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9eb6fe",
+      "title": "[특징주] 미 반도체주 폭등 훈풍…DB하이텍·서울반도체 등 반도체株 강...",
+      "description": "5일 한국거래소에 따르면 오전 9시9분 DB하이텍은 전 거래일 대비 6.47% 오른 9만500원에 거래되고 있다. 장 초반 강한 매수세가 유입되며 파운드리 업황 회복 기대감 속에 상승세를 유지하고 있다. 같은 시각 주요...",
+      "url": "https://www.etoday.co.kr/news/view/2611130",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c9b16d",
+      "title": "AI·전력반도체 수요에…DB하이텍, 2분기 영업익 43%↑",
+      "description": "DB하이텍이 2분기 실적에서 영업이익이 전년 동기보다 40% 넘게 증가했다. DB하이텍이 5일 공시를 통해 2026년 2분기 연결기준 매출액이 4145억원, 영업이익이 1052억원으로 잠정 집계됐다고 밝혔다. 각각 전년 동기 대비...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799034?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5eae9b",
+      "title": "DB하이텍, AI 수요 타고 질주…영업익 43% 급증",
+      "description": "DB하이텍이 AI 데이터센터와 로봇, 자동차용 반도체 수요 확대에 힘입어 시장 기대를 웃도는 수익성을 기록했다. DB하이텍은 5일 공시를 통해 올해 2분기 연결 기준 매출 4145억원, 영업이익 1052억원을 잠정 기록했다고...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048004",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ee8753",
+      "title": "DB하이텍, 2분기 영업익 1052억원…전년比 42.5%↑",
+      "description": "DB하이텍이 고부가가치 전력반도체와 인공지능(AI) 데이터센터 등 신성장 분야의 수요 증가에 힘입어 올해 2분기 실적 개선을 이뤘다. DB하이텍은 올해 2분기 연결기준 잠정 매출액 4145억원, 영업이익 1052억원을...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719158",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7a3524",
+      "title": "DB하이텍 2분기 영업익 1052억…전년 대비 43% 증가",
+      "description": "DB하이텍 부천캠퍼스 전경. 사진=DB하이텍 매일일보 = 권선형 기자  |  8-인치 파운드리(반도체 위탁생산) 기업 DB하이텍이 인공지능(AI) 데이터센터와 자동차용 전력반도체 수요 증가에 힘입어 올해 2분기 1000억원이...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1398954",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ad19d5",
+      "title": "AI 반도체 수요 폭발…삼성전자·SK하이닉스·DB하이텍 동반 강세",
+      "description": "DB하이텍은 현재 7.88% 오른 9만 1700원에 거래 중이다. 특화 파운드리 분야에서 경쟁력을 갖춘 DB하이텍은 전력반도체와 아날로그 반도체 수요 증가 기대감이 상승 배경으로 작용하고 있다. 반도체 업종 전반의 강세는 AI...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474453",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6aa9e4",
+      "title": "DB하이텍, 2분기 영업익 43%↑…AI 데이터센터·로봇 수요 확대",
+      "description": "DB하이텍이 자동차·산업용 전력반도체와 인공지능(AI) 데이터센터·로봇용 반도체 수요 확대에 힘입어 2분기 수익성을 끌어올렸다. DB하이텍 부천캠퍼스. (사진=DB하이텍) DB하이텍은 올해 2분기 연결기준 매출 4145억원...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344837?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-227461",
+      "title": "DB손보, '프로미119 안전리더캠프' 마무리",
+      "description": "라이센스뉴스 = 이소라 기자 | DB손해보험이 여름방학을 맞아 초등학생을 대상으로 한 안전교육 프로그램을 마무리했다. 실제 재난 상황을 반영한 체험 중심 교육을 통해 어린이들의 위기 대응 능력을 높이고 생활 속...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206034",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-173884",
+      "title": "\"몸으로 익히는 안전수칙\"…DB손해보험, 프로미119 캠프 종료",
+      "description": "[사진=DB손해보험]  DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=537747",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-377047",
+      "title": "DB손해보험, '소방관과 함께하는 프로미119 안전리더캠프' 성료",
+      "description": "DB손해보험(대표 정종표)은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003454280?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3b0eea",
+      "title": "[마켓포인트] DB하이텍, 2분기 영업익 1052억원…전년 대비 43% 증가",
+      "description": "DB하이텍 DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 증가에 힘입어 올해 2분기 수익성 개선에 성공했다. DB하이텍은 올해 2분기 연결 기준 매출 4145억원, 영업이익 1052억원을...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474452",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6fca7b",
+      "title": "DB하이텍, 2분기 영업익 1052억원…전년比 43% 증가",
+      "description": "DB하이텍이 올해 2분기 연결 기준 매출 4145억원, 영업이익 1052억원을 잠정 기록했다고 5일 공시했다. 매출은 지난해 같은 기간보다 23%, 영업이익은 43% 증가했으며, 영업이익률은 25%를 기록했다. 실적 개선은 자동차...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001047309?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-28fb78",
+      "title": "DB하이텍, 2분기 영업이익 1천52억원…전년 동기보다 42.5%↑",
+      "description": "DB하이텍은 올해 2분기 연결기준 매출 4천145억원, 영업이익 1천52억원을 기록했다고 5일 공시했다. 이는 전년 동기 대비 각각 22.8%, 42.5% 증가한 수치다. 영업이익률은 25%를 기록했다. 이번 호실적은 자동차·산업향...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016234130?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f2bf0f",
+      "title": "DB손보, '제3회 소방관과 함께하는 프로미119 안전리더 캠프' 성황리 종...",
+      "description": "DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가 주관하며 소방가족희망나눔이 후원한 '제3회 소방관과 함께하는 프로미119 안전리더 캠프'를 성황리에 마쳤다고 5일 밝혔다. 이번...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109493",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-edc26b",
+      "title": "전력반도체·AI 훈풍 타고…DB하이텍, 2분기 영업익 1052억원",
+      "description": "매출 4145억원…전년 동기 比 23%↑ 아주경제=김나윤 기자 kimnayoon@ajunews.com DB하이텍 부천사업장 [사진=DB하이텍] DB하이텍이 전력반도체 수요 증가와 인공지능(AI), 로봇 등 신성장 분야 물량 확대에 힘입어...",
+      "url": "https://www.ajunews.com/view/20260805085234739",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6de512",
+      "title": "DB손해보험, 소방관과 함께한 '프로미119 안전리더 캠프' 마무리",
+      "description": "여름철 물놀이 사고와 집중호우, 화재 등 각종 안전사고 위험이 커지는 가운데 DB손해보험이 소방관과 함께하는 체험형 안전교육을 통해 미래 세대의 안전의식 높이기에 나섰다. 보험금 지급 이후의 보상을 넘어 사고...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568868980508",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T09:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-924efc",
+      "title": "DB하이텍, AI·로봇 수요에 2분기 1052억원…전년 대비 43%↑",
+      "description": "DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 확대에 힘입어 올해 2분기 수익성을 끌어올렸다. DB하이텍은 2분기 연결 기준 매출 4145억 원, 영업이익 1052억 원을 기록했다고 5일...",
+      "url": "https://www.g-enews.com/view.php?ud=2026080508502330373084322ec9_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:02:00+09:00"
+    },
+    {
+      "id": "DB증권-bad68b",
+      "title": "[금융가 사람들] DB증권 디지털자산팀장 \"특색있는 STO 자산 발굴하겠다...",
+      "description": "이주식 DB증권 디지털자산사업팀장 인터뷰 \"시행령 나와도 상품은 저절로 안 나와…직접 발굴해야\" 옵티미즘과 하이브리드 멀티체인 구축…\"글로벌 STO 진출 염두\" 이주식 DB증권 디지털자산사업팀장[사진: 전병훈 기자]...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428660",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T09:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e53e10",
+      "title": "DB하이텍, 2Q 영업익 1052억…전년대비 42.5% 증가",
+      "description": "DB하이텍은 2026년 연결기준 2분기 영업이익이 1052억원으로 잠정 집계됐다고 5일 공시했다. 전년 동기 대비 42.51% 증가했다. 매출은 4145억원으로 22.83% 증가했다.",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047994",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T09:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-69a68d",
+      "title": "[속보] DB하이텍, 2분기 영업이익 1,052억원…전년比 42.5% 증가",
+      "description": "DB하이텍은 연결 기준 올해 2분기 잠정 영업이익이 1,052억3,300만원으로 지난해 같은 기간보다 42.51% 증가했다고 5일 공시했다. 매출액은 4,144억5,000만원으로 전년 동기 대비 22.83% 늘었으며, 당기순이익은 1...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=594600",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T08:58:00+09:00"
+    },
+    {
+      "id": "DB증권-a19b15",
+      "title": "“한화시스템, 방산 성장과 신사업 모멘템 기대…목표가 9만 유지” -DB",
+      "description": "DB증권은 한화시스템(272210)에 대해 안정적인 방산의 성장과 신사업 부문의 모멘텀이 기대된다며 목표주가 9만원, 투자의견 ‘매수(BUY)’를 유지한다고 5일 밝혔다. 서재호 DB증권 연구원은 이날 발간한 보고서에서...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344822?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-05T08:57:00+09:00"
+    },
+    {
+      "id": "DB저축은행-b5d159",
+      "title": "SBI저축은행 김문석, 저축은행 CEO 브랜드평판 8월 빅데이터 1위...OK·웰...",
+      "description": "오의치, DB저축은행 윤재인, 푸른저축은행 송명구, 한화저축은행 강성수, 유안타저축은행 정영석 순으로 분석됐다. SBI저축은행 김문석 브랜드의 세부 지표를 보면 참여지수 198,773, 미디어지수 518,121, 소통지수 420...",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202608050803224487d0a8833aad_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-05T08:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9cdc24",
+      "title": "삼성전자, 반도체 상장기업 브랜드평판 8월 빅데이터 1위...SK하이닉스 ...",
+      "description": "연구소에 따르면 8월 반도체 상장기업 브랜드평판 30위 순위는 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 피에스케이, 테스, DB하이텍, 하나마이크론, 이오테크닉스...",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202608050758415699d0a8833aad_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T08:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-77b153",
+      "title": "DB하이텍, 2분기 영업익 1052억원…AI·전장 수요에 43% 증가",
+      "description": "DB하이텍이 인공지능(AI) 데이터센터와 로봇, 자동차·산업용 전력반도체 수요 확대에 힘입어 2분기 수익성을 개선했다. DB하이텍은 5일 올해 2분기 연결기준 매출 4145억원, 영업이익 1052억원을 잠정 기록했다고...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003118231?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T08:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-544f40",
+      "title": "DB손보, 소방관과 함께한 안전리더캠프 성료",
+      "description": "DB손해보험이 소방 당국과 함께 안전 체험 캠프를 이어간 것도 이런 흐름 속에서 안전의식을 직접 체감시키려는 시도로 읽힌다. DB손해보험은 지난 4일 소방청과 공동 주최하고 전북특별자치도 소방본부와 남원시가...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=209139",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T08:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d27685",
+      "title": "DB하이텍, 2분기 영업익 1052억…전년비 42.5% ↑",
+      "description": "DB하이텍은 2분기 연결기준 영업이익이 1052억3300만원으로 전년동기대비 42.51% 증가했다고 5일 공시했다. 같은 기간 매출액은 4144억5000만원으로 22.83% 늘어난 것으로 나타났다. 당기순이익은...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679635?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T08:43:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0f09aa",
+      "title": "한국거래소, 9월 14일 주식선물 18종목·주식옵션 2종목 추가 상장",
+      "description": "주식선물 신규 종목은 유가증권시장에서 DB하이텍·HD건설기계·OCI·달바글로벌 4종목, 코스닥에서 비에이치아이·서진시스템·성호전자·에스피지·에임드바이오·오름테라퓨틱·오스코텍·올릭스·우리기술...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142324",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-05T08:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-94f496",
+      "title": "DB손보, 전국 초등학생 400명 대상 '프로미119 안전리더캠프' 마무리",
+      "description": "DB손해보험이 전국 초등학생을 대상으로 소방관과 함께하는 체험형 안전교육 프로그램을 열고 재난 대응과 응급처치 등 실생활 중심의 안전교육을 진행했다. DB손해보험은 소방청과 공동 주최하고 전북특별자치도...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702486",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T08:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-635a33",
+      "title": "삼성생명, 안면인증·패스키 도입…비대면 보안 강화",
+      "description": "이 밖에도 DB손해보험과 KB손해보험, 한화생명, 교보생명 등 주요 보험사들은 모바일 앱에서 스마트폰 자체 생체인증이나 민간 간편인증 등을 활용해 비대면 서비스를 지원하고 있다. 보험업계 관계자는 \"보험사들이...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=715704",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T08:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3080b3",
+      "title": "보험사, 병원·디지털헬스 협업 확대…예방관리 경쟁",
+      "description": "올해 상반기 대형 손보사 4곳(삼성화재·현대해상·DB손해보험·KB손해보험)의 누적 자동차보험 손해율은 84.5%로 지난해 동기 대비 1.9%포인트(p) 상승했다. 손보업계의 수익성이 유가 급등에 따른 차량 운행량 감소와...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854352",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T08:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-94f5ec",
+      "title": "보험사, 건강한 우량고객 쟁탈전 '격화'...보험료절감·손해율개선 '윈...",
+      "description": "DB손해보험이 최근 배타적사용권을 획득한 '건강관리질병 무사고시 보험기간 연장 구조'는 기존 건강증진형 보험 대비 계약 구조 자체의 새로운 급부방식으로 주목받고 있다. 이 담보는 보장개시 후 첫 갱신주기 동안 4대...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=346827",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-05T08:23:00+09:00"
+    },
     {
       "id": "DB증권-708656",
       "title": "'계획적 물타기' 필요한 단일종목 레버리지…\"정량적 분할매수로 대응해...",
