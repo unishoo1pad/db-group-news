@@ -1,7 +1,124 @@
-// 자동 생성 파일 — 2026-08-08
+// 자동 생성 파일 — 2026-08-09
 const NEWS_DATA = {
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "articles": [
+    {
+      "id": "DB손해보험-dbba0f",
+      "title": "내달부터 교통사고 ‘8주룰’ 시행…손보 차보험 손해율 낮출까",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 4개사의 자동차보험 누적 손해율은 85.8%로 지난해 같은 기간보다 2.5%포인트 상승했다. 회사별로는 KB손해보험의 손해율이 86.2%로 가장 높았고, 상승 폭도 2.9%포인트로...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026080615374418596",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-09T07:00:00+09:00"
+    },
+    {
+      "id": "DB증권-220cfa",
+      "title": "이번주 공모주 청약, 기도산업·니어스랩·해치텍 3개사",
+      "description": "상장 주관사는 DB증권이다. 공모자금은 연구개발(R&D)에 투입한다는 구상이다. 로봇 분야는 물론 데이터센터·모빌리티·헬스케어 등 고정밀·고부가 시장으로 사업 영역을 확장하겠다는 방침이다.",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119701?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-09T00:11:00+09:00"
+    },
+    {
+      "id": "DB증권-acc45e",
+      "title": "'일단 넣고 보자' 1조4000억 몰렸다…요즘 뜨는 개미 피난처 [투자톡]",
+      "description": "강현기 DB증권 연구원은 \"(AI를 둘러싸고) 직전까지 회자된 긍정적 서사와 최근 거론된 부정적 서사 모두 나름의 타당성을 지니고 있어 이제부터 주식시장은 횡보세에 접어들 것으로 판단된다\"며 \"횡보 장세를 거치며...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318738?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-08T20:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-48dc61",
+      "title": "농업재해보험, 기후위기시대 ‘농가소득 안정’ 효과 톡톡",
+      "description": "농작물재해보험과 수입안정보험은 NH농협손해보험, 가축재해보험은 농협손보를 비롯해 DB손해보험·KB손해보험·메리츠화재·한화손해보험 등에서 운용하고 있다. 실제로 농업재해보험은 농가소득 안정 효과가...",
+      "url": "https://n.news.naver.com/mnews/article/662/0000101457?sid=101",
+      "source": "www.nongmin.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-08T20:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ffecbb",
+      "title": "경북대학교, '학부-대학원-연구소' 잇는 종합 반도체 인재 양성 생태계...",
+      "description": "PBL 과정에서는 DB하이텍을 비롯한 대기업 4개사 등 총 41개 기업과 협력해 실제 산업 현장에서 발생하는 과제를 교육에 접목하고 있다. 학생들이 기업의 기술적 문제를 직접 분석하고 해결 방안을 도출하는 과정을 통해...",
+      "url": "https://www.lecturernews.com/news/articleView.html?idxno=208034",
+      "source": "www.lecturernews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-08T19:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e1cd8f",
+      "title": "[더벨][퇴직연금시장 분석] IRP 반년 새 35조 유입…미래에셋, '톱3' 첫 ...",
+      "description": "지난해 1위였던 DB손해보험은 52.56%로 순위권 밖으로 밀려났다. 적립금 10조원 이상 대형 사업자 가운데서는 KB국민은행(52.96%)과 우리은행(51.71%)이 가장 높은 수익률을 기록했다. 신한은행(46.22%)과...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061001545600103525",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-08T18:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-330866",
+      "title": "“40도 폭염에 쓰러지면”...나도 받을 수 있는 보험금 있다",
+      "description": "DB손해보험의 열사병보장형 상품의 경우 질환진단 시 30만원을 지급한다. 박경현 기자 pearl@ekn.kr 연일 폭염경보에 각종 피해 발생 우려 경기도, 지자체 공공 기후보험 운영 1440만 도민 자동 가입…임산부 보장도 제주도...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260808028520810",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-08T16:10:00+09:00"
+    },
+    {
+      "id": "DB증권-d84343",
+      "title": "여의도는 ‘8800’ vs 월가는 ‘1만2500’…‘만스피’ 꿈 다시 이어질까...",
+      "description": "DB증권은 코스피 단기 저점으로 5500선을 제시하며 당분간 횡보 가능성에 무게를 뒀다. 이는 지난 6월 제시했던 올해 목표치 1만1700포인트의 절반에도 못 미치는 수준이다. 강현기 DB증권 연구원은 “최근 중국...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149365?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-08T15:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-491d70",
+      "title": "8인치 공급 부족 더 심해진다…DB하이텍, 하반기도 청신호",
+      "description": "DB하이텍이 8인치 파운드리 공급 부족과 생산라인 풀가동을 바탕으로 하반기에도 이익 성장세를 이어갈 전망이다. 주요 반도체 업체가 8인치 생산능력을 줄이는 가운데 산업·자동차용 전력반도체 수요와 중국의...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088791?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-08T11:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a0d65e",
+      "title": "[1% 초고수의 주간 선택] 'GS피앤엘' 담고 '반도체' 리스크 관리",
+      "description": "이 밖에 삼성전기, 심텍, SK텔레콤, 인바디, DB하이텍, S-Oil, 에이피알, 지엔씨에너지 등이 순매수 상위권에 이름을 올렸다. 반면 순매도 1위와 2위에는 삼성전자와 SK하이닉스가 각각 올랐다. 최근 반도체 업종의 주가...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719650",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-08T10:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-688a03",
+      "title": "삼성·한화·교보부터 대형 손보사까지…보험업계 AI 전면전",
+      "description": "DB손해보험도 보상 업무를 비롯한 보험 업무 전반에 AI를 적용하고 있다. 대형 손보사를 중심으로 의료 기록과 진단서 분석, 지급 기준 확인 등 손해사정 과정의 반복 업무를 AI로 자동화하려는 움직임이 확산하면서...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128638",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-08T10:06:00+09:00"
+    },
+    {
+      "id": "DB생명-d9bf99",
+      "title": "입추에도 40도 안팎 폭염…온열질환 보험 어디까지 보장될까",
+      "description": "40세 기준 보험료는 남성 130원, 여성 150원 수준이다. DB생명도 온열질환 진단 시 최대 30만원을 지급하는 기후건강보장보험을 판매하고 있으며, 종합형은 한랭질환 진단비와 독감 항바이러스 치료비까지 함께 보장한다....",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119636?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-08T09:00:00+09:00"
+    },
+    {
+      "id": "DB증권-a9fe4b",
+      "title": "[IPO챗] 딜리셔스·케이앤에스아이앤씨 코스닥 입성…공모주 청약 3곳",
+      "description": "예정), 대표주관사 미래에셋증권, 인수회사 삼성증권. ▲니어스랩, 코스닥, 8월 12~13일, 확정 공모가(11일 공시 예정), 대표주관사 삼성증권 ▲해치텍, 코스닥, 8월 12~13일, 확정 공모가(10일 공시 예정), 대표주관사 DB증권.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239951?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-08T09:00:00+09:00"
+    },
     {
       "id": "DB증권-a5633d",
       "title": "[단독] 한미약품그룹 CEO·CFO, 동반 中 출장…매출채권 늦장 점검 [시그...",
