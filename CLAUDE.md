@@ -15,7 +15,7 @@ fetch_news.py
   → 스포츠 뉴스 필터 (SPORTS_KEYWORDS)
   → data/news.json 저장
   → data/news-data.js 생성 (브라우저용 전역변수 NEWS_DATA)
-  → 카카오톡 알림 발송 (KAKAO_REFRESH_TOKEN으로 access_token 갱신)
+  → 두레이 메신저 알림 발송
 
 index.html + app.js
   → <script src="data/news-data.js"> 로 NEWS_DATA 로드
@@ -32,9 +32,6 @@ NAVER_CLIENT_ID=xxx NAVER_CLIENT_SECRET=yyy python scripts/fetch_news.py
 
 # 기존 news.json에서 스포츠/관련성 재필터링 (API 호출 없음)
 python scripts/clean_news.py
-
-# 카카오 Refresh Token 최초 발급 (브라우저 로그인 필요)
-python scripts/get_kakao_token.py
 ```
 
 ## GitHub Secrets
@@ -42,9 +39,7 @@ python scripts/get_kakao_token.py
 | 키 | 용도 |
 |---|---|
 | `NAVER_CLIENT_ID` / `NAVER_CLIENT_SECRET` | 네이버 검색 API |
-| `KAKAO_REST_API_KEY` | 카카오 앱 Client ID |
-| `KAKAO_CLIENT_SECRET` | 카카오 앱 Client Secret |
-| `KAKAO_REFRESH_TOKEN` | 카카오톡 알림 발송용 (만료 시 get_kakao_token.py로 재발급) |
+| `DOORAY_WEBHOOK_URL` | 두레이 메신저 알림 발송용 웹훅 |
 
 ## 주요 상수 (fetch_news.py)
 
