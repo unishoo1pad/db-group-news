@@ -1,6 +1,915 @@
 {
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "articles": [
+    {
+      "id": "DB증권-007c9e",
+      "title": "\"KT나스미디어, 하반기 이익 개선 지속…목표가↑\"-DB",
+      "description": "DB증권은 21일 KT나스미디어에 대해 \"올해 하반기에도 이익 개선세가 지속될 것\"이라며 목표주가를 기존 1만4000원에서 1만6500원으로 상향하고 투자의견 '매수'를 유지했다. DB증권은 KT나스미디어의 올 3분기...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323100?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-21T07:53:00+09:00"
+    },
+    {
+      "id": "DB증권-5bb5c1",
+      "title": "KT나스미디어, 넷플릭스·티빙 취급고 '100% 급증'…\"자사주 소각 등 주...",
+      "description": "\"플랫폼 매체 효율화로 양호한 성장 지속…긍정적 이익 개선세에 목표주가 상향\" DB증권은 21일 KT나스미디어(089600)에 대해 확실한 실적 개선은 물론, 최근 기취득한 자사주 20억원 규모(전체 발행주식의 1.4%)에 대해...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=744546",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-21T07:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0cd475",
+      "title": "DB하이텍, 인도 전자산업 전시회 '일렉트로니카 인디아' 참가",
+      "description": "DB하이텍이 인도 시장 공략을 본격화한다고 20일 밝혔다. DB하이텍은 다음달 16~18일(현지시간) 인도 벵갈루루에서 열리는 일렉트로니카 인디어 2026에 참가한다. 일렉트로니카 인디아는 남아시아 전자산업 전시회로...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61176",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-21T07:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ed643f",
+      "title": "[금융권 AI 대전환] 심사·투자·보상까지…금융권 AI가 ‘일하는 법’...",
+      "description": "DB손해보험은 고객이 블랙박스 영상을 올리면 AI가 사고 상황을 분석해 평균 5초 안에 과실판정 결과를 제시하는 시스템을 도입했다. 약 7만건의 사고 데이터를 학습한 결과 평균 정확도는 92.4%까지 높아졌다. 다만 AI가...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608191611396020577",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e8422a",
+      "title": "[Who Is ?] 이병철 다올금융그룹 회장",
+      "description": "지분율 5% 이상 주주는 이병철 외에 DB손해보험이 592만3990주(9.73%), 케이프투자증권 405먼2092주(6.65%), 흥국저축은행 331만 주(5.43%) 등이다. 흥국저축은행과 같은 세코(SECO)그룹 계열사 오투저축은행이 228만주(3.74%)를...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444913",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T07:00:00+09:00"
+    },
+    {
+      "id": "DB자산운용-6b4262",
+      "title": "1149만개 빅데이터 분석…펀드 평판 1위 미래에셋, 2위 삼성",
+      "description": "이어 우리자산운용, 하나대체투자자산운용, 삼성액티브자산운용, DB자산운용, 신영자산운용, IBK자산운용, 알파자산운용, 우리글로벌자산운용, NH아문디자산운용, 하이자산운용 등이 상위권에 이름을 올렸다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479180",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-21T06:58:00+09:00"
+    },
+    {
+      "id": "DB자산운용-d85c09",
+      "title": "[브랜드평판] 미래에셋자산운용, 펀드 8월 1위... 삼성자산운용, 한국투...",
+      "description": "삼성액티브자산운용 ▲DB자산운용 ▲신영자산운용 ▲IBK자산운용 ▲알파자산운용 ▲우리글로벌자산운용 ▲NH아문디자산운용 ▲하이자산운용 ▲키움투자자산운용 ▲에셋플러스자산운용 ▲유진자산운용...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=53556",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-21T06:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-07652a",
+      "title": "상반기 '메리츠·DB손보' 순위 가른 '대전 안전공업' 화재",
+      "description": "지난해 삼성화재를 턱밑까지 추격했던 메리츠화재는 올해 DB손해보험에 역전을 허용할 뻔했다. DB손보가 대전 안전공업 화재 등 대형 사고로 손실을 내면서 가까스로 2위 자리를 지킨 모양새다. 21일 금융업권에...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168504",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T06:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ba6c2f",
+      "title": "보험사 상반기 성적표…본업·투자 희비 교차",
+      "description": "손보 5개사, 상반기 순익 4조3715억원…13.1% 증가 20일 보험업계에 따르면 삼성화재·메리츠화재·DB손해보험·현대해상·KB손해보험 등 5대 손보사의 별도 기준 올해 상반기 순이익은 총 4조3715억원으로 집계됐다....",
+      "url": "https://www.kukinews.com/article/view/kuk202608200148",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T06:02:00+09:00"
+    },
+    {
+      "id": "DB증권-b56795",
+      "title": "\"현금화보다 사업화\" SKT, 앤트로픽 투자 AIDC로 잇는다",
+      "description": "신은정 DB증권 연구원은 \"SK텔레콤은 2027년부터 울산 AIDC 및 AI팩토리를 순차적으로 오픈하고 2029년부터는 5GW급, 2035년부터는 15GW급 AI팩토리를 포함한 AIDC를 구축할 계획이며 5GW 중 일부 용량은 이미 구체적인...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168456",
+      "source": "it.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-21T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-db9dd5",
+      "title": "“사고난 차 수리하는 김에 무료 코팅하세요” 유리막코팅 허위 청구, ...",
+      "description": "20일 보험업계에 따르면, 삼성화재·현대해상·DB손해보험 등 대형 손해보험사 3곳이 지난해 유리막 코팅과 랩핑 등으로 지급한 보험금은 시공비 198억5000만원, 렌트비 100억원 등 총 298억5000만원이다. 이 3사의...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994072?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T00:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c4da3c",
+      "title": "성남시, '전 시민 자전거·PM 보험' 갱신…\"전국 어디서나 사고 보장\"",
+      "description": "성남시는 최근 DB손해보험㈜을 비롯한 5개 보험사와 계약 체결을 마쳤으며 이번 보장 기간은 2027년 8월 19일까지다. 성남시에 주민등록을 둔 시민은 별도의 신청 절차 없이 자동 피보험자로 등록되며 전국 어느...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=717508",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-21T00:06:00+09:00"
+    },
+    {
+      "id": "DB증권-be66ed",
+      "title": "다올투자證, 지난해 총주주수익률 '최저'…주주환원은 '확대'",
+      "description": "유안타증권은 46%, 교보증권 60.07%, 한양증권 63%, 유진증권 48.67%, DB증권 116.8%, SK증권 38.6%, 대신증권 76.03%, LS증권 31%, 한화투자증권 34.7%, 현대차증권 22%를 기록했다 상반기에는 주가 하락 영향으로 TSR이 더욱...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000526253?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-21T00:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-970c5f",
+      "title": "성남시, 시민 자전거·PM 보험 갱신…사고 보장 강화",
+      "description": "시는 최근 DB손해보험㈜ 등 5개 보험사와 계약을 체결했으며, 보장 기간은 2027년 8월 19일까지다. 성남시민은 별도의 가입 절차 없이 자동으로 피보험자가 되며, 전국 어디에서 발생한 자전거·PM 사고에 대해서도 보험...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026082013150453285f69d33b22_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T20:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-054e38",
+      "title": "DB하이텍, 9월 '일렉트로니카 인디아 2026' 첫 참가…BCD∙SiC∙GaN 기술 ...",
+      "description": "DB하이텍이 9월 인도에서 차세대 전력반도체 공정 기술을 선보이고 현지 고객 확보에 나선다. 실리콘카바이드(SiC) 공정 검증을 최근 마친 데 이어 갈륨나이트라이드(GaN) 공정도 연내 검증을 완료할 예정이다. SiC와...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761935",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T18:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a812a9",
+      "title": "한국 핀테크, 베트남 금융 포용 넓힌다…‘일한 기록이 신용’ 시대 연...",
+      "description": "리프트는 현재 신한은행 베트남, 신한파이낸스, DB손해보험, VNPT ePay 등과 파트너십을 구축하고 한국계 제조기업 사업장을 중심으로 서비스를 확대하고 있다. 특히 이자·수수료 부담 없이 근로자의 임금 접근성을...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043446?sid=104",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T18:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5570e4",
+      "title": "성남 밖에서 전동킥보드 타다 다쳐도 보장…성남시 PM 시민보험 체결",
+      "description": "[성남시 제공] 20일 성남시에 따르면 최근 DB손해보험 등 5개 보험사와 시민 자전거·PM 보험 계약을 갱신해 내년 8월 19일까지 운영한다. 이 보험은 사고 장소가 성남지역으로 제한되지 않는 것이 특징이다. 성남시에...",
+      "url": "https://www.kpinews.kr/newsView/1065604297142122",
+      "source": "www.kpinews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T18:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7012e9",
+      "title": "DB하이텍, 印 전자산업시장 노크",
+      "description": "DB하이텍은 오는 9월 16~18일(현지시간) 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가한다고 20일 밝혔다. 일렉트로니카 인디아는 전자부품과 시스템, 애플리케이션, 관련 솔루션을 아우르는...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564294?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T18:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f44989",
+      "title": "보험사 해약준비금 부담 급증… 22년 연속 배당 교보도 '긴장'",
+      "description": "현재 배당이 가능한 보험사는 삼성생명·화재, DB손해보험 정도다. 주요 보험사 11곳의 반기보고서를 분석한 결과 해약환급금준비금 적립액은 올 상반기 기준 37조4600억원으로 작년 말(25조5400억원) 대비 47% 늘었다....",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723718?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T18:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-907575",
+      "title": "\"당신 적성은 손해사정사\"…AI가 기업·직무 매칭해주네[르포]",
+      "description": "이에 따라 최고의 궁합을 자랑하는 기업으로 경남은행, DB손해보험, KB증권이 나왔다. 테스트 이후 키오스크 화면에서는 해당 기업 부스 위치를 안내해 줬다. 자연스럽게 기업 부스로 연결되는 구조였다. 이 같은 AI 기반...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355172?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T18:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5284e9",
+      "title": "성남시, 자전거·PM 보험 갱신…전국 어디서나 든든한 '시민 안전망' 구...",
+      "description": "시는 최근 DB손해보험 등 5개 보험사와 계약을 체결했으며, 새로운 보장 기간은 오는 2027년 8월 19일까지다. 성남시민이라면 별도의 가입 절차 없이 자동으로 피보험자가 되며, 전국 어디서 발생한 자전거 및 PM 사고에...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541555",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T18:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-81d0e7",
+      "title": "DB하이텍, 반도체 공장 없는 설계 강국 인도 공략 시작…'일렉트로니카...",
+      "description": "DB하이텍이 빠르게 성장하는 반도체 기술 강국, 인도 팹리스 선제 공략에 나선다. DB하이텍은 16일(현지 시각) 인도 벵갈루루에서 열린 '일렉트로니카 인디아 2026'에 처음 참가했다고 20일 밝혔다. 일렉트로니카...",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=371488",
+      "source": "www.electimes.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T17:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c68b92",
+      "title": "DB하이텍, 일렉트로니카 인디아 2026 참가…인도 반도체 시장 공략 강화",
+      "description": "국내 대표 8인치 순수 파운드리 업체인 DB하이텍이 인도 반도체 시장 공략에 나선다. DB하이텍은 오는 9월 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가해 현지 고객과의 협력을...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564233?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T17:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-338815",
+      "title": "충북도, 창업도시 조성 추진단 발대… 60여개 기관 맞손",
+      "description": "주요 참여 기관은 충북테크노파크, 충북과학기술혁신원, 청주상공회의소, 오송첨단의료산업진흥재단, 충북대학교, 서원대학교, 청주대학교, KAIST, SK하이닉스, DB하이텍, 에코프로 등이다. 신용한 충북지사는 \"60여 개...",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1509809",
+      "source": "www.jbnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-64c7af",
+      "title": "[업앤다운]보험 업종 희비 갈려…미래에셋생명↑·DB손해보험↓",
+      "description": "반면 같은 날 하락 마감한 대표 종목은 DB손해보험이다. DB손해보험은 전 거래일 대비5.39%(1만100원) 내린 17만7400원으로 장을 마감했다. 에이플러스에셋은 전 거래일 대비 3.01%(400원) 하락한 1만2870원에 장을...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=824952",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6e3dd4",
+      "title": "성남시, '자전거·전동킥보드 보험' 전 시민 자동 가입",
+      "description": "시는 최근 DB손해보험 등 5개 보험사와 계약을 체결하고 '성남시민 자전거 및 개인형 이동장치 보험'을 갱신했다. 보장 기간은 2027년 8월19일까지다. 성남시민이라면 별도 절차 없이 자동 가입되며 전국 어디서 발생한...",
+      "url": "https://n.news.naver.com/mnews/article/417/0001155909?sid=102",
+      "source": "www.sidae.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-84219f",
+      "title": "[코스피 지수선물 옵션] 선물시장도 반도체 질주…삼성전자·SK하이닉스...",
+      "description": "LG이노텍과 DB손해보험도 약세를 나타냈다. 인터넷·게임주에서는 NAVER와 카카오가 상승했다. 크래프톤과 하이브도 올랐으며 카카오페이는 큰 폭으로 상승했다. 키움증권도 강세를 보였다. 자동차주는 현대차가...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479118",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d241f9",
+      "title": "[A 현장] \"나도 금융맨\" 구직자 몰린 '금융권 공동 채용박람회' 가보니",
+      "description": "DB손해보험 부스에서 상담한 구직자 오세진(24, 가명)씨도 \"자기소개서에 '어떻게 하면 자기 경험을 제대로 녹일 수 있을까'를 물어봤는데 구체적인 팁을 들어서 도움이 됐다\"고 말했다. AI 역량을 강조한 채용박람회답게...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259405",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f987fd",
+      "title": "삼성화재·DB손보 이어 KB손보도 해외로…손보업계 글로벌 확장 속도",
+      "description": "지난 5월엔 DB손해보험이 16억5000만달러(2조3500억원)에 미국 특수보험사 포테그라 지분을 100% 인수해 글로벌 사업 확대에 나섰다. 보험업계에선 KB손보의 로이즈 진출도 해외 특수보험 시장을 새로운 수익원으로...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402586?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:16:00+09:00"
+    },
+    {
+      "id": "DB증권-dbdead",
+      "title": "석탄 이어 친일 재산 논란 부지 ‘베팅’…엄주성호 키움증권 ‘반ESG’...",
+      "description": "지난해 4월 발행에서 핵심 주관사 역할을 맡았고, 이후 DB증권·흥국증권·부국증권 등이 주관사단에 합류했다. 당시 1500억 원 규모 회사채 수요예측에는 2020억 원의 주문이 들어와 과거와 달리 미매각을 피했고...",
+      "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512333",
+      "source": "ilyo.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T16:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6d1d7c",
+      "title": "DB하이텍, 인도 공략 본격화…전력반도체 기술 알린다",
+      "description": "국내 주요 8인치 파운드리 기업인 DB하이텍이 남아시아 최대 전자전시회 참가를 기점으로 인도 시장 진출을 본격화한다. DB하이텍은 오는 9월 16일부터 사흘간 인도 벵갈루루에서 개최되는 '일렉트로니카 인디아...",
+      "url": "https://www.consumuch.com/news/articleView.html?idxno=78819",
+      "source": "www.consumuch.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dd2b50",
+      "title": "자동차보험 상반기 105억 적자 전환···'손해율 급등', 하반기 먹구름",
+      "description": "20일 보험업계에 따르면 삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재 등 주요 손해보험사 5곳의 올해 상반기 자동차보험 합산 손익은 105억원 적자로 집계됐다. 지난해 상반기 1261억원 흑자를 기록했던...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=151693",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T16:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fa5fd7",
+      "title": "현대해상·DB손해보험, 본업에서 힘냈다…투자보다 보험 존재감 커져",
+      "description": "DB손보는 장기보험 손익 개선 배경으로 가정 변경에 따른 손실계약 환입과 장기위험 손해율 개선 등을 꼽았다. 결국 현대해상과 DB손보는 모두 장기보험을 중심으로 보험손익을 확대했지만, 현대해상은...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203673",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-758bb2",
+      "title": "[후끈 달아오른 펫보험 쟁탈전] ② 펫보험 경쟁, 상품 밖으로…고객 접...",
+      "description": "◆DB는 몰리스, 카카오는 앱…보험 찾기 전 고객 선점 이 가운데 DB손해보험은 오프라인 매장으로, 카카오페이손해보험은 이용자가 모여 있는 모바일 플랫폼으로 들어갔다. DB손보는 지난 6월 이마트의 반려동물 전문매장...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271267",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-204295",
+      "title": "DB하이텍, '일렉트로니카 인디아' 출격…인도 시장 '정조준'",
+      "description": "DB하이텍 부천캠퍼스. 사진=DB하이텍 제공 매일일보 = 안종열 기자  |  DB하이텍이 전력반도체 공정 기술을 앞세워 인도 파운드리 시장 공략에 나선다. DB하이텍은 오는 9월 16일부터 18일까지 인도 벵갈루루에서 열리는...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1404290",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T15:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ffb991",
+      "title": "반도체 공장 소화설비 규제 완화…공사기간·비용 줄인다",
+      "description": "지난 4월 출범한 '소방청-반도체업 위험물 안전관리 실무협의체'에는 삼성전자, SK하이닉스, DB하이텍, SK키파운드리와 한국반도체산업협회 등이 참여하고 있다. 소방청은 중앙·지방 실무협의체도 함께 가동해 인허가와...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564179?sid=100",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T15:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3dfd8c",
+      "title": "상호금융·보험 가계대출, 농협·생보로 쏠렸다",
+      "description": "메리츠화재, 삼성화재, 현대해상, KB손해보험, DB손해보험 등 주요 손보사 5곳의 지난 7월 말 보험계약대출 잔액은 14조7581억원, 주택담보대출은 18조1776억원이었다. 생명·손해보험 주요 10개사의 보험계약대출만...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479015",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-678c18",
+      "title": "DB하이텍, '일렉트로니카 인디아' 첫 참가…인도 전력반도체 시장 정조...",
+      "description": "8인치 순수 파운드리 기업 DB하이텍이 인도 최대 전자산업 전시회에 처음으로 참가해 현지 팹리스 고객사 유치에 나선다. DB하이텍은 오는 9월 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002238441?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T15:29:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dbec26",
+      "title": "성남시, 시민 자전거·PM 보험 갱신···별도 가입 없이 전국 사고 보장",
+      "description": "시는 최근 DB손해보험㈜ 등 5개 보험사와 계약을 체결했으며, 보장 기간은 2027년 8월 19일까지다. 성남시민은 별도의 가입 절차 없이 자동으로 피보험자가 되며, 전국 어디에서 발생한 자전거·개인형 이동장치(PM) 사고에...",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=649123",
+      "source": "www.kmaeil.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:22:00+09:00"
+    },
+    {
+      "id": "DB증권-9c2f9f",
+      "title": "\"대형주 쏠림 탓 점유율 하락\"···키움증권, 브로커리지 2위 자리 내줘",
+      "description": "나민욱 DB증권 연구원은 보고서를 통해 \"코스피 대형주 중심의 장세가 이어진 가운데 (키움증권의) 오프라인 영업점 부재, 한도 부족에 따른 리테일 점유율 하락은 아쉽다\"고 평가했다. 키움증권이 실적을 개선하고...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423180",
+      "source": "www.sisajournal-e.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T15:18:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2f840f",
+      "title": "네패스·두산테스나 주가 '파죽지세'… 차세대 첨단 패키징 밸류체인 훈...",
+      "description": "파운드리 및 반도체 소재·부품 분야에서는 DB하이텍, 에스앤에스텍, 리노공업이 기술적 경쟁력을 앞세워 오름세를 유지하고 있다. 후공정 패키징 및 테스트(OSAT) 파트에서는 네패스, 두산테스나, SFA반도체, 에이엘티...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479068",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T15:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e23511",
+      "title": "상반기 선방한 손보사…하반기 실적 좌우할 '기상이변·8주룰'",
+      "description": "(사진=챗GPT) 20일 각사 공시에 따르면 올해 상반기 국내 주요 손해보험사 다섯 곳(삼성화재·메리츠화재·DB손해보험·현대해상·KB손해보험)의 순이익은 4조3716억원으로 전년동기(3조8651억원)대비 13.1%(5065억원) 늘었다....",
+      "url": "https://www.asiatime.co.kr/article/20260820500288",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-88c37b",
+      "title": "DB하이텍, '일렉트로니카 인디아' 참가…현지 팹리스 시장 공략",
+      "description": "DB하이텍 CI. 사진=DB하이텍 DB하이텍이 인도에서 열리는 전자산업 전시회에 참가하며 현지 팹리스 고객 확보에 나선다. DB하이텍은 오는 9월 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479069",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T15:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6774c7",
+      "title": "남부지방 폭우에 차량 침수 피해 속출…보상은 어떻게?",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손해보험사 4곳의 올해 상반기 자동차보험 누적 손해율은 84.5%로 전년 동기보다 1.9%포인트(p) 상승했다. 손해율은 보험사가 받은 보험료 대비 지급한 보험금의...",
+      "url": "https://www.mediapen.com/news/view/1117666",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3df222",
+      "title": "본업 경쟁력·투자 역량 갈렸다…엇갈린 '대형 보험사' 성적표",
+      "description": "20일 전자신문이 대형 보험사 8곳(생명보험 3개사·손해보험 5개사)의 상반기 별도 기준 보험손익과 투자손익을 취합한 결과 한화생명·삼성화재·DB손해보험은 보험손익과 투자손익이 모두 전년 동기 대비 개선된...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003459029?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T15:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2edea2",
+      "title": "[재계 투데이] LG전자, 신소재 ‘LG 마린 밸런스’ 적용해 해양생태계 복...",
+      "description": "◆DB하이텍, ‘일렉트로니카 인디아 2026’ 첫 참가 DB하이텍은 9월 16일(현지시각)부터 18일까지 인도 벵갈루루에서 열리는 ‘일렉트로니카 인디아 2026’에 참가해 현지 고객과의 접점을 넓히며 인도 시장 공략에...",
+      "url": "https://news.dealsitetv.com/articles/174974",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T14:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8b544a",
+      "title": "\"왠지 든든해\"…성남시 '자전거·PM' 시민보험 갱신",
+      "description": "시는 최근 DB손해보험 등 5개 보험사와 계약을 체결했다. 보장 기간은 오는 2027년 8월19일까지다. 주민등록상 성남시민은 별도의 가입 절차 없이 자동으로 피보험자가 된다. 자전거와 PM을 직접 운전하거나 탑승하던...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402495?sid=102",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T14:41:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cf2cbd",
+      "title": "성남시, 자전거·PM 시민보험 갱신…사고 보장 전국 확대",
+      "description": "시는 최근 DB손해보험 등 5개 보험사와 보험 계약을 체결했으며 보장 기간은 2027년 8월 19일까지다. 성남시민이라면 별도 신청이나 가입 절차 없이 자동으로 보험 대상에 포함되며, 성남지역뿐 아니라 전국에서 발생한...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285606",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T14:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d9fccb",
+      "title": "“보험 수리하는 김에 무료 코팅하시죠”… 허위청구 기승",
+      "description": "20일 보험업계에 따르면, 삼성화재·현대해상·DB손해보험 등 대형 손해보험사 3곳이 지난해 유리막 코팅과 랩핑 등으로 지급한 보험금은 시공비 198억5000만원, 렌트비 100억원 등 총 298억5000만원이다. 이 3사의...",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993995?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T14:15:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0a8cc1",
+      "title": "이차전지·반도체 투트랙… 케이엔에스, 핵심 수주 확대로 실적 호조 기...",
+      "description": "삼성전자가 7.88% 오른 26만 7000원에 거래 중이며, 코스텍시스, 나노씨엠에스, 에이루트, DB하이텍, 디아이티, 파워넷, 에스티아이, KEC, 어보브반도체, 시지트론이 일제히 오름세를 나타내고 있다. 단기 수급 분산과 개별...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479025",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T14:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-00ad7a",
+      "title": "[보험사 가정 분석] 신계약비가 삼킨 메리츠의 미래이익",
+      "description": "사별로 △현대해상 116.4% △DB손해보험 100.8% △삼성화재 94.0% △KB손해보험 91.3% 순으로 높았다. 신계약비 비율은 신계약 확보 비용 대비 미래이익 창출 효율을 보여주는 지표다. 이 비율이 100%를 밑돌면 신계약...",
+      "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=225711",
+      "source": "www.kbanker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T14:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5254ac",
+      "title": "[전자는 지금] 가온전선, 美 AI 데이터센터에 2000억 규모 버스덕트 공급...",
+      "description": "◆DB하이텍, 인도 ‘일렉트로니카 인디아 2026' 첫 참가 DB하이텍이 오는 9월 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 처음 참가해 현지 팹리스와 신규 고객 발굴에 나선다. 전시에서는 주력 BCD...",
+      "url": "https://dealsite.co.kr/articles/167541",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T13:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-dc7b1e",
+      "title": "DB하이텍, 인도 반도체 시장 공략 … 현지 팹리스 고객 확보 나선다",
+      "description": "뉴데일리 김서연 기자 = DB하이텍이 빠르게 성장하는 인도 반도체 시장 공략에 나선다. 현지 전자산업 전시회에 참가해 전력반도체와 특화 공정 경쟁력을 알리고 팹리스 고객 확보에 나선다는 계획이다. DB하이텍은 다음...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000154.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T13:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-71e2e0",
+      "title": "'인도 반도체 시장 노린다'…DB하이텍, 일렉트로니카 인디아 2026 참가로...",
+      "description": "DB하이텍이 인도 전자산업 전시회에 참가해 현지 반도체 시장 공략에 나선다. 20일 DB하이텍은 9월 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가한다고 밝혔다. 이번 전시회에서...",
+      "url": "https://www.cwn.kr/news/articleView.html?idxno=53764",
+      "source": "www.cwn.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T13:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-356129",
+      "title": "DB하이텍, '남아시아 최대' 인도 반도체 시장 쏜다…전력반도체 초격차...",
+      "description": "대한민국을 대표하는 8인치 파운드리(반도체 위탁생산) 전문기업 DB하이텍이 세계적 성장 잠재력을 지닌 인도 반도체 시장 공략에 본격적으로 나선다. 글로벌 공급망 재편 속에서 급성장하는 남아시아 대표 전자...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=130263",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2a6fd8",
+      "title": "DB하이텍, 파운드리 신흥 거점 인도 출격",
+      "description": "국내 파운드리 강자 DB하이텍이 다음 달 인도 벵갈루루에서 열리는 남아시아 전자산업 전시회에 처음 참가한다. 인도가 정부 정책과 대규모 투자를 통해 글로벌 반도체 생태계의 신흥 거점으로 떠오르자, DB하이텍도...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=20260820120632364948439a4874_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0d8ebb",
+      "title": "반도체 메가프로젝트 소방규제 푼다…펌프 공용배관 허용",
+      "description": "반도체 위험물 안전관리 실무협의체에는 삼성전자(005930)와 SK하이닉스(000660), DB하이텍, SK키파운드리, 한국반도체산업협회 등이 참여하고 있다. 이달 중 반도체 업계 및 소방관서와 정기회의를 열어 위험물 규제 준수와...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354853?sid=102",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fb47a7",
+      "title": "반도체 클린룸 소화설비 설치 쉬워진다…소방청 규제 완화",
+      "description": "실무협의체에는 삼성전자, SK하이닉스, DB하이텍, SK키파운드리, 한국반도체산업협회 등이 참여하고 있다. 소방청은 협의체를 통해 현장에서 규제를 준수하거나 집행하는 과정에서 필요한 컨설팅 수요를 찾아 해결하고...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004180480?sid=103",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-223fd5",
+      "title": "소방청 “반도체 메가 프로젝트, 인허가·규제 문턱 낮춰 전폭 지원”",
+      "description": "소방청은 삼성전자, SK하이닉스, DB하이텍 등과 지난 4월부터 꾸린 ‘위험물 안전관리 실무협의체’를 중심으로 공사 기간 단축 및 재공사 비용 절감 등 기업의 규제 리스크를 해소해 나갈 계획이다. 최용철 소방청장...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187304?sid=102",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:01:00+09:00"
+    },
+    {
+      "id": "DB증권-ac4587",
+      "title": "상반기 금융권 ‘연봉킹’은 윤호영 카뱅 대표…90%는 주식기준보상",
+      "description": "조사 대상 금융업계 임직원 보수 상위 10위권에는 △이주현 NH투자증권 상무(34억5500만원) △황세연 DB증권 부사장(27억5000만원) △홍완기 키움증권 상무(25억5400만원) △김미섭 미래에셋증권 부회장(23억4400만원)...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026081914581632369",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T12:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fd083b",
+      "title": "반도체 공장 소화설비 규제 푼다…공사기간·비용 줄인다",
+      "description": "지난 4월에는 삼성전자와 SK하이닉스, DB하이텍, SK키파운드리, 한국반도체산업협회 등이 참여하는 '소방청-반도체업 위험물 안전관리 실무협의체'도 출범했다. 소방청은 협의체를 통해 공장 신·증설 과정에서 발생하는...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009123290?sid=102",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5ef54e",
+      "title": "반도체 공장 소화펌프, 배관 하나로 연결…\"공사비 절감\"",
+      "description": "한편 소방청은 지난 4월 삼성전자, SK하이닉스, DB하이텍, SK키파운드리, 한국반도체산업협회 등이 참여하는 위험물 안전관리 실무협의체도 구성했다. 소방청은 협의체를 통해 공장 신·증설 과정에서 발생하는 위험물...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014137711?sid=100",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f41690",
+      "title": "소방청, 반도체 공장 소방규제 완화…공사기간·비용 줄인다",
+      "description": "반도체업 위험물 안전관리 실무협의체에는 삼성전자와 SK하이닉스, DB하이텍, SK키파운드리, 한국반도체산업협회 등이 참여하고 있다. 소방청은 이를 통해 규제 해석이나 인허가 과정에서 발생할 수 있는 불확실성을 줄이고...",
+      "url": "https://www.newspim.com/news/view/20260820000158",
+      "source": "www.newspim.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T12:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-96ceec",
+      "title": "[기획] ① 사고 날 때마다 '땜질 처방'…현대해상 '주먹구구식 재발방지...",
+      "description": "현대해상은 삼성화재·DB손해보험·KB손해보험·메리츠화재와 함께 국내 5대 손해보험사로 분류된다. 보험금을 지급하고, 지급사유에 따라 계약 상태를 변경한 뒤, 변경된 계약에 맞춰 보험료 부과 여부를 결정하는 것은...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=312105",
+      "source": "www.cnbizm.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T11:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b89663",
+      "title": "KB손보, 5대 손보사 중 비정규직 비율 최고",
+      "description": "20일 중기이코노미가 메리츠화재해상보험, 삼성화재, 현대해상, DB손해보험, KB손보 등 5개 손보사의 올해 반기보고서를 분석한 결과, 비정규직성 근로자 비율이 가장 높은 곳은 KB손보 27.78%로 나타났다. 이어...",
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37505",
+      "source": "www.junggi.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T11:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-601ca1",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 참가…인도 반도체 설계 시장 공...",
+      "description": "국내 파운드리(반도체 위탁생산) 기업 DB하이텍이 인도 반도체 시장을 공략한다. DB하이텍은 다음달 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아(electronica India) 2026'에 참가해 현지...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=272079",
+      "source": "www.newsquest.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T11:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fa073f",
+      "title": "성남시, 시민 자전거·PM 보험 갱신…최대 3000만원 보장",
+      "description": "시는 최근 DB손해보험 등 5개 보험사와 '성남시민 자전거 및 개인형 이동장치 보험' 계약을 체결했다. 성남시에 주민등록을 둔 시민은 자동으로 피보험자가 되며 사고 발생 지역과 관계없이 보장받을 수 있다. 보장...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461091",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T11:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-50e8f3",
+      "title": "DB하이텍, 인도 전자산업 전시회 참가…현지 반도체 시장 공략",
+      "description": "DB하이텍은 다음 달 16일부터 18일까지 인도 벵갈루루에서 열리는 전자산업 전시회 '일렉트로니카 인디아 2026'에 참가한다고 20일 밝혔다. DB하이텍은 이번 전시에서 주력인 BCD(복합전압소자)를 비롯해 차세대 전력반도체...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016260663?sid=105",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T11:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-994069",
+      "title": "전동킥보드 타다 넘어져 다쳤다면···성남시민 최대 70만원 위로금",
+      "description": "성남시는 최근 DB손해보험㈜ 등 5개 보험사와 계약을 체결했다. 보장 기간은 2027년 8월 19일까지다. 성남시민은 별도의 가입 절차 없이 자동으로 피보험자가 된다. 전국 어디에서 발생한 자전거·개인형 이동장치(PM)...",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465308?sid=102",
+      "source": "www.khan.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T11:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a88f50",
+      "title": "DB하이텍, 남아시아 최대 전자 전시회 첫 출격…현지 팹리스 공략",
+      "description": "국내 8인치 파운드리 전문기업 DB하이텍이 다음달 16~18일(현지시간) 인도 벵갈루루에서 열리는 전자산업 전시회 ‘일렉트로니카 인디아(electronica India) 2026’에 처음 참가한다고 20일 밝혔다. 일렉트로니카 인디아는...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686059?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T10:53:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1ea7f9",
+      "title": "DB하이텍, 인도 전자산업전 참가… 현지 팹리스 공략",
+      "description": "DB하이텍이 인도에서 차세대 전력반도체 공정 기술을 선보이고 현지 고객 확보에 나선다. 실리콘카바이드(SiC) 공정 검증을 최근 마친 데 이어 갈륨나이트라이드(GaN) 공정도 연내 검증을 완료할 계획이다. SiC와...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187270?sid=105",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T10:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bf16ea",
+      "title": "성남시, 시민 자전거·PM 사고 보험 갱신…내년 8월까지 보장",
+      "description": "성남시는 최근 DB손해보험㈜ 등 5개 보험사와 계약을 체결하고 '성남시민 자전거 및 개인형 이동장치(PM) 보험'을 갱신했으며, 보장 기간은 내년 8월 19일까지라고 20일 밝혔다. 성남시민은 별도의 가입 절차 없이...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053030",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-87a3a7",
+      "title": "성남시, 자전거·전동킥보드 보험 갱신…전국 사고 최대 2000만원 보장",
+      "description": "성남시는 DB손해보험㈜을 비롯한 5개 손해보험사와 '성남시민 자전거 및 개인형 이동장치(PM) 보험' 계약을 체결하고 본격적인 운영에 들어갔다고 20일 밝혔다. 이번 보험의 보장 기간은 오는 2027년 8월 19일까지다....",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563954?sid=102",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T10:21:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ab226a",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…현지 팹리스 공략",
+      "description": "국내 8인치 파운드리 전문기업 DB하이텍은 다음달 16일부터 18일(현지시간)까지 인도 벵갈루루에서 열리는 ‘일렉트로니카 인디아 2026’에 참가한다고 20일 밝혔다. 일렉트로니카 인디아는 ‘인도의 실리콘밸리’...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002434494?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T10:11:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1fa29e",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…인도 시장 공략",
+      "description": "DB하이텍이 인도 전력반도체 시장 공략에 나선다. 전력반도체와 특화 공정 기술을 앞세워 빠르게 성장하는 현지 팹리스 시장에서 신규 고객 확보에 나선다는 전략이다. DB하이텍은 내달 16일부터 18일까지 인도...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003123355?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T10:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8ca063",
+      "title": "성남시, 자전거·킥보드 보험 갱신…사고시 최대 2000만 원",
+      "description": "시는 최근 DB손해보험㈜ 등 5개 보험사와 ‘성남시민 자전거 및 개인형 이동장치(PM) 보험’ 계약을 갱신했다고 20일 밝혔다. 보장 기간은 내년 8월 19일까지다. 시민은 별도의 가입 절차 없이 자동으로 피보험자가 되며...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002812503?sid=102",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T10:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d3122e",
+      "title": "금감원, 내주 열리는 소비자자문위원회서 '8주룰' 집중 점검…\"소비자 ...",
+      "description": "보험업계에 따르면 삼성화재·현대해상·DB손해보험·KB손해보험 등 4개사의 올해 1~6월 자동차보험 누적 손해율 단순 평균은 84.5%로, 지난해 같은 기간보다 1.9%포인트 상승했다. 6월 손해율 역시 83.6%로 전년 동월 대비 1.9...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805099?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-433b05",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가",
+      "description": "DB하이텍은 오는 9월 16~18일(현지시간) 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가한다고 20일 밝혔다. 일렉트로니카 인디아는 전자부품과 시스템, 애플리케이션, 관련 솔루션을 아우르는...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563904?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-27e0c2",
+      "title": "DB하이텍, 일렉트로니카 인디아 2026 첫 참가…인도 시장 공략",
+      "description": "DB하이텍은 9월 16~18일(현지시간) 인도 벵갈루루에서 열리는 '일렉트로니카 인디아(electronica India) 2026'에 참가해 인도 시장 공략에 나선다고 20일 밝혔다. 일렉트로니카 인디아는 '인도의 실리콘밸리'로 불리는...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009122768?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-34b700",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…인도 시장 공략",
+      "description": "DB하이텍이 남아시아 대표 전자산업 전시회에 처음 참가해 현지 팹리스 고객 발굴 등 인도 시장 공략에 나선다. DB하이텍은 다음 달 16일부터 18일(현지시간)까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014137134?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-268ffa",
+      "title": "현대해상, '페달 오조작 방지 장치' 포함 특약 최대 24.1% 할인",
+      "description": "삼성화재와 DB손해보험 등 동종 업계 주요 보험사들 역시 차선이탈 경고장치(LDWS), 전방충돌 경고장치(FCW)를 비롯해 차체자세 제어장치 등 사고 감소 효과가 입증된 안전장치 장착 차량에 대해 3~10% 수준의 보험료 할인...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=210430",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T09:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-710db9",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…인도 공략",
+      "description": "경기도 부천의 DB하이텍 공장에서 작업자가 공정을 관리하는 모습. 사진=DB하이텍 제공 DB하이텍은 다음달 16일부터 18일(현지시간)까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가해 현지 접점을...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1397426",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-54787b",
+      "title": "[이 시각 시황] 사이드카 다음 날 ‘급반전’…코스피 6700선 돌파",
+      "description": "DB하이텍도 2.67% 오르면서 96,100원입니다. 면역항암제주도 날아오르고 있습니다. 밤사이 모더나와 머크가 암백신 3상 임상 시험에서 긍정적인 결과를 달성한 것으로 알려졌는데요. 이에 따라 모더나 주가는 180% 가량...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528345?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1748c7",
+      "title": "DB하이텍, '일렉트로니카 인디아' 첫 참가...인도 팹리스 공략",
+      "description": "DB하이텍이 실리콘카바이드(SiC)와 갈륨나이트라이드(GaN) 등 차세대 전력반도체 공정을 앞세워 성장하는 인도 반도체 설계(팹리스) 시장 공략에 속도를 낸다. DB하이텍은 다음달 16~18일 인도 벵갈루루에서...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001051001?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-444fea",
+      "title": "신상진 성남시장, 자전거·PM 전 시민 보험 갱신…\"시민 안전 최우선\"",
+      "description": "신 시장은 \"최근 DB손해보험㈜ 등 5개 보험사와 ‘성남시민 자전거 및 개인형 이동장치(PM) 보험’ 계약을 체결했다\"면서 이 같이 밝혔다. 보험 보장 기간은 2027년 8월 19일까지로, 성남시민이면 별도의 가입 절차 없이...",
+      "url": "https://www.ajunews.com/view/20260820090251064",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T09:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ee9c00",
+      "title": "DB하이텍, 인도 반도체 시장 공략…'일렉트로니카 인디아 2026' 참가",
+      "description": "국내 파운드리(반도체 위탁생산) 기업 DB하이텍이 인도 시장 공략을 본격화한다. DB하이텍은 다음 달 16~18일(현지시간) 인도 벵갈루루에서 열리는 남아시아 대표 전자산업 전시회 '일렉트로니카 인디아(electronica...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805064?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3dae6a",
+      "title": "DB하이텍, 인도 팹리스 공략…특화 공정으로 고객 발굴",
+      "description": "DB하이텍이 전력반도체와 특화 공정 기술을 앞세워 인도 반도체 시장 공략에 나선다. 현지 팹리스 기업의 자체 제품 개발이 늘면서 파운드리 수요 확대가 예상되는 가운데 신규 고객 확보에 속도를 낸다는...",
+      "url": "https://www.g-enews.com/view.php?ud=2026082009204521463084322ec9_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-da1b7c",
+      "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…인도 시장 공략",
+      "description": "DB하이텍이 남아시아 대표 전자산업 전시회에 처음 참가하며 성장 잠재력이 높은 인도 반도체 시장 공략에 나선다. DB하이텍은 다음달 16일부터 18일까지 인도 벵갈루루에서 열리는 '일렉트로니카 인디아...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720978",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1a20b6",
+      "title": "DB하이텍, ‘일렉트로니카 인디아’ 첫 참가…인도 시장 공략 속도",
+      "description": "DB하이텍이 남아시아 대표 전자산업 전시회에 처음 참가해 인도 파운드리 시장 공략에 나선다. DB하이텍 부천캠퍼스. (사진=DB하이텍) DB하이텍은 오는 9월 16일부터 18일(현지시간)까지 인도 벵갈루루에서 열리는...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006354639?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-75ef4f",
+      "title": "DB하이텍, 인도 시장에 8인치 파운드리 기술 알린다",
+      "description": "DB하이텍이 전력반도체·특화 공정 앞세워 현지 고객 발굴을 통해 인도 시장 공략에 나섰다. DB하이텍은 오는 9월16일부터 18일까지 인도 벵갈루루에서 열리는 전자산업 전시회 '일렉트로니카 인디아(electronica India)...",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=405781",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9eb0e0",
+      "title": "삼성전자·SK하이닉스 동반 폭등… 반도체 대장주 랠리에 시장 '들썩'",
+      "description": "리노공업, DB하이텍, 테크윙, 미코, 아이에스티이, 엔시트론, 램테크놀러지 등 업종 내 전 종목이 상승 대열에 합류중이다. 증권가에서는 이번 반도체 업종의 전반적인 강세에 대해 단순한 단기 수급 유입을 넘어, AI...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478895",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0396a3",
+      "title": "인도 팹리스 잡아라…DB하이텍, '일렉트로니카 인디아' 참가",
+      "description": "BCD 공정과 차세대 전력반도체 대거 선보여 아주경제=김나윤 기자 kimnayoon@ajunews.com DB하이텍이 내달 16일부터 이틀간 인도 벵갈루루에서 열리는 '일렉트로니카 인디아 2026'에 참가해 인도 시장 공략에 나선다. 20일...",
+      "url": "https://www.ajunews.com/view/20260820091049090",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-20T09:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4d7f83",
+      "title": "성남시, 자전거·개인형 이동장치 보험 2027년까지 갱신",
+      "description": "최근 DB손해보험㈜ 등 5개 보험사와 계약을 체결했으며, 보장 기간은 2027년 8월 19일까지다. 성남시민은 별도 가입 절차 없이 자동으로 피보험자가 된다. 전국에서 발생한 자전거·개인형 이동장치 사고도 보험 혜택을...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1403931",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T09:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9dba02",
+      "title": "자전거·PM 사고 부담 던다...성남시, 시민보험 갱신",
+      "description": "성남시는 최근 DB손해보험㈜ 등 5개 보험사와 '성남시민 자전거 및 개인형 이동장치(PM) 보험' 계약을 체결했다고 밝혔다. 이번 보험의 보장 기간은 2027년 8월 19일까지다. 가장 큰 특징은 시민이 보험 가입을 위해 별도의...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316046",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T09:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6f811c",
+      "title": "성남시, 자전거·전동킥보드 사고 보험 갱신…시민 자동 가입",
+      "description": "성남시는 최근 DB손해보험 등 5개 보험사와 '성남시민 자전거 및 개인형 이동장치(PM) 보험' 계약을 갱신했다고 20일 밝혔다. 보장 기간은 2027년 8월 19일까지다. 성남시에 주민등록을 둔 시민은 자동으로 피보험자가...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014136994?sid=102",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T09:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18fa2d",
+      "title": "[20일 성남시] 전 시민 자전거·개인형 이동장치 보험 갱신 등",
+      "description": "사진=성남시 성남시는 최근 DB손해보험㈜ 등 5개 보험사와 ‘성남시민 자전거 및 개인형 이동장치(PM) 보험’ 계약을 체결했다고 밝혔다. 보장 기간은 2027년 8월 19일까지다. 성남시에 주민등록을 둔 시민이라면 별도의...",
+      "url": "https://www.asiatime.co.kr/article/20260820500040",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T08:56:00+09:00"
+    },
+    {
+      "id": "DB증권-fbd1e0",
+      "title": "에이피알, 아모레·LG생건 다 넘었다…K-뷰티주 '지각변동'",
+      "description": "아모레퍼시픽은 유진투자증권이 15만원에서 17만원으로, LG생활건강은 DB증권이 25만원에서 38만원으로 목표주가를 올렸고, 한화투자증권은 투자의견을 '중립'에서 '매수'로 바꿨다. /김아영 수습기자",
+      "url": "http://www.metroseoul.co.kr/article/20260820500039",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T08:56:00+09:00"
+    },
+    {
+      "id": "DB증권-e10f88",
+      "title": "증시 호황에 급여도 뛰었다…상반기 '평균 1억' 증권사 5곳→12곳",
+      "description": "대형 증권사는 물론 교보증권과 유안타증권, DB증권 등 중소형사까지 '반기 억대 급여' 대열에 합류했다. 상반기 만에 평균 1억…5곳에서 12곳으로 두 배 이상 늘어 19일 금융투자업계에 따르면 자기자본 1조원 이상...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=347996",
+      "source": "www.greened.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T08:52:00+09:00"
+    },
+    {
+      "id": "DB증권-e13b50",
+      "title": "DB證 \"GS, 정유·윤활유 사상 최대 실적…목표주가 25%↑\"",
+      "description": "아주경제=류소현 기자 sohyun@ajunews.com DB증권은 20일 GS에 대해 정유·윤활유 사업의 호실적이 이어지는 가운데 대규모 현금흐름을 활용한 신사업 투자도 기대된다며 목표주가를 기존 12만원에서 15만원으로 25% 상향...",
+      "url": "https://www.ajunews.com/view/20260820084142927",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-20T08:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8e1b18",
+      "title": "성남시, 자전거·전동킥보드 PM보험 갱신...내년 8월19일까지 보장",
+      "description": "시는 DB손해보험㈜ 등 5개 보험사와 계약을 체결했으며, 보장 기간은 내년 8월 19일까지다.성남시민은 별도의 가입 절차 없이 자동으로 피보험자가 되며, 전국 어디에서 발생한 자전거·개인형 이동장치(PM) 사고에...",
+      "url": "https://n.news.naver.com/mnews/article/468/0001260789?sid=102",
+      "source": "www.sportsseoul.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T08:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-827b84",
+      "title": "청구부터 입금까지 1분…보험사 '보험금 지급 속도전'",
+      "description": "삼성화재와 DB손해보험 등도 자동심사와 AI를 활용한 보상 시스템을 확대하며 '초고속 보상' 경쟁에 나서고 있다. 보험금 보상 업무는 사고 접수와 서류 확인, 심사, 지급 등 여러 절차를 거치는 만큼 신속한 처리가 고객...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=717287",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-20T08:08:00+09:00"
+    },
     {
       "id": "DB손해보험-6d4e93",
       "title": "성남시, 자전거·PM 시민보험 갱신",
@@ -281,15 +1190,6 @@
       "publishedAt": "2026-08-19T16:12:00+09:00"
     },
     {
-      "id": "DB손해보험-0dc8b1",
-      "title": "[거래소 기관] 삼성전자·SK하이닉스 팔고 한화에어로스페이스·이수페...",
-      "description": "하나금융지주, 현대해상, DB손해보험, 신한지주 등이 순매수 종목에 이름을 올렸다. 금융업종에서는 은행과 보험주를 중심으로 기관의 매수세가 이어지는 모습이다. 에너지 관련주도 기관의 관심을 받았다....",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478725",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-08-19T16:10:00+09:00"
-    },
-    {
       "id": "DB하이텍-0dc8b1",
       "title": "[거래소 기관] 삼성전자·SK하이닉스 팔고 한화에어로스페이스·이수페...",
       "description": "이어 NAVER, 삼성전자우, 한국전력, SK스퀘어, 현대차, LG전자, KT, DB하이텍 등이 순매도 상위권에 이름을 올렸다. 한미반도체와 한화오션, 효성중공업, DN오토모티브, 삼성생명, 현대오토에버 등도 기관의 순매도 대상이...",
@@ -524,15 +1424,6 @@
       "publishedAt": "2026-08-19T09:30:00+09:00"
     },
     {
-      "id": "DB손해보험-b1b527",
-      "title": "현대해상 52주 신고가…증권가 목표주가 줄상향",
-      "description": "삼성생명은 3.16%, DB손해보험은 2.94%, 삼성화재는 1.79% 올랐다. 한화손해보험과 메리츠금융지주도 각각 0.43% 상승했다. 보험주 강세의 배경에는 미국 장기금리 상승이 자리하고 있다. 17일(현지시간) 미국 30년물...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=748326",
-      "source": "www.econovill.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-08-19T09:14:00+09:00"
-    },
-    {
       "id": "DB증권-b1b527",
       "title": "현대해상 52주 신고가…증권가 목표주가 줄상향",
       "description": "삼성증권은 6만원, DB증권은 6만3000원, 대신증권은 5만9000원, iM증권은 5만8000원, 하나증권은 5만7000원, 교보증권과 NH투자증권은 각각 5만5000원을 제시했다. 현대해상의 실적 개선이 일회성 요인에 그치지 않고 예실차...",
@@ -558,15 +1449,6 @@
       "source": "www.chosun.com",
       "subsidiary": "DB증권",
       "publishedAt": "2026-08-19T08:20:00+09:00"
-    },
-    {
-      "id": "DB생명-80868b",
-      "title": "DB금융 호실적 속 옥의 티···손보 K-ICS·증권 IB 영업익 역주행",
-      "description": "DB손해보험은 보험·투자손익 개선에도 미국 보험사 포테그라 인수 이후 지급여력(K-ICS)비율이 떨어졌고, DB생명보험은 순이익이 두 배 이상 늘었지만 보험 본업보다...",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704557",
-      "source": "www.newsfreezone.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-08-19T08:12:00+09:00"
     },
     {
       "id": "DB자산운용-80868b",
