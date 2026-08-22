@@ -1,7 +1,124 @@
-// 자동 생성 파일 — 2026-08-22
+// 자동 생성 파일 — 2026-08-23
 const NEWS_DATA = {
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-08-23",
   "articles": [
+    {
+      "id": "DB증권-0e2f02",
+      "title": "현대해상, 실적 뛰었는데 배당 아직…\"해약환급금준비금 제도 개선 관건...",
+      "description": "DB증권은 이 같이 내다보고, 수익성 위주의 경영으로 실적 턴어라운드가 예상돼 현재 보험업종 내에서 기대수익률이 가장 높을 것으로 평가했다. 이병건 DB증권 연구원은 \"올해 배당이 없다는 점을 감안해 할인율 10%를...",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423639",
+      "source": "www.economytalk.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-23T07:06:00+09:00"
+    },
+    {
+      "id": "DB증권-0d3ba8",
+      "title": "17조 찾는다더니 1.3조 날아갔다…제값 노린 승부수 \"풀어야 할 숙제도...",
+      "description": "DB증권은 '가만히 있는 것보다 낫다. 풀어야 할 숙제도 많다'는 제목의 리포트를 통해 그동안 카카오 본업의 현금흐름이 주로 자회사들의 투자 및 의사결정으로 쏠렸던 점을 고려하면 재분배 및 기업 재평가 측면에서는...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001263242?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-22T23:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c7fe23",
+      "title": "경남 호우 침수차 2천 대 넘어...\"피해액만 최소 145억 추정\"",
+      "description": "[이원식 / DB손해보험 진주보상센터장 : 사실 저희가 보는 관점에서 폐차해야 하는데도, 수리를 좀 희망하시는 고객분들이 있습니다. 그런 분들은 저희가 상세하게 차량 상태를 안내 드리고 수리보다는 폐차하는 게 좀 더...",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396820?sid=102",
+      "source": "www.ytn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T22:40:00+09:00"
+    },
+    {
+      "id": "DB증권-6d557a",
+      "title": "[자금조달 프리뷰] 롯데건설·이랜드월드 공모채…코스닥 2곳 '데뷔'",
+      "description": "대표주관사는 DB증권이다. 반지형 혈압측정기를 개발한 스카이랩스는 이달 26~27일 일반청약을 진행한다. 공모 주식 200만주는 전량 신주로 구성됐다. 희망 공모가는 1만3000~1만6000원으로 이에 따른 공모...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089405?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-22T17:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5da05a",
+      "title": "경남 호우 침수차 2천 대 넘어...\"피해액만 최소 145억 추정\"",
+      "description": "[이원식 / DB손해보험 진주보상센터장 : 사실 저희가 보는 관점에서 폐차해야 하는데도, 수리를 좀 희망하시는 고객분들이 있습니다. 그런 분들은 저희가 상세하게 차량 상태를 안내 드리고 수리보다는 폐차하는 게 좀 더...",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396756?sid=102",
+      "source": "www.ytn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T16:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-25bcb7",
+      "title": "“폭우 한 번에 145억 손실”…침수차 속출에 손보사 ‘긴장’",
+      "description": "22일 손해보험협회에 따르면 지난 19일 오전 9시까지 손보사 11곳(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재·한화손해보험·롯데손해보험·흥국화재·하나손해보험·악사손해보험·예별손해보험)이 접수...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260822029575389",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T15:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f4d630",
+      "title": "DB손해보험, 손해율 하락에 배당 확대 기대… '새 밸류업' 시동",
+      "description": "DB손해보험의 실적 개선세가 뚜렷해지면서 주주환원 확대에 대한 기대감도 커지고 있다. 대신증권은 최근 보고서에서 손해율이 추세적으로 하락하는 가운데 포르테그라 인수까지 마무리되면서 새로운 배당정책이 마련될...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479590",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T15:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-034525",
+      "title": "[주간 거래소 기관] 삼성전자우 SK텔레콤 삼양식품 이수페타시스 '폭풍...",
+      "description": "대덕전자와 DB하이텍 등 반도체 관련주도 매도 상위권에 포함됐다. HD현대일렉트릭과 SK스퀘어, LS ELECTRIC, 한미반도체도 기관이 순매도한 주요 종목이다. LG에너지솔루션도 기관 순매도 상위권에 이름을 올렸다. 기관...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479546",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-22T11:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6a0f19",
+      "title": "[주간 거래소 외국인] 삼성전자· 한미반도체 사고 삼성전기·SK하이닉스...",
+      "description": "LG에너지솔루션과 DB하이텍, 한화솔루션도 외국인 순매수 상위권에 포함됐다. 2차전지와 반도체, 신재생에너지 등 서로 다른 업종의 대표 종목들이 매수 목록에 이름을 올렸다. 삼성에스디에스와 셀트리온, SK이노베이션...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479545",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-22T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4e4d95",
+      "title": "\"오피스 방 빼, 호텔 들어간다\"…돌아온 호텔 투자 열기[위클리IB]",
+      "description": "타임워크 명동은 국민연금과 우정사업본부, 행정공제회, 과학기술인공제회, DB손해보험 등이 이지스자산운용과 함께 지난 2019년 약 4050억원을 투입해 투자한 자산이다. 코로나19 이후 명동 상권 침체로 장기간 인수자를...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356041?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T09:16:00+09:00"
+    },
+    {
+      "id": "DB증권-c602d6",
+      "title": "[주간 IPO] 니어스랩·해치텍 코스닥 입성…스카이랩스 청약",
+      "description": "상장 주관사는 DB증권이다. 26~27일에는 웨어러블 의료기기 기업 스카이랩스가 일반투자자 대상 청약을 진행한다. 스카이랩스는 손가락에 착용하는 반지형 기기를 통해 혈압 등 생체신호를 연속 측정하는 기술을...",
+      "url": "https://www.etoday.co.kr/news/view/2616862",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-22T09:02:00+09:00"
+    },
+    {
+      "id": "DB증권-3567cc",
+      "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성",
+      "description": "▲해치텍, 코스닥, 8월 25일, 확정 공모가 2만3천원, 대표주관사 DB증권. 공모주 청약 ▲스카이랩스, 코스닥, 8월 26∼27일, 희망 공모가 1만3천∼1만6천원(25일 확정 예정), 대표주관사 한국투자증권.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016264671?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-22T09:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1485c1",
+      "title": "다시 20만원 드려요…간병보험 과열 '고개'",
+      "description": "삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 5대 손해보험회사의 지난해 말 기준 간병인 사용일당 특약 원수보험료는 2조 844억원입니다. 전년 대비 60.3% 증가했습니다. 반면 이들 손보사가 간병인...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528801?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-22T08:00:00+09:00"
+    },
     {
       "id": "DB손해보험-8d645a",
       "title": "외국인은 SK하이닉스 ‘직진’…기관·개인은 반대로 움직였다",
@@ -188,15 +305,6 @@ const NEWS_DATA = {
       "description": "◆주요 9개사 준비금 41조6599억원 교보생명·삼성생명·신한라이프·한화생명과 DB손해보험·KB손해보험·메리츠화재·삼성화재·현대해상 등 9개사의 해약환급금준비금은 상반기 말 총 41조6599억원으로 집계됐다....",
       "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363992",
       "source": "www.ftoday.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-08-21T16:04:00+09:00"
-    },
-    {
-      "id": "DB손해보험-1cd313",
-      "title": "[거래소 외국인] 삼성전자·HD현대중공업· LG전자 ·한화에어로스페이...",
-      "description": "DB하이텍, LG이노텍, 현대모비스, 기아, DB손해보험, SK하이닉스 등도 외국인의 순매수 대상에 포함돼 있다. 삼성전자는 외국인 순매수가 가장 두드러진 종목이다. 반도체 업황 개선 기대와 함께 인공지능(AI)용...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479449",
-      "source": "www.pinpointnews.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-08-21T16:04:00+09:00"
     },
