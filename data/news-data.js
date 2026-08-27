@@ -1,7 +1,628 @@
-// 자동 생성 파일 — 2026-08-27
+// 자동 생성 파일 — 2026-08-28
 const NEWS_DATA = {
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "articles": [
+    {
+      "id": "DB손해보험-16e08f",
+      "title": "[아주증시포커스] 연기금 리밸런싱 두달…SK하이닉스·네이버 사고 삼전...",
+      "description": "(1912억원), DB손해보험(1871억원), 삼성바이오로직스(1797억원), 고려아연(1631억원) 등이 순매수 상위권 -가장 많이 팔아치운 종목은 SK스퀘어(1조286억원 순매도) -삼성전자(-5748억원), 삼성전기(-5290억원), LG이노텍...",
+      "url": "https://www.ajunews.com/view/20260828014706079",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T07:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-89c922",
+      "title": "\"더 좋은 보험으로 바꿔준다더니\" 환급금·보장 줄어든 '나쁜 보험'....부...",
+      "description": "이같은 문제는 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험, 한화손해보험 등 대부분 보험사와 GA 등에서 발생하고 있다. 보험 리모델링은 기존 보험의 보험료와 보장 내용을 점검해 불필요한 담보를 줄이고...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762509",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T06:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7cf257",
+      "title": "[글로벌 성적표] 한화손보, '해외 자회사 1호' 리포손보 매출 50% 증가",
+      "description": "한화생명, 신한라이프, 삼성화재, DB손해보험, 한화손해보험 등 5개 주요 보험사의 해외사업 실적과 전략을 총 5회에 걸쳐 살펴본다.  한화손해보험의 해외 자회사 1호 리포(Lippo)손해보험의 올해 상반기 매출액은 50...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308874",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T06:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-63c7c6",
+      "title": "[투데이 Pick] 엔비디아발 훈풍에 K반도체 '들썩'…KRX 반도체 지수 2.48...",
+      "description": "DB하이텍은 4.26%, HPSP는 4.12%, 피에스케이는 3.01% 상승했다. [자료: 엔비디아·인베스팅닷컴·한국거래소 / 편집=뉴스투데이] ■ 메모리 조달 약정 2790억달러…수익성 둔화는 변수 국내 반도체주에는 엔비디아의...",
+      "url": "https://www.news2day.co.kr/article/20260828500008",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-28T05:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9f970a",
+      "title": "[IS 용인] '신데렐라 대회 맞네' 상위 16명 중 절반이 생애 첫 승 도전, ...",
+      "description": "이 중 공동 11위인 안재희(20·DB손해보험), 한아름(22·DB손해보험), 김나영(23·메디힐), 양효리(24·참좋은여행), 정소이(24) 등이 생애 첫 승에 도전한다. 선두와 3타 차라 남은 사흘 동안 충분히 뒤집을 수 있는 스코어다....",
+      "url": "https://m.sports.naver.com/golf/article/241/0003527661",
+      "source": "isplus.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T00:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-690078",
+      "title": "DB손보, 2분기 순익 7111억원 '반등'… 베트남 이어 美 2조3000억원 승부...",
+      "description": "DB손해보험이 1분기 부진을 딛고 2분기 실적을 크게 끌어올렸다. 분기 순이익이 7000억원을 넘어서면서 상반기 누적 순이익도 증가세로 돌아섰다. 국내 실적 회복과 함께 베트남 사업 성장세를 이어가는 가운데...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43317",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T21:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-695717",
+      "title": "“국가에서 받은 혜택, 사회에 돌려 줘야죠”",
+      "description": "오토바이 사고를 계기로 보험업에 눈을 떴고 해동화재와 DB손해보험을 거치며 30년간 베테랑 보험인으로 일했습니다. 성공의 결실을 나눔으로 환원하는 이유는 명확해요. 제가 방송통신고를 나오고 대학까지 졸업할 수...",
+      "url": "http://www.kwangju.co.kr/article.php?aid=1787827200802736028",
+      "source": "www.kwangju.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T19:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3150a2",
+      "title": "[DQN] 메리츠화재 DB손보 제치고 순익 2위…KB손보 나홀로 역성장 [2026 상...",
+      "description": "27일 한국금융신문이 손보 빅5(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재)의 2026년 상반기 경영공시를 분석한 결과, 삼성화재의 상반기 말 기준 지배주주지분 당기순이익은 전년 동기 대비 10.2...",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T19:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c96e0f",
+      "title": "고금리에…보험주 오르고 증권주 내리고",
+      "description": "이 지수에는 삼성생명과 삼성화재, DB손해보험, 한화생명 등 11개 종목이 편입돼 있다. 통상 보험주는 높은 배당 수익률로 대표적인 고배당·방어주 카테고리로 분류된다. 반면 미래에셋증권과 한국금융지주, NH투자증권...",
+      "url": "https://n.news.naver.com/mnews/article/658/0000153701?sid=101",
+      "source": "www.kookje.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T19:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b2ebea",
+      "title": "[기획] 자동차보험 '8주룰' 시행…손해율 변수될까",
+      "description": "회사별로는 메리츠화재가 82.5%로 가장 낮았고 삼성화재 84.3%, 현대해상과 KB손해보험이 각각 84.8%, DB손해보험이 85.2%를 기록했다. 7월만 놓고 보면 손해율은 86.2%로 지난해 같은 달보다 5.9%p 낮아졌다. 다만 1~7월 누적...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=663295",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T18:16:00+09:00"
+    },
+    {
+      "id": "DB증권-afd5fb",
+      "title": "코스콤, 토큰증권 생태계 구축 속도…증권사 12곳 'KoSTO' 합류",
+      "description": "현재 KoSTO와 관련해 코스콤과 업무협약을 체결한 증권사는 키움증권과 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권, 다올투자증권, 우리투자증권, NH투자증권 등 12개사다....",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=749129",
+      "source": "www.econovill.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T17:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-460d70",
+      "title": "'올해도 이어진 통큰 이웃사랑'… DB하이텍, 감곡면에 성금 2천만 원 기...",
+      "description": "DB하이텍이 충북 음성군 감곡면을 찾아 성금을 전달하며 매년 이어온 지역사회 나눔 행보를 올해도 실천했다. DB하이텍(대표 조기석)은 27일 감곡면 행정복지센터를 찾아 지역 어려운 이웃을 위해 써 달라며 성금 2천만...",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1096244",
+      "source": "www.ccdn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T17:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e3f699",
+      "title": "삼성액티브자산운용 ‘KoAct 고배당액티브’, 첫 분배금 85원 지급",
+      "description": "GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5%가 뒤를 잇는다. 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 “성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가 배당주에 대한 매력이 커질 것”...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000099224",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T17:37:00+09:00"
+    },
+    {
+      "id": "DB생명-eaa5b1",
+      "title": "종신보험, 단기납 경쟁에서 장기납·실속형 재편",
+      "description": "흥국생명은 암·뇌출혈·급성심근경색증 진단 시 사망보험금을 2배로 지급하고, 사망보험금 일부를 연금 형태로 미리 받을 수 있는 '(무)흥국생명 트리플더블종신보험'을 출시했다. DB생명도 '(무)백년친구 700 암치료...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859680",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-27T17:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a65eb",
+      "title": "손보사 기본자본 킥스 '50%' 방어했지만···회사별 자본여력은 천차만...",
+      "description": "27일 보험업계에 따르면 삼성화재·DB손해보험·메리츠화재·KB손해보험·현대해상 등 주요 손보사들은 기본자본 킥스 비율 50%를 모두 웃돌고 있다. 금융당국은 2027년부터 보험사가 기본자본 킥스 비율을 50% 이상...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=152345",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T17:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5f3cb9",
+      "title": "또 규제 충격···롯데손보, 매각 앞두고 커지는 '부담'",
+      "description": "규제 여파가 컸던 DB손해보험은 3620억원 줄었다. 롯데손보의 감소 규모가 CSM 잔액 5배가 넘는 DB손보와 비슷했던 것이다. 당국은 보험사들이 실적을 부풀리기 위해 CSM을 산출하는데 적용하는 손해율·사업비율...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423349",
+      "source": "www.sisajournal-e.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-23e640",
+      "title": "삼성액티브자산운용, KoAct 고배당액티브 첫 월분배",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 기업 실적과 배당 지속 가능성을 고려해 포트폴리오를 구성하고 있으며 총보수는 연 0.5%다. 월분배 구조는 정기적인...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481231",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T16:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-41ce2a",
+      "title": "삼성액티브운용, KoAct 고배당액티브 첫 월분배 지급…주당 85원",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(편입 비중 7.4%) ▲GS(5.9%) ▲DB손해보험(4.7%) ▲JB금융지주(4.5%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는 기업들을 편입하고 있다. 총 보수는 연 0.5...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014153103?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T16:13:00+09:00"
+    },
+    {
+      "id": "DB증권-6f3983",
+      "title": "코스콤, 증권사 12곳과 손잡고 '토큰증권 공동 발행소' 구축",
+      "description": "현재 KoSTO 참여를 위해 코스콤과 업무협약을 체결한 증권사는 키움증권과 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권, 다올투자증권, 우리투자증권, NH투자증권 등 12개사다....",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=272388",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f221af",
+      "title": "삼성액티브자산, KoAct 고배당액티브 첫 월분배 지급",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 안정적인 실적을 기반으로 배당의 지속가능성이 기대되는 기업을 중심으로 포트폴리오를 구성하고 있다. 총보수는 연 0.5...",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=120872",
+      "source": "www.delighti.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T15:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0aafa3",
+      "title": "'빚투' 눈덩인데… '기준금리 인상 수혜주' 찾아라? [뉴스톡 웰스톡]",
+      "description": "또 ▲삼성화재 ▲DB손해보험 ▲현대해상 ▲삼성생명 ▲한화생명 등 보험주다. 보험금으로 투자한 채권 수익률이 오르기 때문이다. 이밖에 ▲고려신용정보 ▲서울평가정보 ▲NICE평가정보 등 신용평가주도 수혜주로...",
+      "url": "http://www.newswell.co.kr/news/articleView.html?idxno=21351",
+      "source": "www.newswell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T15:36:00+09:00"
+    },
+    {
+      "id": "DB증권-d34eee",
+      "title": "아이알큐더스, 권재열 교수 고문 위촉…전자주총 법률자문 강화",
+      "description": "대표주관사는 DB증권이다. 회사는 상장을 통해 조달한 자금을 IR·SR 디지털 플랫폼 연구개발과 전자주주총회 솔루션 고도화 등에 투입할 계획이다. 이종승 아이알큐더스 대표이사는 “상법 최고 권위자인 권재열 고문의...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002689388?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T15:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a1c56a",
+      "title": "삼성액티브자산운용, 'KoAct 고배당액티브' 첫 분배금…배당·기업가치...",
+      "description": "현재 주요 편입 종목은 △현대엘리베이터 7.4% △GS 5.9% △DB손해보험 4.7% △JB금융지주 4.5% 등이다. 실적을 바탕으로 지속적인 배당을 기대할 수 있는 기업을 중심으로 포트폴리오를 구성했으며 총보수는 연 0.5%다....",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=81732",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T15:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e118e6",
+      "title": "삼성액티브자산운용 'KoAct 고배당액티브' 첫 월분배금 지급",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(편입 비중 7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 분배금을 지급받으려면 이날까지 해당 ETF를 매수해야 한다. 분배금 지급 예정일은 다음 달 2일이다. 남은영...",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48497",
+      "source": "www.smarttimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T15:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e3e156",
+      "title": "\"변동성 버티고 현금흐름 챙긴다\"…배당 ETF 주목",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.4%와 GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 상장 이후 수익률은 6.78%이며 개인투자자의 누적 순매수액은 21억8000만원이다. 총보수는 연 0.5%다. 한화자산운용은 PLUS...",
+      "url": "https://www.news2day.co.kr/article/20260827500192",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T14:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fc0666",
+      "title": "삼성액티브자산운용 'KoAct 고배당액티브', 첫 월배당…주당 85원 지급",
+      "description": "현재 주요 편입 종목은 ▲현대엘리베이터(편입 비중 7.4%) ▲GS(5.9%) ▲DB손해보험(4.7%) ▲JB금융지주(4.5%) 등이다. 안정적인 실적을 바탕으로 지속적인 배당이 기대되는 기업을 중심으로 포트폴리오를 구성하고 있으며...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=144492",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T14:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-282335",
+      "title": "DB하이텍, 감곡면에 이웃돕기 성금 2000만원",
+      "description": "▲ DB하이텍(대표 조기석)이어려운 이웃을 위한 성금 2000만원을 기탁했다. (감곡면 제공) 충북 음성군 감곡면(면장 최병원) 소재 DB하이텍(대표 조기석)이 27일 행정복지센터를 방문해 지역의 어려운 이웃을 위한 성금...",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=923991",
+      "source": "www.cctimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T14:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-01c17a",
+      "title": "삼성액티브자산, KoAct 고배당액티브 첫 월분배로 주당 85원 지급",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터(편입 비중 7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는 기업들을 편입하고 있다. 총 보수는 연 0.5%다....",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202608271410252867be44c0aacd_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T14:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-34f05a",
+      "title": "해치텍 급등에 아이텍·시지트로닉스도 방긋…AI 반도체주 '들썩'",
+      "description": "DB하이텍은 3.83% 오른 9만5000원,  네패스와 퀄리타스반도체도 각각 3.79%, 3.25% 상승중이다. 디자인하우스에서는 가온칩스가 3.04% 올랐으며 두산테스나와 칩스앤미디어도 3% 안팎의 상승률을 보이고 있다. AI 반도체 설계와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481090",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5202e1",
+      "title": "[뉴스워커_삼성자산운용] 'KoAct 고배당액티브', 상장 후 첫 분배금 지급",
+      "description": "주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 \"하반기에는 저평가 배당주의 매력이 커질 것으로 예상된다\"며...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=501143",
+      "source": "www.newsworker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T14:12:00+09:00"
+    },
+    {
+      "id": "DB증권-09b3a8",
+      "title": "코스콤, STO 플랫폼 구축 본격화⋯\"생태계 안정적 연결\"",
+      "description": "현재 KoSTO과 관련해 코스콤과 업무협약을 체결한 증권사는 키움증권, 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권, 다올투자증권, 우리투자증권, NH투자증권 등 12개사다....",
+      "url": "https://n.news.naver.com/mnews/article/031/0001052934?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T14:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4d8336",
+      "title": "연기금 리밸런싱 두달…SK하이닉스·네이버 사고 삼전·SK스퀘어 팔았다",
+      "description": "이어 SK이노베이션(2254억원), 에쓰오일(2169억원), 셀트리온(2055억원), SK텔레콤(1912억원), DB손해보험(1871억원), 삼성바이오로직스(1797억원), 고려아연(1631억원) 등이 순매수 상위권에 이름을 올렸다. 반면 가장...",
+      "url": "https://www.ajunews.com/view/20260827134612745",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T14:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e0db79",
+      "title": "독보적 팹 파워 입증… 시지트로닉스, GaN 전력반도체 양산 모멘텀",
+      "description": "테스와 아이언디바이스를 비롯해 DB하이텍, SK하이닉스, LB세미콘, 삼성전자 등이 상승중이다. 전력 소자 및 반도체 테스트 관련주도 강세다. KEC와 큐알티, 파워넷, 어보브반도체, 아이에이 등이 상승권에서 거래되고...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481067",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T14:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4dbb60",
+      "title": "삼성액티브운용 'KoAct 고배당액티브' 상장 후 첫 월분배금 지급",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 \"성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=210994",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T13:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f651ed",
+      "title": "삼성액티브운용, 'KoAct 고배당액티브' 첫 월분배 지급...주당 85원",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 실적을 바탕으로 지속적인 배당을 기대할 수 있는 기업을 중심으로 포트폴리오를 구성하고 있다. 총보수는 연 0.5%다....",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567279?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T13:46:00+09:00"
+    },
+    {
+      "id": "DB증권-7c2157",
+      "title": "[특징주] 심텍, 2700억 신규 투자 소식에 13%대 급등⋯코스닥 시총 9위 ‘...",
+      "description": "조현지 DB증권 연구원 역시 \"SOCAMM, MSAP, 시스템 IC를 아우르는 증설로 생산능력이 크게 확대될 것\"이라며 \"공장 완공 이후 연간 매출 체력이 기존보다 약 4500억원가량 늘어날 것\"으로 전망했다. 다만 투자 재원을...",
+      "url": "https://www.etoday.co.kr/news/view/2618849",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T13:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a257e5",
+      "title": "신한라이프, 취업준비 청년 100명 초청 채용설명회 개최",
+      "description": "6곳과 손해보험사 10곳 등 보험사 16곳이 참여했다. 교보생명과 신한라이프, 삼성화재, DB손해보험은 별도 컨퍼런스에서 직무와 채용 정보를 소개했다. 삼성화재 등 개별 보험사의 신입 채용도 이어지는 분위기다.",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207260",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T13:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-efcb2b",
+      "title": "DB하이텍, 이웃돕기 성금 2000만원 기탁",
+      "description": "DB하이텍이 27일 감곡면 행정복지센터를 방문해 지역 내 어려운 이웃을 위해 이웃돕기 성금 2000만원을 감곡면 지역사회보장협의체에 기탁했다. DB하이텍(대표 조기석)은 해마다 꾸준히 성금을 기탁하며 지역사회 나눔문화...",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=355996",
+      "source": "www.ccreview.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T12:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dbd6db",
+      "title": "'KoAct 고배당액티브 ETF' 첫 월분배금 지급…주당 85원",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(편입 비중 7.4%) △GS(5.9%) △DB손해보험(4.7%) △JB금융지주(4.5%) 등이다. 총보수는 연 0.5%다. 최근 증시 변동성이 커진 가운데 안정적인 배당수익과 방어력을 높일 수 있는...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009135577?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T12:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0775db",
+      "title": "[경제소식] 신한라이프, 취업준비 청년 초청 채용설명회",
+      "description": "주요 편입 종목과 비중은 △현대엘리베이터(편입 비중 7.4%) △GS(5.9%) △DB손해보험(4.7%) △JB금융지주(4.5%) 등이다. 총보수는 연 0.5%다. 이 ETF는 7월 28일 상장 이후 6.78%의 수익률을 기록했다. 같은 기간 개인투자자의...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2116958",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T12:02:00+09:00"
+    },
+    {
+      "id": "DB증권-0427f5",
+      "title": "토큰증권 시대 열린다…코스콤, 증권사 12곳 손잡고 ‘공동 발행소’ 구...",
+      "description": "현재 KoSTO 참여를 위해 코스콤과 업무협약을 체결한 증권사는 키움증권과 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권, 다올투자증권, 우리투자증권, NH투자증권 등 12곳이다....",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726544?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T12:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d35863",
+      "title": "DB하이텍 주가, 8월 27일 장중 94,600원 3.39% 상승",
+      "description": "|중앙이코노미뉴스 김영진 기자|출처=네이버페이 증권 27일 오전 11시 9분 기준, 네이버페이 증권에 따르면 DB하이텍은 지난 종가 대비 상승세를 나타내며 거래되고 있다. 현재 DB하이텍의 주가는 94...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=543245",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T11:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5c19e5",
+      "title": "삼성액티브운용, KoAct 고배당액티브 첫 월분배…주당 85원",
+      "description": "현재 주요 편입 종목과 비중은 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 배당의 지속가능성을 기대할 수 있는 기업을 중심으로 포트폴리오를 구성하고 있으며 총보수는 연 0.5%다....",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316978",
+      "source": "www.wolyo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-68fb4d",
+      "title": "한문철 전문 변호사와 공동개발… DB손보 특약 가입 82만건 돌파",
+      "description": "DB손해보험은 한문철 교통사고 전문 변호사와 공동 개발한 특약이 출시 1주년을 맞아 누적 가입 건수 82만 건을 돌파했다고 27일 밝혔다. ‘보행자사고 변호사자문비용 지원 특별약관(이하 보행자사고 특약)’은 보행자를...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002814292?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:45:00+09:00"
+    },
+    {
+      "id": "DB하이텍-79b14b",
+      "title": "DB하이텍, 음성 감곡면에 이웃돕기 성금 기탁",
+      "description": "DB하이텍(대표 조기석)에서는 27일 충북 음성군 감곡면행정복지센터를 방문해 지역 내 어려운 이웃을 위해 사용해 달라며 이웃돕기 성금 2000만원을 감곡면지역사회보장협의체에 기탁했다. DB하이텍은 매년 꾸준히 성금을...",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2436700",
+      "source": "www.ccdailynews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T11:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-00d10b",
+      "title": "[여의도단신]미래에셋자산운용·KB자산운용·한국투자신탁운용·삼성액...",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(7.4%) ▲GS(5.9%) ▲DB손해보험(4.7%) ▲JB금융지주(4.5%) 등이다. 총 보수는 연 0.5%다. 남은영 매니저는 \"성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가 배당주에...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001025473?sid=101",
+      "source": "www.imaeil.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b5c760",
+      "title": "삼성액티브운용, 'KoAct 고배당액티브 ETF' 첫 분배금 주당 85원 지급",
+      "description": "주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이며 연 총보수는 0.5%다. 남은영 삼성액티브자산운용 매니저는 증시 변동성 확대로 저평가 배당주의 매력이 높아질 것이며, 기업별...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309166",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d817ae",
+      "title": "삼성액티브자산운용, KoAct 고배당액티브 첫 월분배 지급",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(편입 비중 7.4%) ▲GS(5.9%) ▲DB손해보험(4.7%) ▲JB금융지주(4.5%) 등 입니다. 총 보수는 연 0.5% 입니다. 남은영 삼성액티브자산운용 매니저는 “성장주 변동성에 대한 피로감이...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=91030",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b04b25",
+      "title": "[금융권 이모저모]KB자산운용, 'RISE 네트워크인프라 ETF' 6개월 수익률...",
+      "description": "주요 편입 종목은 현대엘리베이터, GS, DB손해보험, JB금융지주 등이다. 그래픽=하나은행 ◇하나은행, 인천 중·저신용 소상공인 금융지원 확대 하나은행은 인천 지역 중·저신용 소상공인에 대한 금융지원을 강화하기...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=116003",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-62ebdd",
+      "title": "[더밸류 브리핑] 오늘의 삼성금융 소식...삼성증권·삼성액티브자산운용",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 “성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201080",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T11:04:00+09:00"
+    },
+    {
+      "id": "DB증권-f61d78",
+      "title": "삼성SDI 주가 장중 8%대 올라, 삼성디스플레이 보유지분 팔아 4조 실탄 ...",
+      "description": "안회수 DB증권 연구원은 24일 보고서에서 \"이번 지분 매각으로 북미 에너지저장장치(ESS) 생산능력을 확대할 가능성이 더욱 구체화됐다\"며 \"삼성SDI는 미국에서 10~20기가와트시(GWh) 규모의 ESS 생산능력을 추가로...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445722",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T11:00:00+09:00"
+    },
+    {
+      "id": "DB생명-8f410f",
+      "title": "[生기업TALK] KDB생명, 전년 동기 대비 보험손익 157억 증가...미래 성장...",
+      "description": "KDB생명보험 본점  끊임 없이 경영 혁신을 추구하며 체질 개선에 나선 KDB생명(대표이사 김병철)이 전속채널... 아울러 데이터 기반으로 최적의 고객을 발굴·연계해 주는 'AI 고객DB 마케팅 플랫폼'을 본격 활용해...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=99123",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-27T10:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-56d47d",
+      "title": "삼성액티브운용, 고배당액티브 ETF 첫 월분배...총분배율 0.8%",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(편입 비중 7.4%) △GS(5.9%) △DB손해보험(4.7%) △JB금융지주(4.5%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는 기업들을 편입하고 있다. 총 보수는 연 0.5...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=543177",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-710393",
+      "title": "삼성액티브운용 ‘KoAct 고배당액티브’ 첫 월분배",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5% 등이다. 상장 당시에는 현대엘리베이터 7.1%, DB손해보험 5.0%, GS 4.9%, JB금융지주 4.8% 등이었다. 액티브 ETF인 만큼 시장 상황과 기업별...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575591935510",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-05bd44",
+      "title": "삼성액티브자산운용, KoAct 고배당액티브 첫 월분배",
+      "description": "주요 편입 종목은 현대엘리베이터 7.4%, GS 5.9%, DB손해보험 4.7%, JB금융지주 4.5%다. 총보수는 연 0.5%다. 7월 28일 상장 이후 수익률은 6.78%로 집계됐다. 같은 기간 개인투자자의 누적 순매수 금액은 21억8000만원이다.",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=225234",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T10:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9fdb73",
+      "title": "삼성액티브자산운용, 'KoAct 고배당액티브' ETF 첫 월분배 지급",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(편입 비중 7.4%) ▲GS(5.9%) ▲DB손해보험(4.7%) ▲JB금융지주(4.5%) 등이다. 총 보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 \"성장주 변동성에 대한 피로감이 커지면서...",
+      "url": "https://www.newspim.com/news/view/20260827000338",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T10:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-306f26",
+      "title": "삼성액티브자산, '고배당액티브' ETF 첫 월분배 지급",
+      "description": "현재 주요 구성 종목은 현대엘리베이터(편입 비중 7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 남은영 삼성액티브자산운용 매니저는 \"성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266033",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T10:00:00+09:00"
+    },
+    {
+      "id": "DB증권-d87bee",
+      "title": "코스콤, 신종증권·조각투자 시장 대비…'발행·유통·결제' 인프라 개편...",
+      "description": "현재 KoSTO와 관련해 업무협약을 체결한 증권사는 키움증권, 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권, 다올투자증권, 우리투자증권, NH투자증권 등 12개사다. 공동...",
+      "url": "https://www.ajunews.com/view/20260827085809019",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T09:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-44d544",
+      "title": "삼성액티브운용, KoAct 고배당액티브 첫 월분배금 85원 지급",
+      "description": "주요 포트폴리오는 현대엘리베이터, GS, DB손해보험, JB금융지주 등이 포함되며 총 보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 \"성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가 배당주에...",
+      "url": "http://www.lawissue.co.kr/view.php?ud=2026082709502140069817d053b9_12",
+      "source": "www.lawissue.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c04570",
+      "title": "삼성액티브자산운용, KoAct 고배당액티브 첫 월분배금 지급",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 “성장주 변동성에 대한 피로감이 커지면서 하반기에는 저평가...",
+      "url": "https://www.g-enews.com/view.php?ud=202608270935303702153ddfb15a_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a36bc1",
+      "title": "삼성액티브자산, KoAct 고배당액티브 첫 월분배 지급",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(편입 비중 7.4%) △GS(5.9%) △DB손해보험(4.7%) △JB금융지주(4.5%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는 기업들을 편입하고 있다. 총 보수는 연 0.5...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316940",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5e02de",
+      "title": "삼성액티브자산 'KoAct 고배당액티브' 첫 월분배금 지급",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(편입 비중 7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 분배금을 지급받으려면 이날까지 해당 ETF를 매수해야 한다. 분배금 지급 예정일은 다음 달 2일이다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016273565?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:19:00+09:00"
+    },
+    {
+      "id": "DB하이텍-20d2d0",
+      "title": "HBM과 후공정 장비주 동반 강세… 반도체 업종 전반 강한 반등 장세 주도",
+      "description": "기가비스, 브이엠, 케이엔제이, 퀄리타스반도체, DB하이텍, 샘씨엔에스, 미래반도체 등도 차세대 반도체 제조 공정 도입에 따른 수혜 기대감이 반영되며 일제히 상승세를 연출하고 있다. 장비 및 소재, 검사 솔루션 공급...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480931",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-27T09:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e99e93",
+      "title": "삼성액티브운용, KoAct 고배당액티브 첫 월분배 지급",
+      "description": "주요 편입 종목은 현대엘리베이터(7.4%), GS(5.9%), DB손해보험(4.7%), JB금융지주(4.5%) 등이다. 지난달 28일 상장 이후 6.78%의 수익률을 올렸으며 최근 증시 변동성 확대 속에서 개인 순매수 21억8000만원이 유입되는 등 안정적...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807960?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3a4c6c",
+      "title": "KoAct 고배당액티브 ETF, 주당 85원 첫 월분배 지급",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(편입 비중 7.4%) △GS(5.9%) △DB손해보험(4.7%) △JB금융지주(4.5%) 등이다. 총 보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 “성장주 변동성에 대한 피로감이 커지면서...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006358729?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-279a79",
+      "title": "KoAct 고배당액티브, 상장 한 달 만에 첫 월배당",
+      "description": "주요 편입 종목은 현대엘리베이터와 GS, DB손해보험, JB금융지주 등이다. 금융·산업재 등 실적과 현금창출력을 바탕으로 지속적인 주주환원이 기대되는 기업을 중심으로 포트폴리오를 구성하고 있다....",
+      "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=418556",
+      "source": "www.bizwork.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f06f3f",
+      "title": "\"상장 한달만에 첫 월분배\"…KoAct 고배당액티브, 주당 85원 지급",
+      "description": "주요 편입 종목으로는 현대엘리베이터, GS, DB손해보험, JB금융지주 등이 있으며 총보수는 연 0.5%다. 남은영 삼성액티브자산운용 매니저는 성장주 변동성 확대 속에 저평가 배당주의 매력이 부각될 것이라며 기업별...",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86254",
+      "source": "www.thefairnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T09:02:00+09:00"
+    },
+    {
+      "id": "DB증권-183719",
+      "title": "코스콤, 토큰증권 인프라 구축 속도…증권사 12곳 참여",
+      "description": "27일 코스콤에 따르면 토큰증권 공동 발행플랫폼 ‘KoSTO’ 구축에 참여하기 위해 코스콤과 업무협약을 맺은 증권사는 키움증권, 대신증권, IBK투자증권, 유안타증권, BNK투자증권, DB증권, iM증권, 메리츠증권, 교보증권...",
+      "url": "https://www.viva100.com/article/20260827500237",
+      "source": "www.viva100.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-27T09:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9cf20e",
+      "title": "高금리에 엇갈린 금융주... 보험↑ 증권 ↓",
+      "description": "이 지수에는 삼성생명과 삼성화재, DB손해보험, 한화생명 등 11개 종목이 편입돼 있다. 반면 미래에셋증권과 한국금융지주, NH투자증권 등 14개 상장사가 구성 종목으로 들어가 있는 'KRX 증권 지수'는 3.44% 하락했다....",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=878980",
+      "source": "www.getnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-27T08:02:00+09:00"
+    },
     {
       "id": "DB증권-919738",
       "title": "코스콤, 자본시장 '발행·유통·결제' 인프라 구축 나선다",
