@@ -1,7 +1,925 @@
-// 자동 생성 파일 — 2026-08-28
+// 자동 생성 파일 — 2026-08-29
 const NEWS_DATA = {
-  "lastUpdated": "2026-08-28",
+  "lastUpdated": "2026-08-29",
   "articles": [
+    {
+      "id": "DB손해보험-b00477",
+      "title": "죽어서 받는 보험은 옛말… 치료·간병·법률까지 보장 넓힌다",
+      "description": "DB손해보험이 한문철 변호사와 공동 개발한 '보행자사고 변호사자문비용 지원 특별약관'은 출시 1년 만에 누적 가입 82만건을 돌파했다. DB손보와 한문철TV가 함께 분석한 사고 277건 가운데 37건에서 계약자의 자차...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169081",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-29T06:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6bd9b8",
+      "title": "[주간 거래소 외국인] 삼성전자·SK하이닉스 대신 삼성전기 담았다…무...",
+      "description": "금융주에서는 신한지주와 DB손해보험이 순매도 상위권에 포함됐다. 반면 미래에셋증권과 삼성증권은 순매수 상위권에 이름을 올렸다. 금융업종에서도 종목별 차별화가 뚜렷했다. 한화머시너리앤서비스홀딩스와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481656",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-29T06:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9e4a89",
+      "title": "DB손보, 2030년 주주환원율 40%로 높인다",
+      "description": "DB손해보험이 오는 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대한다. 28일 DB손보는 이 같은 내용의 중장기 기업가치 제고(밸류업) 계획을 공시했다. DB손보는...",
+      "url": "https://www.g-enews.com/view.php?ud=202608281648386026a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T23:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2d12b4",
+      "title": "DB손보, 2030년 주주환원율 목표 최대 50%로 상향…포테그라로 성장동력...",
+      "description": "ㅣDB손해보험 DB손해보험이 주주환원 확대를 중심으로 중장기 기업가치 제고에 나선다. 2030년 주주환원율 목표를 연결 기준 40%, 별도 기준 50%로 상향하고 주당배당금(DPS)도 매년 10% 이상 늘린다. 포테그라 인수를...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358103",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T21:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-37c3a4",
+      "title": "DB손보 주주환원 50%로↑…국내서 본업 다지고 美 포테그라 시너지",
+      "description": "인더뉴스 문승현 기자ㅣDB손해보험(대표 정종표)이 지속가능 균형성장과 주주환원 확대 골자로 하는 중장기 기업가치 제고(밸류업) 계획을 내놓았습니다. 28일 DB손해보험이 공시한 밸류업 계획을 보면...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=91120",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T20:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a4406d",
+      "title": "[금융 HOT 뉴스] DB손보, 기업가치 제고계획 발표",
+      "description": "DB손해보험 사옥 전경. 사진=DB손해보험 DB손해보험은 28일 중장기 기업가치 제고(밸류업) 계획을 공시하고 주주와 애널리스트·투자자를 대상으로 설명회를 개최했다고 밝혔다. 이번 계획의 핵심은 단기 외형...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=144648",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T19:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7be9e9",
+      "title": "DB손보, 2030년 주주환원율 50%로 확대…DPS 매년 10% 이상 늘린다",
+      "description": "DB손해보험이 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%까지 확대한다. 주당배당금(DPS)도 매년 10% 이상 늘릴 계획이다. DB손보는 28일 공시를 통해 이같은 내용의 기업가치 제고 계획을 밝혔다. 당초...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=749264",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T19:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d60c22",
+      "title": "DB손보, 주주환원율 2030년 40% 목표…배당 매년 10% 이상↑",
+      "description": "DB손해보험이 오는 2030년까지 주주환원 목표를 연결 기준 40%, 별도 기준 50%로 높인다. 주당배당금(DPS)도 매년 10% 이상 늘리기로 했다. DB손해보험은 28일 중장기 기업가치 제고(밸류업) 계획을 공시하고 주주와...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183683?sid=101",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T19:15:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ae50bf",
+      "title": "DB손보, 2030년 주주환원율 40%…'균형 성장'으로 배당 늘린다",
+      "description": "박재찬 보험전문기자 = DB손해보험이 오는 2030년까지 연결기준 주주환원율을 40%, 별도기준 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대한다. DB손보는 28일 '2026년 기업가치 제고 계획 설명회'를 열고 이 같은...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009138857?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T19:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e0e711",
+      "title": "DB손보, 2030년 주주환원율 연결 40%·별도 50%로 확대",
+      "description": "DB손해보험이 오는 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%까지 높인다. 주당배당금(DPS)은 매년 10% 이상 확대해 주주환원의 예측 가능성을 높인다는 계획이다. DB손보는 28일 이 같은 내용을 담은...",
+      "url": "https://www.viva100.com/article/20260828500711",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-557e4d",
+      "title": "[IS 용인] 노승희, KG 레이디스 2R서 비바람 뚫고 단독 선두…시즌 첫 승...",
+      "description": "안재희(20·DB손해보험)과 짜라위 분짠(27·태국), 장은수(28·굿빈스)가 한 타 차 2위를 달렸다. 이날 안재희는 버디 4개와 보기 1개를 기록했고, 장은수도 버디 2개와 보기 1개를 기록하며 선전했다. 짜라위 분짠은 보기...",
+      "url": "https://m.sports.naver.com/golf/article/241/0003527811",
+      "source": "isplus.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8de4fb",
+      "title": "외형경쟁 선 그은 DB손보…‘균형성장’으로 배당여력 확보",
+      "description": "채널별 신계약 수익 관리·현금 중심 환원…준비금 완화 효과에는 신중 DB손해보험이 과열된 외형 경쟁을 자제하고 수익성을 중심으로 한 ‘균형성장’으로 주주환원을 강화한다. 사업비와 손해율을 통제할 수 있는...",
+      "url": "https://dealsite.co.kr/articles/168052",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fc64b5",
+      "title": "'귀요미' 장은수, 2승 '불씨'...KLPGA투어 KG 2R 1타 차 공동 2위...노승희...",
+      "description": "노승희는 이날 버디 4개, 보기 1개로 3타를 줄여 합계 9언더파 135타를 쳐 공동 2위그룹 장은수, '루키' 안재희(DB손해보험), 짜라위 분짠(태국)을 1타 차로 제치고 전날 공동 6위에서 단독 1위에 나섰다. 노승희는...",
+      "url": "https://www.g-enews.com/view.php?ud=202608281731346508daecd3dad5_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-022365",
+      "title": "DB손보, 배당이익·자본효율성 제고 '지속가능한 균형성장' 선언",
+      "description": "DB손해보험이 단기 외형 확대보다 배당가능이익과 자본효율성을 함께 높이는'지속가능한 균형성장'을 선언했다. DB손보는 지난해 첫 기업가치 제고계획을 통해 주주환원 확대, K‑ICS 비율의 적정구간 관리, 미래...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464437",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:21:00+09:00"
+    },
+    {
+      "id": "DB손해보험-792e0e",
+      "title": "DB손보, 2030년 주주환원율 40%로…\"배당 매년 10% 이상 늘린다\"",
+      "description": "DB손해보험이 오는 2030년까지 연결기준 주주환원율을 40%, 별도기준으로는 50%까지 끌어올린다. 주당배당금(DPS)도 매년 10% 이상 확대해 주주환원의 예측 가능성을 높인다는 계획이다. 단순히 배당 규모를 늘리는 데...",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102312?sid=101",
+      "source": "economist.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-07008f",
+      "title": "DB손해보험, DCR 도입으로 배당 지속…2030년 40% 목표",
+      "description": "DB손해보험 사옥. 사진=DB손해보험  DB손해보험이 2030년까지 주주환원율을 연결기준 40%, 별도기준 50%까지 끌어올린다. 배당가능이익과 자본효율성을 함께 관리하면서 본업 경쟁력과 글로벌 사업을 통한 지속적인...",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=99350",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-21b2fd",
+      "title": "DB손보, 2030년 주주환원율 50%…'지속가능한 균형성장' 승부수",
+      "description": "DB손해보험이 오는 2030년 별도 기준 주주환원율을 50%까지 끌어올리고 주당배당금(DPS)도 매년 10% 이상 늘리기로 했다. 단순한 배당 확대에 그치지 않고 본업 경쟁력과 자본효율성을 높여 배당 여력을 키우는...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43342",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b572b6",
+      "title": "DB손해보험, 2030년 주주환원율 연결 40%·별도 50%로 상향…배당금 매년...",
+      "description": "DB손해보험이 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 끌어올리고 주당배당금(DPS)을 매년 10% 이상 늘리겠다는 중장기 기업가치 제고(밸류업) 계획을 28일 공시했다. 지난 3월 정기주주총회 당시...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762686",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T18:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a73f7f",
+      "title": "DB손보, 2030년 주주환원율 40%로 상향…주당 배당금 매년 10% 이상 늘린...",
+      "description": "DB손해보험이 배당 확대에 속도를 낸다. 2030년까지 연결 기준 주주환원율을 40% 수준으로 끌어올리고, 주당배당금(DPS)도 매년 10% 이상 늘리기로 했다. 단순히 배당을 늘리는 데 그치지 않고 자본건전성과 배당 여력을...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002239405?sid=101",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7a23f1",
+      "title": "DB손보, 2030년 주주환원율 50% 목표···\"외형보다 자본효율\"",
+      "description": "DB손해보험이 오는 2030년까지 연결 기준 주주환원율 40%, 별도 기준 50%를 달성하고 주당배당금(DPS)을 매년 10% 이상 늘리기로 했다. 외형 확대에 따른 사업비와 손해율 부담이 배당 여력을 떨어뜨릴 수 있다고 보고...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=636751",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e8af0f",
+      "title": "\"ROE 16.9%에도 PBR 1배 미만\"···DB손보, 주주환원율 50% 승부수",
+      "description": "DB손해보험(005830, 대표 정종표)이 높은 수익성에도 주가가 기업가치를 충분히 반영하지 못하고 있다는 판단에 따라 주주환원 확대에 나선다. DB손보는 28일 두번째 기업가치 제고(밸류업) 계획을 공시하고, 오는...",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120886",
+      "source": "www.koreastocknews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-636b2b",
+      "title": "[보험 뉴스브리핑] DB손보 \"2030년까지 주주환원율 40% 추진\"",
+      "description": "□ DB손보 \"2030년까지 주주환원율 40% 추진\" DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트, 투자자를 대상으로 설명회를 개최했다. 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로...",
+      "url": "https://www.asiatime.co.kr/article/20260828500317",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18cbd1",
+      "title": "DB손보, 2030년 주주환원율 50%↑",
+      "description": "배당가능이익·자본효율성 기반 ‘균형성장’ 채택 K-ICS·DCR 각각 180%·200% ‘배당 안전선’ 설정 DB손해보험이 주주환원을 확대하는 ‘밸류업(기업가치 제고)’ 계획을 내놓았다. 오는 2030년까지 주주환원율을...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=826122",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:48:00+09:00"
+    },
+    {
+      "id": "DB자산운용-26cd53",
+      "title": "거래소, 'KIWOOM 삼성SK그룹TOP4+' 등 ETF 4종 내달 1일 신규 상장",
+      "description": "한국거래소는 오는 9월1일 유가증권시장에 키움투자자산운용, DB자산운용, 마이다스에셋자산운용, KB자산운용의 상장지수펀드(ETF) 총 4종을 신규 상장할 예정이라고 28일 밝혔다. 한국거래소는 오는 9월1일...",
+      "url": "https://www.mediapen.com/news/view/1119682",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-28T17:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-593824",
+      "title": "DB손보 \"2030년 주주환원율 50%로 확대…배당 매년 10% 이상↑\"",
+      "description": "기업가치 제고계획 발표…주주환원 목표 이행구간 설정 \"배당가능이익 축소 우려에 균형성장 전략…포테그라 인수 시너지↑\" DB손해보험은 2030년까지 주주환원 목표를 연결기준 40%, 별도 기준 50%까지 확대한다....",
+      "url": "https://n.news.naver.com/mnews/article/001/0016277348?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:43:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2a3f91",
+      "title": "DB손보, 2030년 주주환원율 40% 시대 연다…'밸류업 청사진' 발표",
+      "description": "DB손해보험이 주주환원 확대와 자본효율성 제고를 동시에 추진하는 중장기 밸류업에 나선다. DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트·투자자를 대상으로 설명회를 열었다....",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=225296",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-86a6b7",
+      "title": "DB손보, 외형 경쟁서 한발 뺀다…2030년 주주환원율 50% 목표",
+      "description": "쿠키뉴스=김미현 기자 | DB손해보험이 신계약을 늘려 외형을 키우는 경쟁에서 한발 물러나 실제 배당 가능한 재원을 확대하는 데 초점을 맞춘다. 2030년 별도 재무제표 기준 주주환원율을 50%, 연결 기준 40%까지 높이고...",
+      "url": "https://www.kukinews.com/article/view/kuk202608280128",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d3df46",
+      "title": "DB손보, 주주환원 규모 키운다…2030년 주주환원율 50% 목표",
+      "description": "'지속가능한 균형성장' 기반 기업가치 제고계획 발표 2030년 연결기준 주주환원율 40%, 별도기준 50%로 상향 DB손해보험이 오는 2030년까지 연결기준 주주환원율 40%, 별도기준 50%로 늘리는 기업가치 제고 계획을...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000528598?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4531b2",
+      "title": "DB손보, '지속가능 균형성장' 으로 기업가치 높인다",
+      "description": "한국금융경제신문=함동희 기자 | DB손해보험이 단기 외형 확대보다 수익성과 자본효율성을 높이는 '지속가능한 균형성장'을 앞세워 중장기 기업가치 제고에 나선다. 사진=DB손해보험 DB손해보험은 중장기 기업가치...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=663409",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-17bec6",
+      "title": "DB손보, 주주환원 목표 50%로 상향…주당배당금 매년 10% 확대",
+      "description": "DB손해보험이 주주환원 목표를 기존 2028년 별도기준 35%에서 2030년 별도기준 50%로 상향했다. 주당배당금은 매년 10% 이상 늘린다. 단기 외형 확대보다 수익성과 자본효율성을 높여 실제 주주에게 돌려줄 수 있는...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364404",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:36:00+09:00"
+    },
+    {
+      "id": "DB자산운용-f38369",
+      "title": "ETF 4종, 9월 1일 유가증권시장 새 상장",
+      "description": "한국거래소는 28일 키움투자자산운용, DB자산운용, 마이다스에셋자산운용, KB자산운용의 ETF 4종을 유가증권시장에 신규 상장할 예정이라고 밝혔다. 상장 종목은 ‘KIWOOM 삼성SK그룹TOP4+’, ‘마이티...",
+      "url": "https://www.tokenpost.kr/news/market/399686",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-28T17:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5af937",
+      "title": "DB손보, 2030년 주주환원율 연결 40%·별도 50%로 높인다",
+      "description": "DB손해보험이 오는 2030년까지 연결 기준 주주환원율을 40%, 별도 기준으로는 50%까지 높인다. 주당배당금(DPS)은 매년 10% 이상 확대하고 자본건전성과 배당 여력을 함께 관리해 주주환원의 지속가능성과 예측...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126715?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3d38cc",
+      "title": "DB손보, 2030년 주주환원율 40%로 상향…DPS 매년 10%↑",
+      "description": "DB손해보험이 오는 2030년까지 연결 기준 주주환원율을 40%로 끌어올리고 주당배당금(DPS)을 매년 10% 이상 늘리는 중장기 기업가치 제고계획을 내놨다. 단기적인 외형 성장보다 본업 경쟁력과 자본효율성을 높여 배당...",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191414",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4048a3",
+      "title": "DB손해보험 \"주주환원율, 2030년 40%로 상향\"",
+      "description": "DB손해보험이 2030년 연결 기준 주주환원율을 40%까지 높이고 주당배당금(DPS)은 매년 10% 이상 늘리기로 했다. DB손보는 28일 이같은 내용을 핵심으로 하는 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264057?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6a3b30",
+      "title": "DB손해보험, 2030년 연결 주주환원율 '40%' 추진…DPS 매년 '10%' 이상 확...",
+      "description": "DB손해보험이 오는 2030년 연결기준 주주환원율 40%, 별도기준 50%를 목표로 제시했다. DPS(주당배당금)은 매년 10% 이상 늘리고, 자본건전성과 배당가능이익을 함께 관리해 단기 외형 확대보다 지속가능한 주주환원을...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201125",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-06e2ed",
+      "title": "[컨콜] DB손보 CFO \"PBR 저평가 해소 위해 새 밸류업 수립\"",
+      "description": "작년 2월 이어 28일 새 밸류업 계획 발표, 미 보험사 포테그라 연결실적 반영 DB손해보험이 미국 특화보험사 포테그라의 실적을 반영한 새 기업가치 제고(밸류업) 계획을 발표하면서, 주가순자산비율(PBR)의 저평가를...",
+      "url": "https://news.dealsitetv.com/articles/175365",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-658f5f",
+      "title": "[업앤다운]보험주, ‘혼조 마감’…한화손해보험↑·미래에셋생명↓",
+      "description": "에이플러스에셋은 전 거래일 대비 1.91%(250원) 오른 1만3370원에 거래를 마감했고 DB손해보험은 전 거래일 대비 1.85%(3400원) 상승한 18만7400원에 장을 마쳤다. 삼성생명은 전 거래일 대비 0.98%(3000원) 오른...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=826099",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4534b1",
+      "title": "DB손보, 주주환원율 별도 기준 50%로 상향…\"무리한 외형 성장보다 배당...",
+      "description": "DB손해보험이 오는 2030년까지 별도 기준 주주환원율을 50%까지 끌어올리겠다는 기업가치 제고 계획을 내놨다. 다만 무리한 신계약 확대는 오히려 미래 배당 여력을 떨어뜨릴 수 있다고 보고 회사의 자본 여력과 수익성에...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026082817120104443",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ed46af",
+      "title": "DB손보, 주주환원율 목표 상향…\"2030년 연결기준 40%\"",
+      "description": "DB손해보험이 주주환원 확대를 위해 중장기 기업가치 제고 계획을 새로 내놨다. 2030년까지 연결 기준 주주환원율을 40%, 별도 기준으로는 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 늘리는 것이 핵심이다....",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050275?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:10:00+09:00"
+    },
+    {
+      "id": "DB자산운용-e03072",
+      "title": "삼성·SK부터 AI 낸드까지…ETF 4종, 내달 1일 신규상장",
+      "description": "한국거래소는 키움투자자산운용과 DB자산운용, 마이다스에셋자산운용, KB자산운용의 ETF 4종을 다음달 1일 유가증권시장에 신규 상장한다. 키움투자자산운용의 ‘KIWOOM 삼성SK그룹TOP4+’는 삼성과 SK그룹 상장사...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/110925",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-28T17:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2824ba",
+      "title": "DB손보 \"2030년까지 연결 주주환원율 40%…DPS 매년 10% 이상 성장\"(종합...",
+      "description": "배당지표 신설해 킥스와 함께 관리…킥스 180%·DCR 200% 안전선으로 DB손해보험이 오는 2030년까지 연결기준 주주환원율 40%, 주당배당금(DPS) 매년 10% 이상 성장을 추진하는 내용의 중장기 기업가치 제고 계획을 28일...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432434",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d2acb2",
+      "title": "DB손보, 주주환원 목표 대폭 상향…주당배당금 매년 10% 늘린다",
+      "description": "2030년 연결 40%·별도 50% 동시 달성 목표 현금배당 중심…보유 자사주 소각분은 산정 제외 아주경제=이서영 기자 2s0@ajunews.com [사진=DB손해보험] DB손해보험이 2030년까지 연결 기준 주주환원율을 40%, 별도 기준으로는...",
+      "url": "https://www.ajunews.com/view/20260828165742413",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-433755",
+      "title": "DB손해보험, 2030년까지 연결 주주환원률 40%로 확대",
+      "description": "컨슈머타임스=김지훈 기자 | DB손해보험(대표 정종표)이 28일 중장기 기업가치 제고(밸류업) 계획을 공시하고 주주와 애널리스트·투자자를 대상으로 설명회를 개최했다. 이번 계획의 핵심은 단기 외형 확대보다...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=718515",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T17:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3951e3",
+      "title": "DB손보, 2030년 주주환원율 40%로…기업가치 제고계획 발표",
+      "description": "DB손해보험이 2030년 연결 기준 주주환원율을 40%까지 끌어올리고 주당배당금(DPS)을 매년 10% 이상 확대한다. 배당가능이익과 자본건전성을 함께 관리해 주주환원을 강화하는 동시에 지난 5월 인수를 마친 미국...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656244?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d60fb1",
+      "title": "DB손보 \"외형 대신 배당재원 중심 성장…2030년 주주환원율 50%\"",
+      "description": "포쓰저널 김지훈 기자 DB손해보험 기업가치 재고계획./사진=DB손해보험 DB손해보험이 신계약 계약서비스마진(CSM)을 늘리기 위한 외형 확대보다 실제 배당재원을 확보하는 방향으로 성장 전략의 무게중심을...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2117056",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-18344b",
+      "title": "DB손해보험, 2030년 연결 주주환원율 40%로 높인다",
+      "description": "DB손해보험이 2030년까지 연결 기준 주주환원율을 40%, 별도 기준 50%로 높인다. 주당배당금(DPS)도 매년 10% 이상 늘려 주주환원의 예측 가능성을 강화한다. 본업 경쟁력과 자본효율성을 높이는 동시에 올해 인수한...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=272620",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c15dae",
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 급락…선물 시장도 반도...",
+      "description": "삼성생명과 삼성화재, DB손해보험이 상승했다. 조선주는 종목별로 엇갈렸다. HD현대중공업과 HD한국조선해양, 한화오션이 하락한 반면 삼성중공업은 상승했다. 방산주도 혼조세를 보였다. 한화에어로스페이스와...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481637",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:52:00+09:00"
+    },
+    {
+      "id": "DB자산운용-d5cf7f",
+      "title": "'삼성·SK그룹 상장사 투자 패시브' 등 ETF 4종 신규 상장",
+      "description": "DB자산운용의 '마이티 신약포커스바이오액티브'는 신약 개발을 추진하거나 관련 파이프라인을 가진 국내 바이오 기업에 투자한다. 'MIDAS 머니마켓액티브'는 마이다스에셋자산운용이 출시한 ETF로, 국공채와...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016277219?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-28T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1248a2",
+      "title": "DB손보, 2030년 주주환원율 50%로…배당도 매년 10% 이상 확대",
+      "description": "DB손해보험이 2030년까지 별도 기준 주주환원율을 50%로 높인다. 연결 기준으로는 40%를 목표로 잡았다. 주당배당금(DPS)도 매년 10% 이상 늘려 주주환원의 예측 가능성을 높이기로 했다. DB손해보험은 28일 오후 이 같은...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202608280156",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b68f7c",
+      "title": "﻿DB손보, 기업가치 제고계획 발표…\"2030년 주주환원율 40%\"",
+      "description": "﻿DB손해보험이 '중장기 기업가치 제고(밸류업) 계획'을 공시하고 주주와 애널리스트·투자자 대상 설명회를 개최했다고 28일 밝혔다. 이날 발표한 밸류업 계획의 핵심은 '지속 가능한 균형성장'을 통한 주주환원의...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=117098",
+      "source": "www.newsdream.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-92b2a7",
+      "title": "DB손보, \"2030년 주주환원율 연결 기준 40%, 별도 50%로 상향\"",
+      "description": "DB손보 사옥사진/제공=DB손보  DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트·투자자를 대상으로 설명회를 개최했다. 이번 밸류업 계획의 핵심은 단기 외형 확대보다 배당가능이익과...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1400416",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:30:00+09:00"
+    },
+    {
+      "id": "DB생명-c18b88",
+      "title": "[더벨][연금사업자 경쟁력 분석] 한국증권, 라이벌 삼성증권 제압…국민...",
+      "description": "보험사 중 삼성생명 다음가는 곳은 DB생명으로 수익률 32.68%, 전체 19위다. 국민은행과 삼성생명이 각 업권에서 유일하게 순위권을 차지했다는 말은 달리 말해 증권사들이 압도적 위용을 뽐냈다고 볼 수 있다. 전체...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608261425509520103154",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-08-28T16:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5bd7cf",
+      "title": "이익 13% 늘었는데 ROE는 8%대 '뚝'…반년 새 86조 불어난 보험사 '고무...",
+      "description": "손해보험업계에 따르면 5대 손보사(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재)의 자동차보험 손해율(단순평균)은 올해 상반기 84.1%로 전년 동기(82.6%)보다 1.4%포인트 더 올랐다. 2022년 상반기 76.1%를...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=348722",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6e5841",
+      "title": "DB손해보험, 주주환원 목표 높였다…2030년 별도 50%",
+      "description": "기자] DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트, 투자자를 대상으로 설명회를 열었다고 밝혔다. 2030년 주주환원율을 연결기준 40%, 별도기준 50%까지 높이고 주당배당금(DPS)은...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000099267",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-24732c",
+      "title": "기업 공시 [8월 28일]",
+      "description": "계약 ▲DB손해보험=주당 배당금 매년 10% 이상 성장 약속 등 기업가치 제고 계획 발표 ▲대성창투(027830)=주당 액면가 500원서 2500원으로 병합 결정 ▲아톤(158430)=서울시 영등포구서 성동구로 본점 소재지 변경...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656233?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:23:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a67971",
+      "title": "DB손보, 2030년 주주환원율 40%로…배당 매년 10% 이상 확대",
+      "description": "［뉴시안= 조은주 기자］DB손해보험이 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 끌어올리고 주당배당금(DPS)도 매년 10% 이상 확대해 주주환원의 예측 가능성을 높이기로 했다. 본업 경쟁력과...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=94421",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-419f62",
+      "title": "DB손보, DPS 매년 10% 이상 늘린다…\"2030년 주주환원율 50%\"",
+      "description": "민주신문=이한호 기자｜DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주·애널리스트·투자자 대상 설명회를 열었다. 회사는 단기 외형 확대보다 배당가능이익과 자본효율성을 함께 높이는...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=168744",
+      "source": "www.iminju.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4786d8",
+      "title": "DB손해보험, 주주환원율 50%로 높인다…\"지속가능한 균형성장\"",
+      "description": "DB손해보험이 중장기 기업가치 제고 계획을 발표하고 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 높이기로 했습니다. 주당배당금(DPS)도 매년 10% 이상 성장시키고, 단기적인 외형 확대보다 배당가능이익과...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=280502",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3872c7",
+      "title": "DB손보, 밸류업 목표 상향…\"2030년 주주환원율 40%\"",
+      "description": "K‑ICS 220%·DCR 400% 달성 시 추가 환원 시행키로 DB손해보험이 오는 2030년까지 연결 기준 주주환원율을 40%까지 확대하는 동시에 매년 주당배당금(DPS)을 10% 이상 높인다는 내용의 기업가치(밸류업) 제고 계획을...",
+      "url": "https://dealsite.co.kr/articles/168033",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7b0870",
+      "title": "DB손해보험, 2030년 별도 주주환원율 50% 목표…DPS 연 10%↑",
+      "description": "DB손해보험이 2030년까지 연결 기준 주주환원율을 40%, 별도 기준 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대한다. 단기 외형 성장보다 자본효율성과 배당여력을 함께 높이는 '지속가능한 균형성장'을...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=187227",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a4aefb",
+      "title": "DB손해보험, 밸류업 발표…2030년 연결 주주환원율 40%로 상향",
+      "description": "DB손해보험은 28일 중장기 기업가치 제고(밸류업) 계획을 공시하고 주주와 애널리스트·투자자를 대상으로 설명회를 개최했다. 이번 계획의 핵심은 단기 외형 확대보다 배당가능이익과 자본효율성을 함께 높이는...",
+      "url": "https://www.mediapen.com/news/view/1119647",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0fe343",
+      "title": "DB손해보험, 기업가치 제고계획 발표…주주환원 확대·자본효율성 강화",
+      "description": "문화경제 | CNB저널 | 씨앤비저널 DB손해보험은 주주환원 목표를 기존 2028년 별도 기준 35%에서 2030년 연결 기준 40%, 별도 기준 50%로 상향했다. 주당배당금(DPS)은 매년 10% 이상 늘릴 계획이라 28일 밝혔다. 배당...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=313074",
+      "source": "www.cnbizm.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-06c4ee",
+      "title": "키움·DB·마이다스·KB운용 ETF 4종목 상장",
+      "description": "한국거래소(이하 거래소)는 키움투자자산운용, DB자산운용, 마이다스에셋자산운용, KB자산운용의 상장지수펀드(ETF) 4종목을 다음 달 1일 유가증권시장에 상장한다고 28일 밝혔다. 상장 종목은 ▲KIWOOM...",
+      "url": "https://www.newspim.com/news/view/20260828000886",
+      "source": "www.newspim.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-08-28T16:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5f2014",
+      "title": "DB손보, 2030년 주주환원율 40%로 상향 제시",
+      "description": "사진=DB손해보험  DB손해보험이 단기적 외형 확장보다 자본 효율성을 높이는 지속가능한 균형성장을 바탕으로 주주환원을 대폭 늘리겠다는 중장기 기업가치 제고 방안을 내놓았다. DB손보는 28일 중장기 기업가치...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317164",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c68d1b",
+      "title": "[거래소 외국인] 삼성전기 SK스퀘어 SK이노베이션 대한항공 SK '왕성한 식...",
+      "description": "신한지주, DB손해보험 순이었다. 반도체 분야에서는 SK하이닉스와 삼성전자, 삼성전자우, 한미반도체가 매도 상위권을 차지했다. 삼성SDI와 LG에너지솔루션 등 2차전지 관련주도 외국인 순매도 종목에 포함됐다. 바이오...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481610",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a8ca51",
+      "title": "DB손보, 밸류업 목표 높였다…2030년 주주환원율 최대 50%",
+      "description": "이투데이=권현원 기자 | DB손해보험이 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 높인다. 주당배당금(DPS)도 매년 10% 이상 확대해 주주환원의 예측 가능성을 높인다는 계획이다. 28일 DB손보는 이 같은...",
+      "url": "https://www.etoday.co.kr/news/view/2619440",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a13a5",
+      "title": "DB손보, 2030년 주주환원율 40%로 상향",
+      "description": "DB손해보험이 장기적인 균형성장을 바탕으로 기업가치 제고와 주주환원 확대에 나선다. DB손해보험은 중장기 기업가치 제고 계획을 공시하고, 28일 주주와 애널리스트, 투자자를 대상으로 설명회를 열었다고 밝혔다....",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=2664",
+      "source": "www.newsmap.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e8af1b",
+      "title": "두 번째 ‘밸류업 공시’ 내놓은 DB손해보험… 여전히 1배 미만 PBR 개선...",
+      "description": "DB손해보험이 두 번째 기업가치 제고(밸류업 공시) 계획을 내놨다. 단기적 외형 확대보다 배당가능이익과 자본효율성을 높여 기업의 근본적 가치를 끌어올리고 지속가능한 균형성장이 가능하도록 주주환원 확대를...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154535?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4ea200",
+      "title": "DB손해보험, 주주환원 규모 키운다…2030년까지 주주환원율 연결 40%·별...",
+      "description": "DB손해보험이 주주환원 확대에 나선다. 2030년 주주환원율을 연결 기준 40%, 별도 기준 50%로 높이고 주당배당금(DPS)의 연 10% 이상 성장을 추진한다. 배당가능이익과 자본건전성을 함께 관리하는 체계도 마련한다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=131110",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3f8574",
+      "title": "DB손해보험, 2030년 주주환원율 연결 40%·별도 50%로 상향",
+      "description": "DB손해보험이 2030년 연결기준 주주환원율을 40%, 별도기준 50%까지 끌어올리고 주당배당금(DPS)을 매년 10% 이상 확대한다. 단기적인 외형 성장보다 배당가능이익과 자본효율성을 함께 높이는 '지속가능한 균형성장'을...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=741546",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T16:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cd5daa",
+      "title": "DB손해보험, 2030년 주주환원율 40%로…DPS 매년 10% 이상 확대",
+      "description": "DB손해보험이 2030년 연결 기준 주주환원율을 40%, 별도 기준으로는 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대한다. 외형 성장보다 배당가능이익과 자본효율성을 함께 높이는 '지속가능한 균형성장'을...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=89104",
+      "source": "www.the-today.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2900a0",
+      "title": "DB손보, 2030년 연결 주주환원율 40%로…DPS 매년 10% 성장",
+      "description": "DB손해보험이 2030년까지 연결 기준 주주환원율을 40%로 높이고 주당배당금(DPS)을 매년 10% 이상 늘린다. 미국 특화보험사 포테그라 인수를 반영해 주주환원 정책을 연결재무제표 중심으로 전환했다. DB손해보험이...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52419",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-830d4e",
+      "title": "DB손보, 2030년 주주환원율 40%로 높인다",
+      "description": "DB손해보험이 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 끌어올리고 주당배당금도 매년 10% 이상 늘리기로 했습니다. 본업 경쟁력과 자본효율성을 함께 높여 중장기 주주환원을 확대하겠다는...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000529970?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:53:00+09:00"
+    },
+    {
+      "id": "DB손해보험-286f37",
+      "title": "DB손해보험, 2030년 별도 주주환원율 50% 상향 밸류업 발표",
+      "description": "DB손해보험이 단기 외형 성장 경쟁의 굴레를 벗고 배당가능이익 중심의 자본 배분 구조를 전면 가동한다. DB손해보험은 8월 28일 주주와 애널리스트 등을 대상으로 기업가치 제고(밸류업) 설명회를 열고, 2030년까지...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3138187",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65c22d",
+      "title": "DB손보, 2030년 주주환원율 40%로…주당배당금 매년 10% 이상 확대",
+      "description": "박재찬 보험전문기자 = DB손해보험이 오는 2030년까지 연결기준 주주환원율을 40%, 별도기준 50%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대한다. 28일 DB손보는 이 같은 내용의 중장기 기업가치 제고(밸류업)...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009138484?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d07ff8",
+      "title": "[보험업계기상도]8월 넷째 주 손보 ‘흐림’·생보 ‘맑음’",
+      "description": "◆이번 주 보험업계 날씨 손해보험업계에 따르면 삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 4사의 올해 1~7월 누적 자동차보험 손해율 단순평균은 84.8%로 전년 동기 대비 0.8%p 올랐다. 통상 손익분기점으로...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=826064",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dccbaf",
+      "title": "DB손해보험 중장기 밸류업 계획 발표, \"2030년 목표 주주환원율 50%\"",
+      "description": "DB손해보험이 2030년 별도기준 주주환원율 목표를 50%로 제시했다. 사진은 DB손해보험 기업가치 제고 계획 갈무리. < DB손해보험 > DB손해보험이 2030년 주주환원율을 50%까지 끌어올린다. DB손해보험은 28일 중장기...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445867",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a3900b",
+      "title": "DB손보 주주환원율 2030년 연결 40% 목표",
+      "description": "DB손해보험이 2030년까지 연결 기준 주주환원율 40%, 별도 기준 50%를 목표로 하는 중장기 기업가치 제고 계획을 내놨다. 주당배당금은 매년 10% 이상 늘리는 방향으로 제시했다. DB손해보험은 28일 중장기 기업가치...",
+      "url": "https://www.tokenpost.kr/news/market/399608",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4462fa",
+      "title": "DB손보, 새 밸류업 공개…연결 순익 40% 주주에게",
+      "description": "주주환원율 목표치 28년 별도 35%→30년 연결 40%로 상향 DB손해보험이 미국 특화보험사 포테그라의 실적을 반영한 새 기업가치 제고(밸류업) 계획을 발표했다. 주주환원율 목표치를 기존 2028년 35%에서 2030년 연결 40...",
+      "url": "https://news.dealsitetv.com/articles/175352",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-71920e",
+      "title": "DB손해보험 \"2030년 주주환원 50%로 상향\"",
+      "description": "서울 강남구 대치동에 위치한 DB손해보험 본사 야경. (사진=DB손해보험)  DB손해보험이 오는 2030년 주주환원율을 연결기준 40%, 별도기준 50%까지 끌어올리기로 했다. 주당배당금도 매년 10% 이상 성장하겠다는 목표를...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=124201",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5fb349",
+      "title": "DB손보, 순이익 50% 주주 환원…글로벌 시장 공략 박차",
+      "description": "DB손해보험이 오는 2030년 연간 당기순이익의 절반을 주주들에게 환원한다는 목표를 세웠다. 올해 2분기 당기순이익 1위를 차지한 DB손보는 효율 지표 개선을 통해 사업 경쟁력을 강화하는 한편, 글로벌 시장...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309260",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d29d61",
+      "title": "[금융권 이모저모]DB손해보험, 2030년 별도 주주환원율 50% 추진 外",
+      "description": "DB손해보험 사옥 전경. / 사진=DB손해보험 ◇DB손해보험, 2030년 주주환원율 연결 40%·별도 50% 추진 DB손해보험은 28일 중장기 기업가치 제고 계획을 공시하고 주주·애널리스트·투자자를 대상으로 설명회를 열었다....",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=116085",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-042534",
+      "title": "DB손보, 2030년 연결 주주환원율 40%로… '밸류업' 속도",
+      "description": "DB손해보험이 오는 2030년까지 연결기준 주주환원율을 40%까지 높이기로 했다. 주당배당금도 매년 10% 이상 성장시키는 등 주주가치 제고에 속도를 낸다. DB손해보험은 28일 이 같은 내용을 담은 '중장기 기업가치 제고...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92513",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-93073d",
+      "title": "DB손보, 주주환원 확대…2030년 주주환원율 40% 목표",
+      "description": "DB손해보험은 28일 중장기 기업가치 제고(밸류업) 계획을 공시하고 주주와 애널리스트, 투자자를 대상으로 설명회를 열었다. [DB손해보험]  DB손해보험이 본업 경쟁력과 자본효율성을 높여 지속가능한 성장 기반을...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=144661",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-35a0b7",
+      "title": "DB손해보험, 주주환원 ‘확’ 키운다...2030년 주주환원율 50%",
+      "description": "DB손해보험이 중장기 기업가치 제고(밸류업) 계획을 발표했다. 배당가능이익·자본효율성을 높여 지속가능한 균형성장을 도모하고, 이를 토대로 주주환원을 늘리겠다는 목표다. DB손해보험은 2030년 연결...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260828024307753",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-74e986",
+      "title": "DB손해보험, 2030년까지 연결 주주환원률 40%로 확대",
+      "description": "DB손해보험이 2030년까지 연결 기준 주주환원률을 40%까지 확대한다는 목표를 제시했다. 단기 외형 확대보다 지속가능한 균형성장을 통한 주주환원의 확대를 실현한다는 목표다. DB손보는 28일 중장기 기업가치 제고...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014155009?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ee8f51",
+      "title": "DB손보, 2030년 주주환원율 40%로…\"자본효율 중심 성장\"",
+      "description": "DB손해보험이 오는 2030년 연결 기준 주주환원율을 40%까지 높인다. 별도 기준 목표는 50%로 설정하고 주당배당금(DPS)도 매년 10% 이상 확대한다. 외형 성장보다 수익성과 자본효율성을 중시하는 '지속가능한...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567876?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:21:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0e2f81",
+      "title": "DB손보, 주주환원율·배당금 상향…\"지속가능한 성장 추진\"",
+      "description": "DB손보 사옥.(사진 / DB손해보험) DB손해보험은 주주환원 목표를 기존 2028년 별도 35%에서 2030년 연결 40%, 별도 50%로 높이고, 주당배당금(DPS)은 매년 10% 이상 성장시키기로 했다. DB손보는 이 같은 내용을 골자로 하는...",
+      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364344",
+      "source": "www.sisafocus.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0b309c",
+      "title": "\"PBR 1배 벽 넘는다\"…DB손보, 주주환원 50%·DPS 연 10% 확대 '승부수'",
+      "description": "DB손해보험이 2030년까지 별도 기준 주주환원율을 50%까지 대폭 끌어올리고 매년 주당배당금(DPS)을 10% 이상 늘리는 중장기 기업가치 제고(밸류업) 로드맵을 공개했다. 단기 외형 성장을 위한 무리한 사업비 경쟁을...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026082815124159827cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9171a4",
+      "title": "DB손보, 2030년 주주환원율 40%로…배당 매년 10% 이상 늘려",
+      "description": "DB손해보험은 중장기 기업가치 제고계획을 통해 오는 2030년 연결기준 주주환원율을 40%, 별도기준 50%까지 높이겠다고 28일 밝혔다. DB손보는 단기 외형 확대보다 배당가능이익과 자본효율성을 함께 높이는...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=109834",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a9ebeb",
+      "title": "DB손해보험, 주당배당금 매년 10% 이상 확대",
+      "description": "DB손해보험이 자본 효율성과 주주 가치 제고를 중심으로 한 중장기 기업가치 제고(밸류업) 계획을 발표했다. DB손보는 2030년까지 주주환원율을 연결 기준 40%, 별도 기준 50%로 상향하고 주당배당금(DPS)을 매년 10% 이상...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1013333",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8683cc",
+      "title": "DB손보, 2030년 주주환원율 40%로 확대…주당배당금 매년 10%↑",
+      "description": "DB손해보험이 2030년 연결기준 주주환원율을 40%까지 높이고 주당배당금(DPS)을 매년 10% 이상 확대하기로 했다. DB손해보험은 28일 이 같은 내용의 중장기 기업가치 제고 계획을 공시하고 주주와 애널리스트·투자자를...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317042",
+      "source": "www.wolyo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2a6dc4",
+      "title": "DB손해보험, 2030년 연결 주주환원 40%로 상향…밸류업 정조준",
+      "description": "배당성향 50%까지 확대 ROE 16%대 저평가 여전 포테그라로 리레이팅 시동 [사진=DB손해보험] [뉴스투데이=김태규 기자] DB손해보험이 기업가치 제고 계획을 통해 주주환원 목표를 대폭 상향했다. 기존 2028년...",
+      "url": "https://www.news2day.co.kr/article/20260828500208",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-08-28T15:10:00+09:00"
+    },
+    {
+      "id": "DB증권-d838ab",
+      "title": "SK텔레콤, SK호라이즌 신설…증권가 ‘AI 인프라 기업’ 재평가",
+      "description": "DB증권은 목표주가 12만5000원, 삼성증권은 11만5000원을 유지했다. AIDC 사업은 SK호라이즌과 SK하이퍼가 역할을 나누는 구조로 재편된다. SK호라이즌은 기존 데이터센터와 울산·구로 AIDC를 포함한 318메가와트(MW)...",
+      "url": "https://www.etoday.co.kr/news/view/2619353",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T15:02:00+09:00"
+    },
+    {
+      "id": "DB증권-d2ad03",
+      "title": "[분석] 51% 남기고 3조 확보…SKT가 AI데이터센터 떼어낸 이유는",
+      "description": "신은정 DB증권 연구원은 이번 인적분할에 대해 \"금번 인적분할을 통해 AIDC 사업 관련 투자 유치 및 자금 활용에 있어 원활한 구조를 형성하게 됐음\"이라고 평가했다. 이번 투자 유치가 향후 대규모 프로젝트 추진...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=358047",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T15:02:00+09:00"
+    },
+    {
+      "id": "DB증권-35e8d1",
+      "title": "[코스닥 입성 해치텍] ① 공모가 -30% 추락한 해치텍…9월 25일 '오버행 ...",
+      "description": "증권신고서에 따르면 상장주선인 DB증권을 제외한 벤처금융·전문투자자가 보유한 54만7천17주(상장 후 지분 9.90%)는 코스닥시장 상장규정에 따라 상장 후 1개월, 즉 9월 25일까지만 의무보유된다. 여기에는 해치텍...",
+      "url": "http://www.suwonilbo.kr/news/articleView.html?idxno=317797",
+      "source": "www.suwonilbo.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T13:54:00+09:00"
+    },
+    {
+      "id": "DB증권-337c36",
+      "title": "\"지금도 9%대인데 더 오른다\"…기준금리 3% 시대, 빚투 개미 비명",
+      "description": "KB증권은 31일 이상, 대신증권과 DB증권은 91일 이상에 9.5% 금리를 적용 중이다. 신용융자금리는 자금 조달 비용인 기준금리에 증권사가 자체적으로 붙이는 가산금리를 합쳐 산정된다. 기준금리는 주로 기업어음(CP)이나...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014154708?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T13:50:00+09:00"
+    },
+    {
+      "id": "DB저축은행-7eb96a",
+      "title": "저축은행 상반기 순익 7658억원…3배 늘었지만 연체율 다시 상승",
+      "description": "OK저축은행은 13.86%, 다올저축은행 12.64%, 애큐온저축은행 12.18%, DB저축은행 11.50%, JT친애저축은행은 11.33%를 기록했다. 모두 자산 규모별 규제비율을 웃돌았다. 신협·농협·수협·산림조합 등 상호금융조합도...",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202608280950538015de3f0aa1be_7",
+      "source": "www.thepowernews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-28T09:54:00+09:00"
+    },
+    {
+      "id": "DB증권-4ba12f",
+      "title": "심텍, 무거운 재무부담·대규모 자금조달…증설의 승부수 [장하은의 크...",
+      "description": "조현지 DB증권 연구원은 “잉여현금흐름(FCF) 개선을 감안하더라도 차입 외 추가적인 자금 조달 가능성이 높다\"며 “회사가 공시를 통해 유상증자 가능성을 명시적으로 제외한 만큼 영구 전환사채 등 메자닌을 활용할...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260828028507625",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T09:16:00+09:00"
+    },
+    {
+      "id": "DB저축은행-56ef0c",
+      "title": "저축은행, 순익 3배 늘었는데...기업대출 연체율 또 올라",
+      "description": "다만 지난해 말보다 0.12%포인트 하락했고, 자산 상위 10개사 가운데 SBI저축은행(19.52%)과 한국투자저축은행(19.48%)이 높은 반면 JT친애저축은행(11.33%)과 DB저축은행(11.50%)은 상대적으로 낮았다. 금감원은 하반기에도...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=260269",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-08-28T09:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6e7a4d",
+      "title": "[창간 특집][DB그룹] AI 시대 전력반도체 훈풍 탄 DB하이텍...5년간 1.5조...",
+      "description": "DB그룹의 반도체 계열사 DB하이텍은 이같은 흐름을 타고 뚜렷한 실적 개선세를 보이고 있다. 나아가 향후 5년간 1조5000억원을 투자해 생산능력 확충과 실리콘카바이드(SiC) 등 차세대 전력반도체 양산 체제 구축이라는...",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202608260855403111bbceadc3c9_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-08-28T09:02:00+09:00"
+    },
+    {
+      "id": "DB증권-6e0a17",
+      "title": "삼성바이오로직스, 4년 만에 조 단위 유증...폴리펩타이드 그룹 인수·시...",
+      "description": "DB증권은 최근 보고서에서 \"삼성바이오로직스가 펩타이드 CDMO 시장 진출을 통해 중장기 성장 동력을 확보했으며 연결 실적 외형 확대에 긍정적인 전략적 결정을 내렸다\"고 평가했다.",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=204466",
+      "source": "www.livebiz.today",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-08-28T08:44:00+09:00"
+    },
     {
       "id": "DB손해보험-16e08f",
       "title": "[아주증시포커스] 연기금 리밸런싱 두달…SK하이닉스·네이버 사고 삼전...",
