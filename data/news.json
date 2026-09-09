@@ -1,6 +1,996 @@
 {
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "articles": [
+    {
+      "id": "DB손해보험-2376a1",
+      "title": "“빨리 부자 되려 하면 파산 문턱까지 간다… 재미없는 투자해야 큰 부...",
+      "description": "은행주와 DB손해보험 같은 보험주가 그런 예다. 화려하지 않지만 장기적으로 꾸준히 올랐고 배당도 많이 줬다. 물론 내가 산 것이 모두 정답인지는 알 수 없다. 더 지켜봐야 한다.” 기업을 분석할 때 어떤 기준을 보나....",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038809?sid=101",
+      "source": "weekly.donga.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3b2271",
+      "title": "[Invest]금융사들, 국경 넘어 '매수자 우위 시장'으로…민원 피하고 운용...",
+      "description": "그간 삼성의 금융 계열사가 대형 해외 M&A에 소극적이었던 만큼 이례적인 변화로 해석된다.DB손해보험은 지난 5월 미국 특화보험사 '포테그라' 인수를 마무리했다. 인수가액은 약 2조3000억원으로 국내 보험사가 단행한...",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/09/09/2026090980130.html",
+      "source": "www.investchosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-43cf5e",
+      "title": "'나이롱 환자' 거르겠다하니 … 심사방식 놓고 한의계 반발",
+      "description": "삼성화재·현대해상·KB손해보험·DB손해보험의 지난해 통계에서 8주를 넘겨 치료받은 환자는 경상환자의 11.4%였고, 이 가운데 87.8%가 한방 치료를 이용했다. 보험업권은 8주룰 도입으로 경상환자 진료비가 줄면...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169782",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T07:00:00+09:00"
+    },
+    {
+      "id": "DB증권-5ac2b5",
+      "title": "미래에셋증권 583만점으로 정상…삼성증권·한국투자증권 順",
+      "description": "하나증권, DB증권, 교보증권, 신영증권, IBK투자증권, LS증권, 다올투자증권, 부국증권, 아이엠증권, 케이프투자증권 순으로 집계됐다. 1위 미래에셋증권의 브랜드평판지수는 583만282였다. 참여지수 155만6541...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485584",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-10T06:58:00+09:00"
+    },
+    {
+      "id": "DB증권-33d5bf",
+      "title": "[브랜드평판] 미래에셋증권, 증권사 9월 1위... 삼성증권, 한국투자증권...",
+      "description": "하나증권 ▲DB증권 ▲교보증권 ▲신영증권 ▲IBK투자증권 ▲LS증권 ▲다올투자증권 ▲부국증권 ▲아이엠증권 ▲케이프투자증권 순이다. 구창환 한국기업평판연구소 소장은 \"증권사 브랜드 빅데이터가 전월...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54235",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-10T06:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4369ae",
+      "title": "[소비자분쟁 The50 ㊱] \"상담만 받아도 TV 준다더니\"…보험·상조, 사은품...",
+      "description": "라이나생명, 신한라이프, AIA생명, 한화생명, DB손해보험, 메리츠화재 등 보험사뿐 보험대리점(GA), 상조업체까지 이같은 민원에서 자유롭지 않다. 보험이나 상조 상담 사은품은 소비자가 상담을 신청하도록 유도하는...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762960",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T06:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7d0ebd",
+      "title": "생보사 배타적사용권 급증, 손보사는 급감...한화손해보험 6건 최다 획득",
+      "description": "변호사상담서비스', 성조숙증 등 진단검사지원비 등에 대해 배타적사용권을 획득했다. DB손해보험(대표 정종표)과 현대해상(대표 이석현)이 각각 2건, 흥국화재(대표 김대현)가 1건으로 뒤를 이었다. [소비자가만드는신문=]",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763452",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T06:10:00+09:00"
+    },
+    {
+      "id": "DB생명-7d0ebd",
+      "title": "생보사 배타적사용권 급증, 손보사는 급감...한화손해보험 6건 최다 획득",
+      "description": "물가연동 보험료 할인제도 등 2개 항목에 각각 3개월의 배타적사용권을 받았다. AIA생명(대표 전혜숙)과 DB생명(대표 김영만), 한화생명(대표 권혁웅·이경근)은 각각 2건, 신한라이프(대표 천상영)와 라이나생명(대표...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=763452",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-10T06:10:00+09:00"
+    },
+    {
+      "id": "DB증권-53584d",
+      "title": "토큰증권 시행 D-5개월...\"맞춤형 판 짠다\" vs \"비용 아끼자\" [증권가 코...",
+      "description": "현재 코스콤과 KoSTO 관련 업무협약을 체결한 증권사는 △키움증권 △대신증권 △NH투자증권 △메리츠증권 △교보증권 △IBK투자증권 △유안타증권 △BNK투자증권 △DB증권 △iM증권 △다올투자증권 △우리투자증권 등 총...",
+      "url": "https://www.etoday.co.kr/news/view/2623653",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-10T06:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9e8e2d",
+      "title": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
+      "description": "KB손해보험과 DB손해보험을 시작으로, 오는 10월 30일까지 생명보험사 4곳·손해보험사 10곳을 순차 점검할 계획이다. 이는 보험상품 약관 및 보험금 지급 기준 개선, 분쟁조정 인력 확충 등에도 불구하고 분쟁이 계속...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016301218?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-10T05:55:00+09:00"
+    },
+    {
+      "id": "DB증권-e1e929",
+      "title": "중동 충돌 격화, 국제유가 한달만에 100달러 다시 넘어",
+      "description": "박성우 DB증권 애널리스트는 “이번 주 발표될 8월 미 소비자물가 보고서에 따라 FOMC가 금리 인상 여부를 결정하게 될 것”이라며 “시장의 전망치를 상회하는 수치가 나오게 되면 연내 금리 인상 가능성이 높아질 수...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003747058?sid=101",
+      "source": "www.donga.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-10T04:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-de8865",
+      "title": "'5극3특 성장엔진'…충북의 새로운 성장 기회",
+      "description": "잘 아시듯이 충북에는 174개 제조 기업을 바탕으로 SK 하이닉스, 음성의 DB하이텍 그래서 괴산, 오창에 네패스, 또한 어보브반도체 등 팹리스와 파운드리, 패키징 기업들이 전주기적으로 위치해 있어가지고요. 우수한...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004187771?sid=102",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T22:34:00+09:00"
+    },
+    {
+      "id": "DB증권-931313",
+      "title": "중동 갈등에 국제유가 100달러 재돌파… ‘오일플레이션’ 덮치나",
+      "description": "박성우 DB증권 애널리스트는 “이번 주 발표될 8월 미 소비자물가 보고서에 따라 FOMC가 금리 인상 여부를 결정하게 될 것”이라며 “시장의 전망치를 상회하는 수치가 나오게 되면 연내 금리 인상 가능성이 높아질 수...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746952?sid=101",
+      "source": "www.donga.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T20:41:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2ccda8",
+      "title": "[헬로스톡] 9/9 주목할 종목 : HDC·심텍·DB하이텍·대한항공",
+      "description": "DB하이텍 — 8인치 파운드리 가격 인상, 연내 최소 15% 확보 대만 UMC가 8월 매출 증가와 4년 만의 최고치를 기록하며 상한가를 기록하는 등 글로벌 8인치·성숙공정 업황이 빠르게 회복되는 가운데, DB하이텍의...",
+      "url": "https://www.hellot.net/news/article.html?no=114880",
+      "source": "www.hellot.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T19:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b3a0de",
+      "title": "DB하이텍, 세계 최초 8인치 1200V SiC MOSFET 공정 신뢰성 검증 완료",
+      "description": "뉴데일리 윤아름 기자 = DB하이텍이 세계 최초로 8인치 웨이퍼 기반 1200V SiC MOSFET 공정의 신뢰성 검증을 완료했다. 8인치 SiC 파운드리 일괄공정을 구축한 데 이어 세대별 PDK(공정 설계 키트)를 고객사에...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/09/2026090900322.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T19:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-36aca0",
+      "title": "[기고] 기후 위기 시대, 축산농가의 든든한 안전망은 가축재해보험",
+      "description": "가입을 희망하는 농가는 가까운 지역 농‧축협(NH농협손해보험) 또는 보험사(KB손해보험, DB손해보험, 한화손해보험, 메리츠화재보험)에서 보장 내용과 보험금액 등을 상담한 뒤 신청하면 된다. 물론 보험료가 부담스럽게...",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=926499",
+      "source": "www.cctimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T19:02:00+09:00"
+    },
+    {
+      "id": "DB증권-ed3c8c",
+      "title": "거래소는 월렛 접는데 금융사는 지갑 사업 채비 ‘동상이몽’ 왜? [크립...",
+      "description": "DB증권은 지난 7월 옵티미즘과 제주 지역 STO, RWA 사업모델 발굴을 위한 MOU를 체결했다. 자체 블록체인을 처음부터 개발하기보다 이미 검증된 L2 기술을 활용해 금융서비스에 필요한 인프라를 구축하려는 움직임이다....",
+      "url": "https://n.news.naver.com/mnews/article/016/0002695080?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T18:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-979f4c",
+      "title": "DB보험 수뇌부 재편…오너家 경영 보폭 확대",
+      "description": "김준기 DB그룹 창업회장의 조카이자 김남호 DB그룹 명예회장의 사촌인 김병은 DB손해보험 상무가 부사장으로 승진해 경영기획실장에 선임됐습니다. 1976년생인 김 부사장은 2011년 DB손보 전신인 동부화재에 입사해...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202609090103",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T18:18:00+09:00"
+    },
+    {
+      "id": "DB생명-979f4c",
+      "title": "DB보험 수뇌부 재편…오너家 경영 보폭 확대",
+      "description": "기존 경영기획실장이던 박제광 사장은 DB생명보험 신임 대표이사로 내정되면서 DB그룹 손보와 생보 경영진이 함께 재편됐습니다. 이연아 기자입니다. 김준기 DB그룹 창업회장의 조카이자 김남호 DB그룹 명예회장의...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202609090103",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T18:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c15d5c",
+      "title": "실적 좋은데 목표가는 낮춘다… 반도체도 절반 넘게 ‘하향’",
+      "description": "현대해상 14건, DB손해보험 8건, 삼성화재 7건 순이었다. 대신증권은 지난달 18일 현대해상 리포트에서 실적 정상화와 배당 기대를 반영해 목표주가를 5만9000원으로 상향했다. 상대적으로 낮은 밸류에이션에 주주환원 확대...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573491?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T18:11:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e3a782",
+      "title": "DB하이텍, 8인치 1200V SiC 공정 신뢰성 검증 완료…2027년 양산",
+      "description": "DB하이텍이 8인치 SiC(실리콘카바이드) 파운드리 시장 선점에 나선다. 세계 최초로 8인치 SiC 파운드리 일괄공정을 구축한 데 이어 2027년 양산을 추진한다. DB하이텍은 8인치 웨이퍼 기반 1200V SiC...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003130949?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T18:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ff8bd1",
+      "title": "DB하이텍, 세계 첫 8인치 SiC 일괄공정",
+      "description": "DB하이텍이 8인치 웨이퍼 기반의 고전압 1200V 실리콘카바이드(SiC) 공정 신뢰성 검증을 완료하고 내년 양산을 목표로 8인치 SiC 파운드리 사업에 박차를 가한다. 9일 DB하이텍은 이번 검증 완료를 바탕으로 고객 제품...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732937?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T17:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0c8f4f",
+      "title": "[업앤다운]보험주 하락…삼성생명·삼성화재↓",
+      "description": "DB손해보험은 전 거래일 대비 0.64%(1200원) 내린 18만6100원에 거래를 끝냈고 한화생명은 전 거래일 대비 2.39%(140원) 하락한 5710원에 거래를 마쳤다. 현대해상은 전 거래일 대비 2.58%(1300원) 하락한 2050원에...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=827630",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T17:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f296dd",
+      "title": "[기업] DB하이텍, 8인치 차세대 전력반도체 공정 검증...내년 양산",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드 전력반도체 공정의 신뢰성 검증을 마치고 2027년 양산을 추진한다고 밝혔습니다. DB하이텍은 8인치 1200V 실리콘카바이드 금속산화물반도체 전계효과트랜지스터...",
+      "url": "https://n.news.naver.com/mnews/article/052/0002404914?sid=101",
+      "source": "www.ytn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T17:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7447b9",
+      "title": "[라이벌 열전] [메리츠화재] 상반기 순익 1조 돌파...투자경쟁력 힘입어...",
+      "description": "투자손익 앞세워 상반기 순이익 2위 달성 국내 안정적 성장 지속에 해외 진출 '신중' 메리츠화재가 지난해에 이어 올해 상반기에도 DB손해보험을 제치고 순이익 기준 업계 2위를 차지했다. 주력인 보험손익은...",
+      "url": "https://www.topdaily.kr/articles/111853",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T17:36:00+09:00"
+    },
+    {
+      "id": "DB증권-84c976",
+      "title": "[더벨][운용사 실적 분석] 라이프운용, 공모전환 최적 타이밍…성과보수...",
+      "description": "라이프자산운용은 삼성증권, DB증권, NH투자증권, 한국투자증권 4곳과 자문형 랩어카운트 협업을 진행 중이다. 상반기 자문형 랩 시장이 호황을 맞으며 판매사에서 러브콜이 이어진 것으로 보인다. 펀드 판매사 협업...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609071600170600109417",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T17:32:00+09:00"
+    },
+    {
+      "id": "DB증권-704d46",
+      "title": "[더벨][인사이드 헤지펀드] NH헤지운용, 하나증권과 첫 파트너십…주식...",
+      "description": "지난해 삼성증권, KB증권, 유진투자증권, DB증권, 교보증권, 한화투자증권, 한국투자증권 등으로 채널을 늘린 바 있다. 올해 들어선 신한투자증권, 메리츠증권, 유안타증권, 하나증권까지 판매망을 구축하는 데...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609071556530280101834",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T17:18:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fe4f5b",
+      "title": "DB하이텍, 8인치 SiC 공정 신뢰성 검증 완료…\"2027년 양산 목표\"",
+      "description": "1,200V SiC MOSFET 일괄공정 구축…설계·제조·신뢰성 검증 지원 3분기 기존 고객에 서비스 우선 제공…2027년 2분기 전 고객으로 확대  파운드리 전문기업 DB하이텍이 차세대 전력반도체로 꼽히는...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=212024",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T17:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-491e9e",
+      "title": "DB하이텍, 8인치 1200V SiC 전력반도체 신뢰성 검증… 2027년 양산",
+      "description": "전문기업 DB하이텍이 8인치(200mm) 웨이퍼를 활용한 차세대 전력반도체 제조 기술력을 입증하며 본격적인 시장 선점에 돌입했다. (사진=DB하이텍) DB하이텍은 1200V 탄화규소(SiC) 모스펫(MOSFET) 공정에 대한 신뢰성...",
+      "url": "https://www.asiatime.co.kr/article/20260909500378",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T17:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3e0dbc",
+      "title": "[코스피 지수선물 옵션] SK하이닉스부터 LS까지 강세…전력·반도체로 몰...",
+      "description": "KB금융과 신한지주, 하나금융지주, 우리금융지주, 메리츠금융, 삼성생명, 삼성화재, DB손해보험, 기업은행, 한국금융지주, JB금융지주 등이 움직였다. 금융주 가운데서는 KB금융과 한국금융지주 등이 상승한 반면...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485529",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T16:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c45dbb",
+      "title": "DB하이텍, 8인치 SiC 파운드리 양산 눈앞",
+      "description": "DB하이텍의 8인치 실리콘카바이드(SiC) 웨이퍼 반도체 위탁생산(파운드리) 양산 준비가 막바지다. DB하이텍은 9일 1200볼트(V)급 SiC 모스펫 신뢰성 검증을 완료했다고 밝혔다. 파운드리 사업 본격화를 위해 오는 11월...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62029",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T16:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-50b899",
+      "title": "[거래소 기관] 삼성전자 SK하이닉스 삼성SDI 집중매수...삼양식품 에이...",
+      "description": "반도체와 전자부품 업종에서는 삼성전자와 SK하이닉스, 삼성전기, DB하이텍, 삼성전자우 등이 기관 순매수 목록에 포함됐다. 에너지·화학 업종에서는 SK이노베이션과 LG화학, 롯데케미칼이 매수 대상이 됐다. 전력과...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485501",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b722e9",
+      "title": "[김승원 칼럼] 사회공헌도 시스템이다",
+      "description": "DB손해보험이 지난달 진행한 ‘프로미119 안전리더 캠프’를 보자. 전국 초등학생 400여명이 소방관들과 재난·화재·생존 대응을 배웠다. 여기까지라면 어린이 안전교육이다. 그런데 참가비 10만원 전액을 순직 소방공무원...",
+      "url": "http://sateconomy.co.kr/news/view/1065596512141129",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bd6dda",
+      "title": "1조씩 쌓은 신계약 CSM···손보사 잔액 증가폭은 '제각각'",
+      "description": "DB손해보험은 상반기 1조2107억원의 신계약 CSM을 기록했지만 CSM 잔액은 같은 기간 약5887억원 증가한 12조7941억원을 기록했다. 총 6368억원의 CSM이 이익으로 상각됐다. 반면 KB손해보험과 메리츠화재는 신계약 CSM...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=153470",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4440d3",
+      "title": "[거래소 외국인] 삼성전기 SK하이닉스 SK이노베이션 LS ELECTRIC 가온전선...",
+      "description": "금융주에서는 신한지주와 DB손해보험이 순매도 목록에 올랐다. 산업재와 건설 관련주 가운데서는 HD현대중공업, 한전기술, 한국전력, 대우건설, 삼성물산 등이 외국인의 매도 대상이 됐다. 전자·화학 업종에서도...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485495",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T16:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4440d3",
+      "title": "[거래소 외국인] 삼성전기 SK하이닉스 SK이노베이션 LS ELECTRIC 가온전선...",
+      "description": "삼성전자우를 비롯해 NAVER, SK스퀘어, DB하이텍, 신한지주, LG, LG전자 등도 외국인이 순매도한 종목으로 집계됐다. 삼성전자에 대한 외국인의 매도세가 두드러진 가운데 삼성전자우까지 매도 목록에 포함되면서...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485495",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T16:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5a8fb2",
+      "title": "DB하이텍, 8인치 1200V SiC MOSFET 공정 신뢰성 검증…\"2027년 양산 목표...",
+      "description": "DB하이텍 부천캠퍼스. 사진=DB하이텍 매일일보 = 안종열 기자  |  DB하이텍이 차세대 전력반도체인 실리콘카바이드(SiC) 파운드리 시장 공략에 속도를 낸다. DB하이텍은 8인치 1200V SiC MOSFET 공정의 신뢰성 검증을...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1411971",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T15:58:00+09:00"
+    },
+    {
+      "id": "DB증권-695461",
+      "title": "증권사 '오픈API' 경쟁 불 붙었다…AI로 투자장벽 확 낮춰",
+      "description": "9일 금융투자업계에 따르면 한국투자증권, 토스증권, KB증권, NH투자증권, DB증권은 오픈 API 서비스를 출시하고 고객 유치를 위한 경쟁에 나서고 있다. 오픈 API(Application Programming Interface)란 증권사의 앱이나...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204260",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T15:48:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d13f3e",
+      "title": "DB하이텍, 8인치 SiC 공정 신뢰성 검증 완료…2027년 양산 목표",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) MOSFET 공정의 신뢰성 검증을 완료했다. 이는 현재 6인치가 주류인 SiC 시장이 생산효율과 원가 경쟁력을 높이기 위해 8인치로 전환하는 가운데 DB하이텍은...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=132376",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T15:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fd18a8",
+      "title": "DB하이텍, 세계 첫 8인치 SiC 파운드리 공정 구축…내년 양산",
+      "description": "DB하이텍이 전기차 등에 쓰이는 차세대 전력반도체를 8인치 웨이퍼에서 생산하는 기술을 확보했다. 현재 주로 사용하는 6인치보다 큰 웨이퍼를 활용해 생산량을 늘리고 가격 경쟁력을 높일 수 있는 것이 특징이다....",
+      "url": "https://n.news.naver.com/mnews/article/031/0001056884?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T15:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-099efc",
+      "title": "금감원, 주요 보험사에 '1200%룰' 관리 강화 주문",
+      "description": "9일 금감원에 따르면 보험검사1국과 2국은 지난 2일 삼성생명·교보생명·한화생명·신한라이프·KB라이프 등 5개 생명보험사와 삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재·한화손해보험 등 6개 손해보험사의...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014180094?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T15:24:00+09:00"
+    },
+    {
+      "id": "DB증권-e32937",
+      "title": "HBM 고객 넓어진다…환율 악재에도 삼전·닉스 목표가 '꿈틀'",
+      "description": "9일 에프앤가이드에 따르면 이달 미래에셋증권과 DB증권은 SK하이닉스에 대한 보고서를 내고 각각 310만원, 230만원으로 목표주가를 상향 조정했다. 미래에셋증권은 삼성전자에 대해서도 목표주가 40만원을...",
+      "url": "http://www.metroseoul.co.kr/article/20260909500357",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T15:14:00+09:00"
+    },
+    {
+      "id": "DB증권-6417b0",
+      "title": "“만기 늘리고 이자 낮추고”…이달 증권사 회사채 발행 '싹쓸이'",
+      "description": "9일 금융투자업계에 따르면 NH투자증권, 하나증권, 대신증권, DB증권 등 증권사들이 연이어 회사채 발행에서 목표액 이상 수요가 몰리며 흥행했다. NH투자증권(AA+)은 2000억원 모집에 무려 2조 1900억원의 매수 주문을...",
+      "url": "https://www.g-enews.com/view.php?ud=202609091447467616923c501012_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T14:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-bfb608",
+      "title": "DB하이텍, 세계 최초 '8인치 SiC' 검증 완료'… 차세대 전력 반도체 승부...",
+      "description": "국내 대표 파운드리 기업 DB하이텍이 차세대 전력 반도체 핵심 분야인 8인치 실리콘카바이드(SiC) 공정 기술을 확보하고 본격적인 고객 유치와 양산 준비에 나섰다. DB하이텍은 8인치 웨이퍼 기반의 1200V SiC...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=274753",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T14:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2800f5",
+      "title": "오늘부터 車보험 8주룰 시행…내년 손해율 2%p 낮아질 듯",
+      "description": "차보험 빅3인 삼성화재·DB손해보험·현대해상의 합산 손익개선효과도 3700억원에 달할 것으로 보인다. 다만 실질적인 손해율 개선 폭은 환자들의 진료행태가 변수라는 지적이다. 그동안 합의금을 받고 조기에 치료를...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732641?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T14:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4435d0",
+      "title": "[TOP's Pick] [전자·IT] 삼성전자, 미스트랄 AI와 전략적 파트너십 체결...",
+      "description": "◆DB하이텍, 8인치 ‘1200V SiC MOSFET’ 공정 신뢰성 검증 완료 DB하이텍이 8인치 웨이퍼 기반의 1200V SiC(실리콘카바이드) MOSFET 공정 신뢰성 검증을 완료하고, 2027년 양산을 목표로 8인치 SiC 파운드리 사업에 박차....",
+      "url": "https://www.topdaily.kr/articles/111862",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T14:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-72d2aa",
+      "title": "DB하이텍, 8인치 차세대 전력반도체 신뢰성 검증…내년 양산",
+      "description": "8인치 파운드리 전문기업 DB하이텍이 8인치 웨이퍼 기반의 실리콘카바이드(SiC) 파운드리 사업에 나선다. 고전압을 견딜 수 있는 SiC 전력반도체를 생산할 수 있는 기반을 확보해 내년 양산에 나선다는 계획이다....",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=300589",
+      "source": "www.newsquest.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b36bb7",
+      "title": "\"여유자본 넘치자 밖으로\"…삼성 보험형제, 8조 해외 M&A 검토",
+      "description": "이는 최근 보험업권의 최대 M&A 거래였던 DB손해보험의 미 포테그라 인수(약 2조원)의 약 4배에 달하는 규모다. 여기에는 국내와 해외 M&A에 적용되는 규제 차이도 영향을 미쳤다. 보험업법상 국내 보험사의 자회사 투자...",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47550",
+      "source": "www.newstopkorea.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T14:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-13fed6",
+      "title": "DB하이텍, 8인치 1200V SiC 모스펫 공정 검증…내년 양산",
+      "description": "DB하이텍 사옥 전경. 사진=DB하이텍 제공 DB하이텍은 8인치 웨이퍼 기반의 1200V 실리콘카바이드(SiC) 모스펫(MOSFET·금속산화막반도체 전계효과 트랜지스터) 공정 신뢰성 검증 완료하고 내년 양산을 목표로 사업에...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1404299",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T14:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c2ee6f",
+      "title": "메모리·비메모리 다 잡는다... SFA반도체, AI 반도체 물량 증가로 턴어...",
+      "description": "파운드리 업체 DB하이텍과 반도체 장비업체 테크윙, 피에스케이도 오름세를 나타내고 있다. 테스트 외주와 검사 장비 관련주도 상승 흐름을 보인다. 네패스와 두산테스나, 디아이, 아이앤씨가 상승세를 나타내고 있다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485406",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T13:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c7293",
+      "title": "중기중앙회, 中企 환경책임보험료 부담 완화",
+      "description": "중소기업중앙회는 3일 여의도 중기중앙회에서 기후에너지환경부(장관 김성환), DB손해보험(대표이사 정종표)과 '환경책임보험 중소기업 보험료 지원사업' 업무협약을 체결한다고 밝혔다. 이번 사업은 어려운 경영...",
+      "url": "http://amenews.kr/news/view.php?idx=67898",
+      "source": "amenews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T13:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b2a0ef",
+      "title": "\"8인치 SiC 파운드리 시장 선점\"…DB하이텍, 양산 체제 속도",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 '1200V 실리콘카바이드 모스펫'(SiC MOSFET) 공정의 신뢰성 검증을 마치고 내년 양산을 목표로 차세대 전력반도체 파운드리 사업에 본격 착수한다고 9일 밝혔다. 실리콘카바이드(SiC)는...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814016?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T13:49:00+09:00"
+    },
+    {
+      "id": "DB하이텍-255a48",
+      "title": "전기차부터 AI 데이터센터까지... 에이엘티, 차세대 전력반도체 테스트...",
+      "description": "파운드리 업체 DB하이텍도 6.29% 올라 10만990원에 거래 중이다. 8인치 파운드리 가동률 회복과 SiC 전력반도체 양산 기대가 주가에 영향을 준 것으로 보인다. 전력 변환과 스위칭 모듈 관련주인 파워넷과 코스텍시스도...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485399",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T13:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d48ef9",
+      "title": "DB하이텍, 차세대 8인치 전력반도체 신뢰성 검증…내년 양산",
+      "description": "뉴스토마토 = 이명신 기자 | DB하이텍(000990)이 8인치 웨이퍼 기반의 1200V 실리콘카바이드(SiC) 전력반도체 공정 신뢰성 검증을 마쳤습니다. 이번 검증을 바탕으로 고객 제품 개발과 신규 고객 확보에 나서는 한편...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1313073&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T13:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bde713",
+      "title": "나이롱 환자에 '8주 족쇄'…손보사 적자 개선될까",
+      "description": "DB손해보험 관계자는 \"과잉 진료 방지를 통해 보험금 누수가 줄어든다면 손해율과 자동차 보험 적자 개선에 도움이 될 것으로 생각 한다\"며 \"아직까지는 손해율 관련해 구체적으로 예측하기 어려운 단계\"라고 했다. 한...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7182430",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T13:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a583d5",
+      "title": "'나이롱환자' 줄어드나...보험사 기대 속 '8주 룰' 역효과 우려도",
+      "description": "올해 1월부터 6월까지 삼성화재와 현대해상, DB손해보험, KB손해보험 등 대형 손해보험사 4곳의 누적 손해율은 84.5%로, 지난해 상반기보다 1.9% 올랐다. 손해보험사 전체의 자동차보험 영업도 올해 상반기 1890억원 적자를...",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88000",
+      "source": "www.ekoreanews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T12:52:00+09:00"
+    },
+    {
+      "id": "DB생명-70ffc1",
+      "title": "생명보험 2026년 9월 브랜드평판...한화생명, 미래에셋생명, 교보생명 順",
+      "description": "KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명, ABL생명, 아이엠라이프 순이었다. 생명보험 브랜드평판 1위를 기록한 한화생명 브랜드는 참여지수 624,928 미디어지수 408,166...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228030",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T12:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0afcba",
+      "title": "도수치료 청구액 78% 급감…실손보험료 인하로 이어질까",
+      "description": "2~3위인 DB손해보험과 현대해상도 8월 실적 발표에서 도수치료 청구 감소 수치를 공개했다. DB손해보험의 하루 평균 청구액은 3억3000만원에서 2억원으로 줄었다. 현대해상은 6억5000만원에서 4억원으로 감소했다. 청구액이...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310745",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T11:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d8f7d1",
+      "title": "DB하이텍, 세계 최초 일괄공정 8인치 1200V SiC 파운드리 구축",
+      "description": "DB하이텍이 전기차와 신재생에너지 등에 쓰이는 차세대 전력반도체인 실리콘카바이드(SiC) 제품을 8인치 웨이퍼에서 생산하기 위한 공정 기술 검증을 마쳤다. 이를 통해 1200볼트(V)급 고전압을 견딜 수 있는 SiC...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694871?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T11:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-02d8d0",
+      "title": "DB하이텍, 8인치 전력반도체 파운드리 사업 본격화… 내년 양산 목표",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) 전력반도체 파운드리(위탁생산) 사업을 본격화한다. DB하이텍은 8인치 웨이퍼 기반 1200V SiC 모스펫(MOSFET) 공정의 신뢰성 검증을 완료하고 내년 양산을...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191265?sid=105",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T11:39:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5d4718",
+      "title": "DB하이텍, 8인치 SiC 파운드리 공정 검증에 주가↑",
+      "description": "DB하이텍 로고 DB하이텍 주가가 연일 상승하고 있다. 9일 오전 11시 기준 DB하이텍은 10.64% 상승한 11만 4600원에 거래 중이다. 이날 DB하이텍은  8인치 웨이퍼 기반 1200V SiC 모스펫(MOSFET, 금속산화막반도체 전계효과...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3689428",
+      "source": "www.gukjenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T11:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b6004b",
+      "title": "[EBN 데이터센터] 반도체 대표주 강세...DB하이텍 8%대 급등",
+      "description": "9일 11시 07분 기준 DB하이텍은 전일 대비 8300원 오른 11만1700원으로 8.03% 상승했다. SK하이닉스는 6만4000원 오른 185만7000원으로 3.57% 올랐고, 삼성전자는 3750원 상승한 27만3250원으로 1.39% 강세를 나타냈다. 그룹 내 하락...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723581",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T11:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-008a01",
+      "title": "[위클리오늘] 증권사 인수설 잠재운 DB그룹…DB손보 중심으로 금융계열...",
+      "description": "DB손해보험이 DB증권 지분을 꾸준히 확대하는 가운데 DB생명 대표 교체와 그룹 오너가 인사의 윤곽까지 드러나면서, DB그룹 금융계열의 새로운 운영 방향에도 관심이 쏠린다. 핵심은 지난해 불거졌던 증권사 인수...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=793704",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T11:10:00+09:00"
+    },
+    {
+      "id": "DB생명-008a01",
+      "title": "[위클리오늘] 증권사 인수설 잠재운 DB그룹…DB손보 중심으로 금융계열...",
+      "description": "■ 9월 1일 DB생명 수장 교체…'전략·기획형' 인사 전면 배치 박제광 DB생명보험 신임 대표. DB그룹 금융계열의 변화는 자본뿐 아니라 인사에서도 나타났다. DB생명은 지난달 31일 임원후보추천위원회를 열고 박제광...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=793704",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T11:10:00+09:00"
+    },
+    {
+      "id": "DB생명-ad76f9",
+      "title": "생명보험 브랜드평판 9월 빅데이터 분석결과…1위 한화생명·2위 미래에...",
+      "description": "한국기업평판연구소가 생명보험 브랜드평판 2026년 9월 빅데이터를 분석한 결과, 1위 한화생명, 2위... KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명 순으로 집계됐다. 1위에 오른...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=605175",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T11:10:00+09:00"
+    },
+    {
+      "id": "DB증권-008a01",
+      "title": "[위클리오늘] 증권사 인수설 잠재운 DB그룹…DB손보 중심으로 금융계열...",
+      "description": "DB손해보험이 DB증권 지분을 꾸준히 확대하는 가운데 DB생명 대표 교체와 그룹 오너가 인사의 윤곽까지 드러나면서, DB그룹 금융계열의 새로운 운영 방향에도 관심이 쏠린다. 핵심은 지난해 불거졌던 증권사 인수...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=793704",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T11:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cc9b1b",
+      "title": "DB하이텍 주가, 9월 9일 장중 111,900원 8.22% 상승",
+      "description": "9일 오전 11시 3분 기준, 네이버페이 증권에 따르면 DB하이텍 주가는 111,900원에 거래되고 있으며, 이는 지난 종가 103,400원 대비 8,500원, 약 8.22% 상승한 가격이다. 시가는 109,600원으로 시작되었고, 현재까지...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16187572",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T11:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d04fe1",
+      "title": "[알립니다] 동물과 사람이 함께 행복한 하루에 초대합니다",
+      "description": "DB손해보험과 신세계프라퍼티, 한국일보사가 공동으로 마련한 이번 행사는 DB손해보험의 반려동물 생활 플랫폼 ‘펫블리타운’ 론칭과 스타필드 10주년을 기념해 마련됐습니다. 사전 신청한 반려견 동반 500팀이...",
+      "url": "https://n.news.naver.com/mnews/article/469/0000952986?sid=102",
+      "source": "www.hankookilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T11:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8f0a9b",
+      "title": "DB하이텍 주가, 9월 9일 장중 114,700원 10.93% 상승",
+      "description": "|중앙이코노미뉴스 김영진 기자|출처=네이버페이 증권 9일 오전 10시 30분 기준, 네이버페이 증권에 따르면 DB하이텍 주가가 지난 종가 대비 크게 상승하며 거래되고 있다. 현재 DB하이텍은 114,700원에...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=546696",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-85eedc",
+      "title": "DB하이텍, 8인치 1200V SiC 공정 검증…2027년 양산",
+      "description": "DB하이텍이 8인치 웨이퍼 기반의 1200V 실리콘카바이드(SiC) 전력반도체 공정 신뢰성 검증을 마치고 2027년 양산을 추진한다. DB하이텍은 8인치 1200V SiC 금속산화물반도체 전계효과트랜지스터(MOSFET) 공정의 신뢰성...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014178953?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9b9958",
+      "title": "“외형보다 내실, 이익보다 ‘정도(正道)’”…강석훈 대표가 말하는 율...",
+      "description": "칼라일그룹의 청호나이스 인수, KG그룹의 케이카 인수, DB손해보험의 포테그라 인수 등 대형 인수합병(M&A) 자문을 잇달아 성사시켰다. 다른 법인과의 합병 없이 자체 성장만으로 지난해 매출 4083억원을 기록해...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813910?sid=102",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T10:42:00+09:00"
+    },
+    {
+      "id": "DB증권-a5bb71",
+      "title": "심텍, 'KPCA Show 2026'서 차세대 AI 반도체 기판 공개",
+      "description": "DB증권은 2026년 5월 보고서에서 12개월 선행 EPS에 해외 Peer의 2027년 평균 P/E 41배를 30% 할인한 28.5배를 적용해 목표주가를 기존 10만5000원에서 13만5000원으로 제시했다. 해당 증권사의 관점에서는 국내...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=880240",
+      "source": "www.getnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T10:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9e0c24",
+      "title": "DB하이텍, 8인치 1200V SiC 공정 신뢰성 검증…2027년 양산 속도",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V SiC MOSFET 공정의 신뢰성 검증을 완료하고 2027년 양산을 목표로 SiC 파운드리 사업을 확대한다. DB하이텍은 이번 검증을 바탕으로 고객 제품 개발 지원과 신규 고객 확보에...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060255",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2f68bb",
+      "title": "DB하이텍, 차세대 전력반도체 준비 속도…내년 1200볼트급 SiC 양산",
+      "description": "DB하이텍(000990)이 8인치 웨이퍼 기반의 1200볼트(V)급 SiC 모스펫(MOSFET) 공정 신뢰성 검증을 완료했다고 9일 밝혔다. DB하이텍은 2027년부터 차세대 전력반도체 양산에 나선다는 계획이다. SiC MOSFET는 실리콘보다...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009159690?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fc04ed",
+      "title": "DB하이텍, 8인치 1200V SiC MOSFET 공정 신뢰성 검증 완료",
+      "description": "8인치 파운드리 기업 DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) MOSFET 공정 신뢰성 검증을 마쳤다고 9일 밝혔다. DB하이텍은 고객 제품 개발 지원과 신규 고객 확보를 본격화할 계획이다. 2027년...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002436763?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:27:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3e77e6",
+      "title": "엔비디아 약세에도…190만닉스 코앞·예스티 8%↑ [칩칩폭폭]",
+      "description": "• 국내에서는 삼성전자(1.11%)와 SK하이닉스(3.18%)가 동반 상승했고, DB하이텍·예스티·네패스·HPSP 등 소부장주도 강세를 보였다. • 메모리 현물가는 DDR4 일반 제품이 주춤한 반면 eTT와 낸드 MLC 제품을...",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389853?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:17:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a2600f",
+      "title": "DB하이텍, 8인치 SiC 파운드리 일괄공정 구축...\"세계 최초\"",
+      "description": "DB하이텍 상우공장 외경. 사진=DB하이텍 DB하이텍이 8인치 웨이퍼 기반 1200V SiC MOSFET(MOSFET, 금속산화막반도체 전계효과 트랜지스터) 공정의 신뢰성 검증을 마치고 2027년 양산 준비에 속도를 낸다. DB하이텍은...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485292",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b89024",
+      "title": "DB하이텍, 8인치 고전압 SiC MOSFET 신뢰성 검증 완료…내년 양산 추진",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) MOSFET 공정의 신뢰성 검증을 완료했다. 공정설계키트(PDK) 제공과 고객사 검증을 확대해 2027년부터 8인치 SiC 파운드리 양산에 나선다는 계획이다....",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240714?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:09:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ed027d",
+      "title": "DB하이텍, 8인치 차세대 전력반도체 공정 검증…내년 양산",
+      "description": "DB하이텍은 8인치 웨이퍼 기반 1천200V 실리콘카바이드(SiC) MOSFET 공정의 신뢰성 검증을 완료하고 내년 양산을 목표로 SiC 파운드리(반도체 위탁생산) 사업을 본격화한다고 9일 밝혔다. SiC는 실리콘(Si)보다 고온...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016299025?sid=105",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b7b8ef",
+      "title": "DB하이텍, 차세대 전력반도체 양산 준비…2027년 8인치 SiC 생산",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200볼트(V) 실리콘카바이드(SiC) 전력반도체 공정의 신뢰성 검증을 마쳤다. 고객사의 제품 개발을 지원하고 2027년 양산체제를 구축해 차세대 전력반도체 파운드리 시장을 공략한다....",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366066?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1b75d0",
+      "title": "DB하이텍, 장 초반 10%대 급등…파운드리 가격 상승에 주가↑",
+      "description": "DB하이텍이 9일 장 초반 10%대 급등해 강세다. DB하이텍은 이날 오전 10시2분 기준 전 거래일 대비 1만1200원(10.83%) 높은 11만4600원에 거래되고 있다. DB하이텍 급등은 8인치 파운드리 수급 상황에 따른 메모리 가격...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411303?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:07:00+09:00"
+    },
+    {
+      "id": "DB하이텍-23113f",
+      "title": "DB하이텍, 세계 최초 '8인치 SiC 파운드리' 턴키 구축… 2027년 양산",
+      "description": "국내 파운드리 기업 DB하이텍이 8인치 웨이퍼 기반의 1200V 탄화규소(SiC) 모스펫(MOSFET) 공정 신뢰성 검증을 마치고, 2027년 상용 양산을 목표로 차세대 전력반도체 파운드리 사업에 속도를 낸다. 9일 DB하이텍에 따르면...",
+      "url": "https://www.mediapen.com/news/view/1122251",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f601f7",
+      "title": "DB하이텍, 세계 최초 8인치 SiC 파운드리 일괄공정 구축",
+      "description": "DB하이텍이 전기차와 신재생에너지 등에 쓰이는 차세대 전력반도체인 실리콘카바이드(SiC) 제품을 8인치 웨이퍼에서 생산하기 위한 공정 기술 검증을 마쳤다. 이를 통해 1200볼트(V)급 고전압을 견딜 수 있는 SiC...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694723?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a24f64",
+      "title": "4천여가구 입주에 학교 개교까지…음성 성본산단 ‘생활도시’ 속도",
+      "description": "DB하이텍과 네패스, 더블유씨피 등이 음성에 생산 기반을 두고 있으며 성본산업단지에도 바이오·화장품·첨단산업 분야 기업들의 입주가 이어지고 있다. 부동산업계 관계자는 “성본산단은 대규모 공동주택 입주로...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694717?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ce1383",
+      "title": "DB하이텍, 8인치 SiC 파운드리 승부수…1200V MOSFET 신뢰성 확보",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V SiC MOSFET 공정에 대한 신뢰성 검증을 완료하고 8인치 SiC 파운드리 사업 확대에 속도를 낸다. SiC(실리콘카바이드)는 기존 실리콘(Si) 대비 고온·고전압 환경에서 우수한...",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406714",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-36d337",
+      "title": "DB하이텍, 8인치 SiC 양산 채비",
+      "description": "DB하이텍 CI. DB하이텍 | 서울=한스경제 고예인 기자 | DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) MOSFET 공정 신뢰성 검증을 마치고 2027년 양산 준비에 속도를 낸다. DB하이텍은 8인치 1200V SiC MOSFET 공정의...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=863495",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T10:00:00+09:00"
+    },
+    {
+      "id": "DB생명-28094d",
+      "title": "[빅데이터투데이] 생명보험 2026년 9월 브랜드평판 랭킹... 1위 한화생명...",
+      "description": "17개 생명보험사 빅데이터 1,730만건 분석 한화생명이 2026년 9월 생명보험 브랜드평판 빅데이터... KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명, ABL생명, 아이엠라이프 순으로...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392443",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T09:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fe6059",
+      "title": "김병은 DB손보 상무, 부사장 승진…경영기획실장 선임",
+      "description": "김준기 DB그룹 창업회장의 조카이자 김남호 DB그룹 명예회장의 사촌인 김병은 DB손해보험 상무가 부사장으로 승진했다. 9일 보험업계에 따르면 김 부사장은 최근 DB손보 경영기획실장에 선임됐다. 김 부사장은 2021년...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202609090038",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T09:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a8126a",
+      "title": "DB하이텍, 세계 첫 8인치 SiC 파운드리 공정 검증…2027년 양산",
+      "description": "1200V SiC MOSFET 신뢰성 확보…설계부터 제조·평가까지 일괄 지원 1·2세대 설계키트 고객 제공…11월 3세대 내놓고 개발기간 1년 단축 아주경제=조성준 기자 critic@ajunews.com DB하이텍 본사 로고 [사진=DB하이텍]...",
+      "url": "https://www.ajunews.com/view/20260909092350433",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T09:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-894709",
+      "title": "배당재원 감소 놓고 보험업계 ‘설전’",
+      "description": "그러나 DB손해보험은 지난달 28일 기업가치 제고(밸류업) 컨퍼런스콜에서 정면 반박하고 나섰다. 문제의 근원은 준비금 제도가 아니라 업계의 과당경쟁이라는 것이다. 반면 한화생명에 이어 현대해상까지, 두 회사 모두...",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026090909192573497cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T09:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9e1574",
+      "title": "[EBN 데이터센터] 코스피, 장 초반 7000선 돌파…반도체 강세에 1.09% 상승",
+      "description": "◆ 개별 종목 장세...한화엔진·두산퓨얼셀 급등 개장 초반 코스피 상승률 상위 종목에는 한화엔진, 두올, DB하이텍, 가온전선, 두산퓨얼셀 등이 이름을 올렸다. △한화엔진은 11.94% 오른 5만1100원 △두올은...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723540",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ec0e52",
+      "title": "DB하이텍, 세계 최초 차세대 전력반도체 소재 신뢰성 검증",
+      "description": "DB하이텍은 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) 금속산화막 반도체 전계효과 트랜지스터(MOSFET) 공정의 신뢰성 검증을 완료했다고 9일 밝혔다. 내년 양산을 목표로 8인치 SiC 파운드리 사업을...",
+      "url": "https://www.g-enews.com/view.php?ud=202609090910271870139bf6e4b2_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T09:24:00+09:00"
+    },
+    {
+      "id": "DB증권-f43d3e",
+      "title": "[굿모닝! 금융지식] 증권사 실적, 코스피만 보면 안 된다…돈 버는 구조...",
+      "description": "나민욱 DB증권 연구원은 높은 거래대금과 함께 신용공여와 투자자예탁금이 증가하고 있다는 점에 주목했다. 거래 활성화가 브로커리지 수익뿐 아니라 이자이익 개선으로 연결될 수 있는 만큼 증권사 실적에는 긍정적인...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=291162",
+      "source": "www.goodkyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T09:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f42dd1",
+      "title": "미·중동 악재 뚫은 '반도체 훈풍'…코스피 7,000선 안착 시도",
+      "description": "한미반도체(5.11%), DB하이텍(11.70%) 등 반도체 밸류체인 전반으로 매수세가 확산하고 있다. 증시 전문가들은 코스피가 7,000선을 내어준 뒤 재돌파를 시도하는 과정에서 당분간 매물 소화가 이어질 것으로...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434028",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T09:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-041b6c",
+      "title": "DB하이텍, 8인치 1200V SiC 공정 신뢰성 검증…내년 양산 속도",
+      "description": "DB하이텍이 8인치 웨이퍼 기반 1200V 실리콘카바이드(SiC) MOSFET 공정의 신뢰성 검증을 완료하고 2027년 양산을 목표로 차세대 전력반도체 파운드리 사업 확대에 속도를 낸다. DB하이텍은 이번 검증을 바탕으로 고객...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723535",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T09:22:00+09:00"
+    },
+    {
+      "id": "DB생명-e46442",
+      "title": "생명보험 9월 브랜드평판 1위 한화생명...2·3위 미래에셋·교보생명",
+      "description": "생명보험 브랜드평판 2026년 9월 빅데이터 분석결과 1위는 한화생명으로 나타났다. 이어 2위는 미래에셋생명... KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명, ABL생명, 아이엠라이프 순이었다.",
+      "url": "https://n.news.naver.com/mnews/article/123/0002389841?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T09:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-043109",
+      "title": "[방카슈랑스 재조명] 메리츠화재 3년 만에 영업 재개…금리상승기 매력...",
+      "description": "손해보험사 중에선 현대해상, DB손해보험, KB손해보험 등이 방카슈랑스 채널을 활용하고 있다. 다만 시장 금리가 오르면서 저축성 보험의 강점도 다시 돋보이는 상황이다. 저축성 보험은 대부분 일시납으로 보험료를...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434018",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T09:08:00+09:00"
+    },
+    {
+      "id": "DB생명-c1c71a",
+      "title": "한화생명, 9월 생명보험 평판 1위 독주…미래에셋·교보생명 순 '톱3'",
+      "description": "보장성 보험 경쟁이 치열해지는 가운데, 한화생명이 압도적인 소비자 참여 및 소통 트래픽을 바탕으로... KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명, ABL생명, 아이엠라이프 순이었다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=132291",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T08:56:00+09:00"
+    },
+    {
+      "id": "DB생명-e08afe",
+      "title": "은행 판매 보험, 보험사 따라 철회율 1%에서 23%까지 23배 차이",
+      "description": "22%…홈쇼핑·다이렉트는 20% 넘어 은행 창구에서 판매된 생명보험 계약의 청약철회비율이 보험사에... 텔레마케팅(TM) 채널도 AIA생명 18.08%, 라이나생명 16.66%, DB생명 15.09%, 동양생명 14.93%, 신한라이프 13.95%로...",
+      "url": "https://www.raonnews.com/news/article.html?no=60955",
+      "source": "www.raonnews.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T08:50:00+09:00"
+    },
+    {
+      "id": "DB증권-c40a15",
+      "title": "삼성D, 스마트폰 한파지만…폴더블 확대, 수익성 방어 주목",
+      "description": "9월 발간된 미래에셋증권, DB증권, KB증권 리포트의 삼성디스플레이 실적 전망을 종합하면 올해 영업이익은 2조6000억~3조8000억 원 수준으로 추정돼 지난해 실적을 밑돌 것으로 예상된다. 이는 칩플레이션에 따른...",
+      "url": "http://www.datanews.co.kr/news/article.html?no=146353",
+      "source": "www.datanews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:50:00+09:00"
+    },
+    {
+      "id": "DB증권-d1ab43",
+      "title": "심텍, 3분기 실적 개선 기대…AI 기판·증설 모멘텀도 주목[애널리스트...",
+      "description": "DB증권은 심텍에 대해 투자의견 '매수'와 목표주가 17만5000원을 유지했다. 대신증권은 심텍의 3분기 연결 기준 매출액을 5535억원, 영업이익을 837억원으로 전망했다. 전년 동기 대비 매출은 48.5%, 영업이익은 575.8...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026090908224470493",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:44:00+09:00"
+    },
+    {
+      "id": "DB증권-677f59",
+      "title": "DB증권 \"스카이라이프, 3분기 실적 악화 예상…목표가↓\"",
+      "description": "DB증권은 9일 위성 방송 기업 스카이라이프에 대해 3분기 인터넷 기반 TV 서비스 가입자 감소에 따른 실적 악화가 예상된다며 목표주가를 5천300원에서 4천500원으로 내리고, 투자의견도 '보류(Hold)'로 유지했다. 전날...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016298657?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-267f6a",
+      "title": "'8주룰' 시행 이틀 전…이의제기 기간 치료비 피해자가 먼저 부담",
+      "description": "삼성화재·DB손해보험·현대해상·KB손해보험 등 대형 손해보험사 4곳이 지난해 종결된 사고를 분석한 결과, 12~14급 경상환자 122만6,000명 가운데 8주를 넘겨 치료받은 환자는 14만1,000명으로 11.5%를 차지했다. ◆ 7일 넘겨도...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=211895",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T08:30:00+09:00"
+    },
+    {
+      "id": "DB생명-ebae61",
+      "title": "한화생명, 생명보험 브랜드평판 9월 빅데이터 1위...미래에셋·교보생명...",
+      "description": "한화생명이 최근 한 달 기간을 대상으로 실시된 생명보험 브랜드평판 빅데이터 분석에서 1위를... KB라이프생명, DB생명, 메트라이프생명, 푸본현대생명, KDB생명, AIA생명, ABL생명, 아이엠라이프 순으로 조사 됐다....",
+      "url": "http://www.thebigdata.co.kr/view.php?ud=202609090812225554d0a8833aad_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-09T08:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0356bd",
+      "title": "[더벨][thebell interview] 민수아 DB손보 이사 “주주제안도 독립적으로...",
+      "description": "재무제표에서 자산에서 부채를 뺀 것이 자본인 만큼 자본의 가치를 높인다는 것은 자산과 부채를 모두 잘 관리한다는 뜻이고 결국 회사 자체를 좋아지게 만드는 것입니다.\" 민수아 DB손해보험 독립이사(사진)는 더벨과...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609032154531920106346",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T08:28:00+09:00"
+    },
+    {
+      "id": "DB증권-65c5bc",
+      "title": "4조2650억원 주문 몰린 증권채, 금리 상승에도 수요 확인",
+      "description": "대신증권과 하나증권, DB증권이 회사채 6000억원 모집에 4조2650억원의 주문을 확보했다. 모집액의 약 7.1배에 달하는 규모로, 시장금리 상승 국면에서도 증권채에 대한 기관 수요가 확인됐다. 디지털투데이는 세...",
+      "url": "https://www.tokenpost.kr/news/economy/404641",
+      "source": "www.tokenpost.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:28:00+09:00"
+    },
+    {
+      "id": "DB증권-3e7c50",
+      "title": "증시 활황에 단기차입 급증···증권사, 회사채로 '만기 늘리기'",
+      "description": "이런 흐름 속에 하나증권과 대신증권, DB증권의 회사채 수요예측에는 당초 모집액 6000억원의 7배가 넘는 총 4조2650억원의 기관 주문이 몰렸다. 세 증권사는 오는 10일 나란히 회사채를 발행한다. 하나증권은 2년물과...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=637514",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b13817",
+      "title": "DS투자證, \"DB하이텍, 수요가 생산능력 2배⋯가격 인상에 실적↑\"",
+      "description": "이투데이=임하은 기자 | DS투자증권은 DB하이텍에 대해 투자의견 '매수'와 목표주가 21만원을 유지했다. 9일 이수림 DS투자증권 연구원은 DB하이텍의 2026년 연결 영업이익 추정치를 전년 대비 49% 증가한 4090억원으로...",
+      "url": "https://www.etoday.co.kr/news/view/2623350",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-09T08:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9b8196",
+      "title": "팔만대장경도 무보험···문화유산 보험, 상품보다 복원가액이 문제",
+      "description": "DB손해보험은 현재 자사 종교시설 위험관리 안내에서 '사찰, 문화재'를 가입대상으로 두고 화재·배상책임·상해·도난 담보를 제시하고 있다. 전신인 동부화재는 1998년 사찰종합보험을...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708266",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-09T08:02:00+09:00"
+    },
+    {
+      "id": "DB증권-b801c4",
+      "title": "\"벌긴 벌었는데\"…한세실업, 올 상반기 영업익 증가에도 현금흐름 '악화...",
+      "description": "허제나 DB증권 연구원은 \"전방 소비 업황의 유의미한 회복은 아직 기대하기 어려운 상황\"이라며 \"바이어들의 보수적인 재고 운용 기조도 장기화하고 있다\"고 분석했다. 이어 \"원화 강세 전환과 4분기 과테말라 신규...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=226653",
+      "source": "www.youthdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-09T08:00:00+09:00"
+    },
     {
       "id": "DB증권-9c8d63",
       "title": "증권채 '흥행몰이'...실적 개선·금리 매력에 4조 넘게 몰렸다",
@@ -200,15 +1190,6 @@
       "publishedAt": "2026-09-08T16:12:00+09:00"
     },
     {
-      "id": "DB손해보험-b9c455",
-      "title": "'김준기 회장 조카' 김병은, DB손보 부사장 승진",
-      "description": "박제광 DB생명 신임 대표 선임 후속 인사 김준기 DB그룹 창업회장의 조카인 김병은 DB손해보험 상무가 부사장으로 승진했다. 8일 보험업계에 따르면, DB손해보험은 이달 1일 김병은 경영관리본부장(상무)을...",
-      "url": "https://news.dealsitetv.com/articles/175749",
-      "source": "news.dealsitetv.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-08T16:08:00+09:00"
-    },
-    {
       "id": "DB생명-b9c455",
       "title": "'김준기 회장 조카' 김병은, DB손보 부사장 승진",
       "description": "박제광 DB손보 경영기획실장이 DB생명보험 대표이사로 선임되면서, 이루어진 후속 인사다. 김 부사장은 DB손보에서 16년간 근무하면서 개인·법인 영업, 해외지원, 경영관리 등 손해보험업 주요 업무를 두루 맡았다....",
@@ -299,12 +1280,12 @@
       "publishedAt": "2026-09-08T15:29:00+09:00"
     },
     {
-      "id": "DB증권-e9201f",
+      "id": "DB하이텍-e9201f",
       "title": "밸류업주 옥석 가리기 본격화… 원전·유통주 '룰루랄라'",
-      "description": "미래에셋증권과 유안타증권, DB증권, 키움증권 등이 상승세를 보이고 있으며 신세계인터내셔날, 롯데하이마트, 강원랜드, 지역난방공사, 롯데리츠 등도 오름세다. JB금융지주는 보합권에 머물고 있다. 반면 음식료와...",
+      "description": "DB하이텍과 HD현대, 태광, SK스퀘어 등이 상승세를 보이고 있다. SK하이닉스는 반도체 업황 개선 기대에 밸류업 지수 편입에 따른 수급 효과가 더해지면서 1.23% 오르고 있다. 롯데웰푸드와 한섬, 에스트래픽도 상승...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485047",
       "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB증권",
+      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-08T15:22:00+09:00"
     },
     {
@@ -323,15 +1304,6 @@
       "url": "https://www.kukinews.com/article/view/kuk202609080151",
       "source": "www.kukinews.com",
       "subsidiary": "DB자산운용",
-      "publishedAt": "2026-09-08T15:22:00+09:00"
-    },
-    {
-      "id": "DB하이텍-e9201f",
-      "title": "밸류업주 옥석 가리기 본격화… 원전·유통주 '룰루랄라'",
-      "description": "DB하이텍과 HD현대, 태광, SK스퀘어 등이 상승세를 보이고 있다. SK하이닉스는 반도체 업황 개선 기대에 밸류업 지수 편입에 따른 수급 효과가 더해지면서 1.23% 오르고 있다. 롯데웰푸드와 한섬, 에스트래픽도 상승...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485047",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-08T15:22:00+09:00"
     },
     {
@@ -362,12 +1334,12 @@
       "publishedAt": "2026-09-08T15:12:00+09:00"
     },
     {
-      "id": "DB손해보험-1f90a2",
+      "id": "DB증권-1f90a2",
       "title": "증권사 인수설 잠잠···DB손보, 자회사 DB證 지분투자 확대",
       "description": "DB손해보험이 작년 모그룹의 증권업 역량 강화를 위해 타 증권사 인수를 타진했지만 지난 1년간 지분 투자를 확대해온 대상은 자회사인 DB증권으로 나타났다. 해당 기간 본업인 보험 분야의 대규모 투자를 병행한...",
       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423575",
       "source": "www.sisajournal-e.com",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB증권",
       "publishedAt": "2026-09-08T15:10:00+09:00"
     },
     {
@@ -377,15 +1349,6 @@
       "url": "https://www.thepublic.kr/news/articleView.html?idxno=317979",
       "source": "www.thepublic.kr",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-08T15:10:00+09:00"
-    },
-    {
-      "id": "DB증권-1f90a2",
-      "title": "증권사 인수설 잠잠···DB손보, 자회사 DB證 지분투자 확대",
-      "description": "DB손해보험이 작년 모그룹의 증권업 역량 강화를 위해 타 증권사 인수를 타진했지만 지난 1년간 지분 투자를 확대해온 대상은 자회사인 DB증권으로 나타났다. 해당 기간 본업인 보험 분야의 대규모 투자를 병행한...",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423575",
-      "source": "www.sisajournal-e.com",
-      "subsidiary": "DB증권",
       "publishedAt": "2026-09-08T15:10:00+09:00"
     },
     {
