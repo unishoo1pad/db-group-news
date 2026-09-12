@@ -1,7 +1,187 @@
-// 자동 생성 파일 — 2026-09-12
+// 자동 생성 파일 — 2026-09-13
 const NEWS_DATA = {
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "articles": [
+    {
+      "id": "DB증권-12c9c7",
+      "title": "주가 40% 빠졌는데...삼성전기, 3Q 이익 전망은 꾸준히 상향",
+      "description": "이달 들어 다올투자증권과 대신증권은 삼성전기에 대한 목표주가를 280만원으로 유지했으며, DB증권은 지난 7월 말 150만원으로 하향 조정한 지 한 달 여 만에 200만원으로 대폭 상향했다. 증권정보업체...",
+      "url": "http://www.metroseoul.co.kr/article/20260913500005",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T07:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-92a65c",
+      "title": "AI가 끌어올린 코스피, 중동·금리에 발목… 이번주 'FOMC 쇼크' 오나",
+      "description": "한미반도체와 DB하이텍, 삼성전자우도 외국인 매도 상위권에 올랐다. 반도체에 대한 장기 기대와 단기 차익 실현이 충돌하는 모습이다. AI 산업 성장에 따른 메모리 수요 확대 전망은 여전히 강하지만, 중동발 유가...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486452",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-13T07:44:00+09:00"
+    },
+    {
+      "id": "DB증권-59835f",
+      "title": "“삼전닉스 어때? 지금이 그때인가?”…관망하던 개미들 검색창 두드리...",
+      "description": "DB증권과 대신증권은 고성능 적층세라믹커패시터(MLCC)와 기판 부문에서의 공급 부족 현상에 주목했다. 글로벌 인공지능 적층세라믹커패시터 데이터센터 확충과 전장용 부품 수요 급증이 삼성전기의 실적을 견인하고...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734289?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T07:30:00+09:00"
+    },
+    {
+      "id": "DB증권-2afee5",
+      "title": "\"이제 어디 투자할까?\"…삼전닉스 개미들 5개월 만에 '팔자'",
+      "description": "서승연 DB증권 연구원은 \"빅테크들의 AI 투자 경쟁과 D램의 타이트한 수급을 고려하면 D램 호황기는 내년에도 지속될 것\"이라며 반도체 섹터에 대한 투자의견을 '비중확대'로 유지했다. 강대승 SK증권 연구원도 \"이란...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265761?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-34b3aa",
+      "title": "삼성·SK하이닉스 영업익 전망 21조 낮아졌다…환율 급락에 실적 부담",
+      "description": "DB증권은 삼성전자의 3분기 실적이 시장 예상치를 소폭 밑돌 것으로 전망했다. 메모리 출하와 판매가격은 견조하지만 비우호적인 환율과 모바일 사업 부진이 부담이라는 분석이다. 삼성전자와 SK하이닉스는 환율...",
+      "url": "https://www.kbmaeil.com/article/20260913500026",
+      "source": "www.kbmaeil.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T06:58:00+09:00"
+    },
+    {
+      "id": "DB증권-4fae7a",
+      "title": "삼전·닉스 떠나는 개미들…9월들어 5개월 만에 '팔자' 전환",
+      "description": "서승연 DB증권 연구원은 \"빅테크들의 AI 투자 경쟁과 D램의 타이트한 수급을 고려하면 D램 호황기는 내년에도 지속될 것\"이라며 반도체 섹터에 대한 투자의견을 '비중확대'로 유지했다. 강대승 SK증권 연구원도 \"이란...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306233?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T06:05:00+09:00"
+    },
+    {
+      "id": "DB증권-368878",
+      "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발",
+      "description": "DB증권은 삼성전자 3분기 실적이 시장 예상치를 소폭 하회할 것으로 보면서 \"견조한 메모리 출하와 판매가 상승에도 불구하고 비우호적 환율과 시장 예상을 밑도는 MX(완제품 부문) 부진이 예상된다\"고 분석했다....",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306225?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-13T06:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-11d02e",
+      "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
+      "description": "외국인 주간 순매도 상위 종목은 삼성전자(1조4천391억원), SK하이닉스(1조2천74억원), 한미반도체(2천975억원), DB하이텍(2천328억원), 삼성전자우(1천482억원) 등이다. '한국형 공포지수'로 불리는 코스피200 변동성 지수...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306223?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-13T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-833566",
+      "title": "[KPGA] 장유빈, 신한동해오픈 3R 공동 2위…선두 1타 차 추격, 시즌 3승 ...",
+      "description": "[사진=KPGA] 2026.09.11 iaspire@newspim.com 반면 2라운드까지 단독 선두였던 문도엽(DB손해보험)은 주춤했다. 문도엽은 버디 2개를 기록했으나 보기 4개를 범해 2오버파를 기록했고, 중간 합계 8언더파 208타로 공동 11위까지...",
+      "url": "https://www.newspim.com/news/view/20260912000118",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-32e570",
+      "title": "반려견과 걷고 뛰고 교감하고… 스타필드 하남이 ‘펫블리타운’으로",
+      "description": "DB손해보험과 신세계프라퍼티, 한국일보사가 공동 주최한 반려가족 축제 ‘펫블리타운 in 스타필드 하남’이 12일 경기 하남시 스타필드 하남 일대에서 열렸다. 이날 행사장에는 반려견과 보호자는 물론 비반려인까지 약...",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953656?sid=102",
+      "source": "www.hankookilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T16:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7e5422",
+      "title": "장유빈, 3승 조준…KPGA 신한동해오픈 3R 공동 2위 도약",
+      "description": "67타를 기록, 중간 합계 9언더파 207타로 공동 5위에 올랐다. 2라운드에 단독 선두까지 올랐던 문도엽(35·DB손해보험)은 버디 2개, 보기 4개를 적어내며 2타를 잃어 중간 합계 8언더파 208타를 기록, 공동 11위에 머물렀다.",
+      "url": "https://m.sports.naver.com/golf/article/421/0009166272",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T16:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cdb5ff",
+      "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍...",
+      "description": "中 AI데이터센터·로봇 반도체 수요 구형 반도체도 품귀, 연내 값 올릴듯 9월 주가 20%대↑...목표가 21만원 DB하이텍이 중국 인공지능(AI) 데이터센터와 로봇 시장의 성장에 따른 8인치 파운드리(반도체 위탁생산)...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734213?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-12T14:41:00+09:00"
+    },
+    {
+      "id": "DB증권-de69a5",
+      "title": "서동주, 끈질긴 ‘하이닉스 물타기 전법’ 공개…증권가 전망은? [재테...",
+      "description": "같은 날 DB증권도 SK하이닉스 목표 주가를 230만원으로 올려 잡았습니다. 올해 3분기부터 차세대 제품인 HBM4 출하가 본격적으로 시작되는 데다 내년 HBM4 가격 상승에 힘입어 실적 상승세가 이어질 것으로 예상했습니다....",
+      "url": "https://n.news.naver.com/mnews/article/081/0003679580?sid=101",
+      "source": "www.seoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-12T14:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-212b55",
+      "title": "9월 2주차 DB하이텍 주가, 10만원대 급락 마감",
+      "description": "11일 KRX 마감 기준, 네이버페이 증권에 따르면 DB하이텍은 9월 11일 주가가 전일 대비 9,400원 하락한 105,800원에 마감하며 8.2%의 등락률을 기록했다. 이날 DB하이텍은 113,000원에 개장, 장중 116,300원의...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16190781",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-12T12:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-42fc79",
+      "title": "DB손보, '보통의 하루' 통해 보험 가치 알린다...신규 기업PR 광고 공개",
+      "description": "DB손해보험이 평범한 일상을 소재로 한 신규 기업PR TV광고를 11일 공개했다. 광고는 '청춘어람'과 '펫블리' 2편으로 제작됐다. '청춘어람'편은 사회생활을 시작한 청년들의 하루를, '펫블리'편은 반려견과 가족이 함께...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=318437",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T10:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6cc2e0",
+      "title": "DB손보, 신규 기업 PR 광고 '보통의 하루' 공개...수고한 나 자신 응원 ...",
+      "description": "DB손해보험은 평범한 일상의 소중함과 그 이면에 숨은 보험의 가치를 담은 신규 기업 PR TV광고 '보통의 하루'를 공개했다고 밝혔다. 이번 광고는 우리 주변 청춘과 반려견이 열심히 살아가는 모습을 따뜻하게 그리며...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=262126",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-838d05",
+      "title": "금융권, 소액금 모으기부터 VVIP 세미나·유소년 멘토링까지...'고객 맞...",
+      "description": "사진=DB손해보험이 기업PR TV광고 '보통의 하루'를 새롭게 런칭 했다. 손해보험사와 공기업 역시 일상과의 접점을 늘리는 마케팅 및 시스템 혁신을 추진 중이다. DB손해보험은 열심히 살아가는 청춘과 반려견의 일상을...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=102498",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T09:50:00+09:00"
+    },
+    {
+      "id": "DB저축은행-593fb1",
+      "title": "DB저축은행, 'Dream Big 보통예금' 금리 연 3.2%로 인상",
+      "description": "7000만원 이하 한도 내 인상 아주경제=권가림 기자 hidden@ajunews.com DB저축은행은 ‘Dream Big 보통예금’의 금리를 연 3.2%로 인상한다고 12일 밝혔다. 한도는 7000만원 이하다. ‘Dream Big 보통예금’은 예치금액과...",
+      "url": "https://www.ajunews.com/view/20260911143433220",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-09-12T09:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c21c8b",
+      "title": "[현장] 삼성전자 인사담당 \"직무핏부터 확인\", 왜?…연세대 취업박람회...",
+      "description": "채용을 앞둔 삼성전자 DS부문, 삼성바이오로직스, DB하이텍 등이 참여해 사업과 직무, 지원 절차를 소개했으며, 부스별로 학생 맞춤 상담도 이뤄졌다. \"AI가 만든 새로운 반도체 사이클\"…삼성전자 DS, '직무 핏' 강조 행사...",
+      "url": "https://magazine.hankyung.com/job-joy/article/202609120099d",
+      "source": "magazine.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-12T08:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1b31d2",
+      "title": "[보푸라기]정보 털린 티빙 이용자, '보험 보상' 선택하면?",
+      "description": "티빙의 설명에 따르면 이 보험은 DB손해보험의 단체보험으로, 사이버 금융사기와 인터넷 쇼핑몰 사기, 개인 간 직거래 사기 등에 따른 피해를 보장합니다. 보상 한도는 사고당 최대 300만원이며, 1인당 받을 수 있는 보상금도...",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050706?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-12T08:00:00+09:00"
+    },
     {
       "id": "DB하이텍-17d0e7",
       "title": "[주간 거래소 외국인] SK스퀘어 대한항공 SK이노베이션 현대모비스에 꽂...",
@@ -154,15 +334,6 @@ const NEWS_DATA = {
       "source": "www.s-journal.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-09-11T17:44:00+09:00"
-    },
-    {
-      "id": "DB손해보험-fa84b2",
-      "title": "[단독] 농협손보, 미러링 청약 도입 추진…\"고객·설계사 화면 동기화\"",
-      "description": "미러링 청약이 보험업계에 처음으로 등장한 건 2021년 DB손해보험이 'TM보험 가입 디지털 미러링 서비스'를 내놓으면서부터다. 당시 이 서비스는 금융당국의 혁신금융서비스로 인정받았다. 2023년 보험 가입 과정에서...",
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=118025",
-      "source": "www.newsdream.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-11T17:42:00+09:00"
     },
     {
       "id": "DB생명-fa84b2",
@@ -453,12 +624,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-09-11T16:01:00+09:00"
     },
     {
-      "id": "DB손해보험-4969bc",
+      "id": "DB하이텍-4969bc",
       "title": "[거래소 외국인] NAVER 우리금융지주 셀트리온 매수집중...SK하이닉스 삼...",
-      "description": "이와 함께 한전기술, 삼성에스디에스, 삼성SDI, 대우건설, LG전자, 현대차, 한국전력, DB손해보험 역시 외국인의 순매도 공세를 피해 가지 못했다. 순매도 상위권에서는 반도체 대형주 및 밸류체인 기업들의 비중이...",
+      "description": "이어 삼성전자가 순매도 2위를 기록했으며, 삼성전자우, 한미반도체, 두산, DB하이텍, 삼성물산, 삼성전기, HD현대중공업, 두산에너빌리티가 순매도 상위 10개 종목으로 나타났다. 이와 함께 한전기술, 삼성에스디에스...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486270",
       "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-11T16:00:00+09:00"
     },
     {
@@ -468,15 +639,6 @@ const NEWS_DATA = {
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723966",
       "source": "www.ebn.co.kr",
       "subsidiary": "DB증권",
-      "publishedAt": "2026-09-11T16:00:00+09:00"
-    },
-    {
-      "id": "DB하이텍-4969bc",
-      "title": "[거래소 외국인] NAVER 우리금융지주 셀트리온 매수집중...SK하이닉스 삼...",
-      "description": "이어 삼성전자가 순매도 2위를 기록했으며, 삼성전자우, 한미반도체, 두산, DB하이텍, 삼성물산, 삼성전기, HD현대중공업, 두산에너빌리티가 순매도 상위 10개 종목으로 나타났다. 이와 함께 한전기술, 삼성에스디에스...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486270",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-11T16:00:00+09:00"
     },
     {
@@ -1063,15 +1225,6 @@ const NEWS_DATA = {
       "source": "www.newstomato.com",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-11T09:24:00+09:00"
-    },
-    {
-      "id": "DB손해보험-1fb492",
-      "title": "[금융레이더]NH농협생명/DB손보/KB손보/신한카드/현대카드/KB국민카드/D...",
-      "description": "◆DB손보, 신규 기업PR 광고 공개 DB손해보험이 신규 기업PR TV광고 ‘청춘어람’편과 ‘펫블리’편을 공개했다고 11일 밝혔다. 이번 광고는 ‘보통의 하루’를 주제로, 하루를 살아가는 청춘과 반려견의 일상을...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609110905020280586",
-      "source": "www.dnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-11T09:20:00+09:00"
     },
     {
       "id": "DB저축은행-1fb492",
