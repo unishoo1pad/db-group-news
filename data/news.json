@@ -1,6 +1,1140 @@
 {
-  "lastUpdated": "2026-09-28",
+  "lastUpdated": "2026-09-29",
   "articles": [
+    {
+      "id": "DB하이텍-0ee19b",
+      "title": "삼성證 \"DB하이텍, 8인치 가격 인상 수혜 전망\"",
+      "description": "이투데이=서청석 기자 | 삼성증권은 DB하이텍에 대해 전력반도체 등 8인치 제품 수요 증가에 따른 가격 인상 훈풍과 가동률 회복으로 실적 개선세가 기대된다며 투자의견과 목표주가는 제시하지 않는다(Not Rated)고...",
+      "url": "https://www.etoday.co.kr/news/view/2630116",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T07:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "회장은 전문경영인이자 김준기 창업회장의 측근인 이수광 전 DB손해보험 사장이 맡게 되자 부자간 경영권 분쟁설이 유력하게 제기됐다. 김남호는 \"회사에 대한 불필요한 오해가 발생한 것은 모두 제 탓이라고...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB생명-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "계열사 임원은 김영만 DB생명보험 대표이사가 1500주(0.00%), 이정민씨가 400주(0.00%), 강운식 DB아이엔씨 IT부문 대표이사가 244주(0.00%), 안상건씨 2천 주(0.00%)를 각각 보유하고 있다. 계열사는 DB아이엔씨 60만 주(0.92...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "△DB금투, DB자산운용 완전 자회사로 편입 DB금융투자(현 DB증권)가 2024년 11월 DB자산운용에 대한 보유 지분 55.33% 외 나머지 지분을 모두 취득해 DB자산운용을 100% 완전자회사로 편입했다. DB금융투자는 이번 지분...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "△DB금투, DB자산운용 완전 자회사로 편입 DB금융투자(현 DB증권)가 2024년 11월 DB자산운용에 대한 보유 지분 55.33% 외 나머지 지분을 모두 취득해 DB자산운용을 100% 완전자회사로 편입했다. DB금융투자는 이번 지분...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB저축은행-305760",
+      "title": "저축은행 자산규모따라 대출 취급도 달랐다…상위 5곳 5% 줄일 때 나머지...",
+      "description": "반면 고려저축은행은 26.5%, DB저축은행은 20.9%, 신한저축은행은 19.6%, 예가람저축은행은 17.7%, 우리금융저축은행은 9.2% 증가했다. 상위권의 여신 감소에는 부동산 관련 위험자산 정리가 영향을 미친 것으로 보인다....",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281419009910573",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB저축은행-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "이에 따라 동부화재, 동부생명, 동부증권, 동부저축은행, 동부하이텍, 동부메탈, 동부라이텍, 동부 등 계열사들의 이름이 각각 DB손해보험, DB생명, DB금융투자, DB저축은행, DB하이텍, DB메탈, DB라이텍, DB Inc. 등으로...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "금융 계열사의 지배회사 격인 DB손해보험은 산하 기업으로 DB생명, DB자동차보험, DBCES, DBCNS자동차, DBCSI, DB캐피탈 등을 뒀다. 김준기 창업회장, 김주원 부회장의 DB 지분을 합하면 25.78%로 김남호의 지분보다 높다....",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-962e81",
+      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
+      "description": "부자간 갈등설은 DB하이텍을 두고 의견이 갈리면서 비롯됐다. 김남호는 금융 중심 재편이나 DB하이텍 매각으로 기울었으나 아버지인 김준기 창업회장은 생각이 달랐다. 김준기 창업회장은 반도체사업에 대한...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ba6a91",
+      "title": "[운용 & Now] 한화자산운용, 자체 AI 플랫폼 '오딘' 전사 오픈 등",
+      "description": "주요 편입 종목은 현대엘리베이터, 우리금융지주, GS, JB금융지주, DB손해보험, 삼성전자우 등이다. 남은영 삼성액티브자산운용 운용1팀장은 \"단순 고배당주가 아니라 향후 배당 확대가 기대되는 종목에 투자한다\"며...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725876",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:44:00+09:00"
+    },
+    {
+      "id": "DB증권-30c79f",
+      "title": "[코인 슈퍼위크] 24시간 시장 온다…이더리움이 판 깔까",
+      "description": "28일 서울 여의도 콘래드 서울에서 열린 기관 대상 행사에는 DB증권·KB증권·한화투자증권·교보증권 등 국내 금융회사와 글로벌 금융·블록체인 업계 관계자들이 참석했다. 톰 리 비트마인 회장은 토큰화가 이더리움의...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003137180?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T06:13:00+09:00"
+    },
+    {
+      "id": "DB손해보험-885e7c",
+      "title": "내년 보험료 최대 10% 뛴다…평균공시이율 4년 만에 최저",
+      "description": "올해 1~8월 삼성화재·현대해상·DB손해보험·KB손해보험 등 4개사의 누적 손해율은 84.7%로 전년 동기보다 0.3%포인트 올랐다. 보험 업계의 한 관계자는 “최근 보험사들이 손해율이 높아지면서 보험료 인상을 준비하는...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666186?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6ed041",
+      "title": "금융민원 상반기 40% 급증…증권·보험서 불만 쏟아졌다",
+      "description": "DB손해보험은 1913건에서 2977건으로 55.6%, 한화손해보험은 635건에서 1315건으로 107.1% 증가했다. 보유계약 10만건당 민원도 삼성화재가 6.0건에서 9.8건, DB손보가 7.7건에서 11.7건, 한화손보가 7.4건에서 12.9건으로...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376699?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-173025",
+      "title": "상반기 금감원 민원 39.5% 늘어나... \"소비자보호 강화 기조 때문\"",
+      "description": "손해보험사에서는 삼성화재가 66.6% 증가한 3409건으로 가장 많았으며 DB손해보험이 2977건, 현대해상이 2481건으로 뒤를 이었다. 생명보험사에서는 삼성화재가 56.5% 증가한 1130건으로 가장 많았고 한화생명이...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764775",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f5dd15",
+      "title": "상반기 금융민원 40% 증가…KB국민은행·삼성화재 최다",
+      "description": "손해보험사에서는 삼성화재가 3409건으로 가장 많았고 DB손해보험 2977건, 현대해상 2481건, 메리츠화재 2282건, KB손해보험 1979건이 뒤를 이었다. 한화손해보험은 635건에서 1315건으로 107.1% 증가했다. 손보업계...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066562",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d463b5",
+      "title": "[단독] \"車보험 만기일\"…보험사 사칭 '피싱메일' 주의보",
+      "description": "보낸 사람은 국내 5대 대형 손보사 중 하나인 'DB손해보험'이라고 기재돼 있었다. 그러나 A씨는 곧바로 보험사를 사칭한 피싱메일임을 알아차렸다. 운전면허가 없는 A씨는 당연히 자동차보험에 가입한 적이 없기 때문이다....",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=310824",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6de769",
+      "title": "보험금 안 주거나 덜 주거나, 5년간 961건… 교보 절반 넘어",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억 6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원에 달한다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003684224?sid=101",
+      "source": "www.seoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T05:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c31681",
+      "title": "최용철 신임 소방청장, 재산 12억 9229만원 신고",
+      "description": "이어 미래에셋증권과 농협은행, 메리츠화재해상보험, 카카오뱅크 계좌의 예금액이 포함됐고, KB손해보험과 DB손해보험에도 각각 12만원이 있다. 배우자 명의의 예금은 4억 2210만원으로 본인보다 많다....",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376649?sid=102",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T00:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9ab72e",
+      "title": "추미애 3억8천만원 늘어 37억원 신고···신규 광역단체장 중 상위 3위...",
+      "description": "추 지사 본인 명의로는 DB손해보험, 농협은행(9650만원), 삼성증권(21억6941만원), 신한은행(1억5192만원)을 보유했다. 본인 명의의 채권(2억원)과 건물임대채무(2000만원)도 있었다. 안민석 경기교육감은...",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472977?sid=100",
+      "source": "www.khan.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T00:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cf0906",
+      "title": "보험사, 최근 5년간 보험금 부지급·과소지급 961건",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원에 이른다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=147454",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T22:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-308390",
+      "title": "'KoAct 고배당액티브' 순자산 625억원",
+      "description": "삼성액티브자산운용이 밝힌 주요 편입 종목은 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 남은영 삼성액티브자산운용 운용1팀장은 \"현재...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53274",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T21:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-869189",
+      "title": "보험금 안 주거나 덜 준 사례 5년간 1000건 육박",
+      "description": "손해보험사 중에서는 DB손해보험의 미지급 액수가 2억6200만원(26건)으로 가장 컸다. 이어 KB손해보험(9790만원·10건), 악사손해보험(7380만원·24건), 메리츠화재(4050만원·14건) 순으로 나타났다. 이들 상위 4개사의...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004162438?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T21:12:00+09:00"
+    },
+    {
+      "id": "DB증권-1b70b4",
+      "title": "삼성전기, AI 기판에 4.27조 투자…고객사가 상당액 선입금",
+      "description": "DB증권에 따르면 서버용 FCBGA를 안정적으로 공급할 수 있는 업체는 3곳 이하에 불과해 추가 가격 인상이 예상된다. 삼성전기도 시장 성장에 맞춰 고부가 제품 비중을 높이고 있다. 서버용 제품 비중은 올해 60%에서 내년...",
+      "url": "http://www.metroseoul.co.kr/article/20260928500646",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T21:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-608468",
+      "title": "삼성액티브자산운용, KoAct 고배당  ETF 순자산 500억 돌파",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.79%, 우리금융지주 5.54%, GS 5.33%, JB금융지주 5.09%, DB손해보험 4.88%, 삼성전자우 4.17% 등이다. 현재 배당수익률만으로 종목을 고르는 방식과 달리 예상 실적과 주주환원 변화를...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490916",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T21:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dc4351",
+      "title": "\"받을 땐 꼬박꼬박, 줄 때는 싹둑\"…5년간 보험금 미지급·과소지급 5억...",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 조사돼 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원에 달한다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원...",
+      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053680",
+      "source": "www.intn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T20:18:00+09:00"
+    },
+    {
+      "id": "DB증권-74a67d",
+      "title": "'이더리움 코리아 원: 제네시스' 찾아 미소 띈 곽봉석 DB증권 대표[한 컷...",
+      "description": "곽봉석 DB증권 대표이사가 28일 오후 서울 여의도 콘래드에서 열린 '이더리움 코리아 원: 제네시스'에 참석해 미소를 짓고 있다.",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092817593960256",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T19:58:00+09:00"
+    },
+    {
+      "id": "DB증권-528691",
+      "title": "'이더리움 코리아 원: 제네시스' 개회사 전하는 곽봉석 DB증권 대표[한 ...",
+      "description": "곽봉석 DB증권 대표이사가 28일 오후 서울 여의도 콘래드에서 열린 '이더리움 코리아 원: 제네시스'에서 환영사를 하고 있다.",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092817452881626",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T19:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d20f7a",
+      "title": "안주고 덜준 보험금, 5년간 1000건 육박",
+      "description": "손해보험사 중 보험금 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험이다. DB손해보험의 부지급 액수는 2억6200만 원(26건)으로 금액 기준 전체 보험사 중 가장 많았다. 이밖에 KB손해보험(9790만 원·10건)...",
+      "url": "https://n.news.naver.com/mnews/article/658/0000156852?sid=101",
+      "source": "www.kookje.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T19:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fcc44b",
+      "title": "대출 이자 갚기도 힘든데…보장성·車 보험료까지 인상 예고",
+      "description": "올해 1~8월 삼성화재·현대해상·DB손해보험·KB손해보험 등 주요 4개사의 자동차보험 누적 손해율은 84.7%로 전년 동기 대비 0.3%포인트 올랐다. 최근 주요국 국채금리 상승으로 시장금리가 빠르게 오르면서 이자 부담이...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666116?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T19:08:00+09:00"
+    },
+    {
+      "id": "DB증권-f2b765",
+      "title": "DB증권, 디지털자산 승부수...부산·제주서 STO 사업 확대",
+      "description": "곽봉석 DB증권 대표이사가 28일 서울 여의도 콘래드서울에서 열린 '이더리움 코리아 원: 제네시스'에서 발언하고 있다. [사진: 오상엽 기자] DB증권이 토큰증권(STO)과 실물연계자산(RWA)을 중심으로 디지털자산 사업을 본격...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703311",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T19:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5c9bd6",
+      "title": "보험금 안 주거나 덜 주거나 5년간 1000건 육박…교보 499건 최다",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억 6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원에 달한다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003684100?sid=101",
+      "source": "www.seoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T18:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a56dc",
+      "title": "[증권픽] 대신증권, MTS 현재가 첫 화면에 '배당' 탭 신설 外",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(7.79%), △우리금융지주(5.54%), △GS(5.33%), △JB금융지주(5.09%), △DB손해보험(4.88%), △삼성전자우(4.17%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96138",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T18:24:00+09:00"
+    },
+    {
+      "id": "DB증권-ba8529",
+      "title": "증권사 조달 '단기→장기' 이동…A급까지 회사채 찾는다",
+      "description": "지난 9월9일에는 DB증권(A+)이 2000억원 회사채를 발행했다. 1500억원 규모의 회사채 발행을 위한 기관투자자 수요예측서6600억원의 주문을 확보하면서 증액 발행했다. LS증권(A0)도 다음달 21일 700억원 규모의 회사채를...",
+      "url": "https://dealsite.co.kr/articles/169571",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T18:22:00+09:00"
+    },
+    {
+      "id": "DB증권-401263",
+      "title": "[이종은 칼럼] 책무구조도는 있는데…금융사고는 왜 계속 터질까",
+      "description": "DB증권에서는 장기간 누적된 통제 사각지대가 드러난 바 있다. 2025년6월16일 국회 정무위원회 김상훈 의원실이 DB증권에서 제출받아 공개한 자료에 따르면 한 직원이 2016년8월부터 2025년5월까지 약 9년간 회사 행사를...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=90887",
+      "source": "www.the-today.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T18:06:00+09:00"
+    },
+    {
+      "id": "DB증권-e49b5e",
+      "title": "곽봉석 대표 \"DB증권, 글로벌 블록체인-韓 자본시장 잇는 구심점\"",
+      "description": "한국의 전통 금융기관이 변화의 중심에서 구심점 역할을 해야 합니다.” 곽봉석 DB증권 대표가 28일 서울 여의도 콘래드에서 열린 ‘이더리움 코리아 원: 제네시스(Ethereum Korea One: Genesis)’ 세미나에서 “기술 그 자체가...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376556?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T17:53:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7286c9",
+      "title": "삼성액티브운용 'KoAct 고배당액티브', 상장 두 달 만에 순자산 625억",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 삼성액티브자산운용은 실적과 배당의 지속가능성 등을 고려해 종목을...",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202609281737586926be44c0aacd_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T17:48:00+09:00"
+    },
+    {
+      "id": "DB증권-0f5764",
+      "title": "이더리움에 모인 금융권…토큰화 인프라 경쟁 막 올랐다[KBW 2026]",
+      "description": "28일 서울 여의도 콘래드 서울에서 열린 '이더리움 코리아 원: 제네시스'에는 DB증권을 비롯해 KB증권·교보증권·한화투자증권 등 금융권 관계자들이 대거 참석했다. 토큰증권 법안 시행을 앞두고 증권사들은 발행을 넘어...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092817331445937",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T17:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7a303f",
+      "title": "[더벨][인사이드 헤지펀드] 얼라인, DB손보 밸류업에 '합격점'…자사주...",
+      "description": "얼라인파트너스자산운용이 DB손해보험의 밸류업 계획에 긍정적인 평가를 내놨다. 그간 공개주주서한을 통해 요구해 온 자본효율성 중심의 자본관리와 주주환원 확대 방향이 큰 틀에서 반영됐다는 이유다. 다만...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609221534473080102235",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T17:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5ba4c1",
+      "title": "은행보다 DSR 한도 높은 보험사 주담대…농협생명 최저금리 4.60%",
+      "description": "DB손해보험은 지난달 주택담보대출 취급 실적이 없었다. 한 대형 생보사 가계대출 담당자는 \"몇몇 보험사들이 가계대출을 중단·제한했다가 8월 말부터 차례로 재개하고 있다\"며 \"대출 재개 소식이 알려지자...",
+      "url": "https://www.kpinews.kr/newsView/1065598084207246",
+      "source": "www.kpinews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T17:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6c513a",
+      "title": "DB하이텍 파운드리 단가 최대 30%↑…中 주문에 행복한 비명",
+      "description": "DB하이텍이 반도체 위탁생산(파운드리) 수요 확대로 가격 인상을 본격화했다. 올해 3월과 9월 두 차례에 걸쳐 파운드리 가격을 인상한 것으로 28일 알려졌다. 인상폭은 5~30% 가량이다. 중국 고객사에 대한 파운드리...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=62785",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-28T17:24:00+09:00"
+    },
+    {
+      "id": "DB증권-59e4fc",
+      "title": "미국 국채금리 17년 만에 최고…고금리 장기화 우려 커졌다",
+      "description": "문홍철 DB증권 연구원도 \"장기 국채 금리의 방향 결정에는 유가의 영향이 절대적이지만, 재정 리스크와 연방준비제도(연준) 독립성 의문, 글로벌 수요 위축 등이 가격 변동성을 높이고 있다\"고 평가했다. 문 연구원은...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=312621",
+      "source": "www.ppss.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T17:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-79e406",
+      "title": "보험금 안 주거나 덜 준 보험사...5년간 961건·5억5천만원 적발",
+      "description": "DB손해보험은 보험금 26건, 총 2억6천200만원을 지급하지 않은 것으로 나타나 금액 기준 전체 보험사 가운데 가장 많았다. 단순 계산하면 건당 약 1천8만원이다....",
+      "url": "http://www.breaknews.com/1239462",
+      "source": "www.breaknews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-309107",
+      "title": "[코스피 지수선물 옵션] 반도체주 선물에 매도 쏟아졌다…삼성전자·SK하...",
+      "description": "보험주에서는 삼성생명과 삼성화재, DB손해보험이 상승했다. 금융지주와 보험주 일부가 강세를 보이면서 금융업종 내에서도 자금 이동이 나타났다. 이날 시장에서 가장 눈에 띄는 특징은 대형 반도체주와 일부 전력...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490873",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c01f4d",
+      "title": "국감 앞둔 정무위, 레버리지 ETF 회의 내용 비공개…보험금 지급도 도마",
+      "description": "손해보험사 가운데 DB손해보험의 부지급·과소지급액이 2억6200만원으로 가장 많았다. 이어 KB손해보험 9790만원, AXA손해보험 7380만원, 메리츠화재 4050만원 순이었다. 4개 손해보험사의 부지급·과소지급액을 합치면...",
+      "url": "https://sateconomy.co.kr/news/view/1065597937997851",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ab5702",
+      "title": "보험금 가장 '짜게' 주는 보험사는 교보생명과 DB손보",
+      "description": "국내 주요 보험사 가운데 보험금을 제때 주지 않은 보험사중 해당 금액이 가장 큰 곳은 DB손해보험인 것으로 조사됐다. 이 회사의 보험금 부지급 액수는 총 2억6200만원에 달했다. 28일 국회 박성훈 국민의힘 의원이...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725891",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d28be8",
+      "title": "보험금 부당지급 적발 5년간 1천건 육박...'안 주거나 덜 주거나'",
+      "description": "여기에는 보험금 지급 과정에서 적립이자를 약속보다 적게 지급하거나 입원보험금을 과소지급한 사례 등이 포함된다.손해보험사 중 보험금 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험이다. DB손해보험의...",
+      "url": "https://www.kbsm.net/news/view.php?idx=535678",
+      "source": "www.kbsm.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-be0c26",
+      "title": "“배당 더 늘어날 종목 담았다”…두 달 만에 600억 몰린 ETF",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 남은영 삼성액티브자산운용 운용1팀장은 “단순히 고배당을 내는 종목이...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740875?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:37:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ab8c39",
+      "title": "보험금 부당 부지급·과소지급 5년간 1000건·5.5억원 육박",
+      "description": "손해보험업계에서는 DB손해보험의 부지급 액수가 가장 컸다. DB손해보험은 26건, 총 2억6200만원을 부지급 및 과소지급해 전체 보험사 중 최고액을 기록했다. 이어 KB손해보험(10건·9790만원), 악사손해보험(24건...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=638815",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:27:00+09:00"
+    },
+    {
+      "id": "DB손해보험-95ee6f",
+      "title": "“받을 땐 꼬박꼬박, 줄 땐 찔끔찔끔”…보험금 961건 안 주거나 덜 줬다",
+      "description": "손해보험사 중 보험금 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험이다. DB손해보험의 부지급 액수는 2억 6200만 원(26건)으로 금액 기준 전체 보험사 중 가장 많았다. 이밖에 KB손해보험(9790만 원·10건)...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666016?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c53c63",
+      "title": "투자손익은 반토막, 순익은 36% 증가···현대해상 실적 뒤집은 장기보...",
+      "description": "현대해상을 제외한 주요 손보사 4곳(삼성화재·DB손해보험·메리츠화재·KB손해보험) 가운데 KB손해보험을 제외한 3곳은 투자손익이 전년 동기보다 늘었다. 보험손익은 회사별로 증감이 엇갈렸지만, 현대해상의 증가폭이...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=154993",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T16:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-687829",
+      "title": "[마감시황] 코스피, 191.18포인트 내린 6889.74 마감",
+      "description": "테마별로는 코스피는 서울보증보험(+4.60%), 한화손해보험(+3.68%), DB손해보험(+3.41%) 등 금리 상승으로 인해 보험주와 금융주가, 코스닥은 루닛(+18.96%), 씨어스(+11.18%), HLB(+29.95%) 등 바이오주가 두드러졌다....",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=208906",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4d5d76",
+      "title": "삼성 '1위 굳히기' 메리츠·DB '추격'…손보 빅5 순위 경쟁 '후끈'",
+      "description": "삼성화재, 메리츠화재, DB손해보험, 현대해상, KB손보 사옥. 사진제공=각 사  올해 상반기 주요 손해보험사들의 실적 희비가 엇갈리면서 하반기 순위 경쟁에도 관심이 쏠리고 있다. 삼성화재가 순이익과 보험손익...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144956",
+      "source": "www.opinionnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:50:00+09:00"
+    },
+    {
+      "id": "DB자산운용-dc49ae",
+      "title": "시민단체 \"외압 막고 내부통제 강화해야\"… 이규홍 국민연금 CIO '독립성...",
+      "description": "이규홍 신임 CIO는 삼성자산운용과 DB자산운용 등을 거쳐 NH아문디자산운용 CIO와 아쎈다스자산운용 대표이사를 지냈으며 사학연금 CIO를 역임했다. 민간 자산운용과 실물자산, 공적연금 운용을 두루 경험한 인물이라는 점이...",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523043",
+      "source": "www.ilyoseoul.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-09-28T15:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-84b5e8",
+      "title": "\"보험금 덜 주다 적발\"…DB손보 '금액 최다', 교보생명 '건수 최다'",
+      "description": "손해보험사 가운데 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험이었다. DB손해보험은 26건에서 2억6200만원을 부지급하거나 과소지급해 금액 기준 전체 보험사 가운데 가장 많았다. 이어 KB손해보험이 10건...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320250",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-57ba6f",
+      "title": "DB손보, 보험금 부지급·과소지급 2.6억 '업계 최대'",
+      "description": "DB손해보험(005830, 대표 정종표)이 최근 5년간 보험금 부지급·과소지급 금액이 2억6200만원에 달해 전체 보험사 중 가장 많은 것으로 나타났다. 28일 국회 정무위원회 소속 박성훈 국민의힘 의원이...",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=121454",
+      "source": "www.koreastocknews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-497142",
+      "title": "삼성액티브 KoAct 고배당액티브, 순자산 500억 돌파",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(7.79%) ▲우리금융지주(5.54%) ▲GS(5.33%) ▲JB금융지주(5.09%) ▲DB손해보험(4.88%) ▲삼성전자우(4.17%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는...",
+      "url": "http://www.metroseoul.co.kr/article/20260928500402",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-097456",
+      "title": "[뉴스워커_삼성액티브자산운용] 한 달 새 순자산 5배…'KoAct 고배당액티...",
+      "description": "현대엘리베이터와 우리금융지주, GS, JB금융지주, DB손해보험, 삼성전자우 등을 주요 종목으로 편입하고 있다. 삼성액티브자산운용은 예상 배당수익률 변화에 따라 종목 비중을 조정하는 액티브 전략을 활용한다....",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=506157",
+      "source": "www.newsworker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:34:00+09:00"
+    },
+    {
+      "id": "DB증권-552f98",
+      "title": "화학 3.3%, 건설 3%↑...장기 소외주 일제히 올라 '순환장세' 펼쳐지나",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고 분석했다....",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026092815204343732aaae0046f_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T15:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3fb842",
+      "title": "최근 5년간 보험금 안 주거나 적게 지급한 사례 1000건 육박",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 전체 보험사 중 금액이 가장 많았다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는 14건에 4050만원이었다. 손해보험사 4곳의 적발...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=124787",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a732b",
+      "title": "박성훈 의원,\"낼 땐 꼬박꼬박, 탈 땐 쥐꼬리\"…보험금 덜 주고 떼먹은 보...",
+      "description": "특히 DB손해보험은 26건의 보험금을 미지급하며 2억 6,200만 원을 떼먹어 금액 기준 1위를 기록했다. 피해 1건당 평균 1,008만 원에 달하는 고액 보험금을 지급하지 않은 셈이다. 반면 생명보험사는 약관상 지급해야 할...",
+      "url": "https://www.dailyt.co.kr/newsView/dlt202609280019",
+      "source": "www.dailyt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e8898c",
+      "title": "DB하이텍, DB손보 지분 잇단 매수...배경은?",
+      "description": "DB하이텍이 DB손해보험(DB손보) 주식을 약 3개월에 걸쳐 사들이고 있어 그 배경에 이목이 쏠린다. 행동주의펀드 얼라인파트너스자산운용(얼라인파트너스)이 올해 초부터 DB손보를 대상으로 주주환원 확대와 이사회...",
+      "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6842",
+      "source": "www.dailybrief.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T15:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e8898c",
+      "title": "DB하이텍, DB손보 지분 잇단 매수...배경은?",
+      "description": "DB하이텍이 DB손해보험(DB손보) 주식을 약 3개월에 걸쳐 사들이고 있어 그 배경에 이목이 쏠린다. 행동주의펀드 얼라인파트너스자산운용(얼라인파트너스)이 올해 초부터 DB손보를 대상으로 주주환원 확대와 이사회...",
+      "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6842",
+      "source": "www.dailybrief.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-28T15:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1dc8a7",
+      "title": "보험금 안 주고 덜 주고…5년간 '꼼수 지급' 1000건 육박",
+      "description": "DB손해보험은 26건에서 총 2억 6,200만 원을 주지 않아 1건당 미지급액이 약 1,008만 원에 달했다. 이어 KB손해보험이 10건(9,790만 원), 악사손해보험이 24건(7,380만 원), 메리츠화재가 14건(4,050만 원) 규모의 과소지급으로...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213371",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:52:00+09:00"
+    },
+    {
+      "id": "DB증권-34dcc1",
+      "title": "美 국채금리 2007년 이후 최고…“10년물 5.6%까지 열려”",
+      "description": "문홍철 DB증권 연구원도 “장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적”이라면서도 “재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경”이라고...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050185?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T14:43:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4283be",
+      "title": "보험사, 부당지급 5년간 1000건 육박",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약1008만원에 달한다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281357540680564",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a3aaa3",
+      "title": "DB손해보험, 업계 최초 車 첨단안전장치 이미지 자동 판독",
+      "description": "계약 처리 속도·판독 객관성 ↑ 아주경제=권가림 기자 hidden@ajunews.com DB손해보험은 자체 기술로 개발한 ‘첨단안전장치(ADAS) 이미지 AI 자동판독 서비스’를 자동차보험 계약 업무에 적용한다고 28일 밝혔다....",
+      "url": "https://www.ajunews.com/view/20260928090408933",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f16a1d",
+      "title": "보험금 안 주거나 덜 줘…5년간 961건, 5억 넘었다",
+      "description": "주요 손해보험사 중에서는 DB손해보험(26건·2억6200만 원), KB손해보험(10건·9790만 원), 메리츠화재(14건·4050만 원) 등에서 부지급·과소지급이 많았다. 생명보험사는 교보생명(499건·3270만 원), 동양생명(237건·1700만...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751007?sid=101",
+      "source": "www.donga.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:38:00+09:00"
+    },
+    {
+      "id": "DB증권-f7d4b9",
+      "title": "얼어붙은 취업시장, 여의도만 뜨겁다… 증권가 ‘채용 러시’",
+      "description": "28일 금융투자업계에 따르면 올해 하반기 신입사원 공개채용 계획을 내놓은 증권사는 한국투자증권·키움증권·NH투자증권·삼성증권·신한투자증권·LS증권·DB증권·교보증권 등 8곳을 넘어섰다. 특히 지난해 하반기...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261183",
+      "source": "www.mediawatch.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T14:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ce064e",
+      "title": "보험금 부지급·과소지급 5년간 1000건 육박...손보사 4곳에 금액 86.5% 집...",
+      "description": "부지급·과소지급액은 총 5억4840만원으로, DB손해보험은 금액 기준, 교보생명은 건수 기준으로 각각 가장 많았다. 보험금 산정과 지급 과정에서 누락을 막기 위한 내부통제와 사후점검을 강화해야 한다는 지적이...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=350872",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8839b8",
+      "title": "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태…인카금융 턱밑 추격",
+      "description": "손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러 보험사에서 발생했다. 이 같은 판매 구조는 올해 상반기 실적에서도 나타난다. 인카금융서비스의 상반기 손해보험 매출액은...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092811255217518",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:12:00+09:00"
+    },
+    {
+      "id": "DB생명-8839b8",
+      "title": "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태…인카금융 턱밑 추격",
+      "description": "지난해 생명보험 모집수수료는 총 4295억원으로 신한라이프 934억원, DB생명 529억원, 동양생명 316억원 등으로 분산됐다. 손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092811255217518",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-28T14:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-210577",
+      "title": "삼성액티브자산운용 KoAct 고배당액티브 ETF, 순자산 500억 돌파",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 안정적인 실적을 바탕으로 배당의 지속가능성이 기대되는 기업을 중심으로...",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122461",
+      "source": "www.delighti.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T14:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1f1a76",
+      "title": "[여의도단신]미래에셋자산운용·DS자산운용·삼성액티브자산운용",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(7.79%) ▲우리금융지주(5.54%) ▲GS(5.33%) ▲JB금융지주(5.09%) ▲DB손해보험(4.88%) ▲삼성전자우(4.17%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001030897?sid=101",
+      "source": "www.imaeil.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T13:52:00+09:00"
+    },
+    {
+      "id": "DB생명-160774",
+      "title": "AIA생명, 차기 대표이사에 리오 응 내정…'30년 경력' 보험 전문가 발탁",
+      "description": "DB생명은 35년 경력의 경영기획·전략 전문가인 박제광 사장을 신임 대표로 내정해 수익성과 건전성 강화를 추진하고 있으며, 라이나손해보험 역시 30년 경력의 손해보험 및 언더라이팅 전문가인 김일평 전...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213357",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-28T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-297e8a",
+      "title": "보험금 덜 준 사례 961건 적발…DB손보 2억6천만원 지급 안해",
+      "description": "금액 기준으로는 DB손해보험이 26건, 2억6200만원으로 가장 많았다. 이어 KB손해보험 9790만원(10건), 악사손해보험 7380만원(24건), 메리츠화재 4050만원(14건) 순이었다. 이들 4개 손해보험사의 미지급·과소지급액은...",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49266",
+      "source": "www.smarttimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T13:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-af05a5",
+      "title": "연휴 후 코스피, 3Q 실적 및 美 고용 등 코앞...주목 업종과 종목은",
+      "description": "KT ▲보험 DB손해보험을 꼽았다. 유안타증권이 분석한 '3분기 실적 서프라이즈 및 턴어라운드 업종'도 반도체, IT가전, 조선, 기계, 건설 등이다. 종목은 삼성전자, SK하이닉스, 삼성전기, 한화에어로스페이스...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144932",
+      "source": "www.opinionnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T13:22:00+09:00"
+    },
+    {
+      "id": "DB증권-f51a91",
+      "title": "거래대금 반토막에 주춤한 이 업종…“배당 매력 커졌다”",
+      "description": "코스피 증권 지수에는 미래에셋증권, DB증권, NH투자증권, SK증권, 교보증권, 다올투자증권, 대신증권, 삼성증권, 키움증권, 한화투자증권 등이 포함돼있다. 거래대금 감소가 증권주의 투자 심리를 위축하고 있다....",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740709?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T13:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-540d3b",
+      "title": "보험금 안 주거나 덜 주거나… 5년간 961건 적발",
+      "description": "손해보험사 중에서는 DB손해보험의 부지급·과소지급 금액이 2억6200만원(26건)으로 가장 많았다. 그 뒤는 KB손해보험 9790만원(10건), AXA손해보험 7380만원(24건), 메리츠화재 4050만원(14건) 등의 순이었다. 4개...",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88292",
+      "source": "www.ekoreanews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T13:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-29205a",
+      "title": "안 주고 덜 준 보험금 5.5억원…금감원 검사서 961건 적발",
+      "description": "보험금 부지급·과소지급 금액이 가장 큰 보험사는 DB손해보험이었다. DB손해보험이 지급하지 않은 보험금은 2억6200만원(26건)으로 전체 보험사 가운데 최대 규모였다. 이어 KB손해보험 9790만원(10건), 악사손해보험...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=751988",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T13:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-83386e",
+      "title": "보험금 안 주거나 덜 준 보험사 9곳…금감원 제재 10건",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 적발 금액이 가장 컸다. KB손해보험은 10건에 9790만원, AXA손해보험은 24건에 7380만원, 메리츠화재는 14건에 4050만원이었다. 생명보험사에서는 보험금 지급...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53246",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T12:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dd938c",
+      "title": "보험금 안 주거나 덜 준 보험사들, 5년간 961건 적발",
+      "description": "DB손해보험은 보험금 부지급 26건, 2억6,200만 원으로 1건당 약 1,008만 원을 지급하지 않았다. KB손해보험은 적발 건수 10건에 9,790만 원, 악사손해보험은 24건에 7,380만 원, 메리츠화재는 14건에 4,050만 원 규모의...",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956319?sid=101",
+      "source": "www.hankookilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T12:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-22b446",
+      "title": "보험금 안 주거나 덜 준 보험사 5년간 1천건 육박",
+      "description": "손해보험사 중 DB손해보험, KB손해보험, 악사손해보험, 메리츠화재 등 4곳의 부지급·과소지급 보험금이 총 4억7420만원으로 전체의 86.5%를 차지했다. DB손해보험이 2억6200만원(26건)으로 보험금 부지급·과소지급...",
+      "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81384",
+      "source": "www.newsfc.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T12:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65470e",
+      "title": "삼성액티브운용, 고배당 월배당 ETF 상장 두 달 만에 500억원",
+      "description": "현재 주요 편입 종목은 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 남은영 삼성액티브자산운용 운용1팀장은 \"단순히 고배당을 내는 종목이...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213350",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T12:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-805505",
+      "title": "[기획] 네팔 대홍수發 탄소배출 책임론 급부상…韓기업 성적표는 ④보험...",
+      "description": "반면 교보생명과 신한카드는 같은 기간 배출량에 큰 변화가 없었고, DB손해보험은 분석 대상 가운데 유일하게 증가했다. 28일 <뉴스워치>가 각사 지속가능경영보고서를 분석한 결과 삼성생명·한화생명...",
+      "url": "http://www.newswatch.kr/news/articleView.html?idxno=81303",
+      "source": "www.newswatch.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0caedd",
+      "title": "보험료 받아가더니, 필요할 때 외면?…보험사 어딘가 봤더니",
+      "description": "이 가운데 손해보험사 중 보험금을 안주거나 덜 준 금액이 가장 큰 곳은 DB손해보험입니다. 부지급 액수가 2억6천200만원(26건)으로 금액 기준 압도적이었습니다. 이어 KB손해보험, 악사손해보험, 메리츠화재...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000535069?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c8cb53",
+      "title": "치매·간병에 꽂힌 보험사들…손보 앞서고 생보 추격",
+      "description": "삼성화재는 알츠하이머 표적치매약물 치료와 치매 케어 서비스를 결합한 보장을 운영하고 있으며, DB손해보험은 치매 단계별 진단과 장기요양·간병인 사용 등을 아우르는 상품을 판매하고 있다. 현대해상은 재택간병인...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129683",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-99e192",
+      "title": "[경제소식] NH농협은행, 부산에 두 번째 FDI 특화자문센터",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.79%, 우리금융지주 5.54%, GS 5.33%, JB금융지주 5.09%, DB손해보험 4.88%, 삼성전자우 4.17% 등이다. 삼성액티브자산운용은 실적을 기반으로 배당의 지속 가능성을 기대할 수 있는 기업을...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2118730",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1b4251",
+      "title": "'안 주거나 덜 주거나'… 보험금 부당지급 적발 5년간 1천건 육박",
+      "description": "손해보험사 중 보험금 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험이다. DB손해보험의 부지급 액수는 2억6200만원(26건)으로 금액 기준 전체 보험사 중 가장 많았다. 이밖에 KB손해보험(9790만원·10건)...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93013",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fe7a80",
+      "title": "보험금 안 주거나 덜 준 보험사들…5년간 900여 건 적발",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억 6200만 원으로 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만 원에 달한다. KB손해보험은 10건에 9790만 원, 악사손해보험은 24건에 7380만 원...",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400085?sid=101",
+      "source": "www.busan.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-87128a",
+      "title": "보험금 안 주고 덜 주고…5년간 961건 적발",
+      "description": "● 손해보험사 4곳이 전체 부지급·과소지급액의 86.5% 차지 손해보험사에서는 DB손해보험의 부지급·과소지급액이 2억6200만 원(26건)으로 가장 많았다. KB손해보험 9790만 원(10건), 악사손해보험 7380만 원(24건)...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750975?sid=101",
+      "source": "www.donga.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:30:00+09:00"
+    },
+    {
+      "id": "DB증권-e45140",
+      "title": "한화자산운용, 자체 AI '오딘' 전사 가동",
+      "description": "나민욱 DB증권 연구위원은 지난 7월 금융 데이터 기업 쿠콘을 분석하면서 금융회사와 핀테크의 AI 에이전트 도입이 빨라질수록 AI가 외부 데이터와 도구를 직접 불러 사용하는 수요가 확대될 것으로 전망했다. 생성형 AI에...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312030",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T11:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a889ca",
+      "title": "[더밸류 브리핑] 오늘의 ETF 소식...미래에셋자산운용·삼성액티브자산...",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.79%, 우리금융지주 5.54%, GS 5.33%, JB금융지주 5.09%, DB손해보험 4.88%, 삼성전자우 4.17% 등이다. 남은영 삼성액티브자산운용 운용1팀장은 “단순히 고배당을 내는 종목이...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=201894",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7741bb",
+      "title": "[EBN 데이터센터] 반도체주 일제히 약세...미국채 금리 부담에 투심 냉각",
+      "description": "삼성전자는 27만4750원으로 1만750원 밀려 3.77% 내렸고, DB하이텍도 13만100원으로 1900원 하락해 1.44% 약세를 보였다. SK하이닉스와 삼성전자가 업종 하방을 주도하는 흐름이다. 시장에서는 미국채 10년물 금리 상승이 가장...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725799",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-28T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6ab3a2",
+      "title": "보험금 안 주거나 덜 준 보험사…5년여간 961건·5억4840만원 적발",
+      "description": "DB손해보험은 보험금 26건을 지급하지 않아 총 2억6200만원이 누락된 것으로 확인됐다. 전체 보험사 가운데 부지급·과소지급 금액이 가장 컸으며, 건당 평균 금액은 약 1008만원이었다. KB손해보험은 10건에서 9790만원...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=301508",
+      "source": "www.widedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3661a3",
+      "title": "KoAct 고배당액티브 ETF, 순자산 500억원 돌파",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(7.79%), △우리금융지주(5.54%), △GS(5.33%), △JB금융지주(5.09%), △DB손해보험(4.88%), △삼성전자우(4.17%) 등이다. 남은영 삼성액티브자산운용 운용1팀장은 \"단순히 고배당을...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/112013",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f56b87",
+      "title": "최근 5년여간 보험금 부지급·과소지급 961건…보험사 10곳 제재",
+      "description": "손해보험사 가운데 관련 금액이 가장 큰 곳은 DB손해보험이었다. DB손보는 26건에서 2억6200만원을 지급하지 않거나 적게 지급했으며, 건당 평균 금액은 약 1008만원이다. KB손해보험은 10건에 9790만원...",
+      "url": "https://www.viva100.com/article/20260928500470",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:50:00+09:00"
+    },
+    {
+      "id": "DB증권-1da383",
+      "title": "삼전닉스, 3~4% 급락 중...추석 연휴기간 글로벌 국채금리 급등에 따른 ...",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고 분석했다....",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026092810415422302aaae0046f_30",
+      "source": "www.beyondpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T10:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cac1c0",
+      "title": "변동성 장세에 '월배당 ETF' 주목…‘KoAct 고배당액티브’ 순자산 500억...",
+      "description": "주요 편입 종목은 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이다. 안정적인 실적을 기반으로 지속적인 배당이 기대되는 기업을 중심으로...",
+      "url": "https://www.g-enews.com/view.php?ud=202609281043286467153ddfb15a_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-79f96a",
+      "title": "삼성액티브자산운용 'KoAct 고배당액티브', 순자산 500억 돌파",
+      "description": "현재 주요 포트폴리오는 △현대엘리베이터(7.79%), △우리금융지주(5.54%), △GS(5.33%), △JB금융지주(5.09%), △DB손해보험(4.88%), △삼성전자우(4.17%) 등이다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수...",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49274",
+      "source": "www.smarttimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3da024",
+      "title": "\"배당만으론 부족하다\"…월배당 ETF도 '주가 상승' 정조준",
+      "description": "현재 포트폴리오에는 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등이 포함돼 있다. 특히 시장 상황에 따라 배당수익률과 주가 괴리율을 함께 고려해 종목...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=6801",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-075fe0",
+      "title": "[2026 국감이슈] 보험금 부지급·과소지급 961건… DB손보 '금액 최다'",
+      "description": "금액이 가장 큰 곳은 DB손해보험이다. 보험금을 지급하지 않은 사례 26건에서 2억6200만원이 확인됐다. 건당 평균으로 계산하면 약 1008만원이다. 이어 KB손해보험 10건·9790만원, 악사손해보험 24건·7380만원...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=136988",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5148a8",
+      "title": "현대해상, 새 기업광고 '이름 곁에 평생' 공개...의미는?",
+      "description": "예컨대 DB손해보험은 2025년 기업PR 광고 '우리는 약속한 사이'에서 고객의 안전·건강·사랑을 지키겠다는 브랜드 가치를 내세웠다. 삼성화재도 브랜드 심볼인 '당신의 봄'을 활용해 고객을 살피고 희망찬 일상을 돕겠다는...",
+      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=171738",
+      "source": "www.choicenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f4c302",
+      "title": "보험금 부지급·과소지급 961건…교보생명, 건수·과징금 '최다'",
+      "description": "부지급·과소지급 금액은 DB손해보험이 2억6200만원으로 가장 많았고, 건수는 교보생명이 499건으로 최다였다. 과징금도 교보생명이 3억2600만원으로 가장 많았다. 28일 국회 정무위원회 소속 박성훈 국민의힘 의원이...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96081",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7cb799",
+      "title": "삼성액티브자산운용 ‘KoAct 고배당액티브’ 순자산 625억원",
+      "description": "우리금융지주 5.54%, GS 5.33%, JB금융지주 5.09%, DB손해보험 4.88%, 삼성전자우 4.17%가 뒤를 잇는다. 남은영 삼성액티브자산운용 운용1팀장은 “고배당을 주면서 향후 배당이 더 높아질 것으로 기대되거나 신사업...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000100286",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:34:00+09:00"
+    },
+    {
+      "id": "DB증권-f545e0",
+      "title": "연휴에도 오른 美 국채금리…韓 국고채·은행채로 번지나",
+      "description": "DB증권은 유가와 재정 우려, 장기국채 수요 약화 등을 들어 국내외 장기금리의 하락 여력이 제한적이라고 봤다. 국고채 금리가 연휴 이후 첫 거래에서 얼마나 움직이는지뿐 아니라 이후 채권 매수 수요가 회복되는지도...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725767",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T10:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-21ce4e",
+      "title": "삼성액티브운용 'KoAct 고배당액티브 ETF' 순자산 500억 돌파",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(7.79%) ▲우리금융지주(5.54%) ▲GS(5.33%) ▲JB금융지주(5.09%) ▲DB손해보험(4.88%) ▲삼성전자우(4.17%) 등이다. 삼성액티브자산운용 관계자는 \"단순히 고배당을 내는 종목이...",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=363770",
+      "source": "www.smedaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5354df",
+      "title": "“보험료는 꼬박꼬박 받더니”…보험금 ‘안 주고 덜 주고’ 5년간 1000...",
+      "description": "손해보험업계에서는 DB손해보험의 미지급·과소지급 규모가 26건, 2억6200만원으로 가장 컸다. KB손해보험 9790만원(10건), 악사손해보험 7380만원(24건), 메리츠화재 4050만원(14건)이 뒤를 이었다. 이들 4개사의 금액만...",
+      "url": "https://n.news.naver.com/mnews/article/123/0002390884?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-afa74e",
+      "title": "\"보험금 덜 주는 보험사\"...금액 1위는 DB손보·건수 1위는 교보생명",
+      "description": "보험사가 보험 계약자에게 보험금을 잘못 지급하거나 적게 주는 사례가 지속되고 있는 가운데 DB손해보험과 교보생명이 미지급 금액과 건수에서 각각 1위라는 불명예를 차지했다. 특히 교보생명의 경우...",
+      "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6838",
+      "source": "www.dailybrief.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-52778d",
+      "title": "보험사, 보험금 안 주고 덜 주고…손보사는 금액의 86.5% 차지",
+      "description": "DB손해보험은 보험금 부지급 26건, 2억6200만원으로 전체 보험사 가운데 적발금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원이다. 이어 KB손해보험 10건·9790만원, 악사손해보험 24건·7380만원, 메리츠화재 14건...",
+      "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68500",
+      "source": "www.akomnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-135b99",
+      "title": "보험금 안주려는 보험사 적발…5억 5천만원 떼먹어",
+      "description": "손해보험사 중 보험금 부지급·과소지급 금액이 가장 큰 곳은 DB손해보험으로 2억 6,200만 원(26건)으로 파악됐다. 뒤이어 KB손해보험(9,790만 원·10건), 악사손해보험(7,380만 원·24건), 메리츠화재(4,050만원· 14건) 등의...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267348?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6d501a",
+      "title": "고객 보험금 안 주거나 덜 준 ‘적반하장’ 보험사들…DB손보·메리츠·...",
+      "description": "손해보험사 가운데서는 DB손해보험의 부지급 금액이 가장 컸다. 적발 건수는 26건이지만 지급하지 않은 금액은 총 2억6200만원으로, 전체 보험사를 통틀어서도 가장 많았다. 다른 손해보험사에서도 비슷한 사례가...",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875312?sid=101",
+      "source": "www.kmib.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-930f7c",
+      "title": "\"보험금 안 주거나 덜 줬다 적발\"···최근 5년간 1,000건·5억 5,000만 원",
+      "description": "특히 DB손해보험은 26건에 2억 6,200만 원으로 전체 보험사 가운데 금액이 가장 많았고, 1건당 평균 미지급액이 약 1,008만 원이었습니다. 반면 생명보험사는 소액의 보험금이나 적립 이자를 다수 계약자에게 덜 준...",
+      "url": "https://n.news.naver.com/mnews/article/657/0000055744?sid=101",
+      "source": "dgmbc.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c7241c",
+      "title": "보험금 안 주거나 덜 줬다…5년간 961건·5억5천만원 적발",
+      "description": "DB손해보험은 26건에서 2억 6천200만원을 지급하지 않은 것으로 나타나 금액 기준 가장 많았다. 단순 계산하면 1건당 약 1천8만원이다. 이어 KB손해보험 10건·9천790만원, 악사손해보험 24건·7천380만원, 메리츠화재...",
+      "url": "https://n.news.naver.com/mnews/article/666/0000125090?sid=101",
+      "source": "www.kyeonggi.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-421dc4",
+      "title": "삼성액티브자산운용 KoAct 고배당액티브 ETF, 순자산 500억 돌파",
+      "description": "현재 주요 포트폴리오는 ▲현대엘리베이터(7.79%) ▲우리금융지주(5.54%) ▲GS(5.33%) ▲JB금융지주(5.09%) ▲DB손해보험(4.88%) ▲삼성전자우(4.17%) 등 입니다. 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=92370",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c677c",
+      "title": "'교보생명·DB손보·메리츠화재·KB손보' 보험사들의 낯 두꺼운 '표리부...",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 1건당 약 1008만원꼴이다. KB손해보험은 10건에 9790만원, 악사손해보험은 24건에 7380만원, 메리츠화재는 14건에...",
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60310",
+      "source": "www.sejungilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-28T10:12:00+09:00"
+    },
+    {
+      "id": "DB증권-b612bc",
+      "title": "美 10년물 국채금리 5.17%, 2007년來 최고…글로벌 시장 긴장",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고...",
+      "url": "https://www.tjb.co.kr/news05/bodo/view/id/104135",
+      "source": "www.tjb.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T10:00:00+09:00"
+    },
+    {
+      "id": "DB증권-9fb419",
+      "title": "지난주 증권사 CP·전단채 11조7천707억 발행…금주 만기 6조7천50억",
+      "description": "이어 하나증권이 7천150억원, DB증권이 6천390억원을 발행했다. 직전 주간(9월 14~18일) 27개 증권사가 발행한 규모는 총 18조2천151억원으로 집계됐다. 이번 주(9월 28일~10월 2일) 28개 증권사에서 만기를 맞는...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436638",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3e9030",
+      "title": "심플랫폼, ‘제조AI 개발역량 진단’ 최고등급 S 획득",
+      "description": "(AI)과 사물인터넷(IoT)을 결합한 ‘AIoT’ 기술을 바탕으로 산업 현장 데이터를 수집·분석하는 플랫폼 ‘누비슨(NUBISON)’을 주력으로 제공하고 있다. DB하이텍·강남세브란스병원·LG유플러스 등을 고객사로 두고 있다.",
+      "url": "https://www.sentv.co.kr/article/view/sentv202609280028",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-28T09:32:00+09:00"
+    },
+    {
+      "id": "DB증권-5141ae",
+      "title": "[크립토하나] 이번주 가상자산 행사 풍성…美 고용지표도 주목",
+      "description": "DB증권, KB증권, 한화투자증권, 교보증권 등 국내 증권사, 핀테크 기업 등이 모여 토큰증권(ST) 제도 시행 이후 국내 금융사의 이더리움 메인넷 도입 현황과 과제 등을 논의할 예정입니다. 국회에서도 디지털자산 관련...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002438885?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:27:00+09:00"
+    },
+    {
+      "id": "DB증권-475a99",
+      "title": "美 국채금리 2007년 이후 최고…10년물 5.6% 가능성",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고 분석했다....",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000069036",
+      "source": "www.jnilbo.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:25:00+09:00"
+    },
+    {
+      "id": "DB증권-c04930",
+      "title": "美 국채금리 2007년 이후 최고…\"물가 우려에 10년물 5.6%까지 열려\"",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고 분석했다....",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=722016",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:20:00+09:00"
+    },
+    {
+      "id": "DB증권-a9843c",
+      "title": "증권사 하반기 신입 채용 확대…NH·신한도 공채 재개",
+      "description": "금융투자업계에 따르면 지난 23일까지 올해 하반기 신입사원 공개채용 계획을 내놓은 증권사는 한국투자증권, 키움증권, NH투자증권, 삼성증권, 신한투자증권, LS증권, DB증권, 교보증권 등 8곳 이상이다. NH투자증권과...",
+      "url": "https://sateconomy.co.kr/news/view/1065571369806071",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:10:00+09:00"
+    },
+    {
+      "id": "DB증권-75f817",
+      "title": "연휴 후 반등 노리는 증시...반도체 실적에 쏠리는 눈",
+      "description": "강현기 DB증권 연구원은 \"향후 상당 기간 유가가 높은 수준에 머물 가능성을 고려해야 한다\"며 \"성장주 중에서도 실적 개선이 뚜렷한 종목으로 투자 대상을 좁히려는 성향이 강해질 수 있다\"고 전망했다.",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051107?sid=101",
+      "source": "news.bizwatch.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:00:00+09:00"
+    },
+    {
+      "id": "DB증권-f58124",
+      "title": "[이스트포인트 2026] 이스트포인트, 가상자산 '기관금융' 정조준…ETF 이...",
+      "description": "금융권에서는 국민·신한·하나·우리 등 4대 은행을 비롯해 NH·신한·하나·메리츠·DB증권이 참여했다. 한화자산운용과 KB국민카드, 신한·NH벤처투자, 카카오벤처스·롯데벤처스·키움인베스트먼트 등 자산운용·카드...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=70564",
+      "source": "www.newswhoplus.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T09:00:00+09:00"
+    },
+    {
+      "id": "DB증권-740fc5",
+      "title": "美 국채금리 2007년 이후 최고…\"물가 우려에 10년물 5.6%까지 열려\"",
+      "description": "DB증권 문홍철 연구원 역시 \"장기국채 금리의 방향성 결정은 중단기적으로 유가가 절대적\"이라면서도 \"재정 우려, 연방준비제도(Fed)의 독립성 의심, 수요 공백 등이 금리의 변동성을 극대화하는 환경\"이라고 분석했다....",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339633?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-28T08:56:00+09:00"
+    },
+    {
+      "id": "DB생명-5180fa",
+      "title": "삼성생명, 배타적사용권 5건 확보…제3보험 경쟁력↑",
+      "description": "건강·질병 관련 상품에서 차별화된 보장을 선보이며 제3보험 시장에서 경쟁력을 높이고 있다. 28일... 흥국생명은 3건, 한화생명·DB생명·AIA생명은 각각 2건을 획득했다. 신한라이프와 라이나생명도 각각 1건의...",
+      "url": "http://www.datanews.co.kr/news/article.html?no=146632",
+      "source": "www.datanews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-28T08:48:00+09:00"
+    },
     {
       "id": "DB증권-30c99e",
       "title": "사장 바뀌고…이베스트 후 10년 만에 회사채 복귀한 LS",
