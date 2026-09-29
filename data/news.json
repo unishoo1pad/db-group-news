@@ -1,6 +1,960 @@
 {
-  "lastUpdated": "2026-09-29",
+  "lastUpdated": "2026-09-30",
   "articles": [
+    {
+      "id": "DB하이텍-c17873",
+      "title": "[애프터마켓 리뷰] 필옵틱스, 차세대 TGV 장비 납품 수주 성공",
+      "description": "두 번째 특징주는 DB하이텍입니다. 하반기 실적 개선 전망에 강세를 보였는데요. 8인치 반도체 위탁생산 업황이 뜨겁게 달아오르고 있습니다. AI 데이터센터 확대로 전력 효율을 높이는 반도체 수요가 폭증하면서...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000535485?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-30T07:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3291ed",
+      "title": "DB그룹, AI 데이터센터·에이전트·솔루션 신사업 추진",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI OCR 프로젝트와 DB INC IT부문이 주도적으로 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 발표됐다. DB그룹은 AI 핵심 솔루션을 조기에 확보하기 위해 상사부문...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=752202",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T07:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-04f045",
+      "title": "보험사 K-ICS 5분기 만에 꺾여…금리 오르며 '자본의 질' 시험대",
+      "description": "손보사에서는 DB손해보험이 204.4%, 메리츠화재는 230.5%로 각각 27.7%p, 10.2%p 떨어졌다. 반면 NH농협생명(396.4%)과 삼성화재(282.8%)는 각각 21.8%p, 12.7%p 상승했다. 한화생명(168.0%)과 신한라이프(210.4%)도 각각 5.9%p, 9.2%p...",
+      "url": "https://www.news2day.co.kr/article/20260929500281",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T07:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f119e",
+      "title": "금융 최장기 연속흑자 기업은 삼성화재…‘은행’ 기업銀·‘증권’ 메...",
+      "description": "이밖에 금융사 중 상위 10위권의 연속 흑자기록을 낸 곳으로는 △DB손해보험(80개 분기) △현대캐피탈(78개 분기) △KB캐피탈(78개분기) △신한카드(74개분기) △현대카드(74개분기) △메리츠화재해상보험(69개분기)...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026092912032025517",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-b936b2",
+      "title": "\"삼전 63만원·하이닉스 310만원\"…증권가 목표주가 줄줄이 상향",
+      "description": "SK하이닉스 목표주가는 DB증권이 200만원에서 230만원으로, 미래에셋증권이 280만원에서 310만원으로 조정했다. 이런 가운데 30일(현지시간) 발표되는 마이크론의 회계연도 4분기(6~8월) 실적은 향후 메모리 업황을...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582628?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-30T06:57:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2053a5",
+      "title": "제 머리 못깎은 손보사, 재보험 적자만 1조",
+      "description": "적자 규모로는 ▲현대해상 -3661억원 ▲KB손해보험 -1569억원 ▲삼성화재 -1496억원 ▲DB손해보험 -1383억원 ▲메리츠화재 -1044억원 순으로 나타났다. 5곳 모두 낸 비용 대비 돌려받은 비율이 30~60%대에 그쳤다. 전년 대비...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171033",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T06:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ac0dc2",
+      "title": "오늘(30일)의 한국선수 주요일정 [아시안게임]",
+      "description": "남자부에는 김주형(나이키), 김성현(신한금융그룹), 문도엽(DB손해보험), 여자부에는 박서진(서문여고), 김규빈(학산여고), 양윤서(인천여고부설방송통신고)가 출전한다. 경기는 다음 달 3일까지 나흘간 이어지며...",
+      "url": "https://www.etoday.co.kr/news/view/2630608",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T06:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4d793d",
+      "title": "같은 범퍼인데 '고무줄' 수리비…과잉수리가 車보험료 올린다",
+      "description": "30일 보험업계에 따르면 올해 상반기 삼성화재·DB손해보험·현대해상·KB손해보험 등 대형 4개 손해보험사의 사고 접수건수는 293만 6000건으로 4.3% 감소했다. 반면 자동차보험 대물담보 지급보험금은 3조 8853억 원으로 같은...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009199329?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-30T06:20:00+09:00"
+    },
+    {
+      "id": "DB증권-ee3ce6",
+      "title": "토큰증권 내년 2월 시행 앞두고 미래에셋·KB·한투 등 대형증권사 선점...",
+      "description": "한화투자증권과 교보증권, DB증권 등 중소형 증권사에서도 시장 선점을 위해 기존 태스크포스(TF)를 정규조직으로 전환하거나 관련 부서를 신설하는 추세다. 중소형 증권사 관계자는 \"기존 WM·IB·운용 부문에서 나오는...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764858",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-30T06:10:00+09:00"
+    },
+    {
+      "id": "DB증권-024bb5",
+      "title": "삼전닉스 분기 영업익 '200조' 눈앞…'메모리 피크' 우려 불식 시험대",
+      "description": "SK하이닉스에 대해서도 DB증권은 200만 원에서 230만 원으로, 미래에셋증권도 280만 원에서 310만 원으로 올렸다. 백길현 유안타증권 연구원은 \"메모리반도체의 가격 상승폭이 다소 둔화되겠지만, 2027~2028년에도...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009199312?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-30T06:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-823b24",
+      "title": "글로벌테크놀로지·빅웨이브로보틱스, 신규 상장주 급등",
+      "description": "DB하이텍은 9.99% 오른 13만9800원에 거래를 마쳤다. 거래대금은 1436억원이었다. HPSP는 8.93% 상승한 6만1000원을 기록했다. 거래량은 500만7117주, 거래대금은 2995억원이었다. 삼화콘덴서는 8.62% 오른 15만7500원에...",
+      "url": "http://www.kjdaily.com/article.php?aid=1790685970687941276",
+      "source": "www.kjdaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T21:48:00+09:00"
+    },
+    {
+      "id": "DB증권-17bedd",
+      "title": "꿈틀거리는 곡물값…내년 더 뛴다?",
+      "description": "설태현 DB증권 애널리스트는 “애그테크는 3년간 이어진 업황 바닥 통과, 밸류에이션 매력, 독과점 기업들의 가격 전가력이라는 3대 투자 포인트를 갖추고 있다”며 “고금리 피로감의 대안이 될 수 있다”고 설명했다....",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108575?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T21:01:00+09:00"
+    },
+    {
+      "id": "DB증권-0390d1",
+      "title": "아파트 개발사업서 증권사 직원 접대 의혹?…시행사 계좌에 '접대비' 메...",
+      "description": "앞서 는 지난 16일 사업 관련 내부 제보가 접수된 뒤 KTB투자증권과 DB증권 직원, 시행사·신탁사 관계자 등이 참여한 단체 대화방에 제보 내용이 공유됐다고 보도했다. KTB투자증권은 당시 준법감시 부서가 제보자의...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=320494",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T19:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-91f578",
+      "title": "내달 12일부터 부전동 사옥서 업무… HMM 부산시대 시작",
+      "description": "29일 HMM에 따르면 HMM은 내달 12일 부산 부산진구 부전동 DB손해보험 부산사옥에서 업무를 개시한다. 신축 건물의 4개 층을 임차해 사용하는 형태로, 우선 기존 부산 영업본부 등 HMM 소속 인력과 자회사 근무 인력 300명...",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400407?sid=101",
+      "source": "www.busan.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T18:31:00+09:00"
+    },
+    {
+      "id": "DB증권-c14fbb",
+      "title": "이더리움 600만개 산 톰 리 \"더 오른다\" [뉴스+현장]",
+      "description": "곽봉석 DB증권 대표는 \"부산 프로젝트가 실물경제와 토큰증권을 잇는 검증 무대라면 이더리움은 이를 글로벌 자본시장으로 확장하는 핵심 인프라\"라며 부산·제주에서 토큰증권(STO) 사업을 확대한다고 밝혔다....",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267604?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T17:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-133c44",
+      "title": "증시 주인공 된 자산운용사…주가 최대 변수 됐다",
+      "description": "이들 ETF는 이달 초 리밸런싱을 통해 단일 종목 한도(20%)를 넘어선 삼성전자와 SK하이닉스 비중을 대폭 줄이고 한미반도체, 삼성전기, 주성엔지니어링, 이오테크닉스, DB하이텍 비중은 크게 늘렸다. 이 과정에서...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337274?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T17:43:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5ca716",
+      "title": "DB그룹, AI 신사업 키운다…데이터센터·에이전트·솔루션 '3대 축'",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 소개됐다. DB그룹은 핵심 AI 솔루션을 조기에 확보하기 위해 상사부문...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=359744",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T17:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-688daa",
+      "title": "티빙, 침해사고 보상 신청 10월까지…'한 달 연장'",
+      "description": "추가 신청자를 대상으로 한 보상은 △DB손해보험 해킹·피싱 안심보험 1년 무료 가입 △프리미엄 시청 기능 △티빙 포인트 50P △엔터테인먼트 쿠폰이다. 해킹·피싱 안심보험은 최대 300만원까지 보장하며 오는...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005419871?sid=105",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T17:41:00+09:00"
+    },
+    {
+      "id": "DB증권-a9145f",
+      "title": "[중소형 증권사 돌파구]⑨ DB증권, PIB 전략 유지·PI 확대…STO·RWA 신성...",
+      "description": "[편집자 주] DB증권이 PIB(PB+IB) 전략을 유지하면서 자기자본투자(PI)를 확대하고 토큰증권(STO)·실물자산(RWA) 사업을 신성장 영역으로 육성한다. 상반기 WM 부문이 흑자전환하는 등 수익성이 개선된 가운데 기존 고객...",
+      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192579",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T17:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c90447",
+      "title": "DB그룹, AI 데이터센터·에이전트 키운다…3대 신사업 본격 추진",
+      "description": "DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 등이 대표적이다. DB그룹은 외부 기술 확보에도 나서고 있다. AI 핵심 솔루션을 조기에 확보하기 위해 상사부문...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=134358",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T17:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8af91d",
+      "title": "DB 김준기·이수광, AI데이터센터·에이전트·솔루션 3대 신사업 추진",
+      "description": "소프트웨어 분야는 DB손해보험의 AI OCR 프로젝트와 DB Inc. IT부문이 주도적으로 개발해 보험 사업에 적용한 AI 플랫폼 '벡타'의 사례가 발표됐다. 한편 DB그룹은 핵심 솔루션의 조기 확보를 위해 상사부문 투자사업부를...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067051",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T17:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-deaebb",
+      "title": "DB그룹, AI그룹으로 다시 태어난다… AI 추진전략 보고대회 개최",
+      "description": "이 구상의 기반이 되는 곳이 전력반도체 전문 파운드리 DB하이텍과 팹리스 기업 DB글로벌칩이다. DB하이텍은 올해 1분기 매출 3746억원, 영업이익 637억원을 기록하며 그룹 내 핵심 캐시카우 역할을 하고 있고...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44074",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T17:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0394c1",
+      "title": "티빙, 개인정보 유출 보상 '한달 더' 받는다...미신청자 대상 기간 연장",
+      "description": "DB손해보험의 해킹·피싱 안심보험을 1년간 무료로 제공하며 보이스피싱 등 피해 발생 시 최대 300만원까지 보장받을 수 있다. 이용 기간은 오는 11월4일부터 내년 11월3일까지다. 프리미엄 시청 기능 제공 기간도 연장에...",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=155674",
+      "source": "www.techm.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T17:00:00+09:00"
+    },
+    {
+      "id": "DB증권-38e3d1",
+      "title": "[업앤다운] NH투자증권 홀로 강세…상상인증권 3.06%↓",
+      "description": "40%(-40원)·9960원 ▲DB증권 0.39%(-40원)·1만260원 ▲유안타증권우 0.36%(-15원)·4185원 ▲삼성증권 0.34%(-300원)·8만8500원 ▲부국증권 0.20%(-100원)·5만500원 ▲대신증권2우B 0.05%(-10원)·1만9340원으로 나타났다....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=829927",
+      "source": "www.nspna.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T16:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ee4b7e",
+      "title": "DB그룹, AI 추진 전략 보고대회 개최…김준기 창업회장 참석",
+      "description": "AI 솔루션 분야에서는 성균관대 온디바이스연구센터와 진행 중인 반도체 설계·공정 기술 프로젝트와 DB손해보험의 AI 광학문자인식(OCR) 프로젝트 등을 설명했다. 앞서 DB그룹은 핵심 솔루션 조기 확보를 위해 상사...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000537800?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-507f27",
+      "title": "티빙, 개인정보 유출 보상 신청 10월까지 연장…미신청자 추가 접수",
+      "description": "미신청자 내달 다시 접수…프리미엄 기능은 4개월로 확대 추가 신청자를 대상으로 한 보상은 ▲DB손해보험 해킹·피싱 안심보험 1년 무료 가입 ▲프리미엄 시청 기능 ▲티빙 포인트 50P ▲엔터테인먼트 쿠폰 등으로...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014221670?sid=105",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:49:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7d0510",
+      "title": "상반기만 6200억 샜다…AI도 못 막는 보험사기, 왜?",
+      "description": "DB손해보험도 보험사기 네트워크 분석시스템인 'DB T-System'을 통해 조직형 보험사기 의심사례를 분석하고 수사의뢰 등에 활용하고 있다. 민원 대응에도 AI가 활용된다. 현대해상은 대내민원 정보를 텍스트 분석(TA) 기술과...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092911051599475",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8dd1bd",
+      "title": "김준기 DB 회장 딸 김주원 지분 확대...동생 김남호와 차이 좁혀져",
+      "description": "금융 부문은 DB손해보험을 중심으로, 비금융 부문은 DB Inc.를 중심으로 연결돼 있다. DB Inc.는 DB하이텍 보통주 19.80%를 보유한 최대주주다. 따라서 김 부회장의 DB Inc. 지분 확대는 비금융 부문에 대한 개인 지분을...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255485",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8dd1bd",
+      "title": "김준기 DB 회장 딸 김주원 지분 확대...동생 김남호와 차이 좁혀져",
+      "description": "DB Inc.는 DB하이텍 보통주 19.80%를 보유한 최대주주다. 따라서 김 부회장의 DB Inc. 지분 확대는 비금융 부문에 대한 개인 지분을 늘리는 움직임으로 볼 수 있다. DB Inc.에서 김 명예회장은 지분 16.83%, 김 창업회장은 15.91...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255485",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-adff8f",
+      "title": "DB그룹, AI 추진전략 보고대회 개최...3대 신사업 추진 '박차'",
+      "description": "AI 솔루션 분야에서는 성균관대 온디바이스연구센터와 첨단 반도체 설계·공정기술 개발 현황과, DB손해보험의 AI OCR과 DB Inc.가 개발한 보험용 AI 플랫폼 '벡타' 등 적용 사례를 발표했다. DB 관계자는 \"DB는...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491114",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ac876a",
+      "title": "코스피, 美 금리·유가 상승 부담에 0.27%↓…6870선 마감",
+      "description": "한미반도체는 78억원 규모의 태국향 장비 수주 계약을 공시하며 7.46% 상승했고, DB하이텍은 실적 개선 기대에 9.90% 올랐다. 반면 SK하이닉스는 0.17% 하락했다. IT하드웨어주는 상대적으로 강세였다. 삼성전기는...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96211",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T16:44:00+09:00"
+    },
+    {
+      "id": "DB증권-51c434",
+      "title": "교보증권, 하반기 신입 공채…증권가 채용문 이어진다",
+      "description": "본사영업·본사지원·지점영업 모집…10월 5일까지 접수 한국투자·DB증권도 원서 접수…신한투자·LS증권 전형 진행 여의도 증권가 [사진=연합뉴스] [뉴스투데이=염보라 기자] 교보증권이 2026년 하반기 신입사원...",
+      "url": "https://www.news2day.co.kr/article/20260929500272",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T16:28:00+09:00"
+    },
+    {
+      "id": "DB증권-34e482",
+      "title": "곽봉석 연임 뒤에도 책무구조도 손질…DB증권 무엇을 고쳤나(2부)",
+      "description": "곽봉석 DB증권 대표가 올해 3월 재선임된 이후에도 회사가 책무구조도와 내부통제 체계를 계속 손질하고 있다. 대표이사의 내부통제 총괄관리의무에 대한 이행점검이 이어지는 가운데 재선임 약3개월 뒤인 지난 6월에는...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=90933",
+      "source": "www.the-today.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T16:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b0b2bb",
+      "title": "[EBN 데이터센터] 글로벌테크놀로지 82.2% 급등...코스닥 4종목 상한가",
+      "description": "DB하이텍은 9.99% 상승한 13만9800원에 거래를 마쳤고, 삼화콘덴서는 8.62% 오른 15만7500원으로 집계됐다. 이어 사조동아원 7.95%, 한미반도체 7.46%, 코리아써키트 7.39%, 사조씨푸드 6.52%, 한화비전 6.05% 순으로...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726057",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T16:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f3d168",
+      "title": "[EBN 데이터센터] 코스피 이틀째 하락 마감...외국인 2.9조원 순매도",
+      "description": "코스피 상승률 상위에는 SH에너지화학 12.44%, DB하이텍 9.99%, 삼화콘덴서 8.62%, 한미반도체 7.46%, 코리아써키트 7.39% 등이 이름을 올렸다. 반면 부산주공은 92.39% 급락했고 대양금속 20.11%, 진흥기업우B 13.95...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726054",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T16:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fa6d2a",
+      "title": "코스피, '개미 1조 매수' 약보합 마감⋯코스닥 850선 눈앞",
+      "description": "DB하이텍도 실적 개선 기대에 9.99% 급등했다. IT 하드웨어 업종도 강세를 보였다. 삼성전기는 2850억원 규모의 AI 서버용 MLCC 공급 계약 체결 소식에 1.93% 올랐다. LG이노텍(1.21%), 이수페타시스(5.07%) 등도...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001062042?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T16:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-66de25",
+      "title": "삼성·한화·신한라이프, 내년 보험료 셈법 다시 짠다…평균공시이율 2...",
+      "description": "삼성화재·DB손해보험·현대해상·KB손해보험의 보험료까지 평균공시이율 하락만으로 일괄 인상될 것으로 보이진 않는다. 보험사들이 신계약 가격에 더욱 민감해진 배경에는 판매 부진도 있다. 올해 상반기 생명보험사...",
+      "url": "https://sateconomy.co.kr/news/view/1065593728093728",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3bb2b4",
+      "title": "효성, 경력보유여성 재취업 지원…삼성SDI, AI 데이터센터용 배터리 공...",
+      "description": "AI 에이전트 분야에서는 업무 생산성과 효율성을 높이는 사업모델이 소개됐으며, AI 솔루션 분야에서는 첨단 반도체 설계·공정기술과 DB손해보험의 AI OCR, DB INC가 개발한 AI 플랫폼 '벡타' 등의 사례가 공유됐다. DB는...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204758",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T16:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-0d9b13",
+      "title": "코스피, 외인 '팔자'에 이틀째 하락…6870선 약보합 마감",
+      "description": "이 연구원은 \"반도체 업종이 혼조세를 나타냈는데, 한미반도체는 78억원 규모 태국향 장비 수주 계약을 공시로 강세를 나타냈고 DB하이텍은 실적 개선 기대로 상승했다\"면서도 \"반면 SK하이닉스는 유가·금리...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014221392?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T15:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-df7ed1",
+      "title": "국민연금 리밸런싱 영향 미미…삼전 던지고 하닉 줍줍",
+      "description": "그 밖에 SK이노베이션(3642억원), 삼성SDI(3123억원), TIGER 200(2664억원), DB손해보험(2640억원), S-Oil(2637억원), LG전자(2089억원) 등도 매수 우위를 보였다. 금융투자업계 관계자는 “고금리 환경에서 상대적으로 안정적인...",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108563?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:49:00+09:00"
+    },
+    {
+      "id": "DB하이텍-50dc50",
+      "title": "고금리·고유가에 코스피 0.27%↓... 외국인 2.9조 매도 [마감시황]",
+      "description": "SK하이닉스는 금리와 유가 부담, AI 투자심리 위축 영향으로 약세를 보인 반면 한미반도체는 태국향 장비 수주 계약, DB하이텍은 실적 개선 기대에 상승했다. 삼성전기의 AI 서버용 적층세라믹콘덴서(MLCC) 공급 계약...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2000656",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T15:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-91a2a2",
+      "title": "코스피, 유가·美 국채금리 상승에 6870선 후퇴",
+      "description": "DB하이텍(9.99%), 한미반도체(7.46%), 대덕전자(5.6%), 이수페타시스(5.08%) 등 반도체 관련주들은 급등했다. 코스닥지수는 3거래일째 상승했다. 이날 코스닥지수는 전장 대비 3.22포인트(0.38%) 오른 849.8을 기록했다....",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337158?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T15:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a5c0ed",
+      "title": "DB하이텍 주가, 9월 29일 139,800원 9.99% 상승",
+      "description": "29일 KRX 마감 기준, 네이버페이 증권에 따르면 DB하이텍은 현재 139,800원에 거래되며 지난 종가 대비 9.99% 상승한 12,700원 올랐다. 주가는 125,000원에 시작하여 140,000원의 고점과 124,100원의 저점을...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16227364",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T15:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c914d2",
+      "title": "DB그룹, AI 데이터센터·에이전트·솔루션 키운다…AX 혁신 가속",
+      "description": "소프트웨어 부문에서는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 발표됐다. DB그룹은 AI 핵심 기술을 조기에 확보하기 위해 상사부문...",
+      "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=318936",
+      "source": "www.updownnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:34:00+09:00"
+    },
+    {
+      "id": "DB증권-3ea3e8",
+      "title": "삼성전기, 반도체 패키지기판 6.8조 증설...2028년 '매출 20조 돌파' 전망",
+      "description": "조현지 DB증권 연구원은 \"보완성 부산 증설까지 포함하면 2026~2028년 FC-BGA Capex(설비투자)는 약 10조원에 달할 전망\"이라며 \"이 중 약 8조원은 고객사 선급금을 통해 충당될 것으로 예상된다\"고 분석했다. 권민규...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145013",
+      "source": "www.opinionnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T15:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8cd04e",
+      "title": "보험금 안 주거나 덜 줬다가 961건 적발",
+      "description": "DB손해보험은 보험금 부지급 26건에서 2억6200만원이 적발돼 전체 보험사 가운데 금액이 가장 많았다. 단순 계산하면 1건당 약 1008만원이다. KB손해보험은 10건에서 9790만원, 악사손해보험은 24건에서 7380만원...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=665419",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:26:00+09:00"
+    },
+    {
+      "id": "DB증권-170ff9",
+      "title": "\"투자금 대부분 고객사가 댄다\"…삼성전기 FC-BGA 증설 증권가 일제히 환...",
+      "description": "DB증권 역시 향후 총 10조원 규모로 확대될 FC-BGA 투자금 가운데 무려 8조원을 고객사 선급금으로 충당할 것으로 내다봤다. 삼성전기 입장에서는 자체적인 재무 부담을 덜고 안정적으로 생산 능력을 획기적으로...",
+      "url": "https://www.mediapen.com/news/view/1126621",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T15:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b4d343",
+      "title": "김준기 회장 직접 AX 점검…DB그룹, AI 신사업 발굴 속도",
+      "description": "소프트웨어에서는 DB손해보험(005830)의 AI 광학문자인식(OCR) 프로젝트와 DB IT부문이 개발해 보험 사업에 적용한 AI 플랫폼 ‘벡타’ 사례가 발표됐다. 한편 DB그룹은 AI 핵심 기술과 솔루션을 조기 확보하기 위해 외부...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666421?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-021142",
+      "title": "DB그룹, 보유 부지·도심 빌딩에 AI 데이터센터 구축 검토",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB Inc. IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 등이 대표 사례로 소개됐다. DB그룹은 핵심 AI 솔루션을 조기에 확보하기 위해...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003137508?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-498132",
+      "title": "김준기 창업회장과 이수광 회장 머리 맞댄 DB그룹...AI 데이터센터 신사...",
+      "description": "소프트웨어 부문에서는 DB손해보험의 AI OCR(광학문자인식) 프로젝트와 DB Inc. IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 소개됐다. DB그룹은 AI 핵심 기술을 조기에 확보하기 위해 상사부문...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=764837",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a85c33",
+      "title": "DB그룹, AI를 '업무도구' 넘어 신사업으로…데이터센터·에이전트 키운...",
+      "description": "DB손해보험은 AI 광학문자인식(OCR)과 보험업무용 AI 플랫폼 '벡타'를 운영 중이다. 하드웨어 분야에서는 성균관대와 첨단 반도체 설계·공정 기술을 공동 개발하고 있다. DB그룹은 지난 4월 성균관대와 'AI-PMIC & Sensor...",
+      "url": "https://www.ajunews.com/view/20260929150952882",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a85c33",
+      "title": "DB그룹, AI를 '업무도구' 넘어 신사업으로…데이터센터·에이전트 키운...",
+      "description": "DB그룹은 지난 4월 성균관대와 'AI-PMIC & Sensor 센터'를 열고 DB하이텍의 전력반도체 공정을 활용한 온디바이스 AI용 전력관리반도체와 피지컬 AI용 3차원 센서 개발에 착수했다. AI 활용을 금융·서비스 업무 개선에서...",
+      "url": "https://www.ajunews.com/view/20260929150952882",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T15:14:00+09:00"
+    },
+    {
+      "id": "DB자산운용-03dfe6",
+      "title": "마이다스에셋운용 채권본부, 기민수 영입 뒤 수탁고 15조원…7년 새 15배...",
+      "description": "마이다스에셋자산운용으로 옮기기 직전에는 DB자산운용 채권운용본부 팀장을 지냈다. 업계 경력 18.2년 가운데 펀드매니저 경력은 15.3년이다. 2022년 한국경제 베스트펀드에 선정된 '마이다스우량채권'도 그의 손을...",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=553810",
+      "source": "www.ngetnews.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-09-29T15:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1943be",
+      "title": "AI가 보험 분쟁 키웠다···상반기에만 3만건 육박",
+      "description": "DB손해보험은 동기간 1913건에서 2977건으로 55.6% 늘어났다. 한화손해보험은 635건에서 1315건으로 107.1% 급증해 가장 많이 민원이 늘었고 NH농협손해보험도 247건에서 467건으로 89.1% 늘어 그 다음으로 가장 많이 늘어난...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475121",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T15:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-038325",
+      "title": "DB그룹, 'AI 3대 신사업' 드라이브 속도… 반도체·금융 융합 생태계 구...",
+      "description": "소프트웨어 영역에서는 DB손해보험의 AI OCR 프로젝트와 DB INC IT 부문이 자체 개발해 보험 실무에 적용한 AI 특화 플랫폼 '벡타(Vekta)'를 대표 적용 사례로 제시했다. 자체 기술 개발과 함께 외부 기술 확보를 위한 개방형...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=277832",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a4abf8",
+      "title": "DB그룹, AI 전략 보고대회 개최… 전사적 AX 혁신 가속",
+      "description": "소프트웨어 부문에서는 DB손해보험의 AI OCR 구축 건과 DB INC IT부문이 개발해 금융 현장에 이식한 AI 플랫폼 '벡타(Vecta)'가 주요 성과로 거론됐다. 한편 DB는 유망 솔루션을 신속히 확보하기 위해 상사 부문 투자 조직을...",
+      "url": "https://www.consumuch.com/news/articleView.html?idxno=79141",
+      "source": "www.consumuch.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-134c88",
+      "title": "DB그룹, ‘AI 대전환’ 로드맵 본격 가동",
+      "description": "소프트웨어 분야에서는 문자인식 기술을 고도화한 DB손해보험의 AI OCR 프로젝트를 비롯해, DB INC IT부문이 독자 구축해 실제 보험 영업·심사 현장에 이식한 AI 전용 플랫폼 ‘벡타’의 적용 성과가 비중 있게 다뤄졌다....",
+      "url": "https://www.asiatime.co.kr/article/20260929500308",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e49711",
+      "title": "DB그룹, AI 전략 보고대회…“데이터 기반 AX 경쟁력 강화”",
+      "description": "함께 추진 중인 첨단 반도체 설계 및 공정기술 프로젝트를 소개했다. SW 분야에서는 DB손해보험의 AI OCR 프로젝트와 DB INC IT부문이 주도적으로 개발해 보험사업에 적용한 AI 플랫폼 ‘벡타’ 사례가 발표됐다.",
+      "url": "https://n.news.naver.com/mnews/article/018/0006377066?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-86d067",
+      "title": "함정우·이수민 ‘3승 경쟁’…최경주 인비테이셔널",
+      "description": "최고 성적은 개막전 DB손해보험 프로미 오픈 공동 5위다. 전가람은 “타이틀 방어는 정말 쉽지 않은 기록이다. 지금 스윙에 대한 생각이 어느 정도 정리돼 대회를 앞두고 청신호인 것 같다”면서 “악착같이...",
+      "url": "https://m.sports.naver.com/golf/article/016/0002703194",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:40:00+09:00"
+    },
+    {
+      "id": "DB증권-66bae3",
+      "title": "美 국채금리 5%대에도 주식 비중 유지...증권가 \"경기·실적 아직 견조\"",
+      "description": "문홍철 DB증권 애널리스트 역시 장기국채 금리 급등에도 미국 기술주 등 위험자산이 버티는 배경으로 민간의 재무건전성과 현금창출력을 꼽았다. 문 애널리스트는 \"선진국 가계와 기업은 높은 소비력과 재무건전성...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=350948",
+      "source": "www.greened.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T14:33:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7a602d",
+      "title": "반도체株 올 것이 왔다...최대 승부처 '개봉박두' [마켓딥다이브]",
+      "description": "<앵커> 오늘 우리 시장에서도 DB하이텍이 파운드리 단가를 올린 효과로 주가가 뛰었는데, 공급 병목이 전방위적으로 이어진다는 시각이 많은 모양이군요? <기자> 네, 뱅크오브아메리카의 분석을 보면 기본적으로 AI...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267552?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T14:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b4ec91",
+      "title": "DB그룹, AI 전환 속도 … 데이터센터·에이전트·솔루션 신사업 추진",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례를 소개했다. DB그룹은 핵심 솔루션을 조기에 확보하기 위해 상사부문...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/29/2026092900188.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e15830",
+      "title": "DB그룹, AI 데이터센터·에이전트·솔루션 3대 신사업 낙점…“AX 속도”",
+      "description": "AI 솔루션 분야에서는 성균관대 온디바이스연구센터와 진행 중인 첨단 반도체 설계·공정기술 프로젝트, DB손해보험의 AI 광학문자인식(OCR) 프로젝트, 보험 업무에 적용한 AI 플랫폼 ‘벡타’ 등이 소개됐다. DB는...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554483?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-399e98",
+      "title": "DB그룹, 'AI 추진전략 보고대회' 개최…전사 AX 혁신 가속",
+      "description": "소프트웨어 영역에서는 DB손해보험의 'AI OCR' 프로젝트와 DB INC IT 부문이 자체 개발해 보험 실무에 적용한 AI 플랫폼 '벡타(Vecta)'가 우수 사례로 발표됐다. 아울러 DB그룹은 핵심 솔루션의 선제적 확보를 위해 상사 부문...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822173?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e4d760",
+      "title": "DB그룹, 임직원에 AI 추진전략 공유...\"데이터센터·에이전트 사업 검토...",
+      "description": "소프트웨어 사례로는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB Inc. IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타'가 소개됐다. DB그룹은 상사부문 투자사업부를 통해 기술 벤처기업 6곳에 투자했다고...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=188588",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1cd4df",
+      "title": "DB그룹, 김준기·이수광 진두지휘 AI 신사업 시동···데이터센터·에이...",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI 광학문자인식(OCR) 프로젝트와 DB INC IT부문이 자체 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 공유됐다. DB그룹은 AI 기술을 외부에서 도입하는 데 그치지 않고 계열사가...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155095",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9237f4",
+      "title": "DB그룹, AI 데이터센터·에이전트·설루션으로 AX 속도",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI OCR 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 ‘벡타’ 사례가 소개됐다. DB는 핵심 설루션의 조기 확보를 위해 상사부문 투자사업부를 통해 6개...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002703180?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T14:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9237f4",
+      "title": "DB그룹, AI 데이터센터·에이전트·설루션으로 AX 속도",
+      "description": "DB그룹은 DB하이텍으로 시스템반도체 파운드리를, DB글로벌칩으로 팹리스 사업 뿐 아니라 IT, 상사, 부동산 개발, 보험 금융 등 다양한 산업을 펼치고 있다. DB 관계자는 “IT, 파운드리, 팹리스 회사들이 AI 시대를 이끌...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002703180?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T14:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1e26c9",
+      "title": "DB그룹, AI 추진전략 보고대회 개최…AX 혁신 가속",
+      "description": "소프트웨어 분야에서는 DB손해보험의 AI OCR 프로젝트와 DB INC IT부문이 개발해 보험사업에 적용한 AI 플랫폼 '벡타' 사례가 공유됐다. DB그룹은 핵심 AI 솔루션을 조기에 확보하기 위해 상사부문 투자사업부를 통해 6개...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726012",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T13:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fe6f27",
+      "title": "DB하이텍 8.65% 상승, 13만8000원대…전력반도체 성장 기대",
+      "description": "29일 오후 1시42분 기준 DB하이텍은 유가증권시장에서 13만8100원에 거래되고 있다. 전 거래일보다 1만1000원(8.65%) 오른 수준이다. 이날 장중 고가는 13만9000원, 저가는 12만5800원다. 거래량은 75.4만주, 거래대금은 약...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=229683",
+      "source": "www.job-post.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T13:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cfd8d5",
+      "title": "DB그룹, 'AI 추진전략 보고대회' 열어…김준기 창업회장 등 경영진 참석",
+      "description": "AI 솔루션 분야에서는 성균관대 온디바이스연구센터와 진행 중인 반도체 설계·공정기술 프로젝트와 DB손해보험의 AI 광학문자인식(OCR) 프로젝트 등이 발표됐다. DB INC IT부문이 개발해 보험 사업에 적용한 AI 플랫폼...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014220657?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T13:43:00+09:00"
+    },
+    {
+      "id": "DB증권-46e0c4",
+      "title": "실적 낮췄는데 목표가는 두 배…'56만전자' 제시한 증권사, 믿는 구석은",
+      "description": "박성우 DB증권 연구원은 \"미국과 중국의 AI 경쟁에서는 기술 우위뿐 아니라 상대를 겨냥한 규제의 완급 조절이 핵심 수단이 됐다\"고 진단했다. 미국은 첨단 칩과 소프트웨어를, 중국은 희토류와 거대한 내수시장을...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582232?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T13:43:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6016a2",
+      "title": "[오전장] SK하이닉스·삼성전자 거래대금 4조8천억원",
+      "description": "75%·DB하이텍 8.18%·한미반도체 6.40%↑ 29일 오전 국내 증시에서 SK하이닉스와 삼성전자의 거래대금이 4조8000억원에 육박했다. 전날 나란히 5%대 하락했던 두 종목이 이날 오전 상승세를 보이면서 거래도...",
+      "url": "http://www.kjdaily.com/article.php?aid=1790653734687849276",
+      "source": "www.kjdaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T12:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1e3891",
+      "title": "상반기 금융민원 8만건 육박…‘스페이스X 여파’ 금투업권 86%↑",
+      "description": "DB손해보험은 1913건에서 2977건으로 55.6%, 한화손해보험은 635건에서 1315건으로 107.1% 증가했다. 보유계약 10만건당 민원도 삼성화재가 6.0건에서 9.8건, DB손보가 7.7건에서 11.7건, 한화손보가 7.4건에서 12.9건으로...",
+      "url": "https://www.kukinews.com/article/view/kuk202609290052",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T12:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7f05d1",
+      "title": "KoAct 고배당액티브 ETF, 순자산 500억원 돌파…개인 자금 유입 지속",
+      "description": "현재 주요 편입 종목은 현대엘리베이터 7.79%, 우리금융지주 5.54%, GS 5.33%, JB금융지주 5.09%, DB손해보험 4.88%, 삼성전자우 4.17% 등이다. 삼성액티브자산운용은 안정적인 실적을 바탕으로 배당의 지속가능성을 기대할 수...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86677",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6d5b66",
+      "title": "올해 상반기 금융민원 39.5% 급증…보험 민원이 절반 차지",
+      "description": "손해보험사에서는 삼성화재가 3409건으로 가장 많았고 DB손해보험 2977건, 현대해상 2481건, 메리츠화재 2282건, KB손해보험 1979건이 뒤를 이었다. 다만 회사마다 이용자와 계약·계좌 규모가 달라 민원...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267284",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T11:10:00+09:00"
+    },
+    {
+      "id": "DB증권-aaa3df",
+      "title": "[더벨][Policy Radar] 이더리움에 모인 금융권, 퍼블릭체인 활용 논의 '본...",
+      "description": "이날 행사에는 조셉 루빈 이더리움 공동창업자, 톰 리 비트마인 회장, 찰롬 샤프링크 대표, 곽봉석 DB증권 최고경영자(CEO) 등이 참석했다. 이날 글로벌 금융, 블록체인 업계 관계자들은 기관의 블록체인 활용이 구체화되고...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281731076040104267",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9fb40a",
+      "title": "보험 민원 4건 중 3건은 '보험금'···금감원 현장점검",
+      "description": "첫 점검 대상은 KB손해보험과 DB손해보험이며, 오는 10월 30일까지 생명보험사 4곳과 손해보험사 10곳을 순차적으로 살펴볼 예정이다. 이번 점검에서는 보험사가 제출한 분쟁 민원 관리 전략이 실제 업무에서 제대로...",
+      "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210139",
+      "source": "www.datasom.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a85996",
+      "title": "국민연금 리밸런싱 3개월, 수십조 매물폭탄 없었다…2200억 그쳐",
+      "description": "뒤를 이어 SK이노베이션(3642억원), 삼성SDI(3123억원), TIGER 200(2664억원), DB손해보험(2640억원), S-Oil(2637억원), LG전자(2089억원) 등도 순매수 상위권에 올랐다. SK그룹 내에서 SK스퀘어를 대거 팔면서 SK하이닉스를...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014220042?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-787732",
+      "title": "DB하이텍 주가, 9월 29일 장중 133,100원 4.72% 상승",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 29일 오전 9시 45분 기준, 네이버페이 증권에 따르면 DB하이텍 주가는 현재 133,100원에 거래되며, 지난 종가 대비 4.72% 상승한 6,000원 오름세를...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551149",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T10:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-95c577",
+      "title": "국고채 3년 4.1%…은행·보험·증권, 다시 달라진 금리 셈법",
+      "description": "삼성생명과 한화생명, 교보생명 등 생명보험사와 삼성화재·DB손해보험·현대해상·KB손해보험 등 손해보험사는 금리 상승에 따라 보험부채의 현재가치가 감소할 경우 지급여력비율인 K-ICS가 개선되는 효과를...",
+      "url": "https://sateconomy.co.kr/news/view/1065575678898756",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-672b4d",
+      "title": "스페이스X·ETF·보험금...'뒤통수' 맞은 고객들 뿔났다",
+      "description": "손해보험사 중 삼성화재의 민원이 지난해 상반기 2046건에서 올해 3409건으로 66.6% 늘었고, DB손해보험은 1913건에서 2977건으로 55.6% 증가했다. 은행권 민원은 1만3245건으로 전년 동기 대비 30.5% 가량 늘었다....",
+      "url": "http://www.nongaek.com/news/articleView.html?idxno=96941",
+      "source": "www.nongaek.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ffbf88",
+      "title": "과기부, 서울대에 'AI반도체 혁신연구소' 개소…6년간 20억 투입해 석·...",
+      "description": "SK하이닉스, DB하이텍, 삼성디스플레이, LG전자 등이 참여하는 6개 연구센터를 운영한다. 정부는 지난 6월 '대한민국 대도약 3대 메가프로젝트'를 발표하며 반도체, 피지컬 AI, AI 데이터센터를 국가 성장 축으로 정했다....",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854941",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T10:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-be4a9d",
+      "title": "[투데이's 특징주] DB하이텍, 하반기 실적 개선 기대감에 '강세'···8인...",
+      "description": "투데이코리아=서승리 기자 | DB하이텍의 주가가 장 초반 강세를 보이고 있다. 증권가에서 전력반도체 등 8인치 제품군 수요 증가에 따른 수혜 기대감이 제시되며 매수세가 확대된 것으로 파악된다. 29일 오전 10시 13분...",
+      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406570",
+      "source": "www.todaykorea.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c2a277",
+      "title": "상반기 금융민원 8만건 육박…보험이 절반 차지",
+      "description": "총 민원건수는 삼성화재(3409건, 66.6%↑), DB손해보험(2977건, 55.6%↑), 현대해상(2481건, 27.8%↑) 순이다. 생명보험은 iM라이프 27.4건, KDB생명 19.7건, 흥국생명 16.1건 순으로 환산 건수가 높았다. 흥국생명은 총...",
+      "url": "https://www.news2day.co.kr/article/20260929500080",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:22:00+09:00"
+    },
+    {
+      "id": "DB생명-c2a277",
+      "title": "상반기 금융민원 8만건 육박…보험이 절반 차지",
+      "description": "총 민원건수는 삼성화재(3409건, 66.6%↑), DB손해보험(2977건, 55.6%↑), 현대해상(2481건, 27.8%↑) 순이다. 생명보험은 iM라이프 27.4건, KDB생명 19.7건, 흥국생명 16.1건 순으로 환산 건수가 높았다. 흥국생명은 총...",
+      "url": "https://www.news2day.co.kr/article/20260929500080",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-29T10:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-76b92d",
+      "title": "[재계 포커스] 반도체·보험 두 축 커진 DB그룹…다시 성장판 열었다",
+      "description": "DB손해보험은 지난 5월 약 2조3000억 원을 들여 미국 특화보험사 포테그라 인수를 마쳤다. 그룹 경영의 틀도 바뀌었다. 2020년 회장에 올랐던 김남호 명예회장이 지난해 물러나고 이수광 회장이 바통을 넘겨받았다. 오너...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744283",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-76b92d",
+      "title": "[재계 포커스] 반도체·보험 두 축 커진 DB그룹…다시 성장판 열었다",
+      "description": "DB하이텍은 기존 8인치 파운드리에서 실리콘카바이드(SiC)·질화갈륨(GaN) 등 차세대 전력반도체로 영역을 넓히고 있다. DB손해보험은 지난 5월 약 2조3000억 원을 들여 미국 특화보험사 포테그라 인수를 마쳤다. 그룹...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744283",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T10:14:00+09:00"
+    },
+    {
+      "id": "DB증권-fe7e17",
+      "title": "\"주문하면 1년 기다린다\"…AI 수혜 달고 삼성전기 실적 '뜀박질'",
+      "description": "하나증권은 전체 투자액의 70% 이상을 선수금 방식으로 받을 것으로 파악했고 DB증권은 약 10조원으로 예상되는 FC-BGA 투자 가운데 약 8조원이 고객사 선급금으로 충당될 것으로 전망했다. 증권사들은 AI...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267500?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T10:09:00+09:00"
+    },
+    {
+      "id": "DB증권-05de35",
+      "title": "하반기 채용시장 기지개, 업종별 온도차 뚜렷",
+      "description": "지난 23일까지 한국투자증권과 키움증권, NH투자증권, 삼성증권, 신한투자증권, LS증권, DB증권, 교보증권 등 8곳 이상이 하반기 신입사원 공개채용 공고를 냈다. 특히 지난해 하반기 신입 공채를 진행하지 않았던...",
+      "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500288",
+      "source": "www.newsq.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T10:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-372a2c",
+      "title": "상임위 바뀌고 컨트롤타워 빠지고…메가특구법 표류",
+      "description": "자동차보험도 올해 1~8월 삼성화재·현대해상·DB손해보험·KB손해보험 등 주요 4개사의 누적 손해율이 84.7%로 오르면서 내년 보험료 인상 가능성이 크다는 평가가 나온다. 한국은행은 기준금리가 0.25%포인트 오를...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666280?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:01:00+09:00"
+    },
+    {
+      "id": "DB생명-35ceca",
+      "title": "복지위 국감도 '플랫폼' 이슈…강남언니·구글·닥터나우 등 증인 신청",
+      "description": "보험업계도 증인으로 요청됐는데 천상영 신한라이프 대표와 박제광 DB생명 대표는 보험상품 가입시 신속 진료 혜택 관련해 신청됐다. 식품업계에서는 담철곤 오리온 회장과 김민규 레하임생활건강 대표는 식품위생법...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002439067?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-09-29T10:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-76642b",
+      "title": "“도수치료 잡았다고 끝?”...실손보험 ‘적자’ 탈출 난항 [이슈+]",
+      "description": "삼성화재·DB손해보험·현대해상 2분기 실적발표 컨퍼런스콜에서는 일평균 실손보험 청구액이 각각 1억원 이상 축소됐다. 도수치료 1회당 평균 단가가 13만5000원에서 4만3850원으로 낮아졌고, 횟수 제한도 생기면서...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260929024309654",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5b00aa",
+      "title": "금융민원 8만건 육박… 투자 열풍 뒤 증권·운용사 민원 '급증'",
+      "description": "회사별로 보면 손해보험에서는 한화손해보험의 민원이 635건에서 1315건으로 107.1% 늘었고 삼성화재는 2046건에서 3409건으로 66.6%, DB손해보험은 1913건에서 2977건으로 55.6% 증가했다. 보유계약 10만건당 민원은...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728482",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T09:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f5530e",
+      "title": "코스피, 하락 출발 뒤 낙폭 축소… 외국인 3243억 순매도",
+      "description": "개별 종목별로는 유니온머티리얼이 13.97% 올라 상승률 상위에 올랐고 남광토건 11.27%, DB하이텍 7.16%, 이화산업 6.93%, 우성머티리얼스 4.9% 등이 강세를 보였다. 반면 부산주공은 94.65% 급락했고 인디에프...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003684273?sid=101",
+      "source": "www.seoul.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T09:45:00+09:00"
+    },
+    {
+      "id": "DB하이텍-24b815",
+      "title": "[EBN 데이터센터] 코스피, 외국인 매도에 6870.02로 약세 출발...반도체 ...",
+      "description": "코스피 상승률 상위에는 남광토건이 10.88% 올랐고 우성머티리얼스 5.59%, 사조씨푸드 5.45%, DB하이텍 5.43%, HLB글로벌 5.35% 등이 이름을 올렸다. 반면 하락률 상위에서는 부산주공이 94.65% 급락했고 인디에프 6.86...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725949",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T09:42:00+09:00"
+    },
+    {
+      "id": "DB증권-e82c2b",
+      "title": "대규모 AI 기판 투자 나선 삼성전기…증권가 \"중장기 성장 기반 확대\"",
+      "description": "29일 증권업계에 따르면 대신증권과 하나증권, DB증권 등은 삼성전기의 패키지기판 증설 계획을 긍정적으로 평가하며 올해 3분기 영업이익 전망치를 상향했다. 대신증권은 기존 6천360억원에서 6천606억원으로...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436824",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d38520",
+      "title": "[특징주] DB하이텍, 하반기 실적 개선 전망에 장 초반 5% ↑",
+      "description": "이투데이=신혜주 기자 | DB하이텍이 장 초반 강세를 보이고 있다. 29일 한국거래소에 따르면 이날 오전 9시 18분 기준 DB하이텍은 전 거래일 대비 5.11% 오른 13만3500원에 거래되고 있다. 주가를 끌어올린 것은 8인치...",
+      "url": "https://www.etoday.co.kr/news/view/2630212",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T09:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7cd784",
+      "title": "KoAct 고배당액티브, 순자산 500억원 넘어",
+      "description": "현재 주요 포트폴리오는 현대엘리베이터(7.79%), 우리금융지주(5.54%), GS(5.33%), JB금융지주(5.09%), DB손해보험(4.88%), 삼성전자우(4.17%) 등으로 탄탄한 실적을 기반으로 배당의 지속가능성을 기대할 수 있는 기업들을 담고...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=147437",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T09:24:00+09:00"
+    },
+    {
+      "id": "DB증권-998d77",
+      "title": "[모닝 리포트] 삼성전기 목표가 175만~300만원…반도체 기판 증설에 '시...",
+      "description": "IBK투자증권이 175만원으로 가장 낮았고 DB증권 200만원, iM증권 210만원, 다올투자증권 280만원, 키움증권 280만원, 하나증권 300만원 등으로 제시했다. 이날 하나증권은 삼성전기의 3분기 매출을 3조8345억원으로 전년...",
+      "url": "https://www.newspim.com/news/view/20260929000121",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T09:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-da13e8",
+      "title": "KB손해보험, '언더커버 에이전터스' 개최…현업 주도 AI 에이전트 개발",
+      "description": "삼성생명은 대고객 콘텐츠 제작 과정에 생성형 AI를 접목한 'AI CX 글쓰기 시스템'으로 업무 효율화를 극대화했으며, DB손해보험 역시 생성형 AI를 활용한 위키챗봇 및 ADAS 이미지 AI 자동판독 시스템을 선보이는 등 업무...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=213438",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T09:14:00+09:00"
+    },
+    {
+      "id": "DB증권-c5d95b",
+      "title": "증권가, 'FC-BGA 증설' 삼성전기 실적 눈높이 잇달아 상향",
+      "description": "하나증권은 전체 투자액의 70% 이상을 선수금 방식으로 받을 것으로 파악했으며, DB증권은 약 10조원으로 예상되는 FC-BGA 투자 가운데 약 8조원이 고객사 선급금으로 충당될 것으로 전망했다. 이에 따라 삼성전기의...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016342394?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T08:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7d3b11",
+      "title": "보험금 제대로 안 준 보험사들…DB손보·교보생명 등 5년간 1000건 육박",
+      "description": "DB손해보험은 보험금 부지급 26건에 2억6200만원으로 전체 보험사 가운데 금액이 가장 많았다. 1건당 약 1008만원 수준이다. 이어 KB손해보험이 10건·9790만원, 악사손해보험이 24건·7380만원, 메리츠화재가 14건...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616485",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T08:42:00+09:00"
+    },
+    {
+      "id": "DB증권-0d0190",
+      "title": "삼성전기, 패키지기판 증설 승부수…목표가 최고 280만원[애널리스트의...",
+      "description": "29일 키움증권과 DB증권, iM증권은 삼성전기에 대한 투자의견 '매수'와 목표주가를 모두 종전 수준으로 유지했다. 목표주가는 키움증권이 280만원으로 가장 높았고 iM증권 210만원, DB증권 200만원 순이다. 삼성전기는...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026092908361574861",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-09-29T08:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-67d670",
+      "title": "[정지형 손해사정사 칼럼] 직장신경내분비종양 암보험금, 일반암 판단은...",
+      "description": "[정지형 손해사정사(이루다손해사정법인 대표)] 이루다손해사정법인 대표 손해사정사 동국대학교 법학석사 前 DB손해보험 장기조사팀 재직 現 국민건강보험공단 외부자문 위원 신체손해사정사",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=91083",
+      "source": "www.mediafine.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-09-29T08:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9c6c2f",
+      "title": "삼성증권 \"DB하이텍, 8인치 가격 인상 수혜 전망\"",
+      "description": "삼성증권은 DB하이텍에 대해 전력반도체 등 8인치 제품 수요 증가에 따른 가격 인상 훈풍과 가동률 회복 덕을 볼 것이라고 분석했다. 박세웅 삼성증권 연구원은 29일 \"DB하이텍은 8인치(200mm) 반도체 파운드리 기업으로...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=277687",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-09-29T08:10:00+09:00"
+    },
     {
       "id": "DB하이텍-0ee19b",
       "title": "삼성證 \"DB하이텍, 8인치 가격 인상 수혜 전망\"",
@@ -11,39 +965,12 @@
       "publishedAt": "2026-09-29T07:56:00+09:00"
     },
     {
-      "id": "DB손해보험-962e81",
+      "id": "DB하이텍-962e81",
       "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "회장은 전문경영인이자 김준기 창업회장의 측근인 이수광 전 DB손해보험 사장이 맡게 되자 부자간 경영권 분쟁설이 유력하게 제기됐다. 김남호는 \"회사에 대한 불필요한 오해가 발생한 것은 모두 제 탓이라고...",
+      "description": "부자간 갈등설은 DB하이텍을 두고 의견이 갈리면서 비롯됐다. 김남호는 금융 중심 재편이나 DB하이텍 매각으로 기울었으나 아버지인 김준기 창업회장은 생각이 달랐다. 김준기 창업회장은 반도체사업에 대한...",
       "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
       "source": "www.businesspost.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB생명-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "계열사 임원은 김영만 DB생명보험 대표이사가 1500주(0.00%), 이정민씨가 400주(0.00%), 강운식 DB아이엔씨 IT부문 대표이사가 244주(0.00%), 안상건씨 2천 주(0.00%)를 각각 보유하고 있다. 계열사는 DB아이엔씨 60만 주(0.92...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB생명",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB증권-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "△DB금투, DB자산운용 완전 자회사로 편입 DB금융투자(현 DB증권)가 2024년 11월 DB자산운용에 대한 보유 지분 55.33% 외 나머지 지분을 모두 취득해 DB자산운용을 100% 완전자회사로 편입했다. DB금융투자는 이번 지분...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB자산운용-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "△DB금투, DB자산운용 완전 자회사로 편입 DB금융투자(현 DB증권)가 2024년 11월 DB자산운용에 대한 보유 지분 55.33% 외 나머지 지분을 모두 취득해 DB자산운용을 100% 완전자회사로 편입했다. DB금융투자는 이번 지분...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB자산운용",
+      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-29T07:02:00+09:00"
     },
     {
@@ -53,33 +980,6 @@
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281419009910573",
       "source": "www.dnews.co.kr",
       "subsidiary": "DB저축은행",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB저축은행-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "이에 따라 동부화재, 동부생명, 동부증권, 동부저축은행, 동부하이텍, 동부메탈, 동부라이텍, 동부 등 계열사들의 이름이 각각 DB손해보험, DB생명, DB금융투자, DB저축은행, DB하이텍, DB메탈, DB라이텍, DB Inc. 등으로...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB저축은행",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB캐피탈-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "금융 계열사의 지배회사 격인 DB손해보험은 산하 기업으로 DB생명, DB자동차보험, DBCES, DBCNS자동차, DBCSI, DB캐피탈 등을 뒀다. 김준기 창업회장, 김주원 부회장의 DB 지분을 합하면 25.78%로 김남호의 지분보다 높다....",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB캐피탈",
-      "publishedAt": "2026-09-29T07:02:00+09:00"
-    },
-    {
-      "id": "DB하이텍-962e81",
-      "title": "[Who Is ?] 김남호 DB그룹 명예회장",
-      "description": "부자간 갈등설은 DB하이텍을 두고 의견이 갈리면서 비롯됐다. 김남호는 금융 중심 재편이나 DB하이텍 매각으로 기울었으나 아버지인 김준기 창업회장은 생각이 달랐다. 김준기 창업회장은 반도체사업에 대한...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446161",
-      "source": "www.businesspost.co.kr",
-      "subsidiary": "DB하이텍",
       "publishedAt": "2026-09-29T07:02:00+09:00"
     },
     {
@@ -542,15 +1442,6 @@
       "publishedAt": "2026-09-28T15:12:00+09:00"
     },
     {
-      "id": "DB손해보험-e8898c",
-      "title": "DB하이텍, DB손보 지분 잇단 매수...배경은?",
-      "description": "DB하이텍이 DB손해보험(DB손보) 주식을 약 3개월에 걸쳐 사들이고 있어 그 배경에 이목이 쏠린다. 행동주의펀드 얼라인파트너스자산운용(얼라인파트너스)이 올해 초부터 DB손보를 대상으로 주주환원 확대와 이사회...",
-      "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6842",
-      "source": "www.dailybrief.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-28T15:06:00+09:00"
-    },
-    {
       "id": "DB하이텍-e8898c",
       "title": "DB하이텍, DB손보 지분 잇단 매수...배경은?",
       "description": "DB하이텍이 DB손해보험(DB손보) 주식을 약 3개월에 걸쳐 사들이고 있어 그 배경에 이목이 쏠린다. 행동주의펀드 얼라인파트너스자산운용(얼라인파트너스)이 올해 초부터 DB손보를 대상으로 주주환원 확대와 이사회...",
@@ -621,15 +1512,6 @@
       "source": "www.greened.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-09-28T14:28:00+09:00"
-    },
-    {
-      "id": "DB손해보험-8839b8",
-      "title": "'순익 29% 뚝' 한화생명금융서비스, GA 왕좌 위태…인카금융 턱밑 추격",
-      "description": "손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러 보험사에서 발생했다. 이 같은 판매 구조는 올해 상반기 실적에서도 나타난다. 인카금융서비스의 상반기 손해보험 매출액은...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026092811255217518",
-      "source": "www.newsway.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-09-28T14:12:00+09:00"
     },
     {
       "id": "DB생명-8839b8",
