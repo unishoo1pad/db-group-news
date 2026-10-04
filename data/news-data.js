@@ -1,7 +1,106 @@
-// 자동 생성 파일 — 2026-10-04
+// 자동 생성 파일 — 2026-10-05
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-04",
+  "lastUpdated": "2026-10-05",
   "articles": [
+    {
+      "id": "DB생명-8f2ce8",
+      "title": "'700종신' 판매 중단에 중소 생보사 '패닉'…GA는 '달러보험'이 활로",
+      "description": "전체 판매 실적의 70~80%를 '700종신'에 의존했던 것으로 알려진 iM라이프나 푸본현대생명, DB생명 등 중소형 생보사들은 마땅한 대안조차 없어 고민이 크다. '700종신'은 7년 등 일정 기간 보험료를 납입하면 100% 환급을...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422020?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-05T06:50:00+09:00"
+    },
+    {
+      "id": "DB증권-711c9e",
+      "title": "시황 읽고 차트 분석·주식 주문까지···증권사 MTS 'AI 전쟁'",
+      "description": "DB증권은 지난 7월 MTS에 'AI국내브리핑'과 'AI해외브리핑'을 도입했다. 시황과 증권사 리포트 등을 분석해 투자정보를 제공하고 투자성향에 따른 ETF 추천과 과거 상승 종목과 유사한 흐름을 찾는 AI 차트패턴 분석...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424092",
+      "source": "www.sisajournal-e.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-05T06:10:00+09:00"
+    },
+    {
+      "id": "DB증권-e8745a",
+      "title": "신종자본증권으로 자본 쌓는 증권사···건전성 관리·영업 확대 '투트...",
+      "description": "신한투자증권과 iM증권은 각각 2000억원을 발행했으며 DB증권과 대신증권의 발행액은 각각 1500억원, 1400억원이다. 최근에도 자본 조달 움직임은 계속되고 있다. 키움증권은 지난달 18일 창사 이후 처음으로 4000억원...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155480",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-05T02:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2817e7",
+      "title": "[2026 GA 우수인증설계사] 카라멜에셋, 체계적 교육·현장 지원으로 경쟁...",
+      "description": "이 팀장은 입사 이후 꾸준한 성실함을 바탕으로 영업 역량을 다져왔으며, DB손해보험 플래티넘FC상을 2024년부터 2026년까지 연속 수상하며 탁월한 성과와 전문성을 입증해 온 실력파 영업인이다. 이 팀장은 자신의 영업...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93059",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T00:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cee358",
+      "title": "車사고 줄었는데… 보험업계 웃지 못하는 이유",
+      "description": "보험업계에 따르면 삼성화재·DB손해보험·현대해상·KB손해보험 등 대형 4사의 물적 사고 처리건수는 2020년 496만6000건에서 2025년 505만6000건으로 1.8% 늘어나는 데 그쳤다. 사실상 사고 건수는 제자리걸음에 가까웠다....",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584766?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T18:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-83929e",
+      "title": "“이규섭호 시즌 첫 순항”…홈 개막전 역전승한 원주DB",
+      "description": "경기 전 열린 개막행사에는 정종표 DB손해보험 대표 겸 구단주, 이흥섭 단장, 박길선 도의장, 박정하 국회의원, 구자열 원주시장, 문정환 원주시의장 등이 참석했다. DB손해보험 모델인 소녀시대 멤버이자 배우로 활동...",
+      "url": "https://n.news.naver.com/mnews/article/087/0001221853?sid=102",
+      "source": "www.kwnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-042a4f",
+      "title": "“찬바람 불면 배당주”…올해 예상 배당수익률 1위는 ‘이 종목’",
+      "description": "DB손해보험, S-oil, 삼성화재, HMM, HD현대는 높은 예상 배당수익률과 함께 3·4분기 영업이익 전망의 유지 여부를 확인한 기업이다. 다만 권 연구원은 “이익 전망의 유지가 배당의 확정을 뜻하지는 않는다”고 설명했다....",
+      "url": "https://n.news.naver.com/mnews/article/662/0000105550?sid=101",
+      "source": "www.nongmin.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T15:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-036635",
+      "title": "'계약자 보호하려 쌓았는데'…보험사 발목 잡는 해약환급금준비금",
+      "description": "보고서는 지난해 상장 원수보험사 가운데 삼성생명과 삼성화재, DB손해보험 등 상대적으로 이익잉여금 내 준비금 비중이 낮은 회사를 중심으로 결산배당이 이뤄졌다고 분석했다. 해약환급금준비금이 법인세 산정...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278576",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T12:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-278194",
+      "title": "“포켓몬 카드 사줄 때가 아니네”…금리 7% 챙기는 아이통장 뭐길래",
+      "description": "‘KB Young Youth 적금’은 우대금리를 모두 적용받으면 최고 연 3.4%이며 연령대별로 DB손해보험 무료 보험 서비스도 제공한다. 신한은행의 ‘신한 MY 주니어 적금’은 만 18세 이하를 대상으로 하는 12개월 상품으로...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743656?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T09:22:00+09:00"
+    },
+    {
+      "id": "DB증권-c55929",
+      "title": "AI라고 다 같은 AI가 아니다⋯고금리ㆍ병목ㆍ수급이 가를 10월 ETF 성과",
+      "description": "다만 DB증권은 금리가 급반등한 상황에서도 채권시장 변동성 지표가 100포인트 안팎에 머물고 있다고 진단했다. 즉, 시스템적 패닉보다는 고금리 장기화 전망을 반영한 ‘리프라이싱’ 국면에 가깝다는 것이다....",
+      "url": "https://www.etoday.co.kr/news/view/2632040",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-04T09:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-32cd85",
+      "title": "인포플라, 인터넷 연결 없이도 AI 기반 업무 자동화 [서울AI허브 2027]",
+      "description": "2025년 DB손해보험, 미래에셋증권, 동원산업 공장, 호반건설의 개념검증(PoC)를 완료하고 2026년 국내 대기업 제조 현장 PoC 진행 후 본계약 체결도 완료했다. 셀토·셀토팩토리, 기능 고도화 통해 해외 사업 박차...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171385",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-04T08:00:00+09:00"
+    },
     {
       "id": "DB손해보험-63e88a",
       "title": "[통장잔GO] 덜 타고 안전하면 더 싸다…할인 늘리는 자동차보험",
@@ -82,15 +181,6 @@ const NEWS_DATA = {
       "source": "www.bloter.net",
       "subsidiary": "DB증권",
       "publishedAt": "2026-10-03T10:00:00+09:00"
-    },
-    {
-      "id": "DB손해보험-cddc72",
-      "title": "한화·교보, 보험 넘어 금융영토 확장…커지는 보험업계 M&A",
-      "description": "DB손해보험도 미국 포테그라 인수를 통해 해외 손보시장 확대에 나섰다. 반면 한국투자금융지주는 KDB생명 인수를 통해 보험업 진출을 추진하고 있다. OK금융그룹 역시 예별손해보험 인수를 통해 손보업 진출에 나섰다....",
-      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110151",
-      "source": "www.fins.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-03T09:06:00+09:00"
     },
     {
       "id": "DB생명-cddc72",
