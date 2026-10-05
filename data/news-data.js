@@ -1,7 +1,295 @@
-// 자동 생성 파일 — 2026-10-05
+// 자동 생성 파일 — 2026-10-06
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-06",
   "articles": [
+    {
+      "id": "DB손해보험-6a1172",
+      "title": "AI 시대, 금융보안 인재 쟁탈전... 주요 은행들 'AI+보안' 전문가 영입 ...",
+      "description": "한화생명보험, DB손해보험, 메리츠화재해상보험, 삼성화재해상보험, KB손해보험, 현대해상화재보험, KB증권, NH투자증권, 대신증권, 메리츠증권, 미래에셋증권, 삼성증권, 신한투자증권, 키움증권, 하나증권, 한국투자증권...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880468",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T07:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9b87db",
+      "title": "보험업계 주택담보대출 장기 연체 급증, 숨겨진 위험의 신호인가",
+      "description": "DB손해보험과 KDB생명, 흥국생명도 각각 2%대를 기록하며 연체율이 높은 수준을 나타냈다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 급증했으며, 연체 금액도 34억 원에서 82억 원으로 크게...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880466",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T07:42:00+09:00"
+    },
+    {
+      "id": "DB생명-9b87db",
+      "title": "보험업계 주택담보대출 장기 연체 급증, 숨겨진 위험의 신호인가",
+      "description": "DB손해보험과 KDB생명, 흥국생명도 각각 2%대를 기록하며 연체율이 높은 수준을 나타냈다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 급증했으며, 연체 금액도 34억 원에서 82억 원으로 크게...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880466",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T07:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d9b377",
+      "title": "[이슈체크] 보험사 주담대 절반 이상 장기연체...악성화 관리 요구",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%대다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 올랐다. 이 기간 연체금액도 34억원에서 82억원으로 급증했다. 교보생명...",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=207727",
+      "source": "www.tfmedia.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T07:32:00+09:00"
+    },
+    {
+      "id": "DB증권-be9f39",
+      "title": "발행부터 유통·결제까지...토큰증권 '합종연횡' 가속화",
+      "description": "DB증권은 실물연계자산(RWA)과 토큰증권을 실제 사업으로 연결하는 데 초점을 맞추고 있다. 마리나체인 등과 컨소시엄을 구성해 해운 분야 탄소감축 설비의 현금흐름을 토큰증권으로 연결하는 '탄소감축 STO 플랫폼 개발...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704750",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T07:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4f5477",
+      "title": "삼성전자, 반도체 상장기업 브랜드평판 1위…SK하이닉스·한미반도체 순",
+      "description": "10월 브랜드평판 상위 30개 기업은 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC, 테스, 하나마이크론, 피에스케이, 유진테크, 솔브레인...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=771179",
+      "source": "www.slist.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T07:28:00+09:00"
+    },
+    {
+      "id": "DB저축은행-097fc0",
+      "title": "저축은행 CEO 평판 순위 공개…SBI저축은행·OK저축은행·웰컴저축은행...",
+      "description": "신승식, DB저축은행 윤재인, 한화저축은행 강성수, 푸른저축은행 송명구, 대신저축은행 노명문 순으로 나타났다. 이번 조사는 단순한 온라인 언급량뿐 아니라 참여지수와 미디어지수, 소통지수, 소셜지수...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492751",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-06T07:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7b07c1",
+      "title": "반도체 브랜드평판 1위 삼성전자",
+      "description": "이어 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC 등이 상위권에 이름을 올렸다. 30위권에는 테스, 하나마이크론, 피에스케이, 유진테크, 솔브레인, 티씨케이, 동진쎄미켐, 테크윙, 디아이, 미코, 코미코, SFA반도체...",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202610060029",
+      "source": "www.bntnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T07:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-43326f",
+      "title": "교육세 인상 청구서 받는 보험·카드사…국감 질의 과제로",
+      "description": "삼성화재·현대해상·DB손해보험·메리츠화재·KB손해보험 등 손보 상위 5곳의 증가분이 1947억원으로 손보업계 전체 증가분의 88.3%를 차지한다는 분석도 나왔다. 업계는 재무 영향을 우려한다. 특히 보험사의 경우 새...",
+      "url": "https://www.news2day.co.kr/article/20261002500291",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T07:00:00+09:00"
+    },
+    {
+      "id": "DB생명-66ce6d",
+      "title": "12% 줄어든 보험상품 배타적사용권 신청…한화손보, 9건으로 ‘최다’",
+      "description": "국내에서 영업 중인 생명보험사와 손해보험사의 배타적사용권 신청 건수가 1년 사이 12%가량 줄어든... AIA생명은 0건에서 2건으로, DB생명은 1건에서 2건으로 증가했다. 라이나생명도 올해 1건을 신청해 배타적사용권을...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026093013260616852",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T07:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2ea14b",
+      "title": "삼성전자·SK하이닉스 쌍끌이…반도체 브랜드평판 9.61% 뛰었다",
+      "description": "6위부터 10위까지는 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC가 차지했다. 이어 테스, 하나마이크론, 피에스케이, 유진테크, 솔브레인, 티씨케이, 동진쎄미켐, 테크윙, 디아이, 미코 등이 상위 20위권에...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492744",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T06:58:00+09:00"
+    },
+    {
+      "id": "DB증권-4a4a6d",
+      "title": "한국 찾은 해외 블록체인 기업, 국내 금융사와 협력…'기관화' 된 韓 블...",
+      "description": "대표적인 예로 DB증권은 지난달 28~29일 열린 국내 이더리움 행사 '이더리움 코리아 원: 제네시스'에 메인 타이틀 스폰서로 참여했다. 곽봉석 DB증권 대표와 장현일 최고재무책임자(CFO), 이주식 디지털사업팀장 등이 연사로...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210470?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T06:40:00+09:00"
+    },
+    {
+      "id": "DB저축은행-7dfa9e",
+      "title": "[브랜드평판] SBI저축은행 김문석, 저축은행 CEO 10월 1위... OK저축은행...",
+      "description": "신승식 ▲DB저축은행 윤재인 ▲한화저축은행 강성수 ▲푸른저축은행 송명구 ▲대신저축은행 노명문 순이다. 구창환 한국기업평판연구소 소장은 \"저축은행 CEO 브랜드 빅데이터가 전월 대비 14.96% 급감한 가운데...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55005",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-06T06:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-930be5",
+      "title": "[브랜드평판] 삼성전자, 반도체 상장기업 10월 1위... SK하이닉스, 한미...",
+      "description": "▲삼성전자 ▲SK하이닉스 ▲한미반도체 ▲주성엔지니어링 ▲제주반도체 ▲원익IPS ▲리노공업 ▲이오테크닉스 ▲DB하이텍 ▲ISC ▲테스 ▲하나마이크론 ▲피에스케이 ▲유진테크 ▲솔브레인 ▲티씨케이...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55003",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T06:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0d320e",
+      "title": "스치기만 해도 침맞고 부항 뜬다…보험사 적자 키운 공포의 ‘세트 진료...",
+      "description": "주요 손해보험사 5곳인 삼성화재·메리츠화재·DB손해보험·KB손해보험·현대해상의 올해 8월 누적 자동차보험 손해율은 84.3%로, 손익분기점으로 여겨지는 약 80%를 웃돌았다. 올해 상반기 손보사들은 6년 만에 반기...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744209?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T06:37:00+09:00"
+    },
+    {
+      "id": "DB손해보험-849d50",
+      "title": "보험사 주담대 연체 악성화…'90일 이상' 연체액 절반 이상",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%대다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 올랐다. 이 기간 연체금액도 34억원에서 82억원으로 급증했다. 교보생명...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110157",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T06:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-228619",
+      "title": "[대한민국 사회안전망의 그늘, 고독사 보험 ②] 日 지자체가 보험료 냈...",
+      "description": "DB손해보험의 전신 동부화재는 2017년 임차인의 고독사 등으로 집이 비면 임대료 손실을 최대 12개월 보상하는 '임대주택관리비용보험'을 출시했다. 유품 정리와 원상회복 비용도 선택해 보장받을 수 있었다. 그러나 올해...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492088",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T06:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7248d6",
+      "title": "보험사 주담대 연체 악성화…'90일 이상' 연체액 절반 이상",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%대다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 올랐다. 이 기간 연체금액도 34억원에서 82억원으로 급증했다. 교보생명...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358329?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T05:55:00+09:00"
+    },
+    {
+      "id": "DB생명-33812c",
+      "title": "'700종신보험' 막히자 한숨 커진 중소 생보사",
+      "description": "전체 판매실적의 70~80%를 700종신에 의존한 것으로 알려진 iM라이프나 푸본현대생명, DB생명 등 중소형 생보사들은 마땅한 대안조차 없어 고민이 크다. 700종신은 7년 등 일정 기간 보험료를 납입하면 100% 환급받을 수...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422224?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T04:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-685581",
+      "title": "리밸런싱 앞둔 반도체 ETF, 소부장에 수급 몰린다",
+      "description": "현재 ‘FnGuide 반도체TOP10지수’에는 삼성전기가, ‘FnGuide AI반도체TOP2+지수’에는 DB하이텍이 빠져 있어 신규 편입 여부에 따라 실제 수급은 달라질 여지가 있다. 증권가에서는 최근 소부장 주가가 크게 오른...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668267?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-05T17:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-eacee6",
+      "title": "보험사 지분 100% 확보하고 운용은 외부에… 해외 M&A 전략 다변화",
+      "description": "국내에서는 DB손해보험의 미국 포테그라(Fortegra) 인수와 한화생명의 해외 보험사 인수 등에서 기존 경영진과 운영체계를 상당 부분 유지한 사례가 나타났지만, 보고서는 이들 사례의 자산운용 구조까지 확인된 것은...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93156",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ce52e8",
+      "title": "GA 1위 경쟁 뜨거워진다…한화생명금융·인카금융서비스 '각축전'",
+      "description": "손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러 보험사에서 발생했다. 이 같은 판매 구조는 올해 상반기 실적에서도 나타난다. 인카금융서비스의 상반기 손해보험 매출액은...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411846",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T14:00:00+09:00"
+    },
+    {
+      "id": "DB생명-ce52e8",
+      "title": "GA 1위 경쟁 뜨거워진다…한화생명금융·인카금융서비스 '각축전'",
+      "description": "지난해 생명보험 모집수수료는 총 4295억원으로 신한라이프 934억원, DB생명 529억원, 동양생명 316억원 등으로 분산됐다. 손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411846",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-05T14:00:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-e384f3",
+      "title": "중소형 캐피탈, 3%대 빚 6%대로…'차환금리 쇼크' 오나 [fn마켓워치]",
+      "description": "DB캐피탈의 금리 상승은 더욱 뚜렷하다. 지난달 29일 2년물 160억원 규모의 사모 금융채를 연 6.0%에 발행한 데 이어 이달 2일에도 2년물 40억원을 같은 금리로 조달했다. 기존 3~4%대였던 조달금리는 지난 8월 이후 6...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584985?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-10-05T13:58:00+09:00"
+    },
+    {
+      "id": "DB증권-dd1198",
+      "title": "[채권-주간] 정부發 훈풍 이어질까…글로벌 채권시장 주목",
+      "description": "문홍철 DB증권 연구원은 \"미국의 고용과 물가가 일반적인 인식보다는 좋지 않다는 것은 서서히 느리게 데이터로 확인될 것이고 실제 그렇게 되고 있다\"면서 \"이번에 발표된 미국의 고용도 과거치도 대폭 수정되는 등...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437753",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-05T13:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-000b4f",
+      "title": "삼전 8000억 팔더니…국민연금, SK하닉 1.6조 사들였다",
+      "description": "SK이노베이션과 삼성SDI도 각각 3535억원, 3305억원 순매수됐으며 S-Oil 2635억원, DB손해보험 2546억원, LG전자와 아모레퍼시픽 각각 2414억원이 뒤를 이었다. 증권업계에서는 연기금이 급락한 종목을 중심으로 저가...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003472277?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T11:41:00+09:00"
+    },
+    {
+      "id": "DB하이텍-1d5cf8",
+      "title": "삼성전자·SK하이닉스 거래 204조…누가 사고 팔았나",
+      "description": "이어 두산에너빌리티 5천784억원, 두산 4천201억원, 넷마블 3천759억원, DB하이텍 3천192억원 등의 순으로 순매도 규모가 컸다. 반면 외국인 순매수 1위는 SK스퀘어로 7천240억원을 기록했다. 우리금융지주가...",
+      "url": "http://www.kjdaily.com/article.php?aid=1791167642688220276",
+      "source": "www.kjdaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-05T11:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-50f9e8",
+      "title": "[포커스] 국민연금, SK하닉 1.6조 사고 삼전 8000억 팔았다...왜?",
+      "description": "SK이노베이션도 3535억 원어치 순매수했고 삼성SDI 3305억 원, S-Oil 2635억 원, DB손해보험 2546억 원, LG전자와 아모레퍼시픽은 각각 2414억 원을 사들였다. 같은 기간 삼성전자는 7937억 원어치 순매도했다. 현대차 5003억...",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814998",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T10:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c57fb",
+      "title": "국민연금의 엇갈린 선택…삼전 8000억 팔고 하닉 1.6조 샀다",
+      "description": "SK이노베이션 3535억원, 삼성SDI 3305억원, S-Oil 2635억원, DB손해보험 2546억원, LG전자와 아모레퍼시픽 각각 2414억원 등도 순매수 상위 종목에 이름을 올렸다. 금융투자업계 관계자는 \"주가 약세를 나타낸...",
+      "url": "https://n.news.naver.com/mnews/article/243/0000103868?sid=101",
+      "source": "economist.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T09:53:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ed8cfa",
+      "title": "경영 파행에 먹튀·단기주의까지…‘밸류업 명분’ 소액주주 운동의 그...",
+      "description": "2024년 DB하이텍 사태에서는 소액주주의 지지로 결집한 행동주의 펀드 KCGI가 경영권 프리미엄이 반영된 장외 블록딜로 지분을 매각하고 이탈했다. 결국 잔류한 소액주주들은 주가 폭락의 손실을 고스란히 떠안았다....",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111639?sid=101",
+      "source": "magazine.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-05T09:47:00+09:00"
+    },
+    {
+      "id": "DB증권-b26530",
+      "title": "반도체 5000억弗·자동차 700억弗…수출 양대품목 연말 희비",
+      "description": "남주신 DB증권 연구원은 \"9월 누적 글로벌 도매판매에 있어 현대차는 전년대비 7% 판매량이 줄었고 기아는 4.4% 증가했다\"며 \"현대차의 경우 파업에 의한 생산차질, 글로벌 시장 경쟁심화 등에 따른 영향이 크다....",
+      "url": "https://n.news.naver.com/mnews/article/003/0014233358?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-05T09:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-766d60",
+      "title": "삼전 8000억 팔고 하닉 1.6조 샀다…국민연금 선택은",
+      "description": "이어 순매수 상위 종목은 SK이노베이션(3535억원), 삼성SDI(3305억원), S-Oil(2635억원), DB손해보험(2546억원), LG전자(2414억원), 아모레퍼시픽(2414억원) 등이었다. 금융투자업계 관계자는 \"주가 약세를 나타낸 SK하이닉스에...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422035?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-05T08:00:00+09:00"
+    },
     {
       "id": "DB생명-8f2ce8",
       "title": "'700종신' 판매 중단에 중소 생보사 '패닉'…GA는 '달러보험'이 활로",
