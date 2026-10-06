@@ -1,7 +1,853 @@
-// 자동 생성 파일 — 2026-10-06
+// 자동 생성 파일 — 2026-10-07
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-07",
   "articles": [
+    {
+      "id": "DB증권-870ac9",
+      "title": "SK스퀘어, 주주환원 강화에 하이닉스 효과 금상첨화",
+      "description": "DB증권은 7일 SK스퀘어 관련 보고서에서 SK하이닉스의 가치 상승과 적극적인 주주환원 정책을 반영해 목표주가를 기존 145만원에서 150만원으로 상향 조정했다. 투자의견은 '매수'를 유지했다. DB증권은 이날...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279011",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-07T07:36:00+09:00"
+    },
+    {
+      "id": "DB증권-7ab3be",
+      "title": "\"SK스퀘어, 주주환원 강화…목표주가 150만원으로 상향\"[클릭e종목]",
+      "description": "DB증권은 7일 SK스퀘어에 대해 SK하이닉스의 가치 상승과 적극적인 주주환원 정책을 반영해 목표주가를 기존 145만원에서 150만원으로 상향 조정했다. 투자의견은 '매수'를 유지했다. DB증권은 이날 보고서에서...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005825325?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-07T07:15:00+09:00"
+    },
+    {
+      "id": "DB손해보험-79e834",
+      "title": "[Invest]'저PBR 낙인' 카운트다운…손발 묶인 한화금융ㆍDB證ㆍ대신證 '...",
+      "description": "DB증권 역시 올해 만 82세인 김준기 창업회장이 DB손해보험에 이은 2대 주주로 적지 않은 개인 지분을 보유하고 있다. 대신증권은 1981년생인 양홍석 부회장이 개인 최대주주로 승계를 완료하고 '3세 경영'에 나서고 있다....",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/10/06/2026100680119.html",
+      "source": "www.investchosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-79e834",
+      "title": "[Invest]'저PBR 낙인' 카운트다운…손발 묶인 한화금융ㆍDB證ㆍ대신證 '...",
+      "description": "KB증권 분석에 따르면 흥국화재(PBR 0.2배), 대신증권(0.39배), 한화손해보험(0.36배), 한화생명(0.24배), DB증권(0.32배) 등 5개 금융사가 저PBR 공표 명단 등재 예상 금융사로 분류됐다.이들은 지난 2024년 상반기부터 최근까지...",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/10/06/2026100680119.html",
+      "source": "www.investchosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-07T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-3a33bb",
+      "title": "[증권사 몸집 불리기] 상위 10개사가 전체 이익 77% 독식…자본확충은 ...",
+      "description": "여기에 iM증권(2000억원)과 DB증권(1500억원), 한양증권(500억원)이 자본확충 대열에 참여했다. 중소형사들이 자본확충에 적극적으로 나서는 이유는 증권업 시장에서 대형사 비중이 갈수록 높아지면서 중소형사가...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061329126270560",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-07T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3c4e91",
+      "title": "판 커진 보험사 해외사업…실적도 쑥쑥",
+      "description": "◇ 주요 보험사 해외 실적, 2배 껑충 6일 보험업계에 따르면 삼성·한화생명, 신한라이프, 삼성화재, DB손해보험, KB손해보험 등 6개 보험사의 올해 상반기 종속법인을 포함한 해외사업 실적은 1,533억원으로, 전년 동기...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110164",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T06:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aa2c07",
+      "title": "[대한민국 사회안전망의 그늘, 고독사 보험 ③-完]사회·공공주택 확충...",
+      "description": "DB손해보험이 2017년 관련 상품을 내놨지만 올해 5월 파악된 가입 실적은 미미했다. 7일 관련 업계 등에 따르면 보건복지부는 올해 2월 고독사위기대응시스템을 개통했다. 체납과 전기사용량 변화 등 위기정보 27종을 연계해...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492094",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T06:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bae6b1",
+      "title": "[2026 국감] 5대 손보사, 의료자문 부지급 감소…삼성 나홀로 증가",
+      "description": "7일 손해보험협회에 따르면 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 대형 손보사의 올해 상반기 의료자문을 통한 보험금 부지급 건수는 1579건으로 전년 동기 1709건에 비해 130건(7.6...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311245",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-61a15a",
+      "title": "보험사 주담대 연체 악성화… 연체액 절반이 ‘90일 이상’ [경제 레이...",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%를 넘겼다. DB손보의 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 증가했다. 연체금액도 34억원에서 82억원으로 급증했다. 교보생명 연체율 역시 0....",
+      "url": "https://n.news.naver.com/mnews/article/022/0004164611?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T05:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0de657",
+      "title": "은행 덮친 AI 해킹, 법은 이미 뚫려 있었다",
+      "description": "같은 기간 신한은행(-2명), KB국민카드(-3명), 한화생명(-3명), DB손해보험(-4명), KB손해보험(-1명), 현대해상(-2명), 한국투자증권(-4명) 등도 보안 인력을 줄였다. 업종별로 보면 은행(6.4%), 카드(16.3%), 증권업종(5.3%)에선...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556179?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-07T00:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6f0ab7",
+      "title": "연체액은 줄었는데 질은 악화…보험사 주담대 '장기연체' 56%",
+      "description": "DB손해보험도 2.67%를 기록했으며 KDB생명 2.33%, 흥국생명 2.25% 등 일부 보험사 역시 2%대 연체율을 나타냈다. 특히 DB손보의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 크게 상승했다. 같은 기간 교보생명도...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129866",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T22:46:00+09:00"
+    },
+    {
+      "id": "DB생명-13207f",
+      "title": "미 국채 30년물 6% 눈앞…국내 생보사 '듀레이션' 비상",
+      "description": "특히 국내에서는 장기채를 대규모로 보유하고 있는 생명보험사의 부담이 커질 수 있다. 국내 생보사들은... ABL생명과 DB생명도 각각 3.1%포인트, 1.6%포인트 상승에서 3.85%포인트, 6.13%포인트 하락으로 전환했다. 동양생명...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=752869",
+      "source": "www.econovill.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T21:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-036c9d",
+      "title": "현대약품 대표, 참고인서 증인으로…미프진 국감 27일로",
+      "description": "보험 분야에서는 김성재 신한라이프 상무와 문진옥 DB손해보험 상무가 오는 8일 보건복지부 국정감사 일반증인으로 추가됐다. 두 사람에 대한 신문요지는 보험상품 가입 시 신속 진료 혜택과 관련된 내용이다. 기존 증인...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79684",
+      "source": "www.hitnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T20:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c3c44",
+      "title": "소부장 덜고 건설·보험주 담은 국민연금",
+      "description": "현대해상(9.42%→11.71%), DB손해보험(8.33%→9.36%), 한화생명(5.57%→6.63%) 등이 대표적이다. 한화손해보험(5.05%)과 미래에셋생명(5.01%)은 신규 취득했다. 금리 상승으로 신규 채권 투자수익률이 높아지면서 중장기 운용...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668705?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T18:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f38fcb",
+      "title": "고금리 덮치자 … 국민연금, 보험株 사고 증권株 팔아",
+      "description": "우선 현대해상(2.29%포인트), 한화생명(1.06%포인트), DB손해보험(1.03%포인트) 등 보험주 지분은 기존보다 늘렸다. 고객에게 받은 보험료를 채권 위주로 운용하는 보험사는 금리가 높아지면 중장기 운용수익률이 개선될...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744783?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T17:51:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f38fcb",
+      "title": "고금리 덮치자 … 국민연금, 보험株 사고 증권株 팔아",
+      "description": "시스템반도체 파운드리인 DB하이텍은 국민연금의 지분이 1.04%포인트 감소했고, 반도체 장비 기업인 PSK도 지분이 1.08%포인트 줄었다. LG이노텍(-3.10%포인트), 대덕전자(-3.09%포인트), 코리아써키트(-3.12%포인트) 등...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744783?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T17:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-216dc9",
+      "title": "[단독] 메리츠화재, 인도네시아 자회사 판다",
+      "description": "메리츠화재 경쟁사인 DB손해보험은 지난 5월 미국 특화보험사 포테그라를 약 2조3000억원에 인수했다. 삼성화재도 글로벌 특수보험 시장의 강자인 영국 캐노피우스 지분 추가 인수를 추진하고 있다. 메리츠화재가...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339655?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T17:30:00+09:00"
+    },
+    {
+      "id": "DB생명-8a8e7e",
+      "title": "‘실적 턴어라운드 착시’ 부른 삼성생명 주가… 삼성 제하면 여전히 -...",
+      "description": "생명보험사의 실질적인 자본 건전성을 가늠하는 핵심 지표인 기타포괄손익누계액이 1년 만에... 6314억원(-2조1484억원→-1조5171억원) △DB생명 5567억원 △푸본현대생명 5372억원 △흥국생명 4518억원 순으로 개선 폭이...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026100114144941860",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T17:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2e166b",
+      "title": "[2026 국감이슈] 보험사 주담대 연체 절반 넘게 '90일 이상'… ABL·DB손보...",
+      "description": "DB손해보험이 2.67%, KDB생명 2.33%, 흥국생명 2.25%로 뒤를 이었다. 업권 전체 평균인 0.4%를 크게 웃도는 수준이다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 급등했다. 같은 기간...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137474",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T17:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0f66b2",
+      "title": "[업앤다운]보험주 혼조…미래에셋생명↑·롯데손보↓",
+      "description": "코리안리는 0.49%(70원) 상승한 1만4460원, DB손해보험은 0.05%(100원) 오른 18만2900원에 장을 마쳤다. 대표 하락 종목은 롯데손해보험으로 전거래일 대비 2.04%(45원) 내린 2160원에 마감했다. 현대해상은 1.99%(950원)...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=830723",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T17:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f31ab8",
+      "title": "보험사 주담대 연체 절반 이상 '90일 넘겼다'",
+      "description": "DB손해보험이 2.67%로 뒤를 이었으며 KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 순이었다. 업권 전체 연체율인 0.4%와 비교하면 상당한 격차다. DB손해보험의 경우 연체율 상승...",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=925366",
+      "source": "www.namdonews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-759d1e",
+      "title": "‘5·5·7’ 일몰 후 ‘보안 공백’, CEO 해킹 책임 강화법도 열달째 계...",
+      "description": "같은 기간 신한은행(2명), KB국민카드(3명), 한화생명(3명), DB손해보험(4명), KB손해보험(1명), 현대해상(2명), 한국투자증권(4명) 등도 보안 인력을 줄였다. 업종으로 나눠보면 보험업종(-0.4%)이 인력 투자에 가장...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556092?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0b7dfc",
+      "title": "보험사 주담대 연체 장기화…90일 이상 55.8%",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25% 등 순이었다. 이들 보험사의 주담대 연체율은 업권 평균 0.4%와 비교해 5~7배 높은 수준이다. 특히 DB손해보험의 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278925",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c781a",
+      "title": "[코스피 지수선물 옵션] SK하이닉스·삼성전자 약세에도 삼성전기·한미...",
+      "description": "보험주에서는 삼성화재와 DB손해보험이 상승했고 삼성생명은 하락했다. 바이오·헬스케어주도 차별화가 나타났다. 알테오젠과 셀트리온은 상승했지만 삼성바이오로직스는 하락했다. 한미약품은 상승세를 보였다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493088",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:42:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2c781a",
+      "title": "[코스피 지수선물 옵션] SK하이닉스·삼성전자 약세에도 삼성전기·한미...",
+      "description": "반면 SK하이닉스와 삼성전자는 하락했고 DB하이텍도 약세를 나타냈다. 2차전지 관련주에서는 강세가 두드러졌다. 삼성SDI를 비롯해 LG에너지솔루션, 포스코퓨처엠, 에코프로, 에코프로비엠, LG화학, SK이노베이션...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493088",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T16:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6115fc",
+      "title": "보험사 주담대 연체 절반 이상 '90일 넘겼다'…장기연체액 3년 새 68% 급...",
+      "description": "DB손해보험은 2.67%, KDB생명은 2.33%, 흥국생명은 2.25%로 각각 2%를 넘어섰다. 특히 DB손해보험의 주담대 연체율 상승세가 두드러졌다. 2022년 말 0.33%였던 연체율은 올해 6월 말 2.67%로 2.34%포인트 상승했다. 같은 기간...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744939",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-63c9ab",
+      "title": "DB하이텍 주가, 10월 6일 애프터마켓 139,700원 0.78% 하락",
+      "description": "6일 애프터마켓 오후 4시 21분 기준, 네이버페이 증권에 따르면 DB하이텍 주가는 지난 종가 대비 1,100원(-0.78%) 하락하여 현재 139,700원을 기록하고 있다. 주가는 시가 142,100원에서 시작하여 고가 143,900원...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16239490",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T16:22:00+09:00"
+    },
+    {
+      "id": "DB증권-20f29d",
+      "title": "DB증권, 355억 사고 뒤 내부통제 손질…'계약관리는 전 임원 공통책무'(...",
+      "description": "DB증권이 지난해 누적 상품권 구매액이 355억원에 달한 직원의 상품권 구매·현금화 사고 이후 계약 관리와 외부업체 업무 위·수탁 관련 책임을 책무구조도에 반영하고, 계약 체결·유지·사후관리를 전 임원의 공통...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=91261",
+      "source": "www.the-today.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T16:20:00+09:00"
+    },
+    {
+      "id": "DB증권-a11e38",
+      "title": "금융권 해킹에 증권사도 긴장…정보보호 의지는 '미미'",
+      "description": "키움증권, DB증권, 유진투자증권, SK증권, LS증권, iM증권, 유안타증권 등 7곳은 개인정보보호 흐름은 빠진 ISMS 인증만 갖고 있습니다. 인증 범위는 HTS, MTS 등 트레이딩 시스템 운영에 한정됐습니다. 여의도 증권가 모습....",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315797&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T16:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2c14ad",
+      "title": "보험사 주담대 '장기연체' 늘었다…90일 이상 비중 55.8%",
+      "description": "DB손해보험도 2.67%를 기록했고 KDB생명과 흥국생명은 각각 2.33%, 2.25%를 기록했다. 특히 DB손해보험은 2022년 말 0.33%였던 주담대 연체율이 지난 6월 말 2.67%까지 상승했다. 같은 기간 연체금액도 34억원에서...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=723038",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-26d3f2",
+      "title": "삼전·하이닉스 쉬어가자 '소부장' 뜬다…코스피↓·코스닥↑",
+      "description": "앞서 9월 진행된 반도체 ETF 리밸런싱에서도 삼성전자와 SK하이닉스 비중을 줄이고 한미반도체, 주성엔지니어링, 이오테크닉스, DB하이텍 등 소부장 비중을 늘리는 과정에서 관련 종목으로 수급이 유입된 바 있다...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302124",
+      "source": "www.newsquest.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f1a7d4",
+      "title": "포용으로 손 잡고, 성장으로 판 키워…금융, 내일을 연다",
+      "description": "DB손해보험은 교통·환경 분야의 사회문제를 해결하는 소셜벤처를 발굴해 사업비와 컨설팅을 지원하고 있다. 현대해상은 아동과 양육자를 위한 지역 거점을 조성하고 발달지연·발달장애 아동의 조기 개입을 지원한다....",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339616?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d34490",
+      "title": "DB손해보험, 소셜벤처 성장 돕고 어린이 재난체험 캠프 열어",
+      "description": "DB손해보험은 사고 위험을 낮추기 위한 사회적 기반을 다지는 데 힘쓰고 있다. 교통·환경 분야의 위험을 줄일 기술과 아이디어를 갖춘 기업을 발굴·지원하는 한편 어린이들의 안전의식을 높이기 위한 체험형 교육도...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339606?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T16:05:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a266f4",
+      "title": "[거래소 기관] 삼성SDI에 기관 매수 몰렸다…LG에너지솔루션·LG전자도 ...",
+      "description": "삼성전자우와 삼성물산, DB하이텍, 기아 등도 기관 순매도 종목에 이름을 올렸다. 반도체 관련주에서는 SK하이닉스와 삼성전자, 삼성전자우, DB하이텍, 디아이, 한미반도체 등으로 기관 수급이 엇갈렸다. 기관은...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493057",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T16:02:00+09:00"
+    },
+    {
+      "id": "DB증권-508982",
+      "title": "[업앤다운] 키움증권 2.50%↓ 최대 낙폭…미래에셋증권우 1.72%↑ 나홀로...",
+      "description": "1%대 하락한 종목은 ▲삼성증권 1.44%(-1300원)·8만9100원 ▲SK증권 1.48%(-35원)·2330원 ▲DB증권 1.52%(-160원)·1만340원 ▲한화투자증권 1.39%(-65원)·4600원 ▲NH투자증권 1.11%(-300원)·2만6650원 ▲유안타증권 1.03...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=830712",
+      "source": "www.nspna.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T15:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b42d56",
+      "title": "ABL·DB손보 등 주담대 연체율 2%대...업권 연체액 절반은 '90일 이상'",
+      "description": "DB손해보험은 2.67%, KDB생명은 2.33%, 흥국생명은 2.25%로 이들 4개사 모두 2%를 넘어섰다. DB손보는 2022년 말 0.33%였던 주담대 연체율이 올해 6월 말 2.67%로 2.34%포인트(p) 상승했다. 같은 기간 연체액도 34억원에서...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=351495",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T15:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-73282b",
+      "title": "2금융 대다수 ISMS-P 인증조차 안 받아",
+      "description": "업권별로 생보사는 전체 22곳 중 4곳(삼성생명(032830), 한화생명(088350), 교보생명, 동양생명(082640))으로 18.2%, 손보사(외국계·재보험사 포함)는 전체 32곳 중 3곳(삼성화재(000810), DB손해보험(005830), KB손해보험)으로 9.4...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315751&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T15:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f73f0a",
+      "title": "보험사 주담대 연체율 0.4%인데… 절반 이상 '90일 이상' 장기연체",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25% 등으로 2%를 넘었다. 흥국화재(1.61%), 롯데손해보험(1.19%), 신한라이프(1.03%) 등도 업권 평균인 0.4%를 웃돌았다. 박 의원은 \"금융당국은 총량 지표에만 의존하지 말고...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360129",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T15:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8f0c49",
+      "title": "<일요시사 선정> 금주의 국감스타",
+      "description": "손해보험사 중에서는 DB손해보험의 미지급 액수가 2억6200만원(26건)으로 가장 컸다. 이어 ▲KB손해보험(9790만원·10건) ▲악사손해보험(7380만원·24건) ▲메리츠화재(4050만원·14건) 순으로 확인됐다. 이들 상위 4개사의...",
+      "url": "https://www.ilyosisa.co.kr/news/article.html?no=258165",
+      "source": "www.ilyosisa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T15:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a4c726",
+      "title": "옮겨간 반도체 투심… 메모리 뛸 때, 소부장 날았다",
+      "description": "상승률은 피에스케이홀딩스 58.7%, DB하이텍 57.8%, 하나마이크론 45.7%, 파두 36.8%, 두산테스나 36.7% 등의 순이다. 반면 SK하이닉스와 삼성전자는 14.1%, 10.2% 오르며 반도체 랠리로 따지면 하위권에 머물렀다. ETF...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171469",
+      "source": "it.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T15:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e52e0d",
+      "title": "이재용 주식재산 13조 증발… 48개 그룹 총수 3개월 만에 18조 감소",
+      "description": "김준기 DB그룹 회장도 DB손해보험 주가 상승에 힘입어 주식평가액이 8741억 원에서 1조 808억 원으로 23.6% 증가했다. 김 회장은 이번 조사에서 처음으로 주식재산 1조 원 클럽에 이름을 올렸다. 방준혁 넷마블...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261278",
+      "source": "www.mediawatch.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T15:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2c36a3",
+      "title": "DB하이텍 13만9,200원…분기 영업이익률 25% 뒤 수요 지속성 점검",
+      "description": "DB하이텍은 8월 발표한 2분기 실적에서 매출 4,145억원, 영업이익 1,052억원을 기록했다. 전년 동기보다 각각 23%, 43% 늘었고 영업이익률은 25%로 집계됐다. DB하이텍은 6일 오후 2시44분 기준 139,200원에 거래됐다....",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=230827",
+      "source": "www.job-post.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T14:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2812ec",
+      "title": "보험사 주담대 부실 ‘고착화’…장기연체액 3년 새 68% 급증",
+      "description": "DB손해보험은 2.67%, KDB생명은 2.33%, 흥국생명은 2.25%를 기록했다. 특히 DB손해보험의 연체율은 2022년 말 0.33%에서 2.67%로 급등했다. 같은 기간 연체액도 34억원에서 82억원으로 늘었다. 교보생명 역시 연체율이 0.22...",
+      "url": "https://n.news.naver.com/mnews/article/123/0002391368?sid=101",
+      "source": "www.joseilbo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T14:41:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d89a4a",
+      "title": "보험사 주담대 장기연체 비중 55.8%… DB손보 연체율 8.1배 껑충",
+      "description": "올해 6월 말 기준 ABL생명의 주담대 연체율은 2.76%로 최고치를 찍었고, DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%) 등도 업권 평균(0.4%)을 크게 상회했다. 특히 DB손해보험은 2022년 말 0.33%에 불과했던 연체율이 올해...",
+      "url": "https://m.skyedaily.com/news_view.html?ID=312557",
+      "source": "m.skyedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T14:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-209714",
+      "title": "DB하이텍 주가, 10월 6일 장중 138,100원 1.92% 하락",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 6일 오후 1시 55분 기준, 네이버페이 증권에 따르면 DB하이텍 주가는 10월 6일 장중 하락세를 보이고 있다. 현재 DB하이텍의 주가는 지난 종가 대비...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552877",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-865c0c",
+      "title": "보험사 주담대 연체율 0.4%라지만…절반 이상이 ‘90일 이상’ 연체",
+      "description": "DB손해보험이 2.67%로 뒤를 이었고 KDB생명 2.33%, 흥국생명 2.25% 등도 2%를 웃돌았다. 흥국화재는 1.61%, 롯데손해보험은 1.19%, 신한라이프는 1.03%로 집계됐다. 특히 DB손해보험은 최근 수년간 연체율 상승폭이 컸다....",
+      "url": "https://n.news.naver.com/mnews/article/117/0004112621?sid=103",
+      "source": "www.mydaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T14:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3789f0",
+      "title": "보험사 주담대 연체 '장기화'…90일 이상 비중 4년 새 49.3%→55.8%",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 등의 순이었다. 업권 전체 연체율 0.4%와 비교하면 일부 보험사의 연체율은 상당한 차이를 보였다. 특히...",
+      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053845",
+      "source": "www.intn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T14:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-018447",
+      "title": "보험사 주담대 연체 절반 이상 90일 넘겨…장기 부실 부담 커졌다",
+      "description": "ABL생명의 주담대 연체율은 2.76%로 가장 높았고 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25% 등도 2%대를 기록했다. 업권 평균과 비교하면 5배 이상 높다. 연체의 장기화도 부담이다. 지난 6월 말 전체 연체액은...",
+      "url": "https://www.viva100.com/article/20261006500707",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T13:54:00+09:00"
+    },
+    {
+      "id": "DB생명-69b2c0",
+      "title": "생보사 특별계정 해약환급금 45% 급증…유동성비율은 17곳 하락",
+      "description": "국내 주요 생명보험사[사진=삼성생명, 한화생명, 교보생명, 신한라이프] 생명보험사의 특별계정... 반면 DB생명은 197.0%에서 292.5%로 95.5%포인트 상승했다. 교보라이프플래닛은 160.3%에서 227.6%로 67.3%포인트...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=351473",
+      "source": "www.greened.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-06T13:49:00+09:00"
+    },
+    {
+      "id": "DB손해보험-46ca21",
+      "title": "보험사 주담대 연체율 0.4% '안정'?…들여다보니 절반 이상 장기연체",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%) 등도 2%대 연체율을 기록했다. 특히 DB손해보험은 주담대 연체율이 2022년 말 0.33%에서 올해 6월 말 2.67%로 크게 상승했다. 연체금액도 같은 기간 34억원에서...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000539682?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T13:41:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6065be",
+      "title": "보험사 주담대 90일 이상 연체 비중 55.8%…일부 연체율 2%대",
+      "description": "이어 △DB손해보험 2.67% △KDB생명 2.33% △흥국생명 2.25% △흥국화재 1.61% △롯데손해보험 1.19% △신한라이프 1.03% 순이었다. 연체금액은 삼성생명이 503억원으로 가장 많았다. 이어 △한화생명 391억원 △삼성화재...",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96563",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T13:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-42d100",
+      "title": "보험사 주담대 연체 장기화 … 90일 이상 연체액 절반 넘어",
+      "description": "이어 DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%) 순이었다. 특히 DB손보의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 크게 상승했다. 같은 기간 연체금액은 34억원에서 82억원으로 늘었다....",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600174.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T13:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-fd216a",
+      "title": "삼성전자·SK하이닉스 등 반도체株 하락...외국인 매도·국채금리 여파",
+      "description": "6일 오후 1시 12분 기준 삼성전자는 1.63%(4500원) 하락한 27만 1500원에, SK하이닉스는 3.23%(5만 9500원) 하락한 178만 1500원에, DB하이텍은 2.06%(2900원) 하락한 13만 7900원에 거래되고 있다. 외국인 매도세와 미국...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713948",
+      "source": "www.gukjenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T13:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-648771",
+      "title": "보험사 주담대 연체 '장기화'…90일 이상 3년 반 새 68%↑",
+      "description": "DB손해보험은 2.67%, KDB생명은 2.33%, 흥국생명은 2.25%로 모두 2%대를 기록했다. 특히 DB손해보험의 주담대 연체율 상승폭이 컸다. DB손보의 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 뛰었다. 같은 기간...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=321208",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T13:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fc9c76",
+      "title": "DB손해보험 간병일당 다시 20만원…삼성화재 10만원 고수",
+      "description": "DB손해보험이 간병인 사용일당 가입 한도를 다시 하루 20만원으로 높였다. 올해 들어 한도를 15만원으로 낮췄다가 다시 올리는 과정을 반복한 끝에 현재 종합보험과 어린이보험, 간편보험 등 주력 상품에 20만원 한도를...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=83742",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T12:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b49908",
+      "title": "보험사 주담대 연체액 절반 이상 '90일' 넘겨…장기연체 늘었다",
+      "description": "DB손해보험이 2.67%로 뒤를 이었고 KDB생명 2.33%, 흥국생명 2.25% 등도 2%를 웃돌았다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 지난 6월 말 2.67%로 큰 폭 상승했다. 같은 기간 연체금액도 34억원에서...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=752757",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T12:36:00+09:00"
+    },
+    {
+      "id": "DB저축은행-ecb28d",
+      "title": "SBI저축은행 김문석, 저축은행 CEO 2026년 10월 브랜드평판 1위",
+      "description": "오의치, 스마트저축은행 조성윤, 모아저축은행 김상고, 동양저축은행 임선일, 세람저축은행 신승식, DB저축은행 윤재인, 한화저축은행 강성수, 푸른저축은행 송명구, 대신저축은행 노명문 순이었다.",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228777",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-06T12:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-686c70",
+      "title": "반도체 상장기업 2026년 10월 브랜드평판...삼성전자, SK하이닉스, 한미...",
+      "description": "2026년 10월 반도체 상장기업 브랜드평판 30위 순위는 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC, 테스, 하나마이크론, 피에스케이...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228771",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T12:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-081f36",
+      "title": "보험사 주담대 연체 장기화…'90일 이상' 연체 55.8%·1071억 달해",
+      "description": "DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%로 전체 연체율과 비교해 높은 수준의 연체올을 보였다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 급격히 증가했으며 이 기간 동안...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267506",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-97f47e",
+      "title": "배당도 신사업도 '부담'…보험사 곳간에 묶인 53조원",
+      "description": "같은 기준으로 메리츠화재는 52.0%, 현대해상 50.6%, DB손해보험 45.3%, 교보생명 39.4%, 삼성화재 36.2%, 삼성생명 19.2%로 집계됐다. 회사별로 준비금이 이익잉여금을 잠식하는 정도가 다른 만큼 배당과 투자 여력에서도 차이가...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129847",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d0caa5",
+      "title": "반도체 상장기업 브랜드평판 2026년 10월 빅데이터 분석결과…1위 삼성...",
+      "description": "2026년 10월 반도체 상장기업 브랜드평판 1위부터 15위까지의 순위는 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC, 테스, 하나마이크론...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612691",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T11:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ab3a0a",
+      "title": "주담대 연체율 0%→︎2%대 '쑥'...DB손보에 무슨 일?",
+      "description": "서울 강남구 DB손해보험 본사 전경. (사진=DB손보) 국내 보험사들의 주택담보대출 연체액 절반 이상은 90일 이상의 장기연체인 것으로 나타났다. 연체율 자체는 적정 수준에서 관리되고 않지만, 장기연체 상태에...",
+      "url": "http://www.nongaek.com/news/articleView.html?idxno=97015",
+      "source": "www.nongaek.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3117e3",
+      "title": "보험사 주담대 연체율 0.4% 제자리인데…장기연체 비중 55.8%",
+      "description": "DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03%가 뒤를 이었다. DB손해보험의 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 약 8.1배가 됐다. 같은 기간...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492910",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5f521c",
+      "title": "보험 주담대 52조원 '빚폭탄'···연체율보다 무서운 장기연체",
+      "description": "올해 6월 말 기준 ABL생명 2.76%, DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25% 등 일부 보험사의 주담대 연체율은 2%를 넘어섰다. 업권 평균인 0.4%와 비교하면 5~7배가량 높은 수준이다. 특히 DB손해보험의 상승폭이...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=155610",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dc4b31",
+      "title": "그룹 총수 주식재산 3개월 새 18.6조 증발 … 이재용·최태원·정의선 3...",
+      "description": "특히 김 창업회장은 DB손해보험 주가가 같은 기간 13만3900원에서 18만5000원으로 38.2% 상승하면서 주식재산 증가폭을 키웠다. 증가액 기준으로는 서정진 셀트리온그룹 회장이 가장 앞섰다. 서 회장의...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90074",
+      "source": "www.worktoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d3ebfd",
+      "title": "'59조→45조' 이재용 주식재산 13조 증발 … 총수 48명 석 달 새 18조 사...",
+      "description": "김준기 DB그룹 창업회장은 DB손해보험 주가가 13만3900원에서 18만5000원으로 38.2% 오른 데 힘입어 8741억원에서 1조808억원으로 23.6% 늘었고, 올해 분기별 조사에서 처음으로 주식재산 1조원을 넘겼다. 김상헌...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600121.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ccc524",
+      "title": "보험업권 주담대 연체율 0.4% 유지…90일 이상 연체 비중 55.8%",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 등의 순이었다 . 특히 DB손보의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 약 8.1배 수준으로...",
+      "url": "https://sateconomy.co.kr/news/view/1065577255982364",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b27faa",
+      "title": "대기업 총수 주식자산, 3분기 18조원이나 줄어…대형주 약세 탓",
+      "description": "이재용 회장, 서정진 회장, 최태원 회장, 정의선 회장, 조현준 효성그룹 회장(4조833억원)이 1~5위를 형성했으며, DB손해보험 주가 상승에 힘입은 김준기 DB그룹 창업회장이 이번 분기 처음으로 1조 클럽에...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87041",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a389b",
+      "title": "[이슈] 보험사 주담대 연체 절반은 '90일 넘긴 장기연체'... 1000억대 규모",
+      "description": "DB손해보험은 2.67%, KDB생명은 2.33%, 흥국생명은 2.25%로 모두 2%를 넘었다. DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%까지 뛰었다. 같은 기간 연체액도 34억 원에서 82억 원으로 늘었다....",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815046",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-22fda4",
+      "title": "3분기 대기업 총수 주식재산 18조원 증발…'빅3'에서만 17.5조 줄어",
+      "description": "김준기 DB그룹 창업회장(1조808억원)이 DB손해보험 주가 상승(+38.2%) 힘입어 올해 들어 처음으로 1조 클럽에 이름을 올렸다. 이재용 회장(45조9894억원), 서정진 회장(12조9316억원), 최태원 회장(7조6397억원), 정의선...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824988?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5d214d",
+      "title": "김준기 DB 창업회장, 주식재산 1조 클럽 가입…평가액 1위 이재용 삼성...",
+      "description": "김 창업회장은 DB손해보험을 포함해 모두 4개 종목에서 주식을 보유 중이다. 이중 DB손해보험 주가가 2분기 대비 3분기에 13만3900원에서 18만5000원으로 38.2%나 오른 것이 큰 역할을 했다. 이에 따라 김 창업회장은...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234999?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c26e36",
+      "title": "[뉴스 앤 데이터] 그룹 총수 48명 주식재산 18.6조 감소…빅3 17.6조↓",
+      "description": "DB손해보험 주가가 13만3900원에서 18만5000원으로 38.2% 오른 가운데 평가액도 1조원을 넘어섰다. 금액으로 따졌을 때 가장 많이 늘어난 사람은 서정진 셀트리온그룹 회장이다. 11조8944억원이던 주식평가액이...",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000100578",
+      "source": "www.seoultimes.news",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f38bfb",
+      "title": "이재용·최태원·정의선 주식재산 17.6조 증발…그룹 총수 48명, 3Q 18.6조...",
+      "description": "김 창업회장은 DB손해보험을 포함해 4개 종목의 주식을 보유하고 있다. 이 가운데 DB손해보험 주가가 13만3900원에서 18만5000원으로 38.2% 상승하면서 주식재산 증가를 이끌었다. ◆증가액 1위 서정진…3개월 새...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726739",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b3306d",
+      "title": "이재용 13조·최태원 3조·정의선 1조…3분기, 총수 주식재산 급감",
+      "description": "김준기 창업회장은 DB손해보험을 포함해 모두 4개 종목에서 주식을 보유 중이다. 이중 DB손해보험 주가가 2분기 대비 3분기에 13만3900원에서 18만5000원으로 38.2%나 오른 것이 큰 역할을 했다. 주식평가액 증가액...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870202",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-139e77",
+      "title": "국내 48개 그룹 총수 주식재산 3분기 18조 증발…삼성·SK·현대차 '빅3'...",
+      "description": "김준기 DB그룹 창업회장은 DB손해보험 주가 상승에 힘입어 주식 재산 1조808억 원을 기록하며 이번 분기 처음으로 1조 클럽에 이름을 올렸다. 공정거래위원회 지정 대기업 집단 총수는 아니지만 홍라희 리움...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278234",
+      "source": "www.businesskorea.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T11:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-322ea8",
+      "title": "[국감2026] \"보험사 주담대 연체 장기화…'90일 이상' 연체액 절반 이상...",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 등의 순으로 나타났다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 6월 말 2.67%로 약 8.1배...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7187525",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T10:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c46320",
+      "title": "보험사 주담대 연체, 장기 부실 55% 육박…DB손보·ABL생명 '빨간불'",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 순으로 기록됐다. 특히 DB손보의 연체율은 2022년 0.33%에서 올해 6월 2.67%로 약 8.1배 증가했다. 같은 기간...",
+      "url": "https://n.news.naver.com/mnews/article/088/0001032467?sid=101",
+      "source": "www.imaeil.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T10:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-65ff02",
+      "title": "보험사 주담대 연체 악성·장기화…90일 이상 연체액 비중 55.8%",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%대다. 특히 DB손보 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 상승했다. 이 기간 연체금액도 34억원에서 82억원으로 급증했다. 교보생명 연체율도 0.22%에서...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824975?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T10:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4fcb01",
+      "title": "국민연금, 삼성전자 팔고 하이닉스 1.6조 매수",
+      "description": "SK이노베이션과 삼성SDI도 각각 3535억 원, 3305억 원 순매수됐으며 S-Oil 2635억 원, DB손해보험 2546억 원, LG전자와 아모레퍼시픽 각각 2414억 원이 뒤를 이었다. 증권업계에서는 연기금이 급락한 종목을 중심으로 저가...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617415",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T10:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-309aab",
+      "title": "보험사 주담대 연체율 0.4%인데…연체액 절반 이상 '90일 넘겼다'",
+      "description": "DB손해보험이 2.67%, KDB생명 2.33%, 흥국생명 2.25%로 뒤를 이었다. 이어 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 등도 업권 전체 연체율을 웃돌았다. 연체액 규모로는 삼성생명이 503억원으로 가장...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003139637?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T10:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-87fc12",
+      "title": "보험업권 주담대 연체율 0.4%…ABL생명 2.76%, DB손보 2.67%",
+      "description": "이어 DB손해보험 2.67%, KDB생명 2.33%, 흥국생명 2.25%, 흥국화재 1.61%, 롯데손해보험 1.19%, 신한라이프 1.03% 등의 순이었다. 업권 전체 연체율 0.4%와 비교하면 일부 보험사의 연체율은 상당한 차이를 보였다....",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277163",
+      "source": "www.taxtimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T09:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8383d1",
+      "title": "보험사 주담대 연체 악성화… '90일 이상' 연체액 절반 이상",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%대다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 올랐다. 이 기간 연체금액도 34억원에서 82억원으로 급증했다. 교보생명...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93159",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T09:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-922135",
+      "title": "[2026 국감] 보험업권 주담대 연체액 절반 이상 '장기연체'… 부실 장기...",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%) 등도 2%대의 높은 연체율을 기록했다. 특히 DB손해보험의 경우 주담대 연체율이 2022년 말 0.33%에서 올해 2.67%로 가파르게 상승했으며, 연체금액도 34억원에서...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=214009",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T09:44:00+09:00"
+    },
+    {
+      "id": "DB저축은행-5868d2",
+      "title": "[빅데이터투데이] 저축은행 CEO 2026년 10월 브랜드평판 랭킹... 1위 SBI저...",
+      "description": "신승식, DB저축은행 윤재인, 한화저축은행 강성수, 푸른저축은행 송명구, 대신저축은행 노명문 순으로 집계됐다. 구창환 한국기업평판연구소 소장은 \"SBI저축은행 김문석 대표가 미디어와 소통 지표에서...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394573",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-06T09:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-05c836",
+      "title": "반도체주 장중 혼조…두산테스나·SFA반도체 5%대 상승",
+      "description": "DB하이텍은 13만9500원으로 0.92% 내렸다. [이 기사는 제공된 시세 자료를 바탕으로 AI의 조력을 받아 작성했으며, 정보 제공을 목적으로 한다. 자료에 정확한 집계 시각이 명시되지 않아 실제 시세와...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612640",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T09:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d307a3",
+      "title": "보험사 주담대 연체 악성화…'90일 이상' 연체액 절반 넘어",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2% 대입니다. 특히 DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 올랐습니다. 이 기간 연체금액도 34억 원에서 82억 원으로 급증했습니다....",
+      "url": "https://n.news.naver.com/mnews/article/055/0001393359?sid=101",
+      "source": "news.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T09:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1d84db",
+      "title": "보험사 주담대 절반 이상 '장기 연체'…ABL·DB손보 연체율 2%↑",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%) 등도 2%대의 연체율을 기록했다. 특히 DB손보 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 가파르게 증가했다. 같은 기간 교보생명도 연체율이 0.22%에서 0.62%로...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234546?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T09:34:00+09:00"
+    },
+    {
+      "id": "DB증권-cee872",
+      "title": "[인더리포트] 이차전지, ESS 기대가 소재 수주로…주가는 실적을 기다린...",
+      "description": "DB증권·다올투자증권·메리츠증권 '이차전지' 리포트 분석 공급망 재편 속 국내 업체 향후 전망 비교 인더뉴스 김용운 기자ㅣ이차전지 산업의 회복을 설명하는 중심축이 전기차에서 에너지저장장치(ESS)로 넓어지고...",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=92686",
+      "source": "www.inthenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T09:22:00+09:00"
+    },
+    {
+      "id": "DB저축은행-6e889c",
+      "title": "김문석 SBI저축은행, 10월 저축은행 CEO 브랜드평판 1위…정길호 OK저축...",
+      "description": "윤재인 DB저축은행, 강성수 한화저축은행, 송명구 푸른저축은행, 노명문 대신저축은행 순으로 나타났다. 한편 최근 3개월간 순위 흐름을 보면 김문석 SBI저축은행이 8월부터 10월까지 1위를 유지하며 선두를...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=134964",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-06T09:20:00+09:00"
+    },
+    {
+      "id": "DB증권-fab837",
+      "title": "“2027년 코스피 8,150선…반도체·AI·금리 핵심”<DB證>",
+      "description": "코스피 베이스 시나리오 8,150선·확률 39% 유동성 기대서 실적 펀더멘털로 중심 이동 반도체 이익 둔화 가능성…리밸런싱 시점 고민 필요 [사진=연합뉴스] [뉴스투데이=염보라 기자] DB증권은 2027년 국내 증시를 좌우할...",
+      "url": "https://www.news2day.co.kr/article/20261006500025",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T09:06:00+09:00"
+    },
+    {
+      "id": "DB증권-b77207",
+      "title": "11월 ‘엔트로픽’ IPO… ‘코스피·삼전닉스’ 반등 계기될까",
+      "description": "로이터연합 DB증권은 6일 보고서를 통해 코스피와 주요 반도체 업종의 향후 방향성에 대해 진단했다. 보고서를 작성한 강현기 연구원은 “지난 8월부터 이어진 코스피의 횡보세로 주가가 방향성을 드러내지 않기에 투자...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004164326?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-06T08:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cb48d0",
+      "title": "연체액은 줄었는데 부실은 깊어졌다…보험사 주담대 연체 절반이 ‘90일...",
+      "description": "3줄 요약 ㆍ장기 연체액 1071억원으로 2022년보다 68.1% 증가 ㆍ보험사 평균 주택담보대출 연체율 0.4% 머물지만 ㆍABL생명·DB손해보험 등 일부 연체율 2%대로 치솟아 고금리가 장기간 이어지며 대출자의 상환...",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002284?sid=101",
+      "source": "www.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T08:50:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5a9c09",
+      "title": "삼성전자, 반도체 상장기업 브랜드평판 10월 빅데이터 1위...SK하이닉스...",
+      "description": "연구소에 따르면 10월 반도체 상장기업 브랜드평판 30위 순위는 삼성전자, SK하이닉스, 한미반도체, 주성엔지니어링, 제주반도체, 원익IPS, 리노공업, 이오테크닉스, DB하이텍, ISC, 테스, 하나마이크론, 피에스케이...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=202610060743598702d0a8833aad_23",
+      "source": "www.thebigdata.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-06T08:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3341f0",
+      "title": "ABL·DB손보·KDB생명…주담대 연체율 2% 웃돌아",
+      "description": "DB손해보험(2.67%), KDB생명(2.33%), 흥국생명(2.25%)도 2%를 넘어섰다. DB손해보험 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 급격히 뛰었다. 연체금액도 이 기간 34억원에서 82억원으로 늘었다. 교보생명...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051538?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-06T07:57:00+09:00"
+    },
     {
       "id": "DB손해보험-6a1172",
       "title": "AI 시대, 금융보안 인재 쟁탈전... 주요 은행들 'AI+보안' 전문가 영입 ...",
@@ -10,15 +856,6 @@ const NEWS_DATA = {
       "source": "www.gokorea.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-10-06T07:44:00+09:00"
-    },
-    {
-      "id": "DB손해보험-9b87db",
-      "title": "보험업계 주택담보대출 장기 연체 급증, 숨겨진 위험의 신호인가",
-      "description": "DB손해보험과 KDB생명, 흥국생명도 각각 2%대를 기록하며 연체율이 높은 수준을 나타냈다. 특히 DB손해보험의 주담대 연체율은 2022년 말 0.33%에서 올해 2.67%로 급증했으며, 연체 금액도 34억 원에서 82억 원으로 크게...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880466",
-      "source": "www.gokorea.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-06T07:42:00+09:00"
     },
     {
       "id": "DB생명-9b87db",
@@ -174,6 +1011,15 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-06T04:10:00+09:00"
     },
     {
+      "id": "DB증권-6380cd",
+      "title": "[주간증시전망] '7천피' 안착 시도···글로벌 금리 흐름·삼성전자 실...",
+      "description": "강현기 DB증권 연구원은 \"눈에 띄는 것은 반도체 업종이 지난 2개월 간의 박스권 상단을 터치하고 있다는 점\"이라며 \"올해 연말 반도체 주가의 재반등 여지가 존재한다고 판단한다\"고 말했다. 신중론도 있다....",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=639341",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-05T18:00:00+09:00"
+    },
+    {
       "id": "DB하이텍-685581",
       "title": "리밸런싱 앞둔 반도체 ETF, 소부장에 수급 몰린다",
       "description": "현재 ‘FnGuide 반도체TOP10지수’에는 삼성전기가, ‘FnGuide AI반도체TOP2+지수’에는 DB하이텍이 빠져 있어 신규 편입 여부에 따라 실제 수급은 달라질 여지가 있다. 증권가에서는 최근 소부장 주가가 크게 오른...",
@@ -190,15 +1036,6 @@ const NEWS_DATA = {
       "source": "www.insnews.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-10-05T17:20:00+09:00"
-    },
-    {
-      "id": "DB손해보험-ce52e8",
-      "title": "GA 1위 경쟁 뜨거워진다…한화생명금융·인카금융서비스 '각축전'",
-      "description": "손해보험 모집수수료는 6888억원으로 역시 메리츠화재와 DB손해보험, 삼성화재 등 여러 보험사에서 발생했다. 이 같은 판매 구조는 올해 상반기 실적에서도 나타난다. 인카금융서비스의 상반기 손해보험 매출액은...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411846",
-      "source": "daily.hankooki.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-05T14:00:00+09:00"
     },
     {
       "id": "DB생명-ce52e8",
