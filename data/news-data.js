@@ -1,7 +1,142 @@
-// 자동 생성 파일 — 2026-10-09
+// 자동 생성 파일 — 2026-10-10
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-09",
+  "lastUpdated": "2026-10-10",
   "articles": [
+    {
+      "id": "DB손해보험-f4c239",
+      "title": "[커버드콜 점검] [한화자산운용] '고배당주' 인기…후속작은 배당회피 ...",
+      "description": "PLUS 고배당주는 DB손해보험(6.34%), 우리금융지주(5.76%), GS(5.27%), 기업은행(5.25%) 등을 주요 종목으로 편입하고 있다. PLUS 고배당주위클리커버드콜 역시 원화예금(5.99%)을 비롯해 DB손해보험(5.99%), 우리금융지주(5.43...",
+      "url": "https://news.dealsitetv.com/articles/176726",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-10T07:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ea5362",
+      "title": "찬 바람 불면 역시?…\"주가 뛰고 배당도 빵빵\" 증권가 콕 집은 종목",
+      "description": "보험에서는 삼성생명, 삼성화재, DB손해보험 등이 금리 상승 수혜와 고배당 수혜를 동시에 얻을 수 있을 전망이다. 특히 DB손해보험은 올해 예상 배당수익률이 4.9%로 주요 보험주 중 가장 높고, 2030년까지 주당 배당금을...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424289?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-10T06:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-894d66",
+      "title": "DB손보·DB생명, ‘대형병원 빠른 진료’ 오인 광고 지적에 사과",
+      "description": "DB손해보험과 DB생명보험, 신한라이프가 대형병원 진료를 신속하게 받을 수 있는 것처럼 소비자를 오인하게 하는 헬스케어 서비스 광고를 해왔다는 지적이 국정감사에서 나왔다. 해당 보험사들은 문제가 될 수 있는 홍보...",
+      "url": "https://wemakenews.co.kr/news/view.php?no=26496",
+      "source": "wemakenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T17:38:00+09:00"
+    },
+    {
+      "id": "DB생명-894d66",
+      "title": "DB손보·DB생명, ‘대형병원 빠른 진료’ 오인 광고 지적에 사과",
+      "description": "DB손해보험과 DB생명보험, 신한라이프가 대형병원 진료를 신속하게 받을 수 있는 것처럼 소비자를 오인하게 하는 헬스케어 서비스 광고를 해왔다는 지적이 국정감사에서 나왔다. 해당 보험사들은 문제가 될 수 있는 홍보...",
+      "url": "https://wemakenews.co.kr/news/view.php?no=26496",
+      "source": "wemakenews.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-09T17:38:00+09:00"
+    },
+    {
+      "id": "DB증권-68679e",
+      "title": "3분기 실적시즌 개막…'깜짝 실적' 예상 종목은? [한경우의 케이스스터...",
+      "description": "안회수 DB증권 연구원은 “GM과의 합작사(JV) 청산에 따른 보상금(약 1800억원으로 추정)이 예상을 웃도는 실적을 점치는 요인”이라며 “리튬인산철(LFP) 배터리 양산 시작, 에너지저장장치(ESS) 부문의 외형 성장...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340841?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-09T17:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-877f53",
+      "title": "[보험업계기상도]10월 둘째 주 ‘구름조금 이하’ 우세…삼성생명 등 보...",
+      "description": "◆성과 기업 ‘맑음’ 삼성화재, DB손해보험, NH농협생명 등 3개사는 ‘맑음’으로 분류됐다. 삼성화재는 1~5종 수술비 신규가입 기준을 연 1회 지급으로 개편하며 장기보험 수익성 관리 강화에 나섰다. DB손해보험은 암...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=831036",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T15:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c17a20",
+      "title": "금융·보험업계, 차별화된 맞춤형 상품·이벤트로 고객 접점 넓힌다",
+      "description": "DB손해보험, 프랜차이즈 공제조합 설립 지원…가맹점주 보험료 부담 완화 사진=DB손해보험 최혁승 부문장(사진 왼쪽)과 한국프랜차이즈산업협회 나명석 협회장(사진 가운데), 한국단체보험연합 김동산 대표가...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=103225",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T14:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-396efc",
+      "title": "북극항로 시범운항 귀항·HMM 부산 시대…13일 기념행사",
+      "description": "행사 직후에는 부산으로 본사를 옮기는 HMM의 부산 시대 개막을 축하하는 행사도 DB손해보험 부산사옥에서 열린다. HMM은 이 건물 4개 층을 임차해 오는 12일부터 본사를 옮겨 업무를 개시한다. 최원혁 대표이사와 본사...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004197260?sid=102",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T13:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7bc254",
+      "title": "[이슈국감] 이수진 의원, 진료권 순서 보험상품화 오인·과장광고 질타",
+      "description": "| 서울=한스경제 신연수 기자 | 이수진 더불어민주당 의원(경기 성남시 중원구)이 8일 보건복지위원회 국정감사에서 DB손해보험과 DB생명보험, 신한라이프의 진료권 순서를 보험 상품화하는 오인·과장광고에 대해 강하게...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871418",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T11:02:00+09:00"
+    },
+    {
+      "id": "DB생명-7bc254",
+      "title": "[이슈국감] 이수진 의원, 진료권 순서 보험상품화 오인·과장광고 질타",
+      "description": "| 서울=한스경제 신연수 기자 | 이수진 더불어민주당 의원(경기 성남시 중원구)이 8일 보건복지위원회 국정감사에서 DB손해보험과 DB생명보험, 신한라이프의 진료권 순서를 보험 상품화하는 오인·과장광고에 대해 강하게...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871418",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-09T11:02:00+09:00"
+    },
+    {
+      "id": "DB증권-f4e8fa",
+      "title": "“241층 구조대 오나요?”…고점서 36% 빠진 삼성전기, 증권가 전망은",
+      "description": "DB증권도 같은 날 기존 200만원에서 220만원으로 올렸다. 이 밖에 하나증권과 교보증권이 각각 300만원, 미래·키움·대신·다올투자증권이 280만원을 제시했다. 이어 한국투자증권은 240만원, 유안타증권은 230만원...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746288?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-09T10:50:00+09:00"
+    },
+    {
+      "id": "DB증권-0ffe5a",
+      "title": "[기업家] 두산그룹 ⑧ㅣ AI 반도체 소재·가스터빈·휴머노이드…미래 ...",
+      "description": "● 2026-10-07 두산 목표주가 200만원 상향…DB증권 '매수' 유지, 광모듈 매출 933%↑ 기대 두산 로고 (사진=연합뉴스) DB증권이 두산의 목표주가를 기존 180만원에서 200만원으로 상향했다. 투자의견은 '매수'로 유지했다....",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613825",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-09T10:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-226697",
+      "title": "DB손보, 프랜차이즈공제조합 설립 지원...가맹점 보험료 부담 낮춘다",
+      "description": "DB손해보험이 한국프랜차이즈산업협회 등과 프랜차이즈공제조합 설립을 추진한다. 초기에는 조합이 직접 위험을 부담하지 않고 보험사와 연계해 공제상품을 제공하는 방식으로 운영할 예정이다. DB손보는 지난 6일...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=321582",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T10:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0b0bbe",
+      "title": "'독일 보청기 송파·서대문', \"사랑하는 가족에게 '소리'를 선물하세요...",
+      "description": "이번 행사에서는 ▲모두 9988 캠페인 ▲1개월 무료체험 ▲무이자 할부 ▲국내 유일 보청기 전용 DB손해보험 가입(분실·도난·파손·화재·침수 보장) 등 다양한 혜택이 동시에 제공된다. 이번 행사는 ▲독일 보청기 전문...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394860",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-24b8f3",
+      "title": "[기획·진단] DB손해보험 서비스의 실체… \"진료 새치기\"인가, 단순 안내...",
+      "description": "문제의 중심에는 DB손해보험이 있다. DB손해보험은 자사 헬스케어 부가서비스 안내에 'Big5 병원 원스톱 당일진료 서비스'를 포함해 홍보해 왔다. 하지만 실제 당일진료 대상자를 선정하는 권한은 병원에 있으며, 보험...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=507871",
+      "source": "www.newsworker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-09T08:56:00+09:00"
+    },
     {
       "id": "DB증권-706f41",
       "title": "세달만에 90만원 뚝, 33% 급락한 SK하닉…코스피 톱 10곳 중 8곳도 떨어...",
@@ -93,15 +228,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-09T00:32:00+09:00"
     },
     {
-      "id": "DB손해보험-7482ad",
-      "title": "[국감] DB생명·신한라이프, 대형병원 빠른 진료 오인광고 질타",
-      "description": "더불어민주당 이수진 의원(경기 성남 중원)은 8일 국회 보건복지위원회 국정감사에서 DB손해보험과 DB생명보험, 신한라이프의 헬스케어서비스 관련 오인·과장광고 문제를 제기했다. 이 의원에 따르면 DB손해보험과...",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2119480",
-      "source": "www.4th.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-09T00:16:00+09:00"
-    },
-    {
       "id": "DB생명-7482ad",
       "title": "[국감] DB생명·신한라이프, 대형병원 빠른 진료 오인광고 질타",
       "description": "더불어민주당 이수진 의원(경기 성남 중원)은 8일 국회 보건복지위원회 국정감사에서 DB손해보험과 DB생명보험, 신한라이프의 헬스케어서비스 관련 오인·과장광고 문제를 제기했다. 이 의원에 따르면 DB손해보험과...",
@@ -183,15 +309,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-08T18:55:00+09:00"
     },
     {
-      "id": "DB손해보험-235eb3",
-      "title": "[국정감사] [2026] DB손보·신한라이프 헬스케어 광고 국감 도마…“오인...",
-      "description": "DB손해보험과 신한라이프는 오해 소지가 있는 광고를 수정·삭제하고 영업현장 관리를 강화하겠다고 밝혔다. 보건복지부도 관계기관과 함께 관련 실태를 점검할 방침이다.  8일 국회 보건복지위원회의 보건복지부...",
-      "url": "https://www.topdaily.kr/articles/112279",
-      "source": "www.topdaily.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T18:53:00+09:00"
-    },
-    {
       "id": "DB생명-235eb3",
       "title": "[국정감사] [2026] DB손보·신한라이프 헬스케어 광고 국감 도마…“오인...",
       "description": "이 의원에 따르면 DB생명과 DB손해보험은 헬스케어 서비스 혜택으로 각각 ‘빠른 진료 예약’과 ‘당일 진료 서비스’를 내세워 상품을 소개해 왔다. 신한라이프의 일부 지점과 설계사도 통상 수개월이 걸리는 대형병원...",
@@ -237,15 +354,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-08T18:12:00+09:00"
     },
     {
-      "id": "DB손해보험-779072",
-      "title": "빅5병원 우선 진료 가능? 보험사 과장 광고 국감서 질타",
-      "description": "민간 보험사들이 헬스케어 서비스를 내세워 대형병원 진료우선권을 보장하는 것처럼 과장 광고를 해 정치권 질타를 맞았다.8일 보건복지부 국정감사에서 더불어민주당 이수진 의원은 DB손해보험, DB생명, 신한라이프 등...",
-      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171094&ref=naverpc",
-      "source": "www.medicaltimes.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T18:06:00+09:00"
-    },
-    {
       "id": "DB생명-779072",
       "title": "빅5병원 우선 진료 가능? 보험사 과장 광고 국감서 질타",
       "description": "민간 보험사들이 헬스케어 서비스를 내세워 대형병원 진료우선권을 보장하는 것처럼 과장 광고를 해 정치권 질타를 맞았다.8일 보건복지부 국정감사에서 더불어민주당 이수진 의원은 DB손해보험, DB생명, 신한라이프 등...",
@@ -264,15 +372,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-08T18:04:00+09:00"
     },
     {
-      "id": "DB손해보험-c5c876",
-      "title": "[국감2026] 신한라이프, '헬스케어 서비스 논란'에 \"오해 소지 있었다…...",
-      "description": "이 의원은 신한라이프와 DB손해보험, 그리고 DB생명 등 일부 보험사들의 헬스케어 서비스 광고 실태를 지적했다. 이 의원은 \"초고령화 사회가 되면서 보험 상품에 헬스케어 서비스가 많이 등장하고 있다\"며 \"가령 건강 검진...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7188155",
-      "source": "weekly.hankooki.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T17:48:00+09:00"
-    },
-    {
       "id": "DB생명-c5c876",
       "title": "[국감2026] 신한라이프, '헬스케어 서비스 논란'에 \"오해 소지 있었다…...",
       "description": "이 의원은 신한라이프와 DB손해보험, 그리고 DB생명 등 일부 보험사들의 헬스케어 서비스 광고 실태를 지적했다. 이 의원은 \"초고령화 사회가 되면서 보험 상품에 헬스케어 서비스가 많이 등장하고 있다\"며 \"가령 건강 검진...",
@@ -280,15 +379,6 @@ const NEWS_DATA = {
       "source": "weekly.hankooki.com",
       "subsidiary": "DB생명",
       "publishedAt": "2026-10-08T17:48:00+09:00"
-    },
-    {
-      "id": "DB손해보험-13de7e",
-      "title": "[2026 국감] \"대형병원 당일 진료·2주 내 예약?\"…보험사 '새치기 진료...",
-      "description": "8일 열린 국회 보건복지위원회 국정감사에서 더불어민주당 이수진 의원은 DB손해보험과 신한라이프 등 주요 보험사들이 공평하게 제공돼야 할 환자의 진료권과 의료질서를 훼손하는 부적절한 홍보를 진행했다고...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856021",
-      "source": "www.newsworks.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T17:46:00+09:00"
     },
     {
       "id": "DB생명-13de7e",
@@ -352,15 +442,6 @@ const NEWS_DATA = {
       "source": "www.wikileaks-kr.org",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-10-08T17:34:00+09:00"
-    },
-    {
-      "id": "DB손해보험-8b1ed5",
-      "title": "\"대형병원 당일진료 가능\"…보험사 헬스케어 서비스 과장광고 논란",
-      "description": "더불어민주당 이수진 의원은 8일 국회 보건복지위원회 국정감사에서 DB손해보험과 DB생명, 신한라이프의 헬스케어 서비스 판매 과정에서 당일 진료나 대형병원 진료 예약을 보장하는 것처럼 오인할 수 있는 영업 문구가...",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043467",
-      "source": "www.docdocdoc.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T17:26:00+09:00"
     },
     {
       "id": "DB생명-8b1ed5",
@@ -957,15 +1038,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-10-08T11:08:00+09:00"
     },
     {
-      "id": "DB증권-9652fa",
-      "title": "조현준·조현상, 효성 지분 810만주 공탁·담보…보유주식 85% 묶였다",
-      "description": "조현상 부회장 역시 한국투자증권과 한국증권금융, 하나증권, 농협은행, DB증권 등 다수 금융기관에 보유주식을 담보로 맡긴 상태다. 개인별 보유주식은 조현준 회장 695만320주(41.52%), 조현상 부회장 226만6375주(13.54...",
-      "url": "http://www.newskr.kr/news/articleView.html?idxno=107006",
-      "source": "www.newskr.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-10-08T11:06:00+09:00"
-    },
-    {
       "id": "DB캐피탈-9652fa",
       "title": "조현준·조현상, 효성 지분 810만주 공탁·담보…보유주식 85% 묶였다",
       "description": "이와 별도로 KDB캐피탈과 하나증권, KB증권에도 주식을 담보로 제공하고 있다. 조현상 부회장 역시 한국투자증권과 한국증권금융, 하나증권, 농협은행, DB증권 등 다수 금융기관에 보유주식을 담보로 맡긴 상태다....",
@@ -1243,15 +1315,6 @@ const NEWS_DATA = {
       "source": "www.g-enews.com",
       "subsidiary": "DB증권",
       "publishedAt": "2026-10-08T09:54:00+09:00"
-    },
-    {
-      "id": "DB손해보험-5f499b",
-      "title": "DB손보, 10월에도 DB증권 지분 늘려…28.95% 보유",
-      "description": "DB증권 최대주주인 DB손해보험이 10월 들어 DB증권 주식 11만6555주를 장내에서 사들여 단독 지분율을 28.95%로 높였다. 김준기 DB그룹 창업회장이 지난달 4일 서울 서초구 서울중앙지방법원에서 열린...",
-      "url": "http://www.newskr.kr/news/articleView.html?idxno=106994",
-      "source": "www.newskr.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-08T09:52:00+09:00"
     },
     {
       "id": "DB증권-5f499b",
