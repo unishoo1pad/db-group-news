@@ -1,7 +1,115 @@
-// 자동 생성 파일 — 2026-10-10
+// 자동 생성 파일 — 2026-10-11
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-10",
+  "lastUpdated": "2026-10-11",
   "articles": [
+    {
+      "id": "DB손해보험-527f81",
+      "title": "조민아, 가뜩이나 DB 보험왕인데…공휴일에도 子 데리고 돈 버는 중",
+      "description": "공개된 사진에는 조민아가 근무하는 DB손해보험 사무실의 모습이 담겼다. 사진 속 사무실 입구에는 'DB손해보험 김포TC지점'이라는 문구가 적혀 있어 눈길을 끈다. 특히 조민아는 공휴일인 한글날에도 아들 강호와 함께...",
+      "url": "https://m.entertain.naver.com/article/312/0000779449",
+      "source": "www.tenasia.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-11T07:33:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7a8918",
+      "title": "[마켓스토리] 거래소 애프터마켓 한달…퇴근 후 개미가 가장 많이 산 종...",
+      "description": "삼성전자 보통주가 675억3천만원으로 뒤를 이었고, 한화에어로스페이스(44억7천만원), 이수페타시스(35억9천만원), DB하이텍(35억3천만원) 등도 순매수 상위권에 올랐다. 가장 큰 규모 순매도한 종목은 SK하이닉스였다....",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368690?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-11T07:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-373f77",
+      "title": "[Who Is ?] 김종우 SKC 대표이사 사장",
+      "description": "글로벌 화학사 듀폰이 80% 이상 독점하던 CMP패드 시장에서 SK하이닉스, DB하이텍의 주력 공급사로 자리잡으며 성장 기반을 구축해왔다. 블랭크 마스크는 반도체 제조 공정에서 나노미터 단위의 초정밀 회로를...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448631",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-11T07:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c3fbf8",
+      "title": "생보사, 정보보호 인력 비율 금융권 ‘꼴찌’… 교보생명 최저",
+      "description": "삼성화재, 현대해상, DB손해보험 등 주요 손해보험사 5곳은 9.4%였고 카카오뱅크, 케이뱅크, 토스뱅크 등 인터넷은행 3곳은 9.3%로 집계됐다. 롯데카드, 삼성카드, 신한카드 등 주요 카드사 8곳은 12.5%로 비율이 가장...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197125?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-11T06:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9657a1",
+      "title": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능성...",
+      "description": "코스피 외국인 주간 순매수 상위 종목에는 이수페타시스(1천1억원), 삼성SDI(923억원), DB하이텍(635억원), LG에너지솔루션(542억원), HD한국조선해양(511억원) 등이 이름을 올렸다. 외국인 주간 순매도 상위 종목은...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368628?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-11T06:00:00+09:00"
+    },
+    {
+      "id": "DB증권-bc380a",
+      "title": "이번주 공모주 청약, 엠에스바이오·디티에스 2개사",
+      "description": "김지은 DB증권 연구원은 \"중장기 성장전략이 해외 임상과 현지 생산거점 구축을 전제로 하고 있다\"며 \"인허가 일정 지연 시 해외 매출 확대 시점이 늦어질 수 있다\"고 짚었다. 앞서 엠에스바이오는 지난달 28일부터...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003141343?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-11T00:11:00+09:00"
+    },
+    {
+      "id": "DB증권-420383",
+      "title": "흔들리는 실적속에서 신사업이 느껴진거야[주末머니]",
+      "description": "그럼에도 삼성증권을 비롯해 KB증권, DB증권, 다올투자증권, 유안타증권은 LG전자의 목표주가를 상향했다. 유안타증권이 기존 24만원에서 28만원으로 가장 높은 목표주가를 제시했다. 목표주가 상향 배경으로...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826664?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-10T15:24:00+09:00"
+    },
+    {
+      "id": "DB증권-97a9aa",
+      "title": "“현대모비스·한국타이어 투자가 안정적” [투자360]",
+      "description": "남주신 DB증권 연구원은 ‘3분기 자동차 업종 실적 전망’ 보고서를 통해 자동차 업종에 대한 투자의견 ‘비중 확대(Overweight)’를 유지하면서도 기업별 실적 회복 속도에는 차이가 나타날 것으로 전망했다. 남...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002707483?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-10T11:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cbe8d1",
+      "title": "'차이나 쇼크' 막아라···15개국, 전기차부터 반도체까지 공동 대응",
+      "description": "반면 DB하이텍을 비롯한 국내 성숙 공정 파운드리 및 반도체 설계업체에는 중국의 저가 공급 확대를 견제할 수 있는 통상 환경이 조성될 가능성이 있다. 다만 각국이 범용반도체의 범위를 어떻게 정의하고 실제...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=639634",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-10T10:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f85f16",
+      "title": "캐롯 합병 1년 한화손보…車보험 몸집 키웠지만 적자 구조 여전",
+      "description": "시장점유율도 약 6%로 확대되며 삼성화재·DB손해보험·현대해상·KB손해보험에 이어 업계 5위에 올랐다. 다만 외형 확대에 비해 수익성 개선 속도가 더뎌 올해 상반기 자동차보험 보험손익은 426억 원 적자를 기록했다....",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424567",
+      "source": "www.economytalk.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-10T09:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aee9ae",
+      "title": "국내서 막힌 성장, 해외서 터지나…보험사 해외이익 '두 배'",
+      "description": "10일 보험업계에 따르면 삼성생명·한화생명·신한라이프·삼성화재·DB손해보험·KB손해보험 등 주요 보험사 6곳의 올해 상반기 해외사업 관련 순이익은 1533억원으로 집계됐다. 지난해 같은 기간 755억원보다 103.1% 증가한...",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129965",
+      "source": "www.ntoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-10T09:36:00+09:00"
+    },
+    {
+      "id": "DB증권-bbadeb",
+      "title": "\"모르는 사이에 무슨 일이?\"…영업익 '567%' 폭증한 LG엔솔[중화학ON]",
+      "description": "DB증권은 삼성SDI의 3분기 매출을 4조950억원, 영업이익을 1918억원으로 추정했다. 한국투자증권의 영업이익 추정치는 1537억원이다. 증권가 전망치는 1500억~1900억원대에 분포한다. 다만 흑자의 상당 부분은 AMPC와...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826609?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-10T08:00:00+09:00"
+    },
     {
       "id": "DB손해보험-f4c239",
       "title": "[커버드콜 점검] [한화자산운용] '고배당주' 인기…후속작은 배당회피 ...",
@@ -19,15 +127,6 @@ const NEWS_DATA = {
       "source": "www.mt.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-10-10T06:30:00+09:00"
-    },
-    {
-      "id": "DB손해보험-894d66",
-      "title": "DB손보·DB생명, ‘대형병원 빠른 진료’ 오인 광고 지적에 사과",
-      "description": "DB손해보험과 DB생명보험, 신한라이프가 대형병원 진료를 신속하게 받을 수 있는 것처럼 소비자를 오인하게 하는 헬스케어 서비스 광고를 해왔다는 지적이 국정감사에서 나왔다. 해당 보험사들은 문제가 될 수 있는 홍보...",
-      "url": "https://wemakenews.co.kr/news/view.php?no=26496",
-      "source": "wemakenews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-09T17:38:00+09:00"
     },
     {
       "id": "DB생명-894d66",
@@ -73,15 +172,6 @@ const NEWS_DATA = {
       "source": "www.nocutnews.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-10-09T13:01:00+09:00"
-    },
-    {
-      "id": "DB손해보험-7bc254",
-      "title": "[이슈국감] 이수진 의원, 진료권 순서 보험상품화 오인·과장광고 질타",
-      "description": "| 서울=한스경제 신연수 기자 | 이수진 더불어민주당 의원(경기 성남시 중원구)이 8일 보건복지위원회 국정감사에서 DB손해보험과 DB생명보험, 신한라이프의 진료권 순서를 보험 상품화하는 오인·과장광고에 대해 강하게...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871418",
-      "source": "www.hansbiz.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-09T11:02:00+09:00"
     },
     {
       "id": "DB생명-7bc254",
