@@ -1,7 +1,1546 @@
-// 자동 생성 파일 — 2026-10-21
+// 자동 생성 파일 — 2026-10-22
 const NEWS_DATA = {
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "articles": [
+    {
+      "id": "DB증권-d21f13",
+      "title": "원가 부담에 뒷걸음질…한국타이어, 3Q 영업익 감소 전망",
+      "description": "남주신 DB증권 연구원은 유럽 윈터타이어 판매 호조와 북미 RE 실적 회복, 상대적으로 원가가 낮은 재고 물량의 판매가 수익성 방어에 기여할 것으로 전망했다. 유럽연합(EU)의 중국산 타이어 반덤핑 관세도 한국타이어에...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440454",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-22T07:58:00+09:00"
+    },
+    {
+      "id": "DB자산운용-03f9c2",
+      "title": "[브랜드평판] 미래에셋자산운용, 펀드 10월 1위... 삼성자산운용 펀드, ...",
+      "description": "에셋플러스자산운용 ▲DB자산운용 ▲하나대체투자자산운용 ▲IBK자산운용 ▲신영자산운용 ▲알파자산운용 ▲이지스자산운용 ▲하이자산운용 ▲NH아문디자산운용 ▲유진자산운용 ▲피델리티자산운용...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55528",
+      "source": "www.enetnews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-10-22T07:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f4310c",
+      "title": "[신한금융, 롯데손보 인수③] 금융그룹 잇단 손보업 진출…대형사 중심...",
+      "description": "현재 손해보험업계는 삼성화재·DB손해보험·현대해상·메리츠화재·KB손해보험 등 'BIG 5'가 주요 사업자로 자리 잡고 있다. 고착화된 시장에서 금융그룹들이 보험업을 새로운 성장축으로 키우면서 기존 대형 보험사와의...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417129",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-22T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-4833a1",
+      "title": "[2026 금융포럼] 이주식 DB증권 팀장 “중소형사의 STO 추진…제도개선...",
+      "description": "DB증권이 선박 탈황장치의 금융리스 채권을 활용한 토큰증권(STO) 사업을 추진하고 있다. 부산에서 진행 중인 실증사업을 시작으로 제주 지역 실물자산을 해외 투자자와 연결하는 글로벌 실물연계자산(RWA) 사업으로...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026102117281917957",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-22T07:02:00+09:00"
+    },
+    {
+      "id": "DB증권-4f2c69",
+      "title": "[리스트] 떨어지는 고배당주 줍줍할 때.. 국내 고배당주 20선",
+      "description": "■ 고배당주(금융) 20선 금융 기업으로 한정한 고배당주로는 서울보증보험, LS증권, 한양증권, 다올투자증권, 한국자산신탁, 기업은행, 삼성카드, 유안타증권, 한국캐피탈, BNK금융지주, DB증권, 한국금융지주...",
+      "url": "https://www.itooza.com/common/iview.php?no=2026102115265124531",
+      "source": "www.itooza.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-22T07:00:00+09:00"
+    },
+    {
+      "id": "DB증권-ced157",
+      "title": "[증권사 금융사고] \"심사 부결돼도 몰래 계약\"…증권사 금융사고 99%가 ...",
+      "description": "DB증권에서는 최근 10년간 업무상 배임이 3건으로 가장 많았고, 사고 금액은 35억원이었다. 금액 기준으로는 iM증권이 1건에 184억800만원으로 가장 컸으며, 사기 1건(6억7천만원)까지 포함하면 배임·사기 사고 금액이...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617998",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-22T06:56:00+09:00"
+    },
+    {
+      "id": "DB증권-52af75",
+      "title": "\"약속의 11월, 이번엔 다르다\"…증권가가 찍은 '효자 종목' [한경우의 케...",
+      "description": "DB증권도 CCL 공급 부족에 따른 가격 인상과 생산능력 확대를 근거로 두산의 목표주가를 180만원에서 200만원으로 상향한 바 있다. SK하이닉스의 12개월 선행 PER은 4.38배에서 2.77배로 36.8% 낮아졌다. EPS 컨센서스는...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005345197?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-22T06:31:00+09:00"
+    },
+    {
+      "id": "DB저축은행-1047b3",
+      "title": "알고도 또 뚫린 OK저축은행… '10년 장수 CEO' 정길호 책임론",
+      "description": "예가람저축은행에서는 주민등록번호와 계좌번호 등 약 5만건이, 웰컴저축은행에서는 법인 인터넷뱅킹 정보 2370건이, DB저축은행에서는 직원 100여명의 정보가 새어 나갔다. 저축은행이 해킹에 약한 이유는...",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/10/21/2026102103250.html",
+      "source": "realty.chosun.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-22T06:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-547edd",
+      "title": "[증권사 CEO 전광판②]이선훈 신한투자증권 대표, 실적 회복은 '합격점...",
+      "description": "지난 6월에는 DB자산운용과 500억원 규모의 신기술투자조합을 출범시켰다. 반도체 등 첨단산업 기업의 메자닌과 상장 전 지분투자에 나설 계획이다. 관련 투자를 실제 수익과 시장점유율 확대로 연결할 수 있을지도...",
+      "url": "https://www.news2day.co.kr/article/20261022500004",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-10-22T05:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dfd87b",
+      "title": "DB손보, 중소기업 사이버보험 시장 공략",
+      "description": "라이센스뉴스 = 이소라 기자 | DB손해보험이 보안 전문기업 SK쉴더스와 손잡고 중소기업 사이버보험 시장 공략에 나선다. 해킹 등 침해사고 예방부터 사후 대응과 피해 보상까지 연계해 기업의 위험관리 역량을...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210048",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-22T00:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-341d57",
+      "title": "DB손보, 이노비즈협회·SK쉴더스와 사이버위험 대응 협력",
+      "description": "DB손해보험은 지난 20일 경기 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 이노비즈협회 회원사의 사이버위험 대응 역량 강화를 위한 3자 업무협약을 체결했다고 21일 밝혔다. 이번 협약은 보안...",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53859",
+      "source": "www.koreareport.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T23:56:00+09:00"
+    },
+    {
+      "id": "DB증권-2775c7",
+      "title": "증권사 금융사고 들여다보니···DB증권, 업무상 배임 3건 '최다'",
+      "description": "국내 증권사에서 업무상 배임과 사기 등 금융사고가 이어지고 있는 가운데 DB증권의 업무상 배임 사고 발생 건수가 가장 많은 것으로 나타났다. 2017년부터 올해 8월까지 총 3건의 업무상 배임 사고가 발생해 35억원의...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260054",
+      "source": "www.womaneconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T22:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5ee5d7",
+      "title": "[포커스] 한화손보, 신계약 감소에도 CSM 최대...\"2030년 목표액 6조\"",
+      "description": "올해 2분기 기준 한화손보의 주가순자산비율(PBR)은 0.22배로 삼성화재와 DB손해보험, 현대해상 평균인 0.58배보다 낮다. 한화손보는 2030년까지 순자산 4조 원 이상, 자기자본이익률(ROE) 13% 이상을 달성하고 PBR을 1배...",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816687",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T22:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-59d671",
+      "title": "DB손해보험, 중소기업 사이버위험 대응 강화",
+      "description": "DB손해보험이 이노비즈협회, SK쉴더스와 손잡고 중소기업의 사이버위험 대응 역량 강화에 나선다. DB손해보험은 지난 20일 경기 성남시 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 이노비즈협회 회원사의 사이버위험...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93443",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T21:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cd1fdc",
+      "title": "할리데이비슨 라이더 1500명 횡성 집결… ‘코리아 내셔널 호그 랠리’...",
+      "description": "싱하소다, DB손해보험, GMC, HD현대오일뱅크, 로드스피릿 모터사이클 페스타, 소울 서스펜션, 크레이지 개러지, 엠씨배거, 압토솔 등 총 31개 파트너가 행사를 함께 치렀다. 참가자들은 각 업체의 부스를 방문하며 관련...",
+      "url": "https://n.news.naver.com/mnews/article/020/0003756657?sid=103",
+      "source": "www.donga.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T19:39:00+09:00"
+    },
+    {
+      "id": "DB하이텍-84ec38",
+      "title": "송재혁 반도체협회장 \"기술, 선제적 투자서 나온다…적기 투자 절실\"",
+      "description": "▲DB하이텍 김진양 수석 ▲램리서치코리아 최상혁 상무 ▲삼성전자 최진용 수석연구원·김동훈 수석연구원·이정훈 PL ▲SK하이닉스 박형윤 팀장·김보연 팀장·이승철 TL ▲주성엔지니어링 사승엽 CL ▲에이직랜드...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=754456",
+      "source": "www.econovill.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T19:06:00+09:00"
+    },
+    {
+      "id": "DB증권-9d3142",
+      "title": "증권사 금융사고 99.7%가 배임·사기...iM·한양증권 사고액 100억대",
+      "description": "DB증권에서는 2017년 이후 업무상 배임 사고가 3건 발생해 증권사 가운데 건수가 가장 많았다. 사고액은 총 35억원이었다. 금액 기준으로는 iM증권의 배임 사고가 1건, 184억800만원으로 가장 컸다. iM증권은 사기 사고도...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=323197",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T18:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-29d10e",
+      "title": "SK쉴더스, 중소기업 '보안+보험' 지원 나선다",
+      "description": "SK쉴더스(대표 민기식)은 중소기업기술혁신협회(이노비즈협회), DB손해보험과 중소기업 사이버보안 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 협약식은 20일 SK쉴더스 판교사옥에서 열렸다. 인공지능(AI)...",
+      "url": "https://n.news.naver.com/mnews/article/092/0002441877?sid=105",
+      "source": "zdnet.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T18:53:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7f396a",
+      "title": "충북도, 반도체 클러스터 지정 승부수",
+      "description": "DB하이텍은 전력반도체(Power IC), SK하이닉스는 AI 메모리 시스템을 다뤘다. 충북대는 RISE 사업과 연계한 반도체 인력양성 사례를 공유했다. 산업 정책부터 파운드리, 전력반도체, AI 메모리, 인력양성까지 충북 반도체 산업...",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106227",
+      "source": "www.ccdn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T18:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d9c8d6",
+      "title": "DB손보, '사이버 위험' 대응 강화 MOU 체결",
+      "description": "DB손해보험이 이노비즈협회, SK쉴더스와 함께 이노비즈협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 업무협약(MOU)을 체결했다. DB손해보험은 21일 이노비즈협회, SK쉴더스와 3자 업무협약을 체결했다고...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483046",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T18:29:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e345c6",
+      "title": "국산 車반도체 '원팀' 결성... 2029년 양산차에 첫 투입",
+      "description": "현대모비스를 비롯해 현대차와 LG전자가 수요기업으로 참여하고, HL만도, SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 참여한다. 김정관 산업통상부 장관은 \"정부와 많은 기업인이 하나로 결집하는 상시적...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592636?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T18:13:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c25919",
+      "title": "정부·현대차그룹 손잡고 '車반도체 국산화' 추진",
+      "description": "현대차와 현대모비스, DB하이텍, HL만도, SK키파운드리, LX세미콘, 텔레칩스 등이 이름을 올렸다. TF는 기업 간 협력을 통해 차량용 반도체 생태계의 경쟁력을 높이는 역할을 한다. 완성차 및 부품 업체는 안정적인 수요를...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005345095?sid=103",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T18:10:00+09:00"
+    },
+    {
+      "id": "DB증권-85a209",
+      "title": "[금융그룹 3Q 프리뷰] ④우리금융, 이익 창출력 개선…성장투자 기대",
+      "description": "나민욱 DB증권 연구원은 \"CET1자본비율은 직전 분기에 이어 13% 후반대를 유지할 전망\"이라며 \"환율 하락 영향(+18bp)과 운영리스크 기간 단축(+10)에 따른 자본비율 상승 효과가 주요했다\"고 설명했다. 우리금융그룹은...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666707",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T18:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7e854e",
+      "title": "[보험 뉴스브리핑] 신한라이프 AI 기반 민원 예방 시스템 도입",
+      "description": "□ DB손보-이노비즈협회-SK쉴더스 사이버위험 대응 협력 DB손해보험은 이노비즈협회, SK쉴더스와 중소기업의 사이버위험 대응 역량 강화를 위한 3자 업무협약을 체결했다. 이번 협약은 보안 전문인력과 투자 여력이 부족한...",
+      "url": "https://www.asiatime.co.kr/article/20261021500350",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T18:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-065b6c",
+      "title": "탐지에서 피해 보상까지...SK쉴더스, 중소기업 보안에 보험 연계",
+      "description": "보안 전문가가 24시간 위협을 감시하고 침해사고에 대응하면서, 사고 이후 재정적 손실에는 사이버보험으로 대비하는 방식이다.SK쉴더스는 이노비즈협회, DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자...",
+      "url": "https://www.insight.co.kr/news/578665",
+      "source": "www.insight.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T18:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-30d844",
+      "title": "M.AX 원팀으로 車반도체 생태계 성장 가속화",
+      "description": "파운드리는 SK키파운드리와 DB하이텍, 패키징은 하나마이크론이 맡고, 한국자율주행산업협회, 한국자동차모빌리티산업협회, 한국팹리스산업협회, 한국반도체산업협회 등이 지원기관으로 함께한다.",
+      "url": "https://www.hellot.net/news/article.html?no=115691",
+      "source": "www.hellot.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T18:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-bfd579",
+      "title": "29년 'K-車 반도체' 상용화…현대모비스 중심 동맹 강화",
+      "description": "현대모비스를 비롯해 현대차, LG전자가 수요기업으로 참여하고 HL만도, SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 참여한다. 김정관 산업통상부 장관은 “이번 포럼이 자동차 반도체 부문에서 상생 협력...",
+      "url": "https://news.dealsitetv.com/articles/177298",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T18:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9fa4c2",
+      "title": "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍ신한라이프ㆍDB손해보험 (10.21)",
+      "description": "■ DB손해보험, SK쉴더스·이노비즈협회와 중소기업 사이버위험 대응 - 보안 컨설팅·관제·사이버보험 연계···침해사고 예방부터 보상까지 - 이노비즈협회 회원사 대상···사고 대응·피해 복구 지원체계 구축 지난 20일...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=799063",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T18:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f471a3",
+      "title": "DB손해보험, 랜섬웨어·정보유출 대응 강화…이노비즈·SK쉴더스와 협력",
+      "description": "지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장(오른쪽부터)이 업무협약을 진행하고 기념 촬영을 하고 있다....",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=101201",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:56:00+09:00"
+    },
+    {
+      "id": "DB증권-7a97a4",
+      "title": "DB증권, 2029년 PBR 1배 목표…ROE 12%까지 높인다",
+      "description": "2027년 PBR 0.7배·ROE 10.3% 제시…PF 위험 축소·수익기반 확대 추진 지난해 배당금 38.4% 증가…주주환원·IR 강화로 저평가 개선 ▲ DB증권 [토요경제] DB증권(대표 곽봉석)이 2029년까지 주가순자산비율(PBR) 1배 달성을...",
+      "url": "https://sateconomy.co.kr/news/view/1065602430249995",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T17:56:00+09:00"
+    },
+    {
+      "id": "DB증권-6d2035",
+      "title": "[2026 금융포럼] 스테이블코인·STO가 바꿀 금융…“발행 넘어 결제·유...",
+      "description": "이 자리에는 정유신 넥스체인지 대표 겸 AI디지털경제금융포럼 의장, 신상희 하나금융연구소 연구위원, 이주식 DB증권 디지털자산팀장, 김태연 법무법인 율촌 변호사가 발표자로 참여했다. 이날 개회사를 통해 행사의 문을...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026102116361896481",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T17:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c3ecef",
+      "title": "미·중 앞선 자율주행 ‘추월 카드’…팹리스·파운드리 성장도 견인",
+      "description": "DB하이텍(000990)의 자동차·산업용 등 고부가 제품 비중은 지난해 1분기 22%에서 올해 1분기 30%로 높아졌다. SK키파운드리는 올 3월 탄화규소(SiC) 전력반도체 공정을 개발했다. 첫 수주 제품은 산업용이지만 차량용으로도...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673707?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T17:49:00+09:00"
+    },
+    {
+      "id": "DB증권-9d5e56",
+      "title": "4대 금융 3분기도 단단한 실적 확실, 주주환원 확대로 저평가 탈출 기대...",
+      "description": "나민욱 DB증권 연구원은 14일 보고서에서 원/달러 환율 하락 효과만으로 은행별 자본비율이 0.18~0.46%포인트 상승할 것으로 추정했다. 이를 바탕으로 신한금융과 하나금융이 4분기에 각각 2500억 원 규모의 자사주 매입...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449930",
+      "source": "www.businesspost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T17:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-72e7e8",
+      "title": "김정관 장관 “정부가 지원하면 꽃피울 산업”…車반도체 국산화율 2030...",
+      "description": "정부의 제조업 AI 전환 협력체계인 ‘M.AX 얼라이언스’ 산하에 구성된 원팀 TF에는 현대차, 현대모비스, LG전자를 비롯해 LX세미콘, 텔레칩스, SK키파운드리, DB하이텍 등 17개 기업과 5개 협단체, 2개 연구기관 등 총 24개...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712558?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T17:29:00+09:00"
+    },
+    {
+      "id": "DB손해보험-760c54",
+      "title": "[메가이슈분석] 실손보험 갈아타기 고민…11월 할인 앞두고 셈법 복잡",
+      "description": "21일 금융위원회와 보험업계 등에 따르면 삼성화재·현대해상·DB손해보험 등 주요 손해보험사 9곳의 5세대 실손보험 누적 유입 계약은 지난 9월 말 기준 36만 7071건으로 집계됐다. 신규 가입과 기존 계약의 재가입·전환을...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600208202854",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c49213",
+      "title": "[보험사 풍향계] 신한라이프, AI 활용해 소비자보호 강화 外",
+      "description": "◇ DB손해보험, 중소기업 사이버위험 대응 역량 높인다 DB손해보험이 이노비즈협회·SK쉴더스와 손잡고 중소기업의 사이버위험 대응 역량 향상을 추진한다. 사회안전망 역할을 수행하는 보험사로서 중소기업에게 안정적인...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261021025029378",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:24:00+09:00"
+    },
+    {
+      "id": "DB증권-242734",
+      "title": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 21일)",
+      "description": "DB증권은 2027년 주식시장 전망에서 AI 설비투자가 비용과 자금조달 부담에 직면하면서 내년 상반기 코스닥 중소형주를 중심으로 종목 장세가 형성될 가능성이 있다고 분석했다. 대형 기술주에 집중됐던 투자자금이...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344999?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T17:18:00+09:00"
+    },
+    {
+      "id": "DB하이텍-174d1f",
+      "title": "현대모비스, 차 반도체 동맹 확대…2029년 현대차·기아 첫 탑재",
+      "description": "현대모비스를 비롯해 현대차, LG전자가 수요기업으로 참여하고 HL만도, SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 참여합니다. TF를 통해 팹리스는 수요기업이 제시한 사양에 맞춰 개발해 안정적인...",
+      "url": "https://n.news.naver.com/mnews/article/056/0012278054?sid=101",
+      "source": "news.kbs.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T17:18:00+09:00"
+    },
+    {
+      "id": "DB증권-6befa1",
+      "title": "중동발 공급난에 윤활기유 수출 호조…정유업계, 고수익 장기화 기대감...",
+      "description": "DB증권에 따르면, 윤활기유 수출가격에서 두바이유 가격을 뺀 스프레드는 2분기 139달러에서 3분기 229달러로 상승했다. 이에 따라 그룹Ⅲ 윤활기유 시장에서 높은 점유율을 확보하고 있는 국내 정유사들도 수익성...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026102116360200705",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T17:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ea3d3d",
+      "title": "사이버보험시장 기지개…손보사 신수익원 '군침'",
+      "description": "시장 비중 0.06%에도 보험료 수입 증가…제도 개선은 과제 손해보험협회 통계에 따르면 삼성화재와 DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5대 손보사의 사이버보험 원수보험료는 2024년 424억 원에서 지난해 525억...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205357",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-374631",
+      "title": "투자 부진에도 실적 방어 나선 손보 4사…“금리 상승은 부담”",
+      "description": "삼성화재·DB손해보험·현대해상·한화손해보험 등 주요 상장 손해보험사 4곳이 올해 3분기 투자 부문의 부진에도 보험영업 개선을 바탕으로 실적을 방어할 것으로 전망된다. 보험금 지급 부담 완화와 자동차보험 손익...",
+      "url": "https://n.news.naver.com/mnews/article/243/0000104524?sid=101",
+      "source": "economist.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e40705",
+      "title": "SK쉴더스, 이노비즈협회·DB손보와 중소기업 핵심 기술 보호 나서",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 중소기업의 핵심 기술 보호와 경영 리스크 최소화를 위한 방어망 구축 업무협약(MOU)을 체결했다고 21일 밝혔다. 전날 최재호 SK쉴더스 사이버기술센터장(왼쪽부터), 김홍석...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7190097",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a8fd80",
+      "title": "DB손해보험, 보안·보험 결합해 중소기업 사이버위험 관리 공략",
+      "description": "DB손해보험이 보안기업 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버위험 관리 지원에 나선다. 해킹과 랜섬웨어 등 사이버 침해사고가 기업 경영의 불확실성을 키우는 가운데, 보안 서비스와 보험을 연계해 사고...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=103606",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T17:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2135fa",
+      "title": "반도체 전문가 포럼…충북 반도체 산학연 전문가 '한자리에'",
+      "description": "최용권 DB하이텍 상무는 'Power IC 기술 동향 및 DB하이텍 기술 소개'를, 김동균 SK하이닉스 전문교수는 'AI의 심장 메모리 시스템의 이해'를, 유범선 충북대 RISE사업단 교수는 '네패스 트랙 등 산학협력 인재양성 운영 사례...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229150",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T17:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-48ec82",
+      "title": "DB손보, 듀레이션 갭 14분기 연속 1년 이하…변동성 관리 방점",
+      "description": "DB손해보험의 자산·부채 듀레이션 갭이 14분기 연속 1년 미만을 유지했다. 자산과 부채의 금리 민감도 차이를 좁게 관리하며 금리 변동에 따른 자본 부담을 줄이는 모습이다. 회사는 자산·부채 포트폴리오 조정으로...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091924?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-29c528",
+      "title": "[더밸류 브리핑] 오늘의 손해보험 소식…삼성화재·DB손해보험·한화손...",
+      "description": "DB손해보험은 중소기업의 사이버 침해사고 예방부터 손실 보상까지 지원하는 협력체계를 추진한다. 또 한화손해보험은 여성 3000명의 삶과 웰니스를 분석한 보고서를 발간했다. ◆ 삼성화재, SK렌터카와 미래 모빌리티...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202555",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:54:00+09:00"
+    },
+    {
+      "id": "DB하이텍-64a547",
+      "title": "현대차 주문·中企 설계…車반도체 국산화 ‘원팀’ 출범",
+      "description": "반도체 설계자산(IP) 기업인 오픈엣지테크놀로지와 파운드리 기업 SK키파운드리·DB하이텍, 패키징 기업 하나마이크론도 힘을 보탠다. 팹리스는 완성차·부품업체가 요구하는 성능과 규격에 맞춰 반도체를 개발해...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003691183?sid=101",
+      "source": "www.seoul.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4cc940",
+      "title": "車반도체 생태계 키울 ‘M.AX 원팀’ 출범…24개 기업·기관 참여",
+      "description": "파운드리 분야에는 SK키파운드리와 DB하이텍이, IP 분야에 오픈엣지테크놀로지, 패키징 분야에 하나마이크론이 참여한다. 관련 협회와 연구기관도 지원에 나선다. 지원기관은 대기업과 중소·스타트업의 역량을...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054443?sid=105",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:45:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7b67fc",
+      "title": "[분쟁추적] 3자배정유증 탓에 소송전에 휘말린 '강성부펀드'와 한양증권...",
+      "description": "과거 '강성부펀드'는 한진칼, 오스템임플란트, DB하이텍 등을 상대로 공격적인 주주 활동을 벌이며 이름을 알렸다. 그러나 대주주와 갈등을 유발하는 전략 탓에 주요 기관투자가(LP)들로부터 자금을 출자받는...",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7500",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3cdc6f",
+      "title": "하락장 속 퇴직연금 1위 탈환 삼성생명",
+      "description": "적립금 1조원 이상 33곳으로 좁히면 삼성생명과 흥국생명 그리고 DB손해보험 세 곳이다. 삼성생명의 3분기 말 적립금은 57조5486억원으로 전 분기 말(57조3963억원)보다 1523억원(0.3%) 늘었다. 2분기 말 1위였던...",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=107320",
+      "source": "www.00news.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4cd3c9",
+      "title": "이규석 현대모비스 사장 \"자체 개발 반도체, 3년 뒤 양산차 적용\"",
+      "description": "또 HL만도와 SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 함께 한다. 김정관 산업부 장관은 \"차량용 반도체 기업들이 미래 차 중심의 자동차 산업 역사를 이끌어갈 주역 중 하나가 될 것\"이라고 말했다.",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=724808",
+      "source": "www.cstimes.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e6f2bd",
+      "title": "24개 산·학·연 결집 '차량용 반도체 원팀 TF' 출범… 전력반도체 국산...",
+      "description": "팹리스 부문에서는 LX세미콘, 텔레칩스, 보스반도체, 넥스트칩, 어보브반도체, 라닉스, KEC, 픽셀플러스 등 8개사가 합류했고, 파운드리는 SK키파운드리와 DB하이텍, 패키징은 하나마이크론이 맡는다. 지원기관으로는...",
+      "url": "https://www.mtnews.net/news/articleView.html?idxno=26294",
+      "source": "www.mtnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9ca307",
+      "title": "현대차·LG전자 등 손잡았다… K-차량용 반도체 ‘원팀’ 출범",
+      "description": "수요기업으로는 현대자동차·현대모비스·LG전자와 HL클레무브·HL만도가, 팹리스로는 LX세미콘·텔레칩스·넥스트칩 등 8개사가, 파운드리로는 SK키파운드리와 DB하이텍이 이름을 올렸다. TF가 가동되면 팹리스는...",
+      "url": "https://www.viva100.com/article/20261021501114",
+      "source": "www.viva100.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b6a746",
+      "title": "[업앤다운]보험주 약세…에이플러스에셋↑·한화생명↓",
+      "description": "한화손해보험은 1.71%(110원) 하락한 6310원, DB손해보험은 1.49%(2800원) 내린 18만5600원에 거래를 마쳤다. 인카금융서비스는 1.31%(130원) 하락한 9760원, 코리안리는 1.11%(160원) 내린 1만4220원에 마감했다. 현대해상은 0....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=832616",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:36:00+09:00"
+    },
+    {
+      "id": "DB증권-d00baa",
+      "title": "[업앤다운]증권주 29종목 전부 하락…미래에셋증권 5.69%↓ 최대 낙폭",
+      "description": "1%대 상승한 종목은 ▲유안타증권 1.68%(65원)·3940원 ▲유진투자증권 1.54%(55원)·3630원 ▲키움증권 1.36%(3000원)·22만3000원 ▲삼성증권 1.28%(1000원)·7만9300원 ▲DB증권 1.15%(110원)·9650원 ▲유화증권 1.05...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=832603",
+      "source": "www.nspna.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T16:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5b886c",
+      "title": "[코스피 지수선물 옵션] 반도체·전력기기 훨훨…현대차·삼성SDI는 휘청",
+      "description": "보험주에서는 삼성화재와 삼성생명이 오른 반면 DB손해보험은 내렸다. 자동차와 부품주에서는 현대차와 기아, 현대모비스, 현대오토에버가 하락했다. 반면 자동차 산업과 연관된 일부 종목은 다른 흐름을 보였다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497356",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3ed7f4",
+      "title": "DB손보·SK쉴더스·이노비즈협회, 중기 해킹 피해 대응 협력",
+      "description": "DB손해보험이 이노비즈협회, SK쉴더스와 중소기업의 사이버 침해사고 예방과 피해 복구를 지원한다. DB손해보험은 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 두 기관과 이노비즈협회 회원사의 사이버위험 대응을...",
+      "url": "https://www.g-enews.com/view.php?ud=202610211555211483e30fcb1ba8_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-55ac42",
+      "title": "\"자동차 반도체 M.AX 원팀으로\"…24개 기업·기관 결집해 생태계 육성",
+      "description": "파운드리는 SK키파운드리와 DB하이텍, 패키징은 하나마이크론이 맡으며, 한국자동차연구원과 한국전자기술연구원 등 7개 지원기관이 협력 기반을 뒷받침하는 지원기관으로 참여한다. 이를 통해 팹리스는 수요기업이...",
+      "url": "https://www.mediapen.com/news/view/1131565",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-417340",
+      "title": "산업부, 현대차·LG전자·DB하이텍 등 24개사 '車반도체 원팀' 출범",
+      "description": "정부가 현대자동차와 LG전자, DB하이텍 등 국내 주요 기업을 중심으로 차량용 반도체 생태계 구축에 나선다. 반도체 설계부터 생산, 패키징, 완성차 적용까지 산업 전반의 역량을 결집해 기술 국산화와 공급망 경쟁력을...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728668",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:24:00+09:00"
+    },
+    {
+      "id": "DB하이텍-686813",
+      "title": "車반도체 24곳 '원팀' 뭉쳤다…산업부, 전력반도체 국산화 MOU",
+      "description": "AX 얼라이언스' 분과 아래 꾸려진 TF에는 현대자동차·현대모비스·LG전자 등 수요기업과 HL클레무브·HL만도, IP 기업 오픈엣지테크놀로지, LX세미콘·텔레칩스·보스반도체·넥스트칩 등 팹리스, SK키파운드리·DB하이텍 등...",
+      "url": "https://www.betanews.net/article/view/beta202610210160",
+      "source": "www.betanews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:22:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4bfbe2",
+      "title": "DB하이텍 주가, 10월 21일 애프터마켓 103,900원 3.28% 상승",
+      "description": "21일 애프터마켓 오후 4시 5분 기준, 네이버페이 증권에 따르면 DB하이텍의 주가는 현재 103,900원을 기록하며 지난 종가 100,600원 대비 3,300원 상승, 3.28%의 등락률을 보이고 있다. 주가는 시가 103,400원으로...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253786",
+      "source": "www.topstarnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e4222a",
+      "title": "DB손보, 중소기업 사이버사고 예방·피해 보상 지원",
+      "description": "보안 전문인력과 투자 여력이 부족한 중소기업의 사이버위험 관리 부담을 덜기 위해 DB손해보험이 지원에 나선다. DB손해보험은 지난 20일, 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 함께...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367807",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-13cbc6",
+      "title": "[금융 브리핑] 삼성화재·교보생명·DB손해보험",
+      "description": "[사진 = DB손해보험 제공] ◇ DB손해보험, 이노비즈협회-SK쉴더스와 중소기업 사이버위험 대응 강화 DB손해보험은 지난 20일, 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 함께 이노비즈협회 회원사의...",
+      "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91440",
+      "source": "www.niceeconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5e6081",
+      "title": "차량용 반도체 '설계부터 실차검증까지' 원팀으로…국산화 속도",
+      "description": "TF에는 현대자동차·현대모비스·LG전자 등 수요기업을 비롯해 오픈엣지테크놀로지, LX세미콘, 텔레칩스, 보스반도체, 넥스트칩 등 IP·팹리스 기업과 SK키파운드리·DB하이텍 등 파운드리, 하나마이크론 등 패키징 기업, 관련...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004201231?sid=103",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:13:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2e29e8",
+      "title": "현대차·LG전자·SK키파운드리 '원팀'…車반도체 국산화 속도",
+      "description": "파운드리 분야에서는 SK키파운드리와 DB하이텍이 합류했다. 반도체 설계자산(IP) 기업 오픈엣지테크놀로지와 반도체 패키징 업체 하나마이크론도 함께한다. 정부는 이번 TF를 통해 국내 차량용 반도체 기업들의 협력을...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001068053?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-29832d",
+      "title": "DB손해보험, 이노비즈협회·SK쉴더스와 중기 사이버보안 강화",
+      "description": "DB손해보험은 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 함께 이노비즈협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 지난 20일 성남시...",
+      "url": "https://www.mediapen.com/news/view/1131567",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1e748c",
+      "title": "KB손보, 기저효과·실손 개선에 3분기 순이익 반등 이어갈까",
+      "description": "iM증권은 지난 16일 보고서에서 삼성화재·DB손해보험·현대해상·한화손해보험 4개사의 보험금 예실차 손실이 지난해 3분기 3341억원에서 올해 3분기 775억원으로 줄어들 것으로 추정했다. 예실차 손실은 실제...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715284",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-28037d",
+      "title": "SK쉴더스, 보안 서비스에 보험 결합…중소기업 사이버위협 대응 지원",
+      "description": "SK쉴더스-이노비즈협회-DB손해보험 3자 업무협약식./사진=SK쉴더스 SK쉴더스가 보안 서비스와 사이버보험을 연계해 중소기업의 사이버위협 대응 역량을 높인다. SK쉴더스(대표 민기식)는 이노비즈협회...",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45696",
+      "source": "www.financialreview.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a4c157",
+      "title": "'저PBR 낙인' 피할 방법은…한화손보 밸류업 내놨지만 한화생명 고심",
+      "description": "한화손보의 올해 2분기 기준 PBR은 0.22배로, 비교 대상으로 제시한 삼성화재·DB손해보험·현대해상 평균인 0.58배를 밑돌았다. 반면 상반기 ROE는 14.4%로 비교기업 평균인 14.5%와 비슷했다. 회사는 미래 성장에 대한...",
+      "url": "https://www.newspim.com/news/view/20261021001046",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T16:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8b4fa0",
+      "title": "현대모비스, 車반도체 국산화 속도..2029년 현대차 신차에 첫 적용",
+      "description": "현대모비스를 비롯해 현대차와 LG전자가 수요기업으로 참여하고, HL만도, SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 참여한다. TF를 통해 팹리스는 수요기업이 제시한 사양에 맞춰 반도체를 개발해...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592545?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T16:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-64a714",
+      "title": "[거래소 외국인] 삼성전자 SK하이닉스 현대차 다시 '왕성한 식욕'",
+      "description": "이마트, DB하이텍, OCI홀딩스, 한화생명, 포스코퓨처엠, KT 등이 포함됐다. 전기·전자 업종에서는 삼성SDI와 삼성전기, 대덕전자, 삼성전자우, 한미반도체 등이 순매도 상위권에 올랐다. 삼성전자 보통주에는 매수세가...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497333",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-392043",
+      "title": "SK쉴더스-DB손보, 중소기업 사이버보안 지원 맞손",
+      "description": "SK쉴더스가 이노비즈협회, DB손해보험과 손잡고 중소기업의 사이버보안 역량 강화에 나선다. 보안 서비스와 사이버보험을 연계해 공격 예방부터 사고 대응과 복구까지 지원하는 체계를 구축한다는 계획이다. SK쉴더스는...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=323105",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:42:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9840d7",
+      "title": "“설계부터 실증까지 생태계 결집”…‘차량용 반도체 원팀 TF’ 출범",
+      "description": "이날 행사에는 현대자동차ㆍ현대모비스ㆍLG전자 등 수요기업과 SK키파운드리ㆍDB하이텍 등 파운드리, LX세미콘ㆍ텔레칩스 등 중소 팹리스, 한국자동차연구원 등 지원기관 총 24개 기업 및 기관이 뜻을 모았다. 이번 원팀...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211048552160467",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3bec20",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 보안 강화 협약",
+      "description": "SK쉴더스가 이노비즈협회(중소기업기술혁신협회), DB손해보험과 손잡고 중소기업의 사이버보안 지원에 나선다. SK쉴더스는 두 곳과 중소기업 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 맺었다고 21일 밝혔다....",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=146318",
+      "source": "www.tournews21.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bcf495",
+      "title": "[금융家 브리핑] 금융권, 고객 맞춤형 서비스 강화···디지털 혁신도...",
+      "description": "DB손해보험, SK쉴더스와 업무협약 체결 DB손해보험이 이노비즈협회, SK쉴더스와 이노비즈협회 회원사의 사이버위험 대응 역량 강화를 위한 3자 업무협약을 체결했다. 이번 협약으로 3개 기관은 보안서비스와 보험을...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=157110",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-13b462",
+      "title": "DB손보, 중소기업 사이버위험 관리 나선다…보안·보험 결합",
+      "description": "지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장(오른쪽부터)이 업무협약을 진행하고 기념 촬영을 하고 있다....",
+      "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942039",
+      "source": "sports.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8d6af9",
+      "title": "DB손보·SK쉴더스·이노비즈협회, 中企 사이버 방패 구축",
+      "description": "최재호 SK쉴더스 사이버기술센터장 김홍석 이노비즈협회 상근부회장 직무대행 차주용 DB손해보험 법인마케팅본부장이 20일 SK쉴더스 판교사옥에서 협약을 체결한 뒤 기념 촬영을 하고 있다. <사진제공=DB손해보험...",
+      "url": "http://www.00news.co.kr/news/articleView.html?idxno=107317",
+      "source": "www.00news.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a986b",
+      "title": "해킹 막고 피해 보상까지...이노비즈협회, 중소기업 사이버 보안망 구축",
+      "description": "21일 관련 업계에 따르면 이노비즈협회는 지난 20일 SK쉴더스, DB손해보험과 '이노비즈기업 및 회원사의 사이버위험 대응체계 구축을 위한 업무협약'을 체결했다. 이번 협약은 자체 보안 인력과 조직을 갖추기 어려운...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592500?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5d7d82",
+      "title": "DB손보, 이노비즈협회·SK쉴더스 맞손…중기 사이버위험 대응",
+      "description": "DB손해보험은 경기 성남시 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 '중소기업의 사이버위험 대응 역량 강화를 위한 업무협약'을 맺었다고 21일 밝혔다. 협약은 해킹과 랜섬웨어, 개인정보 유출 등 사이버...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=281745",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-171f0c",
+      "title": "[단독] 삼성화재, 車 서비스 법인차로 확대 검토…400만대 시장 정조준",
+      "description": "실제 국내 5대 손해보험사(삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험)의 누적 자동차보험 손해율은 80%를 웃돌고 있다. 금융당국의 보험료 인상 억제 기조 속에 보험사들의 손익 부담도 커지고 있다....",
+      "url": "https://www.ajunews.com/view/20261021142926286",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6321e9",
+      "title": "중소기업 해킹 피해 줄인다…DB손보, 사이버보안·보험 연계 추진",
+      "description": "지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장(오른쪽부터)이 업무협약을 진행하고 기념 촬영을 하고 있다....",
+      "url": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80543",
+      "source": "www.mkhealth.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b47482",
+      "title": "車반도체 생태계 키운다…24개 기업·기관 'M.AX 원팀' 출범",
+      "description": "SK키파운드리와 DB하이텍은 파운드리 분야에, 오픈엣지테크놀로지는 IP 분야에, 하나마이크론은 패키징 분야에 참여한다. 관련 협회와 연구기관도 지원에 나선다. 지원기관은 대기업과 중소·스타트업의 역량을 연결하는...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003145247?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:11:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3eebc5",
+      "title": "현대차·SK키파운드리 등 24개 기업·기관 뭉쳤다…차량용 반도체 '원팀...",
+      "description": "현대자동차와 현대모비스, LG전자 등 수요기업을 비롯해 LX세미콘, 텔레칩스 등 팹리스 기업, SK키파운드리와 DB하이텍 등 파운드리 기업, 하나마이크론 등 패키징 기업이 참여한다. TF를 통해 팹리스 기업은 완성차...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005592484?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:11:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6d3151",
+      "title": "차량용 반도체 개발원팀 TF출범…수요·팹리스 등 합심",
+      "description": "SK키파운드리, DB하이텍 △패키징 부문 하나마이크론 △지원기관 한국자율주행산업협회, 한국자동차모빌리티산업협회, 한국팹리스산업협회, 한국반도체산업협회, 한국반도체연구조합, 한국자동차연구원...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000544162?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-01105b",
+      "title": "현대모비스, 차 반도체 동맹 확대…2029년 현대차·기아 첫 탑재",
+      "description": "현대모비스를 비롯해 현대차, LG전자가 수요기업으로 참여하고 HL만도, SK키파운드리, DB하이텍, LX세미콘 등 총 24개 기업·기관이 참여한다. TF를 통해 팹리스는 수요기업이 제시한 사양에 맞춰 개발해 안정적인 수요처를...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016391866?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-93f566",
+      "title": "현대차·SK키파운드리 등 24개사, 차량용 반도체 국산화 속도낸다",
+      "description": "반도체 생산을 담당하는 SK키파운드리와 DB하이텍, 패키징 기업인 하나마이크론도 함께한다. 한국자동차연구원과 한국전자기술연구원 등 지원기관까지 총 24개 기업·기관이 참여하는 구조다. TF는 차량용 반도체의...",
+      "url": "https://www.ajunews.com/view/20261021150352402",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-14bd73",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 보안 지원",
+      "description": "SK쉴더스(대표 민기식)는 이노비즈협회와 DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약을 체결했다고 21일 밝혔다. 3사는 중소기업을 대상으로 사이버 위협 예방부터 탐지·대응, 복구...",
+      "url": "https://byline.network/?p=9004111222624114",
+      "source": "byline.network",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b4174c",
+      "title": "SK쉴더스, 중소기업 7800곳에 보안·보험 통합 지원",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 중소기업 사이버보안 역량 강화를 위한 3자 업무협약을 체결했다고 21일 밝혔다. 지난 20일 SK쉴더스 판교사옥에서 체결된 이번 협약은 사이버 위협 예방부터 탐지·대응·복구...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=264215",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T15:02:00+09:00"
+    },
+    {
+      "id": "DB증권-8acc29",
+      "title": "기업가치 제고 기대에도 엇갈린 주가…밸류업주 어디로?",
+      "description": "HL홀딩스, 유안타증권, DB증권, 키움증권이 상승권에 이름을 올렸으며 메리츠금융지주도 오름세를 보이고 있다. 주주환원 확대에 대한 기대가 금융주 투자심리에 영향을 줄 수 있지만, 기업별 배당 정책과 수익성에...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497301",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T15:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8acc29",
+      "title": "기업가치 제고 기대에도 엇갈린 주가…밸류업주 어디로?",
+      "description": "대한항공과 미래에셋증권, DB하이텍, 롯데이노베이트 역시 상승 흐름을 나타내고 있다. 지주사와 금융투자 관련 종목들도 강세다. HL홀딩스, 유안타증권, DB증권, 키움증권이 상승권에 이름을 올렸으며...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497301",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T15:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-83f059",
+      "title": "[보험브리핑]삼성화재·KB라이프·삼성생명·DB손보",
+      "description": "지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 차주용 DB손해보험 본부장(오른쪽 첫번째)과 김홍석 이노비즈협회 상근부회장 직무대행(가운데), 최재호 SK쉴더스 사이버기술센터장이 업무협약을 진행하고 기념 촬영을...",
+      "url": "http://www.metroseoul.co.kr/article/20261021500310",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6c0072",
+      "title": "DB손보·SK쉴더스 맞손… 중소기업 사이버위험 대응 강화",
+      "description": "DB손해보험(대표 정종표)은 지난 20일, 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회(회장 정광천), SK쉴더스(대표 민기식)와 함께 이노비즈협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 업무협약(MOU)을...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44661",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f05163",
+      "title": "[재계는 지금] LG전자, 상업용 시스템 에어컨 ‘멀티 브이 7’ 공개 外",
+      "description": "◆SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 보안 강화 위해 맞손 SK쉴더스는 이노비즈협회(중소기업기술혁신협회), DB손해보험과 함께 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을...",
+      "url": "https://dealsite.co.kr/articles/171076",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-512bd5",
+      "title": "잇단 흉기 범죄에 보험 보장 주목…\"치료비 되지만 생계비 한계\"",
+      "description": "DB손해보험도 현재 주택화재보험에서 관련 특약을 운영하고 있다. 일상생활 중 약관에서 정한 강력범죄로 사망하거나 신체 피해를 입으면 100만원을 지급한다. 다만 상해·폭행·폭력 범죄 등으로 신체 피해가 발생한...",
+      "url": "https://www.viva100.com/article/20261021500768",
+      "source": "www.viva100.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:52:00+09:00"
+    },
+    {
+      "id": "DB증권-96980f",
+      "title": "한화투자증권, 리서치센터장 공백⋯'AI 시대' 조직 효율화 시험대",
+      "description": "iM증권·IBK투자증권·현대차증권(각 25명), DB증권(19명), 교보증권(14명) 등 비교 대상 중형사보다 많다. 교보증권과 비교하면 3배가 넘는 규모다. 인력 규모가 리포트 발행량으로 그대로 이어지지는 않았다. 에프앤가이드에...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001067979?sid=101",
+      "source": "www.inews24.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T14:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d8bae8",
+      "title": "코리아 밸류업 지수 관련주 혼조…명신산업·코미코 주가는 급등",
+      "description": "KB금융은 보합권에 머물렀고 하나금융지주와 신한지주, 우리금융지주, JB금융지주, DB손해보험, 삼성화재는 약세를 보였다. 같은 금융업종 안에서도 종목별로 주가 흐름이 엇갈렸다. 자동차·운송 분야에서는 대한항공과...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497287",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d8bae8",
+      "title": "코리아 밸류업 지수 관련주 혼조…명신산업·코미코 주가는 급등",
+      "description": "동진쎄미켐과 DB하이텍, 주성엔지니어링, 피에스케이, 피에스케이홀딩스, 티씨케이, 솔브레인, 한솔케미칼, 한미반도체, HPSP, 리노공업, 넥스틴도 관련 종목으로 이름을 올렸다. 반도체 업황 회복 기대가 이어지고...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497287",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T14:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c60757",
+      "title": "DB손해보험, SK쉴더스·이노비즈협회와 중소기업 사이버위험 대응 협력",
+      "description": "DB손해보험이 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버 침해사고 예방과 피해 복구 지원에 나선다. DB손해보험은 지난 20일 경기 성남시 SK쉴더스 판교사옥에서 SK쉴더스, 이노비즈협회와 중소기업 사이버위험...",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=189659",
+      "source": "www.kdfnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-74622b",
+      "title": "DB생명, 순익 개선에도 본업은 과제…박제광號 시험대",
+      "description": "박제광 신임 사장은 1963년생으로 서울대학교 경영학과를 졸업하고 1991년 DB손해보험에 입사했다. 이후 법인·신사업·경영기획부문에서 약 35년간 근무하며 그룹 내 대표적인 경영기획·전략 전문가로 평가받아...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874713",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:26:00+09:00"
+    },
+    {
+      "id": "DB생명-74622b",
+      "title": "DB생명, 순익 개선에도 본업은 과제…박제광號 시험대",
+      "description": "DB생명의 보험종목별 수입보험료 내역을 살펴보면 생존보험, 사망보험, 생사혼합보험, 단체보험, 특별계정 중 사망을 보장하는 사망보험이 전체 87.5%로 가장 큰 비중을 차지했다. 보험종목별 보험금지급 또한...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874713",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-10-21T14:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ec2005",
+      "title": "SK쉴더스, 중소기업 보안 사각지대 공략…보험·관제 묶어 지원",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 함께 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 협약식은 지난 20일 SK쉴더스 판교사옥에서 주요 관계자들이 참석한 가운데...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003145211?sid=105",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-91cda0",
+      "title": "DB손보, 이노비즈협회·SK쉴더스와 협약…中企 사이버위험 대응 강화",
+      "description": "사고 예방부터 피해 복구까지 지원 아주경제=김윤섭 기자 angks678@ajunews.com 차주용 DB손해보험 차본부장(왼쪽부터), 김홍석 이노비즈협회 상근부회장 직무대행, 최재호 SK쉴더스 사이버기술센터장이 지난 20일 성남시...",
+      "url": "https://www.ajunews.com/view/20261021141106189",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-382d0a",
+      "title": "\"중소기업 사이버위험 대응 강화\" DB손보·이노비즈협회·SK쉴더스 업무...",
+      "description": "DB손해보험은 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회와 SK쉴더스와 함께 중소기업의 사이버위험 대응 역량 강화를 위한 3자 업무협약을 체결했다고 21일 밝혔다. 이번 협약은 보안 컨설팅과 관제...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267287",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-354a53",
+      "title": "DB손보, SK쉴더스와 손잡고 중소기업 사이버사고 대응 나선다",
+      "description": "DB손해보험이 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버 침해 예방부터 피해 보상까지 연계하는 지원체계 구축에 나섰다. 보안 전문인력과 투자 여력이 부족한 중소기업의 사이버위험 대응을 돕기 위해서다....",
+      "url": "https://www.kpinews.kr/newsView/1065587343959154",
+      "source": "www.kpinews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T14:05:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5514b4",
+      "title": "충북도, '2026 반도체 전문가 포럼' 개최…반도체 클러스터 핵심 거점 도...",
+      "description": "이어 김현철 SK키파운드리 부사장이 8인치 파운드리 기술 동향과 개발 전략을, 최용권 DB하이텍 상무가 전력관리반도체(Power IC) 기술 동향과 기업 기술을 소개했다. 김동균 SK하이닉스 전문교수는 'AI의 심장, 메모리...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003477212?sid=102",
+      "source": "www.etnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T14:01:00+09:00"
+    },
+    {
+      "id": "DB증권-f49485",
+      "title": "[아! 코스피] ① 만피 외치던 증시, 5000선 추락…장밋빛 전망 왜 빗나갔...",
+      "description": "이병건 DB증권 리서치센터장은 \"단기적으로 보면 과도한 하락이라고 보는 게 맞지만, 전체적으로 보면 상승 추세는 확실히 꺾였다\"고 말했다. AI 인프라 기업의 자금 조달 부담 역시 문제점으로 주목됐다. AI 연산...",
+      "url": "https://www.newspim.com/news/view/20261020000221",
+      "source": "www.newspim.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T14:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-df2124",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 보안 강화 위해 맞손",
+      "description": "SK쉴더스가 이노비즈협회(중소기업기술혁신협회), DB손해보험과 함께 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. SK쉴더스, 이노비즈협회, DB손해보험 등 3개사는 각 사의...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005751749?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:56:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a233a0",
+      "title": "\"100일 만에 10% 날아갔다\"…국민연금 주식 평가액 182조 증발",
+      "description": "LG이노텍과 코리아써키트는 각각 3%포인트 이상 낮췄고 대덕전자·DB하이텍·해성디에스·피에스케이 등도 축소했다. 심텍만 늘렸다. 증권주도 삼성증권·미래에셋증권·키움증권은 줄이고 대신증권만 늘렸다. 3분기...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256824",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T13:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f0ab61",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 사이버 복원력 강화 협...",
+      "description": "지난 20일 SK쉴더스 판교사옥에서 열린 업무협약식에서 (왼쪽부터) 최재호 SK쉴더스 사이버기술센터장, 김홍석 이노비즈협회 상근부회장 직무대행, 차주용 DB손해보험 법인마케팅본부장이 기념촬영을 하고 있다....",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708814",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5ab5c9",
+      "title": "DB손보, 3분기 보험이익 개선에도 투자손익 부담",
+      "description": "DB손해보험이 올해 3분기 보험손익 개선에도 투자손익 부진으로 시장 기대치를 밑도는 실적을 기록할 것으로 전망된다. 장기보험과 자동차보험 수익성은 회복되고 있지만 투자자산 평가손실이 순이익 증가폭을...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=84634",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-13d6ad",
+      "title": "삼성생명, 퇴직연금 적립금 늘리며 1위 탈환",
+      "description": "전체 퇴직연금 사업자 43곳 가운데 적립금이 증가한 곳은 삼성생명과 키움증권, 흥국생명, DB손해보험, 한화손해보험 등 5곳에 그쳤다. 같은 기간 전체 퇴직연금 적립금은 542조1214억원으로 전분기보다...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=84631",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:38:00+09:00"
+    },
+    {
+      "id": "DB저축은행-3f4728",
+      "title": "이찬진 \"고객정보 유출 CEO 책임을\"…금융권 \"과도한 조치\" 반발",
+      "description": "웰컴저축은행(2299건), OK저축은행(250명), DB저축은행(142명) 등도 침해를 입었다. 이 밖에 현대캐피탈, 산은캐피탈, 새마을금고중앙회, 피에프씨테크놀로지스 및 온투업·가상자산 분야까지 침해사고 대상에 올랐다....",
+      "url": "https://www.jasm.co.kr/news/view/322410/?sc=Naver",
+      "source": "www.jasm.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-21T13:32:00+09:00"
+    },
+    {
+      "id": "DB증권-e87c7b",
+      "title": "증권사 금융사고 '배임·사기' 쏠림...건수 DB·삼성·한양증권 최다 [20...",
+      "description": "특히 DB증권, 삼성증권, 한양증권 등 일부 증권사에서 배임 및 사기 사고가 다수 발생하며 내부통제 시스템 및 거래, 영업 전반 구멍이 뚫렸다는 지적이 제기된다. 21일 국회 정무위원회 소속 국민의힘 박성훈 의원이...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66163",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T13:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2cf892",
+      "title": "[금융계 동향] 하나은행·삼성증권·DB손해보험",
+      "description": "DB손해보험은 이노비즈협회 및 SK쉴더스와 중소기업의 사이버위험 대응 역량 강화를 위한 3자 업무협약을 체결했다. 20일 경기 성남시 SK쉴더스 판교사옥에서 열린 이번 협약은 이노비즈협회 회원사를 대상으로...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=171182",
+      "source": "www.iminju.net",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-22f1f8",
+      "title": "DB하이텍, 오전 장중 4.87% 올라 10만5500원",
+      "description": "DB하이텍 주가가 21일 오전 장중 상승해 10만5500원에 거래됐다. Investing.com의 지연 시세 기준 오전 10시53분 주가는 전 거래일 종가 10만600원보다 4900원(4.87%) 올랐다. 해당 시세 기준 장중 고가는...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=395101",
+      "source": "www.vegannews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T13:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bed602",
+      "title": "이노비즈협회, SK쉴더스·DB손해보험과 업무협약 체결",
+      "description": "이노비즈협회는 지난 20일 경기도 성남시 SK쉴더스 판교 사옥에서 SK쉴더스, DB손해보험과 '이노비즈기업 및 회원사의 사이버위험 대응체계 구축을 위한 업무협약'을 체결했다고 21일 밝혔다. 김홍석 이노비즈협회...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016391315?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:15:00+09:00"
+    },
+    {
+      "id": "DB증권-42528b",
+      "title": "증권사 배임·사기 사고 10년간 843억원…횡령·유용의 7.7배",
+      "description": "회사별로는 업무상 배임이 DB증권에서 3건 발생해 건수가 가장 많았고 사고금액은 35억원이었다. 금액 기준으로는 iM증권이 배임 1건·184억800만원으로 가장 컸다. 사기 1건·6억7000만원을 더하면 iM증권의 배임·사기...",
+      "url": "https://sateconomy.co.kr/news/view/1065579222515746",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T13:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-61a495",
+      "title": "DB손보, SK쉴더스·이노비즈협회와 중소기업 사이버위험 공동 대응",
+      "description": "DB손해보험이 보안기업 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버 침해사고 예방부터 피해 보상까지 지원하는 협력체계를 구축한다. DB손보는 지난 20일 경기 성남시 분당구 SK쉴더스 판교사옥에서...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=323046",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T13:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-296b54",
+      "title": "[위클리오늘] 산업일반 소식_KCC, SK쉴더스(10.21)",
+      "description": "▲ 지난 20일 SK쉴더스 판교사옥에서 열린 업무협약식에서 (왼쪽부터) 최재호 SK쉴더스 사이버기술센터장, 김홍석 이노비즈협회 상근부회장 직무대행, 차주용 DB손해보험 법인마케팅본부장이 기념촬영을 하고 있다....",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798886",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T12:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-25507c",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중기 보안 강화 협력",
+      "description": "지난 20일 SK쉴더스 판교사옥에서 열린 업무협약식에서 최재호 SK쉴더스 사이버기술센터장(왼쪽), 김홍석 이노비즈협회 상근부회장 직무대행(가운데), 차주용 DB손해보험 법인마케팅본부장이 기념촬영을 하고 있다....",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156335",
+      "source": "www.techm.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T12:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2ecca6",
+      "title": "DB손해보험, SK쉴더스·이노비즈협회와 맞손… 중기 사이버위험 대응 강...",
+      "description": "20일 성남시 분당구 SK쉴더스 판교사옥에서 사진 오른쪽부터 차주용 DB손해보험 본부장과 김흥석 이노비즈협회 상근부회장 직무대행, 최재호 SK쉴더스 사이버기술센터장이 업무협약 기념촬영을 하고 있다/ DB손해보험...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158374",
+      "source": "www.koreaittimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T12:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ea7e2a",
+      "title": "DB손해보험, 이노비즈협회·SK쉴더스와 중소기업 사이버위험 대응 협약",
+      "description": "최재호 SK쉴더스 사이버기술센터장, 김홍석 이노비즈협회 상근부회장 직무대행, 차주용 DB손해보험 본부장. 사진=DB손해보험  DB손해보험이 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=149493",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0bec8d",
+      "title": "[포토뉴스] DB손해보험, 중소기업 사이버위험 대응 강화",
+      "description": "DB손해보험이 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 이노비즈협회·SK쉴더스와 이노비즈협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 협약은 중소기업의...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1020288",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c86342",
+      "title": "SK쉴더스, 이노비즈협회·DB손보와 中企 대상 보안·보험 연계 지원",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 세 기관은 보안서비스와 사이버보험을 결합해 위협 예방부터 탐지·대응·복구·보상까지...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054342?sid=105",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:50:00+09:00"
+    },
+    {
+      "id": "DB증권-57bb23",
+      "title": "사라지지 않는 증권업계 '배임·사기'...건수는 DB증권, 금액은 iM증권이...",
+      "description": "DB증권과 iM증권이 대표적인 사례로 꼽힌다. DB증권은 최근 10년간 업무상 배임이 3건 발생해 증권사 가운데 가장 많았고, 사고 금액은 35억원이었다. 금액 기준으로는 iM증권이 압도적이다. 1건의 사고금액이...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=205781",
+      "source": "www.livebiz.today",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T11:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-49d71f",
+      "title": "3년 연속 적자에도 증시 입성…중국 ‘반도체 굴기’의 자신감 [칩칩팹...",
+      "description": "우리나라 DB하이텍과 SK키파운드리와 유사한 사업을 전개하고 있다. 웨신반도체는 최근 자동차 전장 분야로도 사업을 확대하고 있다. 웨신반도체가 지난 5월 선전증권거래소에 제출한 IPO 2차 심사 질의 답변서에...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712359?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T11:33:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fc3890",
+      "title": "SK쉴더스, 중소기업 사이버보안 강화",
+      "description": "SK쉴더스가 이노비즈협회, DB손해보험과 손잡고 중소기업의 사이버보안 역량 강화에 나선다. 보안 서비스와 사이버보험을 결합해 사이버 위협 예방부터 사고 대응, 복구 및 보상까지 아우르는 지원체계를 구축한다는...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712354?sid=105",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-afb672",
+      "title": "[카드] DB손해보험, 이노비즈협회·SK쉴더스와 '맞손'",
+      "description": "DB손해보험(005830)은 이노비즈협회 회원사의 사이버 위험 대응 역량을 강화하기 위해 이노비즈협회, SK쉴더스와 3자 업무협약(MOU)을 체결했다고 21일 밝혔다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=751804",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c2e196",
+      "title": "\"사이버보안 침해예방부터 피해보상·사업복구까지\" DB손보, 이노비즈협...",
+      "description": "차주용 DB손해보험 본부장과 김홍석 이노비즈협회 상근부회장 직무대행, 최재호 SK쉴더스 사이버기술센터장이 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 사이버위험 대응 역량을 강화하기 위한 업무협약을 했다....",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=129567",
+      "source": "www.catchnews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0fe5b9",
+      "title": "\"중소기업 보안 사각지대 지운다\"… DB손해보험·이노비즈협회·SK쉴더스...",
+      "description": "DB손해보험은 지난 20일 경기도 성남시 분당구에 위치한 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 함께 이노비즈협회 회원사들의 사이버위험 대응 역량을 극대화하기 위한 전략적 3자 업무협약(MOU)을 체결했다고...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131314",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c24f91",
+      "title": "이노비즈협회·SK쉴더스·DB손보, 中企 사이버 안전망 구축",
+      "description": "업무협약 체결…보안 위협 탐지·대응부터 사고 피해 보상까지 통합 지원 이노비즈협회는 SK쉴더스, DB손해보험과 '이노비즈기업 및 회원사의 사이버위험 대응체계 구축을 위한 업무협약'을 체결하고 기술혁신형...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016390875?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:09:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1b8367",
+      "title": "DB손보, 사이버보험 中企시장 공략 확대…SK쉴더스-이노비즈협회와 '맞...",
+      "description": "포쓰저널 김지훈 기자 2026년 10월 20일 경기 성남시 SK쉴더스 판교사옥에서 (오른쪽부터) DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장이 업무협약을...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2120119",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T11:02:00+09:00"
+    },
+    {
+      "id": "DB증권-c96cd3",
+      "title": "상장 첫날 폭락한 엘리스그룹은 어떤 회사",
+      "description": "DB증권은 지난달 보고서에서 비교기업들과 엘리스그룹의 사업 성숙도, 재무안정성, 매출 구성 등에 차이가 있다고 지적했다. 공모가 기준 시가총액은 지난해 매출의 약 25배에 달한다. 향후 높은 성장세가 이어질...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440331",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T11:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-7faf58",
+      "title": "DB하이텍 주가, 10월 21일 장중 104,100원 3.48% 상승",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 21일 오전 10시 39분 기준, 네이버페이 증권에 따르면 DB하이텍 주가는 현재 104,100원을 기록하며 3,500원 (+3.48%) 상승한 모습을 보이고 있다. 이는 지난...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556946",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e128dd",
+      "title": "DB손보, 중소기업 사이버위험 대응 역량 강화 앞장",
+      "description": "20일 성남시 분당구 SK쉴더스 판교사옥에서 DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장(오른쪽부터)이 업무협약을 진행하고 기념 촬영을 하고 있다. 사진...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323057",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bd1156",
+      "title": "\"보안에 보험까지\"… DB손보, 중소기업 사이버위험 대응 강화",
+      "description": "DB손해보험이 이노비즈협회, SK쉴더스와 손잡고 중소기업의 사이버위험 대응 역량 강화에 나섭니다. 세 기관은 지난 20일 경기도 성남시 SK쉴더스 판교사옥에서 이노비즈협회 회원사를 위한 3자 업무협약을 체결했습니다....",
+      "url": "http://www.newswell.co.kr/news/articleView.html?idxno=22882",
+      "source": "www.newswell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-183bef",
+      "title": "DB손보, SK쉴더스·이노비즈협회와 중소기업 사이버보안 강화",
+      "description": "DB손해보험이 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버 침해사고 예방부터 피해 보상과 복구까지 지원하는 협력체계를 구축한다고 21일 밝혔다. DB손해보험은 지난 20일 경기 성남시 SK쉴더스 판교사옥에서...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241032",
+      "source": "www.ezyeconomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f7262b",
+      "title": "SK쉴더스, 중소기업 사이버보안 지원 확대…\"사고 대응부터 피해 보상까...",
+      "description": "SK쉴더스는 21일 이노비즈협회(중소기업기술혁신협회), DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약을 체결했다고 밝혔다. 협약식은 전날 SK쉴더스 판교사옥에서 진행됐다. 이번 협약에 따라...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728592",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a784d3",
+      "title": "DB손보, 사이버보안 서비스 확대… 이노비즈협회 회원사에 보험 연계",
+      "description": "DB손해보험이 중소기업의 보안 강화 지원에 나선다. DB손보는 이노지브협회, SK쉴더스와 함께 협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 업무협약를 맺었다고 21일 밝혔다. 사이버보안은 최근 해킹과...",
+      "url": "https://www.g-enews.com/view.php?ud=202610210946045770a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1d5826",
+      "title": "[보험·카드24시] 삼성화재, SK렌터카와 미래 모빌리티 MOU 체결 外",
+      "description": "◆DB손보, 이노비즈협회·SK쉴더스와 중소기업 사이버위험 대응 강화 DB손해보험은 20일 SK쉴더스 판교사옥에서 이노비즈협회, SK쉴더스와 함께 이노비즈협회 회원사의 사이버위험 대응 역량을 강화하기 위한 3자 MOU를...",
+      "url": "https://news.dealsitetv.com/articles/177270",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9f8e35",
+      "title": "DB손해보험, 이노비즈협회·SK쉴더스와 중소기업 사이버위험 대응 협력",
+      "description": "DB손해보험이 사이버 침해사고에 취약한 중소기업의 보안 역량을 강화하고 사고 발생 이후 피해보상과 경영 정상화까지 지원하는 통합 위험관리 체계 구축에 나섰다. DB손해보험은 지난 20일 경기도 성남시 분당구...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=754341",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-52092b",
+      "title": "금융권 '알파벳카드' 발급 증가·중소기업 사이버위험 대응 강화·삼일...",
+      "description": "현대카드가 선보인 독자브랜드 '알파벳카드'의 발급이 증가하고 있는 것으로 나타났으며 DB손해보험은 중소기업 사이버위험 대응 역량 강화에 나선다. 한국투자증권은 삼일PwC와 GPU 파이낸싱 전략적 업무협약을...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=320070",
+      "source": "www.wsobi.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7ae957",
+      "title": "[유통갤러리] 귀뚜라미그룹, '하프코 2026' 참가…\"냉난방공조 솔루션 알...",
+      "description": "◆이노비즈협회-SK쉴더스-DB손해보험, ‘사이버위험 종합대응체계’ 구축 맞손 이노비즈협회는 이노비즈기업 핵심 기술 보호와 경영 리스크 최소화를 위해 지난 20일 경기 성남시 SK쉴더스 판교 사옥에서 SK쉴더스...",
+      "url": "https://theviewers.co.kr/View.aspx?No=4272498",
+      "source": "theviewers.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-64d1f2",
+      "title": "\"AI 해킹 꼼짝마\"…SK쉴더스·DB손보, 중기 사이버 보안·보상 '원스톱 ...",
+      "description": "SK쉴더스는 이노비즈협회(중소기업기술혁신협회), DB손해보험과 함께 중소기업의 사이버복원력 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 지난 20일 경기 성남시 판교 SK쉴더스 사옥에서 열린 이번 협약을...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=302155",
+      "source": "www.widedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-24c613",
+      "title": "SK쉴더스, 이노비즈협회·DB손보와 중소기업 보안 지원체계 구축",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 중소기업의 사이버보안 역량 강화를 위해 협력한다고 21일 밝혔다. 3사는 사이버 위협 예방부터 탐지·대응·복구·보상까지 연계한 통합 지원체계를 구축할 계획이다. 최근...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003477083?sid=105",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-867d45",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 중소기업 보안 강화 협력",
+      "description": "SK쉴더스는 이노비즈협회(중소기업기술혁신협회), DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 이번 협약은 랜섬웨어와 공급망 공격 등 중소기업을 겨냥한 사이버...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001067848?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:35:00+09:00"
+    },
+    {
+      "id": "DB저축은행-b7ee51",
+      "title": "망분리 규제 완화 기준 낮췄지만… 수도권 저축銀 42곳중 7곳만 충족",
+      "description": "다올저축은행(4조2356억원)과 DB저축은행(3조3227억원)도 총자산 규모는 크지만 상시 직원 수가 기준에 못 미쳐 신청 대상에서 빠진다. 신청 요건을 갖춘 일부 저축은행보다 자산이 1조원 이상 많은데도 제외되는...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199299?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-21T10:31:00+09:00"
+    },
+    {
+      "id": "DB증권-a7d1e5",
+      "title": "승인 없이 해외투자 계약… 증권사 금융사고 '배임·사기' 집중",
+      "description": "건수 DB증권·금액 iM증권 최다…고객 투자금 채무 변제 유용도 국내 증권사에서 발생한 금융사고가 단순 횡령·유용보다 업무상 배임과 사기에 집중되고 있는 것으로 나타났다. 올해 발생한 금융사고 6건 중 5건이...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016390664?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T10:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8c4b93",
+      "title": "SK쉴더스, 중소기업 보안·보험 연계 확대",
+      "description": "21일 업계에 따르면 SK쉴더스는 지난 20일 판교사옥에서 이노비즈협회, DB손해보험과 중소기업 사이버보안 역량 강화를 위한 업무협약을 체결했다. SK쉴더스는 이노비즈협회 회원사 약 7800곳을 대상으로 무료 보안...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=157060",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e2ad89",
+      "title": "DB손보, 중소기업 사이버위험 대응 강화…SK쉴더스·이노비즈협회와 맞...",
+      "description": "DB손해보험이 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 해킹·랜섬웨어 등 사이버위험을 예방부터 사고 대응, 손실 보상까지 지원하는 체계를 구축한다. DB손해보험은 지난 20일 경기 성남시 SK쉴더스 판교사옥에서...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=92112",
+      "source": "www.the-today.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:24:00+09:00"
+    },
+    {
+      "id": "DB증권-4c6e13",
+      "title": "부산 BIFC 63층에 금융기업 3곳 유치…입주기관 10곳으로 확대",
+      "description": "해운시장 정보를 보유한 클락슨스코리아와 연계한 선박 자산 통합 서비스, KDX컨소시엄·DB증권 등 디지털 금융기관과 협력한 선박 자산 조각투자 및 토큰화 관련 사업모델 발굴 등이 검토될 수 있다. 정책금융에 민간...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610210009182880398",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T10:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-26f9b6",
+      "title": "DB손보, 이노비즈·SK쉴더스와 중소기업 사이버보험 지원 강화",
+      "description": "더트래커 강혜림 기­자 raak@thetracker.co.kr 더트래커 = 강혜림 기자DB손해보험이 이노비즈협회, SK쉴더스와 손잡고 중소기업의 사이버위험 대응 체계 구축에 나선다. 보안서비스와 보험을 연계해 해킹과 랜섬웨어 등...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4272417",
+      "source": "thetracker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-baf83c",
+      "title": "DB손보, 이노비즈協·SK쉴더스와 중기 사이버위험 대비",
+      "description": "지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 열린 업무협약식에 참석한 (오른쪽부터)DB손해보험 차주용 본부장과 이노비즈협회 김홍석 상근부회장 직무대행, SK쉴더스 최재호 사이버기술센터장이 기념촬영을 하고...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125234",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-83f28c",
+      "title": "SK쉴더스, 이노비즈협회·DB손해보험과 맞손…중소기업 보안 지원",
+      "description": "DB손해보험은 사이버보험으로 사고 이후 피해 보상을 맡는다. SK쉴더스는 이노비즈협회(중소기업기술혁신협회), DB손해보험과 중소기업 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 맺었다고 21일 밝혔다....",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610210045",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ab9a4d",
+      "title": "DB손보, 중소기업 사이버위험 관리 지원…보안·보험 연계 강화",
+      "description": "사진=DB손해보험. DB손해보험이 보안 전문기업과 중소기업 단체의 협력을 통해 사이버 침해사고 예방부터 피해 복구까지 지원 범위를 넓힌다. DB손해보험은 지난 20일 경기 성남시 분당구 SK쉴더스 판교사옥에서...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1416901",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-f610e8",
+      "title": "[오늘 상장했어요] KB·신영·DB운용, 첨단산업·저평가주·피지컬 AI 신...",
+      "description": "◇DB자산운용 'DB 마이티 미국 피지컬 AI 액티브 ETF' DB자산운용은 미국 피지컬 AI 기업에 투자하는 'DB 마이티 미국 피지컬 AI 액티브 ETF'를 지난 20일 상장했다. 해당 상품은 DB자산운용의 첫 해외투자 ETF다. 피지컬 AI는...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189962",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-10-21T10:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-30030b",
+      "title": "[금융권 이모저모]KB자산운용, 12대 첨단전략산업 투자 펀드 출시 外",
+      "description": "DB손해보험과 이노비즈협회, SK쉴더스 관계자들이 지난 20일 경기 성남시 SK쉴더스 판교사옥에서 중소기업 사이버위험 대응 강화를 위한 업무협약을 체결한 뒤 기념촬영하고 있다. / 사진=DB손해보험 ◇DB손해보험...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=118483",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T10:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-03697b",
+      "title": "DB손보, SK쉴더스·이노비즈협회와 중소기업 사이버위험 대응 맞손",
+      "description": "최근 해킹과 랜섬웨어, 개인정보 유출 등 기업을 대상으로 한 사이버 침해사고가 지속적으로 발생하면서 DB손해보험이 SK쉴더스, 이노비즈협회와 손잡고 중소기업의 사이버 침해사고 예방부터 피해보상과 복구까지...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538940?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T09:59:00+09:00"
+    },
+    {
+      "id": "DB손해보험-253905",
+      "title": "이노비즈협회, 사이버위험 대응 강화… SK쉴더스·DB손보 협력",
+      "description": "이노비즈협회는 지난 20일 경기 성남시 SK쉴더스 판교 사옥에서 SK쉴더스, DB손해보험과 '이노비즈기업 및 회원사의 사이버위험 대응체계 구축을 위한 업무협약'을 체결했다고 21일 밝혔다. 이번 협약은 기술혁신형...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2008354",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T09:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2aa773",
+      "title": "\"여성보험으로 체질 바꿨다\"…나채범號 한화손보, '밸류업' 승부수",
+      "description": "삼성화재와 DB손해보험, 현대해상 등 동종 3사 평균 0.58배와 비교하면 3분의 1 수준이다. 회사는 저출산·고령화에 따른 성장 한계와 새 회계제도 도입 이후의 재무적 불확실성, 배당 연속성 부족을 할인 요인으로...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556873",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T09:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f930ae",
+      "title": "DB손해보험, 이노비즈협회·SK쉴더스와 중소기업 사이버위험 대응 협력",
+      "description": "보안서비스·보험 연계…사고 예방부터 손실보상·복구까지 지원 ▲ 지난 20일 성남시 분당구 SK쉴더스 판교사옥에서 차주용 DB손해보험 본부장과 김홍석 이노비즈협회 상근부회장 직무대행, 최재호 SK쉴더스...",
+      "url": "https://sateconomy.co.kr/news/view/1065573631097122",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T09:56:00+09:00"
+    },
+    {
+      "id": "DB증권-df6dd7",
+      "title": "“애물단지가 달라졌다”…K뷰티 양강의 ‘아픈손가락’ 美공장 실적도...",
+      "description": "DB증권은 “코스맥스 미국 법인의 올해 연간 매출이 전년 대비 53% 증가하고 영업이익은 80억원을 기록할 것”이라고 전망했다. 메리츠증권도 코스맥스 미국 법인 매출이 올해 처음으로 2000억원을 돌파하고...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712205?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T09:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3faa44",
+      "title": "SK쉴더스, DB손보·이노비즈협회와 중소기업 사이버보안 지원",
+      "description": "SK쉴더스는 이노비즈협회, DB손해보험과 중소기업의 사이버보안 역량 강화를 위한 3자 업무협약(MOU)을 체결했다고 21일 밝혔다. 이번 협약은 랜섬웨어와 공급망 공격 등 중소기업을 겨냥한 사이버 위협이 증가하는...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673479?sid=105",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-21T09:54:00+09:00"
+    },
+    {
+      "id": "DB증권-764903",
+      "title": "\"삼성화재, 3분기 투자손익 부진에 지배순이익 16.6%↓\"<DB證>",
+      "description": "보험영업 소폭 개선, 투자부문이 발목 연내 밸류업 계획 발표 가능성 적어 목표주가 상향·투자의견 보유 유지 [사진=삼성화재] [뉴스투데이=김태규 기자] DB증권은 21일 삼성화재의 3분기 지배주주순이익을 4487억원으로...",
+      "url": "https://www.news2day.co.kr/article/20261021500061",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T09:52:00+09:00"
+    },
+    {
+      "id": "DB증권-5e0a64",
+      "title": "DB證 \"삼성화재, 기업가치 제고계획이 관건…목표기↑\"",
+      "description": "DB증권이 21일 삼성화재에 대해 \"구체적인 자본계획을 담은 기업가치 제고계획이 제시되지 않는다면 현재 주가는 적정 수준\"이라고 분석했다. 목표주가는 58만 원으로 소폭 상향했지만, 투자의견은 '보유'를 유지했다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=136722",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T09:46:00+09:00"
+    },
+    {
+      "id": "DB저축은행-75005c",
+      "title": "DB저축은행, 수시입출금 예금 최고금리 인상 및 적용 한도 확대",
+      "description": "DB저축은행이 수시입출금식 예금의 최고금리를 인상하고 적용 한도를 확대했다. 21일 DB저축은행에 따르면 은행은 지난 17일부터 'DreamBig 보통예금'의 최고금리를 기존 연 3.2%에서 연 3.3%로 0.1%p 인상했다. 최고금리...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=136721",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-21T09:46:00+09:00"
+    },
+    {
+      "id": "DB하이텍-77f550",
+      "title": "시스템반도체株 불붙었다... 무슨 호재? 눈여겨볼 종목은",
+      "description": "DB하이텍과 엠디바이스, 피에스케이도 상승 흐름을 보이고 있으며 파두와 사피엔반도체, 아이텍, 에이엘티, 시지트로닉스, 아이씨티케이, 케이알엠도 강세다. 이 밖에 아이에시와 해치텍도 상승 종목에 이름을 올렸다....",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497111",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T09:34:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b86390",
+      "title": "차세대 전력반도체 테마 '후끈'…전기차·AI 서버 수요 급증에 쾌속질주",
+      "description": "이어 에스티아이, DB하이텍, 에이엘티가 플러스권을 유지하고 있으며 케이엔에스, 나노씨엠에스, KEC도 상승 대열에 합류했다. 에이루트, 시지트로닉스, 아이에이 역시 강세를 보이는 반면 아이언디바이스는 내리고...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497100",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T09:16:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e44fcc",
+      "title": "[강소기업이 간다] 에스피반도체통신, 차세대 전력시장 공략",
+      "description": "삼성전자·SK파워텍·DB하이텍 등 국내 고객과도 협력하고 있다. 전기차용 DSC(Double Side Cooling)·SSC(Single Side Cooling) 모듈 분야에서는 현대자동차와 현대모비스를 비롯한 자동차 관련 고객과 차세대 모듈 개발을...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874395",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-21T09:02:00+09:00"
+    },
+    {
+      "id": "DB증권-91b4d4",
+      "title": "[카카오 밸류업②] AI 청사진에도 증권가 목표가 줄하향…소액주주도 우...",
+      "description": "LS증권, DB증권, 신한투자증권 등 5개 증권사가 카카오 목표주가를 일제히 하향했다. 현대차증권은 기존 4만5천원에서 4만2천원으로, 삼성증권은 4만원에서 3만5천원으로, LS증권은 5만5천원에서 4만2천원으로 낮췄다....",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440265",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T08:34:00+09:00"
+    },
+    {
+      "id": "DB증권-c010d5",
+      "title": "금융지주 3분기 호실적 전망···주주 환원 확대되나",
+      "description": "나민욱 DB증권 연구원은 \"3분기는 증시 부진과 시장 금리 상승으로 예적금 수요가 확대됐다\"면서 \"은행 NIM(순이자마진)은 조달 비용이 확대되는 가운데 직전 분기 대비 2bp 정도 하락할 전망\"이라고 내다봤다. 특히...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482435",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-21T08:00:00+09:00"
+    },
     {
       "id": "DB손해보험-2bf70e",
       "title": "반려견은 오래 사는데…펫보험은 나이 들수록 선택권 좁아진다",
@@ -109,15 +1648,6 @@ const NEWS_DATA = {
       "source": "zdnet.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-10-20T17:54:00+09:00"
-    },
-    {
-      "id": "DB손해보험-8ca825",
-      "title": "DB손해보험, DB증권 지분 29.25%로 확대…6만8554주 장내매수",
-      "description": "최대주주·특수관계인 합산 지분 38.03%로 상승 허성준 DB증권 상무보도 3000주 매수 ▲ DB증권 [토요경제] DB증권(대표 곽봉석)의 최대주주인 DB손해보험(대표 정종표)이 장내매수를 통해 DB증권 지분을 추가...",
-      "url": "https://sateconomy.co.kr/news/view/1065602293315658",
-      "source": "sateconomy.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-20T17:46:00+09:00"
     },
     {
       "id": "DB증권-8ca825",
