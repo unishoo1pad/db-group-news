@@ -1,6 +1,879 @@
 {
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "articles": [
+    {
+      "id": "DB손해보험-f033aa",
+      "title": "자산 평가손 뚫은 본업…DB손보 3분기 순익 15% 뛴다",
+      "description": "27일 상상인증권은 DB손해보험의 2026년 3분기 별도 순이익이 전년 동기 대비 15.2% 증가한 3380억원을 기록해 시장 컨센서스를 소폭 하회할 것으로 전망했다고 밝혔다. 상상인증권 김현수 연구원은 이날 발표한...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368170",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-27T07:56:00+09:00"
+    },
+    {
+      "id": "DB증권-2b0a20",
+      "title": "압타바이오, 'KDIGO 개정안 충족' APX115 2상 성공에 가치↑…FDA 모멘텀...",
+      "description": "\"급성 이어 만성 당뇨병성 신증까지 유효한 결과 도출 시 기술계약도 기대 가능\" DB증권은 27일 압타바이오(293780)에 대해 국제신장학회(KDIGO) 개정안까지 충족한 아이수지낙시브(APX115) 임상 2상 결과 발표를...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=752430",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-27T07:34:00+09:00"
+    },
+    {
+      "id": "DB자산운용-20c255",
+      "title": "미래에셋자산운용, ETF 브랜드평판 1위…삼성·한투운용 順",
+      "description": "이어 우리자산운용, 대신자산운용, 키움투자자산운용, 타임폴리오자산운용, 에셋플러스자산운용, NH아문디자산운용, DB자산운용, IBK자산운용, 유리자산운용, 교보악사자산운용, 흥국자산운용...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498656",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-10-27T07:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ac9647",
+      "title": "영업 지원부터 민원 예방·보험금 심사까지…삼성화재·신한라이프·DB손...",
+      "description": "삼성화재(대표 이문화), 신한라이프(대표 천상영), DB손해보험(대표 정종표) 등 주요 보험사들은 최근 AI 기반 시스템을 잇달아 선보이고 있다. 반복적인 업무를 자동화해 직원들의 업무 부담을 줄이고 고객별 특성에...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=766762",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-27T06:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-90a8d3",
+      "title": "정종표 DB손보 대표, 美 보험사 품고 글로벌 성장판 확대⋯자본관리는 ...",
+      "description": "정종표 DB손해보험 대표가 미국 보험사 인수를 통해 해외사업 확장에 속도를 내고 있다. 국내 보험시장 성장 둔화에 대응해 글로벌 사업 기반을 넓히는 동시에 장기보험을 중심으로 수익성도 개선했다. 다만 대규모...",
+      "url": "https://www.etoday.co.kr/news/view/2639846",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-27T05:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e27424",
+      "title": "DB하이텍, 파운드리 분야 자동차 품질 표준 인증 갱신",
+      "description": "DB하이텍이 자동차 품질경영시스템 표준인 'IATF 16949' 인증을 갱신했다고 26일 밝혔다. 부천캠퍼스와 상우캠퍼스에서 열린 IATF 16949 갱신 심사를 통과했다. 인증 범위는 고객사 반도체 제품을 대신 생산하는...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64279",
+      "source": "www.thelec.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T19:14:00+09:00"
+    },
+    {
+      "id": "DB하이텍-265a02",
+      "title": "DB하이텍, 부천·상우공장 자동차 품질경영 인증 갱신",
+      "description": "인더스트리뉴스 한원석 기자  DB하이텍이 국내 두 생산거점의 자동차 품질경영시스템 인증을 갱신했다. 가전·모바일보다 부가가치가 높은 산업·자동차용 반도체 비중을 확대하는 가운데 차량용 제품 공급에 필요한...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88238",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T18:56:00+09:00"
+    },
+    {
+      "id": "DB증권-e38daf",
+      "title": "DB증권, 11월 2일 부산서 '탄소감축 STO' 2차 설명회 개최",
+      "description": "DB증권(대표이사 곽봉석)이 내달 2일 파크하얏트 부산 2층 볼룸에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. DB증권이 주최·주관하고 법무법인 LKB평산이 후원하는 이번 설명회는 지난...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44824",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T18:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e9f306",
+      "title": "DB하이텍, 車반도체 품질 글로벌 경쟁력 입증",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신하며 차량용 반도체 분야의 품질 경쟁력을 강화했다. 향후 자동차 산업의 전동화·전자화로 차량용 반도체의 중요성이 커지는 가운데...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594654?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T18:15:00+09:00"
+    },
+    {
+      "id": "DB증권-bd035d",
+      "title": "증권사 금융사고 지난해 207억원…고객자금 편취·직원 배임 잇따라 [20...",
+      "description": "특히 한국투자증권에서는 31억원대 고객 금전 편취 사고가 발생했지만 회수율이 16% 수준에 그쳤고, DB증권에서는 직원의 30억원대 업무상배임 사고가 약 8년 8개월간 이어진 것으로 확인됐다. 두 증권사의 사고금액을...",
+      "url": "https://www.kukinews.com/article/view/kuk202610260244",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T18:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4f90a9",
+      "title": "[업앤다운]보험주 ‘약세’…미래에셋생명↑·롯데손보↓",
+      "description": "코리안리는 3.19%(450원) 하락한 1만3660원, DB손해보험은 2.44%(4500원) 내린 17만9700원에 거래를 끝냈다. 에이플러스에셋은 2.04%(260원) 하락한 1만2500원, 한화손해보험은 1.79%(110원) 내린 6040원에 거래를 마쳤다....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=833248",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T18:10:00+09:00"
+    },
+    {
+      "id": "DB증권-a9bc48",
+      "title": "코스피 1만 넘는다더니…증권사 전망치 줄하향",
+      "description": "대신증권은 올해 4분기 코스피 예상 범위를 5200~6700포인트로 제시했고, DB증권 역시 전망치를 5000~7300포인트로 내놓으며 연말 8000선 회복 가능성을 낮게 봤다. 삼성증권은 지난달 4분기 코스피 상단을 기존 1만...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004675335?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T18:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8195a9",
+      "title": "[이슈] DB손보, 포테그라 효과·배당 확대 주목…\"3분기 실적 개선 기대...",
+      "description": "DB손해보험이 해외사업 확대와 주주환원 강화를 통해 중장기 기업가치를 높이고 있다. 무엇보다 미국 특화보험사 포테그라 인수 효과가 3분기부터 연결 실적에 반영될 것으로 예상된다. 이와 함께 배당 확대 계획까지...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=285208",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T18:00:00+09:00"
+    },
+    {
+      "id": "DB증권-8195a9",
+      "title": "[이슈] DB손보, 포테그라 효과·배당 확대 주목…\"3분기 실적 개선 기대...",
+      "description": "이병건 DB증권 연구원은 \"올해 3분기 DB손해보험의 별도 기준 당기순이익은 전년 동기 대비 2.7% 증가한 3008억원으로 예상된다\"고 밝혔다. 이어 \"전년도 대규모 보험금 예실차 손실이 줄면서 장기보험 손익이 개선됐지만...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=285208",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T18:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-337163",
+      "title": "DB하이텍, 차량용 반도체 품질 인증 갱신…고부가 제품 확대",
+      "description": "DB하이텍이 자동차용 반도체 품질관리 역량을 강화하며 고부가가치 제품 확대에 나섰다. 특히 국내 2개 생산거점에서 자동차 산업의 국제 품질경영시스템 인증을 갱신하면서 글로벌 자동차 부품 공급망에 대응할 수...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=137369",
+      "source": "www.popcornnews.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T17:50:00+09:00"
+    },
+    {
+      "id": "DB증권-e23133",
+      "title": "[증권 NOW] 미래에셋증권·NH투자증권·하나증권·신한투자증권·DB증권...",
+      "description": "■ DB증권, '부산 탄소감축 사업 STO 비즈니스 2차 설명회' 개최 DB증권이 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'에서 사업 실행 방안을 공유하고 금융구조를 구축하고 있는 파트너들을 소개하는 자리를 마련했다....",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193737",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T17:42:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f70952",
+      "title": "DB하이텍, 자동차 반도체 품질경영 국제표준 'IATF 16949' 인증 갱신",
+      "description": "부천·상우캠퍼스 갱신 심사 통과…반도체 웨이퍼 파운드리 제조 전 분야 인증 최초 인증 획득 후 3년마다 갱신, 자체 개발 'Automotive Program' 운영  DB하이텍이 자동차용 반도체 품질경영시스템 국제표준 인증을...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=215863",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T17:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7de7e1",
+      "title": "자동차 손해율 반등에도 '8주룰' 효과 논하기 이른 이유",
+      "description": "그러나 손해보험협회 집계 결과를 보면 국내 5개 대형 손해보험사(삼성화재·메리츠화재·현대해상·KB손해보험·DB손해보험)의 지난 9월 평균 자동차보험 손해율은 84.6%, 지난 8월 평균 손해율은 84.2%로 나타났다. 제도가...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323633",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T17:28:00+09:00"
+    },
+    {
+      "id": "DB저축은행-bc2c9f",
+      "title": "금융권 연쇄 해킹 사건 보험업계로 번졌다 : 미래에셋생명 청약시스템 ...",
+      "description": "예가람·웰컴·OK·DB저축은행과 현대캐피탈도 포함됐다. 핀테크·가상자산 업계에서는 피에프씨테크놀로지스(PFCT)와 고팍스 운영사 스트리미 등이 피해를 입었다. 미래에셋생명 관계자는 \"보안 체계 점검과 재발 방지 대책...",
+      "url": "https://www.huffingtonpost.kr/article/261545",
+      "source": "www.huffingtonpost.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-26T17:16:00+09:00"
+    },
+    {
+      "id": "DB증권-ae5142",
+      "title": "[업앤다운]증권주 29종목 일제 하락…SK증권 5.48%↓ 최대 낙폭",
+      "description": "3%대 하락한 종목은 ▲미래에셋증권우 3.76%(-360원)·9220원 ▲미래에셋증권2우B 3.46%(-310원)·8640원 ▲DB증권 3.39%(-320원)·9120원 ▲NH투자증권 3.22%(-750원)·2만2550원 ▲부국증권 3.21%(-1400원)·4만2150원...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=833232",
+      "source": "www.nspna.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T17:14:00+09:00"
+    },
+    {
+      "id": "DB증권-197a27",
+      "title": "[증권가] NH투자증권, '금융소비자보호 주간 행사’ 등",
+      "description": "DB증권, '부산 탄소감축 사업 STO 비즈니스 2차 설명회' 개최 DB증권은 오는 11월 2일 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. DB증권이 주최·주관하고 법무법인 LKB평산이 후원하는 이번...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/113135",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T17:08:00+09:00"
+    },
+    {
+      "id": "DB증권-b8d298",
+      "title": "DB증권, 부산 탄소감축 STO 2차 설명회",
+      "description": "DB증권은 오는 11월 2일 파크하얏트 부산에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. 사진=DB증권 한국금융경제신문=박상민 기자 | DB증권은 오는 11월 2일 파크하얏트 부산에서 '부산...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666928",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T17:08:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a576a6",
+      "title": "[재계 투데이] 삼성전자, 클립형 무선 이어폰 '갤럭시 버즈 온' 국내 출...",
+      "description": "◆DB하이텍, 자동차 품질경영시스템 ‘IATF 16949’ 인증 갱신 DB하이텍은 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사 통과하고 인증을 갱신했다고 밝혔다. 인증 범위는 반도체 웨이퍼 파운드리 제조...",
+      "url": "https://news.dealsitetv.com/articles/177501",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T17:06:00+09:00"
+    },
+    {
+      "id": "DB저축은행-718d97",
+      "title": "금융보안원, 미·일과 금융권 AI 해킹·PHP 취약점 내용 공유",
+      "description": "한편 지난달 말부터 최근까지 신한·KB국민·하나·BNK부산은행 등 은행권을 시작으로 예가람·웰컴·OK·DB저축은행, 현대·산은캐피탈, 새마을금고중앙회, 피에프씨테크놀로지스(PFCT)·모우다, 브라이트픽스·고팍스...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1317991&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-26T17:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e81579",
+      "title": "DB하이텍, 자동차 품질경영시스템 인증 갱신…23년째 유지",
+      "description": "DB하이텍 상우공장 외경. 사진=DB하이텍 DB하이텍이 자동차 산업의 국제 품질경영시스템 인증을 갱신하며 차량용 반도체 품질 경쟁력 강화에 나선다. DB하이텍은 부천캠퍼스와 상우캠퍼스에서 자동차 산업...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498378",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T16:56:00+09:00"
+    },
+    {
+      "id": "DB증권-ef5d48",
+      "title": "실적 뛰고 배당 늘린 DB증권···기업가치 재평가 발목 잡는 '내부통제...",
+      "description": "| 스마트비즈 = 최준 기자 | DB증권이 수익성 개선과 주주환원을 앞세워 기업가치 재평가에 나섰다. 부동산 프로젝트파이낸싱(PF) 중심의 사업 구조를 조정하고 자산관리(WM)와 기업금융(IB)을 연계한 영업을...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=157543",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T16:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b3976",
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 내리고 NAVER 올랐다",
+      "description": "보험주 가운데 삼성화재와 DB손해보험, 메리츠금융은 하락했지만 삼성생명은 상승했다. 증권주도 약세를 보였다. 미래에셋증권과 NH투자증권, 삼성증권, 키움증권, 한국금융지주가 하락했다. 금융주는 금리와 대출 수요...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498584",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T16:46:00+09:00"
+    },
+    {
+      "id": "DB증권-5665d5",
+      "title": "'반토막' 난 증권주, 저평가 심화···주주환원 확대가 반등 이끌까",
+      "description": "DB증권은 지난 21일 저PBR 개선계획을 공시하고 2029년까지 PBR 1배와 자기자본이익률(ROE) 12%를 달성하겠다는 목표를 제시했다. 현대차증권도 이튿날 PBR 0.6~0.8배와 총주주환원율 45% 이상을 목표로 내걸었다. 특히...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641000",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T16:35:00+09:00"
+    },
+    {
+      "id": "DB증권-e1cabf",
+      "title": "[증권 Pick] 미래에셋증권 AI 페스티벌 1052팀 참가…DB증권, 탄소감축 S...",
+      "description": "미래에셋증권과 네이버클라우드는 금융상품·연금·공시 분야 AI 에이전트 경진대회를 열었고, DB증권은 선박 탄소저감 설비를 기초자산으로 한 부산형 토큰증권 사업을 소개한다. NH투자증권은 국내 거주 미국...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210271",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T16:28:00+09:00"
+    },
+    {
+      "id": "DB증권-610641",
+      "title": "DB증권, 부산 탄소감축 사업 STO 비즈니스 2차 설명회 개최",
+      "description": "인더스트리뉴스 김수련 기자  DB증권이 오는 11월 2일 오전 11시부터 오후 2시까지 파크하얏트 부산 2층 볼룸에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. DB증권이 주최·주관하는 이번...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88204",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T16:12:00+09:00"
+    },
+    {
+      "id": "DB저축은행-db1c82",
+      "title": "미래에셋생명, 해킹으로 고객 신용정보 유출",
+      "description": "신한·KB국민·하나·BNK부산은행은 물론 예가람·웰컴·OK·DB저축은행, 현대캐피탈, 산은캐피탈, 새마을금고중앙회에서도 해킹 또는 정보유출 사고가 확인됐습니다. 핀테크·가상자산 등에서는 피에프씨테크놀로지스(PFCT)와...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1318036&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-10-26T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a68c71",
+      "title": "공공재 전락한 '개인정보'…걸음마도 못 뗀 한국 '사이버보험'",
+      "description": "26일 손해보험업계에 따르면 국내 대형 손해보험사 5개사(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재)가 거둬들인 올해 상반기 사이버보험 원수보험료는 313억4279만원으로 전년 동기(247억9161만원)보다 26.4...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478810?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T16:02:00+09:00"
+    },
+    {
+      "id": "DB증권-4b647b",
+      "title": "쿠콘, AI MCP·글로벌 결제 사업 확대… DB증권 “2027년 실적 기여 본격...",
+      "description": "26일 업계에 따르면 DB증권은 지난 22일 발간한 보고서에서 쿠콘의 AI 기반 데이터 사업과 글로벌 페이 사업을 향후 성장 요인으로 꼽았다. 기존 데이터 API 사업에서 확보한 인프라를 활용하면서 상대적으로 수익성이...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002246014?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:24:00+09:00"
+    },
+    {
+      "id": "DB증권-0ff5d8",
+      "title": "배임·사기 잇따른 증권사⋯내부통제 고삐 조이기",
+      "description": "회사별로는 DB증권이 업무상 배임 3건·35억원으로 건수가 가장 많았다. iM증권은 배임 1건·184억800만원과 사기 1건·6억7000만원, 한양증권은 배임 1건과 사기 3건 등 총 4건·109억2400만원으로 집계됐다. 삼성증권은 사기...",
+      "url": "https://www.viva100.com/article/20261026500775",
+      "source": "www.viva100.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:20:00+09:00"
+    },
+    {
+      "id": "DB증권-f90aa7",
+      "title": "배당 확대·자사주 소각 내걸었지만… 밸류업 관련주 약세 확산",
+      "description": "기업은행과 DB증권, 다우데이타, 카카오뱅크, 유안타증권, 메리츠금융지주, 미래에셋증권, 키움증권이 내림세를 보였다. 우리금융지주와 신한지주, 하나금융지주, KB금융, JB금융지주, iM금융지주도 약세다. 금융주는...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498507",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:18:00+09:00"
+    },
+    {
+      "id": "DB증권-25d037",
+      "title": "[증권 & Now] 하나증권, 퇴직연금 DC 수익률 증권업 1위 달성 등",
+      "description": "◆DB증권, 부산 탄소감축 토큰증권 사업 본격화 DB증권은 오는 11월 2일 부산 파크하얏트 호텔에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. 이번 행사는 지난 8월 열린 1차 설명회에 이어...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729187",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:12:00+09:00"
+    },
+    {
+      "id": "DB증권-d4d49d",
+      "title": "DB증권, 운용 자회사 수수료수익 20%대 증가…첫 해외 ETF 진출",
+      "description": "DB자산운용 상반기 순익 약 58억원…운용 본업 수익 확대 고객재산 60.5조원…피지컬AI ETF로 해외 상품군 넓혀 ▲ DB증권 [토요경제] DB증권(대표 곽봉석)의 100% 자회사 DB자산운용이 상반기 수수료수익을 20% 넘게 늘린...",
+      "url": "https://sateconomy.co.kr/news/view/1065591767817551",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:10:00+09:00"
+    },
+    {
+      "id": "DB자산운용-d4d49d",
+      "title": "DB증권, 운용 자회사 수수료수익 20%대 증가…첫 해외 ETF 진출",
+      "description": "DB자산운용 상반기 순익 약 58억원…운용 본업 수익 확대 고객재산 60.5조원…피지컬AI ETF로 해외 상품군 넓혀 ▲ DB증권 [토요경제] DB증권(대표 곽봉석)의 100% 자회사 DB자산운용이 상반기 수수료수익을 20% 넘게 늘린...",
+      "url": "https://sateconomy.co.kr/news/view/1065591767817551",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-10-26T15:10:00+09:00"
+    },
+    {
+      "id": "DB증권-fa29db",
+      "title": "신한금융 '5조 클럽' 눈앞...3Q 순익 1조6천억 전망",
+      "description": "DB증권은 환율 하락에 따른 자본비율 개선을 근거로 4분기 2500억원 규모의 자사주 매입·소각을 예상했다. 나민욱 DB증권 연구원은 \"과거와 달리 우호적 환율 방향성과 함께 연말로 갈수록 주주환원 매력이 더욱...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=84905",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T15:06:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a25e1e",
+      "title": "DB하이텍, 부천·상우 자동차 품질경영 인증 갱신… 고부가 반도체 확대",
+      "description": "DB하이텍이 부천·상우캠퍼스의 자동차 품질경영시스템 인증을 갱신했다. DB하이텍은 두 캠퍼스가 각각 'IATF 16949' 갱신 심사를 통과했다고 26일 밝혔다. 인증 범위는 반도체 웨이퍼 파운드리 제조 전 분야다. 두...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282491",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T15:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-00295e",
+      "title": "DB하이텍, 품질기록 25년 보관…車반도체 경쟁력 강화",
+      "description": "DB하이텍이 자동차용 반도체의 품질 관련 기록을 최소 25년간 보관하는 등 장기 품질관리 체계를 운영하며 고부가가치 반도체 사업 확대에 나서고 있다. 자동차 산업에서 요구하는 엄격한 품질 기준을 충족하고 기존...",
+      "url": "http://www.newskr.kr/news/articleView.html?idxno=107454",
+      "source": "www.newskr.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T14:54:00+09:00"
+    },
+    {
+      "id": "DB증권-e8c5e9",
+      "title": "[금융 브리핑] NH투자증권·DB증권·우리투자증권·iM증권",
+      "description": "[사진 = DB증권 제공] ◇ DB증권, 부산 탄소감축 사업 STO 비즈니스 2차 설명회 개최 DB증권이 오는 11월 2일 오전 11시부터 오후 2시까지 파크하얏트 부산 2층 볼룸에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를...",
+      "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91518",
+      "source": "www.niceeconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T14:48:00+09:00"
+    },
+    {
+      "id": "DB하이텍-2519b3",
+      "title": "자율주행·AI가 키우는 시스템반도체 시장…양산 성과 확인해야",
+      "description": "로봇 솔루션 업체 케이알엠과 파운드리 업체 DB하이텍, SSD 컨트롤러 업체 파두, 디자인하우스 알파칩스도 하락했다. 통신 반도체 업체 자람테크놀로지와 디자인하우스 에이디테크놀로지, 테스트 핸들러 업체 테크윙...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498486",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T14:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-49658f",
+      "title": "비 덜 오고 차 덜 다닌 9월…車보험 손해율 9.2%p '뚝', 그래도 적자 구...",
+      "description": "25일 <녹색경제신문> 취재를 종합하면, 삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손보사 4곳의 올해 1~9월 자동차보험 누적 손해율은 단순 평균 84.7%로 지난해 같은 기간(85.5%)보다 0.8%포인트 낮아졌다. 8월...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=352935",
+      "source": "www.greened.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T14:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b913bd",
+      "title": "주주환원 기대에도 밸류업 종목 차별화… 실적·자본 효율성 주목하라",
+      "description": "SK가스와 DB손해보험, 리노공업, 한미반도체가 하락하고 있으며 JW중외제약과 KG모빌리티플랫폼, 우리금융지주, SK텔레콤도 내림세다. 동진쎄미켐과 파마리서치, 신한지주, 하나금융지주 역시 약세를 보인다. 명신산업과...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498481",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T14:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-b913bd",
+      "title": "주주환원 기대에도 밸류업 종목 차별화… 실적·자본 효율성 주목하라",
+      "description": "KB금융과 DB하이텍, 한솔케미칼, HD현대가 내림세를 보이고 있다. BGF리테일과 풍산, 현대로템, 한화시스템도 약세다. 에코프로에이치엔과 종근당, HPSP, HD현대일렉트릭 역시 하락권에 머물고 있다. 덴티움과 코미코...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498481",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T14:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-3e2c8c",
+      "title": "DB하이텍, 자동차 반도체 품질 인증 갱신…고부가 제품 확대",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 ‘IATF 16949’ 인증을 갱신했다. 전동화·전자화로 차량용 반도체 수요가 늘어나는 가운데 품질관리 체계를 기반으로 고부가 자동차용 반도체 사업을...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006396346?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T14:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-8177e9",
+      "title": "[TOP's Pick] [전자·IT] LG전자, 얼음정수 냉장고 ‘LG 스템’ 출시 外",
+      "description": "◆DB하이텍, 자동차 품질경영시스템 ‘IATF 16949’ 인증 갱신 DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 ‘IATF 16949’ 인증을 갱신하며 자동차용 반도체 분야 품질 경쟁력을 재확인. 회사는 26일...",
+      "url": "https://www.topdaily.kr/articles/112498",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T14:16:00+09:00"
+    },
+    {
+      "id": "DB증권-343848",
+      "title": "코스피 눈높이 낮춰도 \"싸다\"…증권가, 내년 반등에 무게",
+      "description": "강현기 DB증권 연구원도 코스피 선행 PER이 4.33배로 장기 평균 9.75배의 절반에 못 미친다며 지수 하단이 현재 수준에서 멀지 않을 것으로 판단했다. 다만 AI 서비스 경쟁에 따른 이용료 하락과 자본지출 확대에 따른...",
+      "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942258",
+      "source": "sports.hankooki.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T14:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-876e4b",
+      "title": "DB하이텍, 부천·상우캠퍼스 국제 인증 갱신…품질 경쟁력 강화",
+      "description": "매일일보 = 이강민 기자   |  DB하이텍이 차량용 반도체의 품질 이력을 장기간 관리하며 고부가 제품 확대에 필요한 신뢰성 확보에 힘을 싣고 있다. 국제 품질 기준을 유지하는 동시에 자체 관리 프로그램으로 제조...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2010329",
+      "source": "www.m-i.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T13:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-55f970",
+      "title": "[대한금융DB] 2026년 9월 자동차보험 손해율",
+      "description": "자동차보험 시장점유율 85% 이상을 차지하는 상위 4개사의 올 9월 자동차보험 손해율은 삼성화재 85.3%, 현대해상 86.1%, DB손해보험 83.3%, KB손해보험 85.2%를 기록했다. 4개사 모두 전년 동월 대비 개선했다....",
+      "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226250",
+      "source": "www.kbanker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T13:38:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5fdf2d",
+      "title": "글로벌 車부품사 6위 현대모비스, 차량용 반도체로 승부",
+      "description": "최근 출범한 '차량용 반도체 원팀 태스크포스(TF)'에는 현대차·현대모비스·LG전자 등 수요 기업과 LX세미콘·텔레칩스 등 팹리스, SK키파운드리·DB하이텍 등 파운드리를 비롯해 총 24개 기업·기관이 참여한다. 원팀은...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005833482?sid=103",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T13:25:00+09:00"
+    },
+    {
+      "id": "DB증권-4132c3",
+      "title": "'동전주' 퇴출 첫 시동 속, 저가주 탈출 공시 봇물…주가 출렁일 듯",
+      "description": "앞서 지난 21일에는 동국제강, 동국홀딩스, 동국씨엠 등 동국제강그룹 3개 상장사와 DB증권,GMI벤처 등 5개 상장사가 저PBR개선대책을 공시했다. 지난 20일까지 개선대책을 공시한 상장사는 한화손해보험, F&F홀딩스...",
+      "url": "http://www.nongaek.com/news/articleView.html?idxno=97243",
+      "source": "www.nongaek.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T12:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-f62cbc",
+      "title": "DB하이텍 주가, 10월 26일 장중 94,000원 3.89% 하락",
+      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 26일 오후 12시 4분 기준, 네이버페이 증권에 따르면 DB하이텍의 주가가 94,000원을 기록하며 지난 종가 97,800원 대비 3,800원(-3.89%) 하락한 상태이다....",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=558224",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T12:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e535f5",
+      "title": "DB하이텍, 부천·상우캠퍼스 IATF 16949 인증 갱신…자동차 반도체 품질...",
+      "description": "DB하이텍 CI. DB하이텍 | 서울=한스경제 고예인 기자 | DB하이텍이 26일 부천캠퍼스와 상우캠퍼스에서 실시된 IATF 16949 갱신 심사를 통과해 자동차 품질경영시스템 국제표준 인증을 유지했다. 이번 인증은 반도체...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876216",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T12:18:00+09:00"
+    },
+    {
+      "id": "DB증권-05ff19",
+      "title": "신현송·박홍근 언급한 석유 최고가격제…금리 흔들 변수 될까",
+      "description": "근원물가에 집중돼 있어 한은의 정책 경로에 큰 변동은 없을 듯하다\"고 말했다. 문홍철 DB증권 연구원은 \"물가는 결국 최종 수요 압력으로 발생하는 것인 만큼 최고가격제 여부는 결과적으로 영향이 크지 않다\"고 전했다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441094",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:52:00+09:00"
+    },
+    {
+      "id": "DB증권-f7e3c0",
+      "title": "DB증권, 내달 2일 부산 탄소감축 사업 STO 비즈니스 설명회",
+      "description": "DB증권은 11월 2일 파크하얏트 부산 2층 볼룸에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. STO는 주식, 채권, 부동산, 미술품, 한우 등 실물자산을 블록체인 기반 디지털 자산에 연동해...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282474",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b2c202",
+      "title": "잇단 해킹 공포에 사이버보험 패키지 43%↑",
+      "description": "26일 보험업계에 따르면 삼성화재·현대해상·DB손해보험·KB손해보험·메리츠화재 등 손보 5개사의 올해 상반기 사이버보험 원수보험료는 313억원으로, 지난해 같은 기간(248억원)보다 26.4% 증가했다. 신계약 건수는...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714380?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T11:38:00+09:00"
+    },
+    {
+      "id": "DB증권-912232",
+      "title": "투자할 돈도 의지도 위축…연중 최저 수준",
+      "description": "강현기 DB증권 연구원은 “코스피의 상승이 재개되기 보다는 현재의 수준에서 등락을 거듭하는 박스권이 전개될 가능성에 무게를 둔다”며 “밸류에이션이 낮은 가치주와 더불어 꾸준한 배당을 지급하는 고배당주로...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714372?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:37:00+09:00"
+    },
+    {
+      "id": "DB증권-fef8aa",
+      "title": "DB증권, 부산 탄소감축 STO 사업화 속도 낸다",
+      "description": "11월 2일 2차 설명회 개최…사업 실행 방안 공유 해양 설비 기반 토큰증권 금융모델 구축 추진 /DB증권 DB증권이 부산 해양산업의 탄소감축 실적을 활용한 토큰증권(STO) 사업화에 속도를 낸다. DB증권은 오는 11월 2일...",
+      "url": "http://www.metroseoul.co.kr/article/20261026500174",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:28:00+09:00"
+    },
+    {
+      "id": "DB증권-0aadc5",
+      "title": "덕산넵코어스, 내달 2일 국내 기관투자자 대상 온라인 IR 개최",
+      "description": "이번 행사는 DB증권의 후원으로 마련됐다. 이번 기업설명회는 그룹 컨퍼런스 형식으로 진행되며, 주요 사업 현황에 대한 설명과 함께 투자자들과의 질의응답(Q&A) 시간이 비대면으로 진행될 예정이다. 회사는 주요...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=396232",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:24:00+09:00"
+    },
+    {
+      "id": "DB증권-c9cf4b",
+      "title": "코스맥스·콜마 美법인, 애물단지서 실적 효자로",
+      "description": "DB증권은 “코스맥스 미국 법인의 올해 연간 매출이 전년 대비 53% 증가하고 영업이익은 80억원을 기록할 것”이라고 전망했다. 메리츠증권은 코스맥스 미국 법인 매출이 올해 처음으로 2000억원을 돌파하고...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714318?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ffc648",
+      "title": "DB하이텍, 차량용 반도체 품질 인증 갱신…23년간 유지",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신하며 차량용 반도체 품질 경쟁력을 강화했다. DB하이텍은 26일 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사를...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001069190?sid=105",
+      "source": "www.inews24.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T11:08:00+09:00"
+    },
+    {
+      "id": "DB증권-9ad169",
+      "title": "[더밸류 브리핑] 오늘의 증권사 소식…NH투자증권·iM증권·DB증권",
+      "description": "DB증권은 부산 해양산업의 탄소감축 사업을 토큰증권(STO) 및 실물연계자산(RWA)과 연계하는 사업 설명회를 개최할 예정이다. ◆ NH투자증권, 금융소비자보호 주간 운영…완전판매 절차 점검 NH투자증권(대표이사 신재욱...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202637",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T11:00:00+09:00"
+    },
+    {
+      "id": "DB증권-973805",
+      "title": "\"우리금융, 자본비율 개선에 주주환원 여력 커져\"<DB證>",
+      "description": "나민욱 DB증권 연구원이 26일 발간한 보고서에 따르면 우리금융의 올해 3분기 지배주주순이익은 1조492억원으로 지난해 같은 기간보다 15.7% 감소했지만 시장 예상치를 8.2% 웃돌았다. 전분기와 비교하면 1.5% 증가했다....",
+      "url": "https://www.news2day.co.kr/article/20261026500123",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:56:00+09:00"
+    },
+    {
+      "id": "DB증권-b0a784",
+      "title": "[금융계 소식] 메리츠증권·하나증권·신한투자증권·DB증권·토스",
+      "description": "메리츠증권, AI 주식 주문 서비스 출시…하나증권, DC형 장기 수익률 1위 신한투자증권, 자녀 계좌관리 개편…DB증권 STO 사업·토스 얼굴결제 확대 ▲ 메리츠증권[토요경제] 금융투자업계가 인공지능(AI)을 활용한...",
+      "url": "https://sateconomy.co.kr/news/view/1065577546126622",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:56:00+09:00"
+    },
+    {
+      "id": "DB증권-f5c3ba",
+      "title": "트럼프 힘 빠지면 코스피는 웃을까…美 중간선거 이후 증시 셈법",
+      "description": "DB증권은 미국 중간선거 이후인 11월 중순을 전후해 증시가 다시 상승 흐름을 모색할 가능성에 주목했다. 최근 미국 기술주 조정의 배경으로 AI 투자 대비 수익성에 대한 의구심과 자금 조달 부담 등을 지목하면서도 금리...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261026021121082",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:54:00+09:00"
+    },
+    {
+      "id": "DB증권-fa6700",
+      "title": "DB증권, 부산 탄소감축 토큰증권 사업 본격화…11월 2일 설명회",
+      "description": "DB증권은 오는 11월 2일 부산 파크하얏트 호텔에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. 이번 설명회는 지난 8월 열린 1차 행사에 이어 부산형 해양 탄소감축 토큰증권(STO) 및...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478569?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:49:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6c11fb",
+      "title": "DB하이텍, 반도체 위탁생산 제조 분야 국제표준 인증 갱신",
+      "description": "DB하이텍은 자동차 산업의 품질경영시스템 국제표준인 ‘IATF 16949’ 인증을 갱신했다고 26일 밝혔다. DB하이텍은 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사 통과하고 인증을 갱신 심사를...",
+      "url": "https://www.g-enews.com/view.php?ud=202610261042356212139bf6e4b2_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ea4e97",
+      "title": "9월 자동차보험 손해율 9.2%p↓…누적 손해율도 개선",
+      "description": "26일 손해보험업계에 따르면 삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손보사 4곳의 올해 1~9월 자동차보험 누적 손해율은 단순 평균 84.7%로 지난해 같은 기간보다 0.8%포인트(p) 하락했다. 특히 9월 손해율은 85....",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146914?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T10:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-505eba",
+      "title": "DB하이텍, 자동차 품질경영시스템 'IATF 16949' 인증 갱신",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신하며 자동차용 반도체 분야 품질 경쟁력을 재확인했다. DB하이텍은 26일 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478552?sid=105",
+      "source": "www.etnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:40:00+09:00"
+    },
+    {
+      "id": "DB증권-277bd8",
+      "title": "우리금융, 내년 주주환원율 50% 기대…자본 개선에도 건전성 변수",
+      "description": "DB증권은 \"올해 주주환원율을 45.1%\"로 예상했다. 우리금융도 주주환원 확대를 검토하고 있다. 곽성민 우리금융 최고재무책임자(CFO)는 지난 23일 실적발표에서 \"내년 명목 총주주환원율이 50% 이상 돼야 한다\"는...",
+      "url": "https://sateconomy.co.kr/news/view/1065573973501689",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-90dab2",
+      "title": "'SiC·GaN 차세대 전환 모멘텀' 전력반도체, 대형주·중소형주 극명한 온...",
+      "description": "파운드리 업체 DB하이텍과 반도체 공정 장비 기업 테스, 검사 장비 업체 디아이티도 약세를 보이고 있다. 이들 기업은 사업 영역과 주요 고객, 실적에 영향을 미치는 요인이 서로 다른 만큼 전력반도체 시장 확대만으로...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498397",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-06129b",
+      "title": "DB하이텍, 자동차 품질경영시스템 인증 갱신…\"차량용 반도체 경쟁력 강...",
+      "description": "DB하이텍은 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신했다고 26일 밝혔다. DB하이텍은 최근 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사 통과하고 인증을 갱신했다....",
+      "url": "https://n.news.naver.com/mnews/article/003/0014277655?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:11:00+09:00"
+    },
+    {
+      "id": "DB증권-19bc45",
+      "title": "DB증권, 다음 달 부산 탄소감축 사업 STO 비즈니스 설명회 개최",
+      "description": "DB증권은 다음 달 2일 파크하얏트 부산 2층 볼룸에서 '부산 탄소감축 사업 STO 비즈니스 2차 설명회'를 개최한다고 26일 밝혔다. STO는 주식, 채권, 부동산, 미술품, 한우 등 실물자산을 블록체인 기반 디지털 자산에 연동해...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431503?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T10:10:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e64161",
+      "title": "[테크 안테나] 삼성전자 LG전자 DB하이텍 샤오미",
+      "description": "◇DB하이텍, 자동차 품질경영시스템 'IATF 16949' 인증 갱신 DB하이텍 사옥 전경. 사진=DB하이텍 제공 DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신했다. DB하이텍은 26일 부천캠퍼스와...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418234",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:04:00+09:00"
+    },
+    {
+      "id": "DB하이텍-79b674",
+      "title": "DB하이텍, 자동차 품질경영시스템 'IATF 16949' 인증 갱신",
+      "description": "DB하이텍(000990)은 자동차 산업의 국제 품질경영시스템 표준인 '국제자동차산업전담기구(IATF) 16949' 인증을 갱신하며 자동차용 반도체 분야 품질 경쟁력을 재확인했다. DB하이텍은 26일 부천캠퍼스·상우캠퍼스에서...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009249267?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T10:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-5869ef",
+      "title": "DB하이텍, 차량용 반도체 국제 품질인증 갱신…고부가 사업 확대",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신하며 차량용 반도체 분야의 품질 경쟁력을 강화했다. 향후 자동차 산업의 전동화·전자화로 차량용 반도체의 중요성이 커지는 가운데...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594290?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:53:00+09:00"
+    },
+    {
+      "id": "DB하이텍-a0c5ed",
+      "title": "DB하이텍, 차량용 반도체 품질 인증 갱신… 23년째 유지",
+      "description": "파운드리(반도체 위탁생산) 기업 DB하이텍이 자동차 산업의 국제 품질경영시스템 인증을 갱신했다. 국내 파운드리 업계 최초로 관련 인증을 획득한 이후 23년째 유지하며 차량용 반도체 사업 확대에 필요한 품질관리...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200256?sid=105",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:51:00+09:00"
+    },
+    {
+      "id": "DB하이텍-ec218d",
+      "title": "DB하이텍, 자동차 품질경영시스템 국제 표준 인증 갱신…23년간 유지",
+      "description": "이투데이=손희정 기자 | DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 ‘IATF 16949’ 인증을 갱신하며 차량용 반도체 품질 경쟁력을 재확인했다. DB하이텍은 부천캠퍼스와 상우캠퍼스가 각각 IATF 16949 갱신...",
+      "url": "https://www.etoday.co.kr/news/view/2639946",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:42:00+09:00"
+    },
+    {
+      "id": "DB증권-421203",
+      "title": "하나금융, 3분기 순익 1.22조…증권가 \"이자마진 하락에도 선방\"",
+      "description": "26일 DB증권과 NH투자증권, SK증권이 발표한 보고서에 따르면 하나금융의 3분기 지배주주순이익은 1조2214억원으로 전년 동기 대비 7.9%, 전분기 대비 2.4% 증가했다. 시장 예상치인 1조2160억원을 소폭 웃도는...",
+      "url": "https://sateconomy.co.kr/news/view/1065573002766275",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T09:40:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cbf352",
+      "title": "DB하이텍, 차량용 반도체 품질 국제표준 심사 통과",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 ‘IATF 16949’ 인증을 갱신했다고 26일 밝혔다. DB하이텍은 이날 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신 심사를 통과했다. 인증 범위는...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714191?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:37:00+09:00"
+    },
+    {
+      "id": "DB증권-0bf7e2",
+      "title": "거래대금 회복 기대에 증권주 꿈틀…대형사·우선주 희비",
+      "description": "한화투자증권우와 DB증권, 케이프 역시 약세를 보이고 있다. 코리아에셋투자증권과 다올투자증권, NH투자증권도 하락 흐름에 동참했다. 대신증권과 한양증권, 유화증권도 내림세를 나타냈다. SK증권과 유진투자증권...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498358",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T09:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-781a96",
+      "title": "DB하이텍, 차량용 반도체 품질 인증 갱신…글로벌 경쟁력 강화",
+      "description": "DB하이텍(000990)이 국제 자동차 산업 품질경영시스템 인증을 재획득하며 글로벌 시장에서의 품질 경쟁력을 입증했다. DB하이텍은 부천캠퍼스와 상우캠퍼스가 국제 자동차 산업 품질경영시스템 표준인 ‘IATF 16949’...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004675088?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:36:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9f4c87",
+      "title": "DB하이텍, 자동차 반도체 국제 품질 인증 갱신…고부가가치 시장 공략 ...",
+      "description": "전 사업장 품질 심사 통과…'오토모티브 프로그램' 가동 아주경제=김나윤 기자 kimnayoon@ajunews.com DB하이텍 부천사업장 모습 [사진=DB하이텍] DB하이텍이 자동차 산업 국제 품질경영시스템 표준 'IATF 16949' 인증을...",
+      "url": "https://www.ajunews.com/view/20261026091649053",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:32:00+09:00"
+    },
+    {
+      "id": "DB하이텍-868d2a",
+      "title": "DB하이텍, 자동차 품질 인증 갱신…車 반도체 경쟁력 강화",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 인증을 갱신하고 글로벌 자동차 고객사의 품질 요구에 대응할 수 있는 관리 체계를 이어가고 있다. DB하이텍은 부천캠퍼스와 상우캠퍼스에서 진행한 자동차...",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055157?sid=101",
+      "source": "www.dt.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:31:00+09:00"
+    },
+    {
+      "id": "DB하이텍-6930ea",
+      "title": "DB하이텍, 차량용 반도체 품질 인증 갱신…고부가 시장 공략 속도",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 인증을 갱신하며 차량용 반도체 시장 공략에 속도를 낸다. 자동차 전동화와 전자화로 반도체의 중요성이 높아지는 가운데 품질 경쟁력을 기반으로 고부가가치 제품...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729096",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:28:00+09:00"
+    },
+    {
+      "id": "DB하이텍-abd552",
+      "title": "DB하이텍, 차량용 반도체 품질경영시스템 'IATF 16949' 인증 갱신",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신하며 자동차용 반도체 분야 품질 경쟁력을 재확인했다. DB하이텍은 26일 부천캠퍼스와 상우캠퍼스에서 각각 진행된 IATF 16949 갱신...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=640944",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:26:00+09:00"
+    },
+    {
+      "id": "DB하이텍-4c3534",
+      "title": "DB하이텍, 자동차 품질경영시스템 국제표준 인증 갱신",
+      "description": "DB하이텍은 경기 부천캠퍼스와 충북 상우캠퍼스 모두 자동차 산업 품질경영시스템 국제표준인 'IATF 16949' 갱신 심사를 통과해 인증을 갱신했다고 26일 밝혔다. 인증 범위는 반도체 웨이퍼 파운드리 제조 전...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016399690?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:20:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d01c14",
+      "title": "DB하이텍, 차량용 품질경영시스템 'IATF 16949' 인증 갱신",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 표준인 'IATF 16949' 인증을 갱신했다. DB하이텍은 부천캠퍼스와 상우캠퍼스에서 진행된 'IATF 16949' 갱신 심사를 모두 통과했다고 26일 밝혔다. 인증 범위는 반도체 웨이퍼...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005833278?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:13:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9bc8c3",
+      "title": "DB하이텍, 자동차 품질 인증 갱신…차량용 반도체 경쟁력 강화",
+      "description": "DB하이텍이 부천캠퍼스와 상우캠퍼스 모두 자동차 품질경영시스템 국제표준인 'IATF 16949' 인증을 갱신했다. DB하이텍은 26일 부천캠퍼스와 상우캠퍼스에서 진행한 IATF 16949 갱신 심사를 통과했다고 밝혔다. 인증...",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=408726",
+      "source": "www.epnc.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:12:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c34031",
+      "title": "DB하이텍, 車반도체 품질 인증 23년째 유지…고부가 제품 확대",
+      "description": "DB하이텍이 자동차 산업의 국제 품질경영시스템 인증을 갱신하며 차량용 반도체 사업 확대를 위한 품질관리 체계를 유지했다. DB하이텍은 부천캠퍼스와 상우캠퍼스에서 국제자동차산업전담기구(IATF)의...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146822?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-10-26T09:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8701c2",
+      "title": "[오너一家②] 현대해상 정경선 부사장, 부친 지분 증여로 승계 기반 강...",
+      "description": "올해 상반기 삼성화재·메리츠화재·DB손해보험의 순이익이 1조 원 안팎인 것과 비교하면 현대해상은 수익성 개선을 이어가야 하는 상황이다. 국내외 인수·합병(M&A)을 통해 사업 영역과 수익 기반을 넓히는 주요...",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524086",
+      "source": "www.ilyoseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-10-26T09:08:00+09:00"
+    },
+    {
+      "id": "DB증권-b92ff2",
+      "title": "저PBR 첫 공표 앞두고 62곳 개선계획…실행 방안은 제각각",
+      "description": "DB증권은 공시에서 \"증권사 자본 규모에 따른 양극화 심화\"를 언급하며 대형사와의 자본력 격차와 규모의 경제 부족을 주요 요인으로 꼽았다. 이를 해소하기 위해 수익 기반을 확대하고 부동산 프로젝트파이낸싱(PF)...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282414",
+      "source": "www.financialpost.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T09:00:00+09:00"
+    },
+    {
+      "id": "DB증권-fe32f5",
+      "title": "지난주 증권사 CP·전단채 15조2천472억원 발행…금주 만기 5조9천499억",
+      "description": "이어 유안타증권이 1조2천650억원, DB증권이 1조510억원을 발행했다. 직전 주간(10월 12~16일) 23개 증권사가 발행한 규모는 총 25조4천706억원으로 집계됐다. 이번 주(10월 26~30일) 26개 증권사에서 만기를 맞는...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441025",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T08:50:00+09:00"
+    },
+    {
+      "id": "DB증권-b43e40",
+      "title": "[명단 공개 앞두고 제출] 저PBR 상장사 62곳 개선안 제출… \"구조적 한계...",
+      "description": "예를 들어 금융업종의 DB증권은 증권사 자본 규모에 따른 양극화와 대형사 대비 규모의 경제 달성을 지적했고, 현대차증권은 시장 위축에 따른 투자자산 매각 지연을 언급했다. 소재 업종에서는 KG스틸이 철강...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619077",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T08:30:00+09:00"
+    },
+    {
+      "id": "DB증권-029c0d",
+      "title": "[더벨][네이밍&셰이밍 이사회 역할론] 우량 코스피 종목도 도마 위…장...",
+      "description": "대한해운은 6.0%, DB증권은 4.5%, 신도리코는 4.9%였다. 자본수익성이 낮은 기업은 장부상 순자산이 많더라도 시장에서 높은 평가를 받기 어렵다. 기업이 보유한 자기자본으로 벌어들이는 이익이 주주들이 요구하는...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610201445214240105121",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-10-26T08:22:00+09:00"
+    },
     {
       "id": "DB증권-3b3fea",
       "title": "[CEO와칭] 'IB통' 곽봉석의 3년여…DB증권, 자기자본 1조 시대 열었다",
@@ -225,15 +1098,6 @@
       "source": "www.smarttoday.co.kr",
       "subsidiary": "DB증권",
       "publishedAt": "2026-10-25T12:00:00+09:00"
-    },
-    {
-      "id": "DB손해보험-ab76df",
-      "title": "[황혼 승계③] 반도체가 부른 부자 갈등… DB남매 ‘3%p’ 안갯속",
-      "description": "핵심 계열사인 DB손해보험의 정종표 대표이사 사장 역시 수십 년간 김 창업회장과 호흡을 맞춰온 인물이다. 여기에 김 창업회장은 지난달 29일 열린 그룹 ‘AI 추진전략 보고대회’ 등 주요 공식 석상에 전면으로...",
-      "url": "https://www.asiatime.co.kr/article/20261025500030",
-      "source": "www.asiatime.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-10-25T11:36:00+09:00"
     },
     {
       "id": "DB하이텍-ab76df",
