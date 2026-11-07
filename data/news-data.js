@@ -1,7 +1,61 @@
-// 자동 생성 파일 — 2026-11-07
+// 자동 생성 파일 — 2026-11-08
 const NEWS_DATA = {
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-08",
   "articles": [
+    {
+      "id": "DB증권-2d4757",
+      "title": "[K-방산은 지금] 곳간 찼는데 실속 줄었다… 방산 4사 영업익 '뚝'",
+      "description": "서재호 DB증권 연구원은 한화에어로스페이스의 3분기 실적 부진을 주요 수출 물량의 납품 공백과 일회성 비용 등이 겹친 결과로 분석했다. 폴란드 K9 자주포 생산 과정에서 선투입된 비용 부담도 4분기 물량 인도와...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730895",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-08T07:00:00+09:00"
+    },
+    {
+      "id": "DB저축은행-eb0c00",
+      "title": "12개월 최고 연 4.13%…상상인플러스저축은행 'e-정기예금'[이주의 저축...",
+      "description": "이어 CK저축은행의 '정기예금(인터넷,모바일,비대면)'과 DB저축은행의 'DreamBig E-정기예금', 'DreamBig 정기예금', 'M-DreamBig 정기예금', HB저축은행의 'e-정기예금'과 '스마트정기예금'이 4.10%의 세전 이자율을 제공했다....",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026110623200887917c96e79780_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-08T06:02:00+09:00"
+    },
+    {
+      "id": "DB증권-45aecc",
+      "title": "코스피 급락에 증권가 \"낙폭 과도\"…추가 하락 전망은 엇갈려",
+      "description": "이미지=아이클릭아트-9개 증권사 리서치센터장, AI 투자 위축 우려 진단 -삼성증권 \"5,000선 지지\"…DB증권 4,800~5,500선 전망 -신한투자증권, 외국인 매도 둔화 구간 4,500~4,800선 제시 -17일 엔비디아 실적·美 데이터센터...",
+      "url": "http://www.kjdaily.com/article.php?aid=1794064280691509276",
+      "source": "www.kjdaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-08T00:14:00+09:00"
+    },
+    {
+      "id": "DB자산운용-15951d",
+      "title": "\"반도체 슈퍼사이클 올라타자\" 삼성그룹·글로벌 메모리 ETF 2종 출격",
+      "description": "8일 금융권에 따르면 한국거래소는 지난 3일 한국투자신탁운용의 'ACE 글로벌메모리반도체TOP3채권혼합액티브'와 DB자산운용의 '마이티 삼성그룹테크TOP3&하드웨어'를 유가증권시장에 신규 상장했다. 이번 상장으로...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109257",
+      "source": "www.theguru.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-08T00:02:00+09:00"
+    },
+    {
+      "id": "DB저축은행-1d0f04",
+      "title": "“속만 타는 주식, 이제 손 떼고 싶어요”…수천억 뭉칫돈 몰린 고금리...",
+      "description": "페퍼저축은행의 ‘페퍼스 파킹통장5’는 별도 우대조건 없이 5000만원 이하에 연 3.0%, DB저축은행의 ‘DreamBig 보통예금’은 1억원 이하에 연 3.3%를 적용한다. 애큐온저축은행은 첫 거래 고객에게 최고 연 4.0%의...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760367?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-07T15:34:00+09:00"
+    },
+    {
+      "id": "DB저축은행-91d4a2",
+      "title": "저축은행에 무슨 일이…연 4% 예금, 두 달 새 20→134개",
+      "description": "DB저축은행은 기본금리 연 4.00%의 정기예금을 판매하고 있다. HB저축은행은 연 4.05%, JT저축은행은 연 4.00%의 금리를 제공한다. NH저축은행의 비대면 정기예금과 OK저축은행의 OK e-정기예금 금리도 각각 연 4.00%, 4.10%다....",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026110614091622419",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-07T13:14:00+09:00"
+    },
     {
       "id": "DB증권-5227e2",
       "title": "에쓰오일·SK이노, 일주일 새 두 자릿수↓…유가 급락에 정유주 '휘청'",
@@ -48,12 +102,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-07T01:45:00+09:00"
     },
     {
-      "id": "DB손해보험-55b5da",
+      "id": "DB증권-55b5da",
       "title": "[보험업계기상도]미래에셋생명 유출 확대 ‘비’…한화손보 독점권 확보...",
       "description": "DB손해보험은 DB증권 주식을 추가로 장내매수했다. 기존 계열사 지분을 추가 취득한 사안으로 ‘구름’을 적용했다. 현대해상은 발달장애·발달지연 아동 지원사업 ‘아이마음 탐사대’의 최종 단계 지원 대상을 당초...",
       "url": "https://www.nspna.com/news/?mode=view&newsid=834802",
       "source": "www.nspna.com",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB증권",
       "publishedAt": "2026-11-06T21:28:00+09:00"
     },
     {
@@ -63,15 +117,6 @@ const NEWS_DATA = {
       "url": "https://www.nspna.com/news/?mode=view&newsid=835107",
       "source": "www.nspna.com",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-06T21:28:00+09:00"
-    },
-    {
-      "id": "DB증권-55b5da",
-      "title": "[보험업계기상도]미래에셋생명 유출 확대 ‘비’…한화손보 독점권 확보...",
-      "description": "DB손해보험은 DB증권 주식을 추가로 장내매수했다. 기존 계열사 지분을 추가 취득한 사안으로 ‘구름’을 적용했다. 현대해상은 발달장애·발달지연 아동 지원사업 ‘아이마음 탐사대’의 최종 단계 지원 대상을 당초...",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=834802",
-      "source": "www.nspna.com",
-      "subsidiary": "DB증권",
       "publishedAt": "2026-11-06T21:28:00+09:00"
     },
     {
@@ -190,15 +235,6 @@ const NEWS_DATA = {
       "source": "www.sisaweek.com",
       "subsidiary": "DB증권",
       "publishedAt": "2026-11-06T16:16:00+09:00"
-    },
-    {
-      "id": "DB손해보험-313f56",
-      "title": "'실적 반등' DB증권, 저PBR 여전...기업가치 '시험대' 올랐다",
-      "description": "교보·한화 등과 대주주 지원 '격차' 부각 그런 가운데 최대주주인 DB손해보험(이하 DB손보)의 자본지원 방식도 저평가에 영향을 주는 변수로 거론된다. DB손보는 DB증권 주식을 장내매수하며 지분을 확대하고 있지만...",
-      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258345",
-      "source": "www.insightkorea.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-06T16:08:00+09:00"
     },
     {
       "id": "DB증권-313f56",
