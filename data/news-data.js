@@ -1,7 +1,1258 @@
-// 자동 생성 파일 — 2026-11-16
+// 자동 생성 파일 — 2026-11-17
 const NEWS_DATA = {
-  "lastUpdated": "2026-11-16",
+  "lastUpdated": "2026-11-17",
   "articles": [
+    {
+      "id": "DB손해보험-e56997",
+      "title": "살짝 긁힌 범퍼 통째로 교체…과잉 정비에 차 사고 줄어도 건당 보험금...",
+      "description": "17일 보험업계에 따르면 대형 손해보험사 4곳(삼성화재·현대해상·KB손해보험·DB손해보험)의 올해 상반기 자동차보험 물적 담보 지급보험금은 4조940억원이었다. 지난해 같은 기간(4조288억원)보다 652억원(1.6%) 많다....",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724270?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T07:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ac1f6e",
+      "title": "신계약 판매 엇갈린 DB·메리츠…3분기 CSM 배수 하락",
+      "description": "DB손보, 누적 판매 약 18% 감소…배당재원 고려한 규모 관리 메리츠, 누적 판매 15.6% 증가…10월 약 2% 가격 인상 설명 DB손해보험(왼쪽), 메리츠화재 사옥./각사 DB손해보험과 메리츠화재의 누적 신계약 판매 흐름은...",
+      "url": "http://www.metroseoul.co.kr/article/20261117500012",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T07:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-271f4d",
+      "title": "과잉청구 탓? 車 사고 줄었는데 보험금 지급 늘었다",
+      "description": "오늘(17일) 보험업계에 따르면 대형 손해보험사 4곳(삼성화재·현대해상·KB손해보험·DB손해보험)의 올해 상반기 자동차보험 물적 담보 지급보험금은 4조940억원으로, 작년 동기(4조288억원)보다 652억원(1.6...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000544107?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T07:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-55d7e2",
+      "title": "손보사 3분기 투자손익 일제히 감소…현대·KB 적자, 삼성·DB 누적은 증...",
+      "description": "현대해상과 KB손해보험은 투자 부문에서 마이너스를 기록했고, 메리츠화재와 DB손해보험도 지난해 동기 대비 큰 폭의 감소세를 보였다. 보험손익은 개선됐지만 자산운용 실적에 따라 순이익 흐름이 달라졌다....",
+      "url": "https://www.socialvalue.kr/news/view/1065598917972437",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T07:06:00+09:00"
+    },
+    {
+      "id": "DB저축은행-098998",
+      "title": "하나은행 대출 브랜드평판 1위…SBI저축은행·국민은행 맹추격",
+      "description": "이 밖에 모아저축은행, 우리저축은행, BNK저축은행, 대한저축은행, 페퍼저축은행, 한화저축은행, DB저축은행, 상상인저축은행, 동양저축은행, 키움저축은행, 예가람저축은행, 애큐온저축은행, JT친애저축은행...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504781",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-17T07:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-91580c",
+      "title": "현대해상, KB손보 제치고 손보 4위로…보험영업이 바꾼 중위권 판도",
+      "description": "같은 기간 DB손해보험은 10.5%, 삼성화재는 4.6% 늘었고 메리츠화재는 6.8% 줄었다. ■ 현대해상, 보험손익 확대에도 분기 순익 9.5%↓ 양사의 격차는 보험손익에서 벌어졌다. 현대해상의 누적 보험손익은...",
+      "url": "https://www.news2day.co.kr/article/20261116500379",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T06:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5f8122",
+      "title": "자동차 사고 줄었는데 보험금은 늘었다",
+      "description": "17일 보험업계에 따르면 삼성화재·현대해상·KB손해보험·DB손해보험 등 대형 손해보험사 4곳이 올해 상반기 자동차보험 물적담보 사고로 지급한 보험금은 4조940억원으로 집계됐다. 지난해 같은 기간 4조288억원보다...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315484",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T06:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f6cb26",
+      "title": "[보험사의 AI 활용법]신속 심사ㆍ민원예방 효과도 탁월",
+      "description": "DB손해보험은 지난 9월 업계 최초로 자동차보험 분야의 첨단안전장치인 ADAS AI 자동화 서비스를 출시했다. 기존에는 고객이 제출한 증빙 ADAS 이미지를 차례로 확인해야 함에 따라 판독 소요시간이 길어지고, 저화질...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151145522590101",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T06:40:00+09:00"
+    },
+    {
+      "id": "DB증권-84be72",
+      "title": "중소형 증권사 8곳 중 6곳 이익 '반토막'…평가손실에 비용 부담 겹쳐",
+      "description": "19일 금융투자업계에 따르면 3분기 실적을 발표한 중소형 증권사 8곳(교보·한화투자·유안타·LS·현대차·우리투자·iM·DB증권)의 연결 기준 당기순이익 합계는 약 1170억원으로 집계됐다. 전분기(약 3276억원)보다 64....",
+      "url": "http://www.metroseoul.co.kr/article/20261117500001",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-17T06:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-86304c",
+      "title": "車사고 줄었지만 건당 보험금은 4.4% 증가",
+      "description": "17일 보험업계에 따르면 삼성화재·현대해상·KB손해보험·DB손해보험 등 대형 손해보험사 4곳의 올해 상반기 자동차보험 물적담보 지급보험금은 4조940억원으로 지난해 같은 기간(4조288억원)보다 652억원(1.6...",
+      "url": "http://www.fins.co.kr/news/articleView.html?idxno=110580",
+      "source": "www.fins.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T06:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8713b1",
+      "title": "[CSM 성적표] 5대 손보사, 60兆 돌파…메리츠만 신계약 증가",
+      "description": "17일 각 보험사가 발표한 경영실적을 종합하면 삼성화재, DB손해보험, 메리츠화재, 현대해상, KB손해보험 등 5개 대형 손보사의 올해 9월 말 장기보험 CSM 잔액은 61조2013억원으로 지난해 12월 말...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313719",
+      "source": "www.fetv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T06:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bb8c7f",
+      "title": "상반기 車사고 줄었는데…물적 담보 건당 지급보험금 4.4%↑",
+      "description": "17일 보험업계에 따르면 대형 손해보험사 4곳(삼성화재·현대해상·KB손해보험·DB손해보험)의 올해 상반기 자동차보험 물적 담보 지급보험금은 4조940억원으로, 작년 동기(4조288억원)보다 652억원(1.6%) 증가했다. 같은...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016445218?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T05:55:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d3cb20",
+      "title": "[이코노 브리핑] 카뱅, 애플페이 서비스… 국내 2번째로 외",
+      "description": "DB손보, 인터넷가입전용 암보험 출시 DB손해보험이 주요 암 치료비를 보장하는 인터넷가입 전용 ‘참좋은암보험’(미니암플랜)을 출시했다고 16일 밝혔다. 이번 상품은 DB손보의 첫 인터넷 전용 미니 암보험으로, 암...",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175683?sid=101",
+      "source": "www.segye.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T05:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2a80ba",
+      "title": "DB손보, 인터넷 전용 '참좋은암보험 미니암플랜' 출시",
+      "description": "DB손해보험 인터넷 전용 암보험 안내 이미지. 사진=DB손해보험 DB손해보험은 인터넷으로 가입하는 '참좋은암보험(미니암플랜)'을 지난 1일 출시했다고 17일 밝혔다. 암 주요 치료비와 기타피부암·갑상선암 주요 치료비...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=151972",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T01:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d36c4b",
+      "title": "동부제철 위기때 받은 ‘김준기 담보’…그 회사 팔렸는데도 잡고 있는...",
+      "description": "동부제철이 유동성 위기에 빠지자 김 회장은 DB하이텍·DB손해보험 등 계열사 주식과 자택 등을 산은에 담보로 제공했다. 당시엔 1000억원 남짓이었으나 현재 가치는 1조원이 넘는 것으로 알려졌다. 상황이 꼬인 것은...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565620?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-17T00:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-d36c4b",
+      "title": "동부제철 위기때 받은 ‘김준기 담보’…그 회사 팔렸는데도 잡고 있는...",
+      "description": "동부제철이 유동성 위기에 빠지자 김 회장은 DB하이텍·DB손해보험 등 계열사 주식과 자택 등을 산은에 담보로 제공했다. 당시엔 1000억원 남짓이었으나 현재 가치는 1조원이 넘는 것으로 알려졌다. 상황이 꼬인 것은...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565620?sid=101",
+      "source": "www.joongang.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-17T00:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8125be",
+      "title": "[업앤다운]보험주 7종목 상승…DB손보↑·서울보증보험↓",
+      "description": "서울보증보험은 4.69% 내려 4만650원, 전거래일 상승에서 하락 전환 DB손해보험은 7.33% 올라 최고 상승, 현대해상은 상승 전환 NSP 보험 주요 10종목에서 상승 종목이 전거래일 대비 5개에서 7개로 늘어난 가운데...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=836381",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T21:28:00+09:00"
+    },
+    {
+      "id": "DB증권-3864e4",
+      "title": "한국거래소, 인텔릭스·클러쉬 코스닥 상장심사 접수",
+      "description": "상장주선인은 DB증권이다. 인텔릭스의 2025년 매출액은 620억1900만원, 영업이익은 97억7500만원, 순이익은 97억7100만원이다. 현재 자본금은 16억800만원이며 액면가는 500원이다. 클러쉬는 하루 뒤인 12일 신청서를...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504752",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T19:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-317e7d",
+      "title": "보험사 해외자산 두 배로…성장 이끈 건 은행·증권 인수",
+      "description": "DB손해보험은 지난 5월 미국 특화보험사 포테그라 지분 100% 인수를 16억5000만달러 규모로 마무리했다. 포테그라는 인수 완료 당시 기존 경영진과 판매망, 보험 인수심사 원칙을 유지하며 독립적으로 운영할 방침을...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=152021",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T19:28:00+09:00"
+    },
+    {
+      "id": "DB증권-f10ea5",
+      "title": "DB증권, IB 손실 줄어도 '적자'…3Q 순익 80%대 급감",
+      "description": "DB증권. [그래픽=황민우 기자] DB증권의 IB 부문이 전분기 대비 개선된 실적을 보였지만 여전히 적자였다. 당기순이익은 80%대 급감했다. 16일 DB증권 관계자는 더리브스와 통화에서 \"IB 부문 수익이 하락한 이유는...",
+      "url": "https://www.tleaves.co.kr/news/articleView.html?idxno=10156",
+      "source": "www.tleaves.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T19:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0afd3e",
+      "title": "LH 재산보험 입찰 담합에 손해보험사 최종 승소",
+      "description": "공정거래위원회는 지난 2022년 4월 KB손해보험, 삼성화재, 한화손보, 흥국화재, DB손해보험, MG손해보험 등 7개 보험사와 보험대리점 등에 과징금 17억6천400만원을 부과하고 같은해 12월 보험회사와 직원을 검찰에...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445031",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T19:18:00+09:00"
+    },
+    {
+      "id": "DB증권-48f43e",
+      "title": "DB證, WM 벌어들인 이익 IB가 상쇄…기업금융 적자 전환",
+      "description": "IB부문 366억원 흑자→2억 적자…3Q 순이익 80%↓ DB증권의 수익성이 기업금융(IB) 부문 부진으로 악화됐다. 자산관리(WM) 부문은 흑자 전환에 성공했지만 IB 부문이 적자로 돌아서며 실적 개선 효과를 상쇄했다....",
+      "url": "https://dealsite.co.kr/articles/172867",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T19:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-466e54",
+      "title": "[KLPGA-KPGA 결산-장타 랭킹]장타와 상금과의 관계는?",
+      "description": "305.73야드로 장타 랭킹 4위인 김홍택(DB손해보험)은 2억8771만원으로 상금랭킹 16위를 마크했다. 305.72야드로 장타랭킹 5위 최승빈(CJ)은 2억1887만원으로 상금 랭킹 26위에 랭크됐다. 장타자로 잘 알려진 정찬민...",
+      "url": "https://www.g-enews.com/view.php?ud=202611161833304164daecd3dad5_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T18:44:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e2f010",
+      "title": "\"호남 반도체 착공시 3년 내 조성 가능…용수 재활용 높여야\"",
+      "description": "2022년부터 호남권 반도체 산단 조성을 제안한 이 작가는 삼성전자 반도체 사업부 출신으로 모토로라 코리아와 DB하이텍, STM 등 반도체 분야서 근무했다. 그는 해외 각국도 반도체 산단을 분산 배치하는 사례를...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009292354?sid=102",
+      "source": "www.news1.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-16T18:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-44cf5b",
+      "title": "교보생명, 악사손보 인수 '장고'…수익성이 변수",
+      "description": "실제 올해 1~8월 삼성화재·현대해상·DB손해보험·KB손해보험 등 대형 손보사 4곳의 자동차보험 누적 손해율은 평균 84.7%를 기록했다. 악사손보의 자동차보험 손해율은 85.4%(2023년), 85.6%(2024년), 87.6%(2025년)으로 최근...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326165",
+      "source": "www.pointdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T18:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4d9d40",
+      "title": "DB손보, 암 치료비 보완하는 인터넷 전용 '미니암보험' 출시",
+      "description": "DB손해보험은 인터넷가입전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 참좋은암보험은 암 생존율 상승과 치료 장기화에 따른 환자의 경제적 부담을 고려해 설계한 DB손보의 첫 미니암보험이다. 암 진단 시...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93847",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6fa536",
+      "title": "[보험 뉴스브리핑] DB손보 '참좋은암보험' 출시",
+      "description": "□ DB손보 '참좋은암보험' 출시 DB손해보험은 '참좋은암보험(미니암플랜)'을 출시했다. 이 보험은 DB손보가 처음 선보이는 인터넷 가입 전용 미니 암보험으로 암 진단 이후 발생하는 치료비 부담을 줄이기 위해...",
+      "url": "https://www.asiatime.co.kr/article/20261116500424",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:54:00+09:00"
+    },
+    {
+      "id": "DB증권-a16e83",
+      "title": "[매크로 인사이트] 문홍철 팀장 “헤지펀드 숏 포지션 역사적 하단 근접...",
+      "description": "문홍철 DB증권 자산전략팀장은 16일 방송된 한국경제TV 대표 경제 프로그램 ‘마켓인사이트’(앵커 김호정)에 출연해 당초 시장 안정 시점으로 지목했던 11월 15일 전후의 수급 변곡점 지연 배경, 최근 30년간 월별 테마...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272931?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:48:00+09:00"
+    },
+    {
+      "id": "DB증권-10ff99",
+      "title": "DB증권, 3분기 영업익 74% 감소…위탁매매·운용 수익 둔화",
+      "description": "3분기 영업이익 116억원…순이익 69억원으로 80% 감소 1~3분기 누적 순이익 778억원…전년 동기 대비 6.2% 줄어 고객자산 126조4천억원…공모채 2천억원 발행, 조달 다변화 【 청년일보 】 DB증권의 올해 3분기...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=229926",
+      "source": "www.youthdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:48:00+09:00"
+    },
+    {
+      "id": "DB증권-f11ea1",
+      "title": "인텔릭스·클러쉬, 코스닥 상장 예비심사 신청",
+      "description": "DB증권이 상장주선인이다. 클러쉬는 엔터프라이즈 AX(인공지능 전환) 풀스택 플랫폼 '엑셀레온'(AXLEON) 개발 업체다. 지난해 매출액 374억원, 영업이익은 13억원을 기록했으며, NH투자증권이 상장주선인이다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016444912?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:44:00+09:00"
+    },
+    {
+      "id": "DB증권-79db12",
+      "title": "DB증권, 3분기 누적 영업이익 893억원…전년比 6.2% 감소",
+      "description": "DB증권이 3분기 누적 영업이익으로 전년동기 대비 줄어든 893억원을 거둬들였다. DB증권은 공시를 통해 올해 3분기 누적 연결기준 영업이익 893억원, 당기순이익 778억원을 기록했다고 16일 밝혔다. 주식시장 침체로...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194717",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:38:00+09:00"
+    },
+    {
+      "id": "DB증권-456b67",
+      "title": "DB증권, 3분기 순익 79% 급감…충당금 전입 5배 늘어",
+      "description": "DB증권이 올해 3분기까지 누적 기준으로 지난해와 비슷한 수준의 이익을 유지했다. 위탁매매 수수료가 1년 새 두 배 이상 늘어난 덕분이다. 다만 3분기만 떼고 보면 사정이 다르다. 분기 순이익은 전년 동기의...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000093337?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:35:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3abdb9",
+      "title": "[보험 NOW] DB손보·KB손보·동양생명·한화금융",
+      "description": "■ DB손보, 인터넷 전용 '미니암보험' 출시…기존 암보험 치료비 보완 DB손해보험이 기존 암보험의 진단비 중심 보장을 보완할 수 있는 인터넷 가입 전용 미니암보험을 선보였다. DB손보는 주요 암 치료비를 보장하는...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194714",
+      "source": "www.wikileaks-kr.org",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:34:00+09:00"
+    },
+    {
+      "id": "DB증권-887237",
+      "title": "DB증권, 3분기 순익 80% 급감...수수료익 증가에도 수익성 '흔들'",
+      "description": "DB증권이 올해 3분기 수수료 수익 증가에도 불구하고 금융상품 관련 손실과 판매관리비 부담이 확대되면서 수익성이 크게 악화된 것으로 나타났다. 분기 순이익이 전년 동기 대비 80% 이상 감소한 가운데 영업이익...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258998",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T17:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-96985a",
+      "title": "[보험사 풍향계] DB손해보험, 인터넷 전용 미니암보험 출시 外",
+      "description": "◇DB손해보험, 인터넷 전용 미니암보험 출시 DB손해보험이 암 환자(가족)의 치료비 부담을 덜어주는 보험상품을 선보였다. 의료기술 발달로 생존률이 높아지면서 장기치료에 따른 비용 증가에 착안한 셈이다. 16일...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261116026240390",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1a0e61",
+      "title": "암 진단비 100만원, 표적항암치료비 5000만원…DB손보 '미니암보험', 암...",
+      "description": "DB손해보험이 16일 출시한 인터넷 가입 전용 '참좋은암보험(미니암플랜)'은 이러한 변화를 반영한 상품이다. 암 진단비보다 주요 치료비 보장에 무게를 두고 기존 암보험에서 부족한 보장을 추가할 수 있도록 구성했다....",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=104609",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-862a1f",
+      "title": "DB손해보험, 온라인 전용 미니암보험 출시… 치료비 보장에 초점",
+      "description": "이미지/ DB손보 제공 DB손해보험이 암 진단 이후 발생하는 장기적인 치료비 부담에 대비할 수 있는 온라인 전용 보험상품을 선보였다. 기존 암보험의 진단비 보장을 보완하고 실제 치료 과정에서 필요한 비용을 지원하는...",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159193",
+      "source": "www.koreaittimes.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-50e67e",
+      "title": "손보 5개사 보험손익 1조 늘었는데…신계약 CSM 18% 감소",
+      "description": "16일 보험업계에 따르면 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 대형 손보사 5곳의 올해 3분기 누적 보험손익은 각사 발표 기준 총 5조4152억원으로 집계됐다. 지난해 같은 기간보다 1조원 넘게...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903247",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6b6a72",
+      "title": "DB손해보험, 인터넷 전용 '참좋은암보험' 출시",
+      "description": "［뉴시안= 박성하 기자］DB손해보험이 기존 암보험 가입자도 추가로 가입할 수 있는 인터넷 전용 암보험 '미니암플랜'을 내놨다. 일회성 진단비 위주인 기존 암보험이 놓치기 쉬운 치료비 보장을 보완하는 상품이다....",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101358",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7c5b1e",
+      "title": "DB손보, 암 진단비 넘어 치료비 보장…온라인 전용 미니암보험 출시",
+      "description": "DB손해보험이 암 진단비보다 실제 치료 과정에서 발생하는 비용 보장에 초점을 맞춘 인터넷 전용 미니암보험을 출시했다. ▲ DB손해보험이 출시한 인터넷 가입 전용 암보험 안내 시각물. [DB손해보험 제공] DB손보는...",
+      "url": "https://www.kpinews.kr/newsView/1065597684776031",
+      "source": "www.kpinews.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:07:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c08dcc",
+      "title": "DB손보, 치료비 보장 강화한 인터넷가입전용 미니 암보험 출시",
+      "description": "DB손해보험은 주요 암 치료비를 보장하는 인터넷 가입 전용 상품 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 이번 상품은 암 주요치료비, 기타피부암·갑상선암 주요치료비, 항암방사선·약물치료비...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=326945",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-403335",
+      "title": "투자에 갈린 손보 5사 실적···삼성·현대·KB 순익 줄고 DB·한화 늘어",
+      "description": "반면 DB손해보험과 한화손해보험은 장기보험에서 늘어난 이익으로 투자 부진을 만회해 분기 순이익이 두 자릿수 증가했다. 1~9월 누적 기준으로는 5곳 가운데 KB손보만 순이익이 줄었다. 16일 각사 공시와 실적...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261217",
+      "source": "www.womaneconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T17:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-97a221",
+      "title": "[금주의 금융 톡톡] 보험 본업은 선방, 투자손익은 희비… 삼성·한화·...",
+      "description": "삼성생명, 투자손익 증가와 자회사 실적 개선으로 순이익 26.9% 증가 한화생명, 보장성보험 효과로 보험손익 176% 증가… 투자손익은 적자 삼성화재, 보험·투자손익 동반 증가… 캐노피우스 해외사업 확대 DB손해보험...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261751",
+      "source": "www.mediawatch.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aa71a5",
+      "title": "DB손보, 인터넷전용 미니암보험 '참좋은암보험' 출시",
+      "description": "DB손해보험은 주요 암 치료비를 보장하는 인터넷 가입 전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. DB손보가 처음 선보이는 인터넷 전용 미니 암보험이다. 암 주요 치료비를 비롯해 기타 피부암...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005843301?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:45:00+09:00"
+    },
+    {
+      "id": "DB손해보험-53d183",
+      "title": "외국인 1.4조 매도에 코스피 3.59% 급락···5100선 턱걸이",
+      "description": "DB손해보험(7.33%), 삼양식품(6.20%), HMM(3.26%)도 강세를 보였다. 미국 증시의 반도체주 약세가 국내 증시에 그대로 전해진 것으로 파악된다. 13일(현지시각) 뉴욕증시에서 다우존스30산업평균지수는 0.10...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719583",
+      "source": "www.newsfreezone.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a771f1",
+      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 동반 급락…삼양식...",
+      "description": "DB손해보험과 삼성화재, 삼성카드, JB금융지주도 상승했다. 금리 환경과 금융지주사의 이익 개선, 주주환원 확대 기대 등이 금융주 투자심리에 영향을 미친 것으로 풀이된다. 통신주에서는 SK텔레콤과 KT, LG유플러스...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504674",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:40:00+09:00"
+    },
+    {
+      "id": "DB증권-cc50e0",
+      "title": "안재용 SK바이오사이언스 사장, 글로벌 '프리미엄 백신' 시장 정조준",
+      "description": "신영증권 정유경 연구원은 2028년 영업이익 190억원을, DB증권 이명선 연구원은 610억원을 예상했다. SK바이오사이언스 측은 \"자체 백신 사업의 성장과 IDT의 글로벌 생산 역량을 바탕으로 기존 사업의 수익성 개선을...",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258984",
+      "source": "www.insightkorea.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:38:00+09:00"
+    },
+    {
+      "id": "DB증권-b9e8ca",
+      "title": "DB증권, 올해 3분기 순익 69억원, 전년比 80% 급감",
+      "description": "DB증권은 올해 연결 기준 3분기 당기순이익이 69억원으로 지난해 같은 기간보다 80.56% 감소했다고 16일 공시했다. 같은 기간 매출액(영업수익)은 9766억원으로 149.14% 늘었지만 영업이익은 73.79% 줄어든 116억원을...",
+      "url": "https://n.news.naver.com/mnews/article/243/0000105750?sid=101",
+      "source": "economist.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ad6bbf",
+      "title": "보험으로 웃은 손보사, 투자에서 갈렸다···삼성화재만 나홀로 성장",
+      "description": "16일 금융권에 따르면 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 국내 주요 손보사 5곳의 올해 3분기 누적 별도 기준 당기순이익은 5조8406억원으로 집계됐다. 지난해 같은 기간 5조5245억원보다 5.7...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=159613",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:28:00+09:00"
+    },
+    {
+      "id": "DB증권-9e119f",
+      "title": "DB증권, 3분기 누적 순이익 전년比 6.2% 감소",
+      "description": "서울 영등포구 여의도 DB증권 사옥. 사진=김선재 기자 한국금융경제신문=양지훈 기자 | DB증권이 3분기까지 778억원의 순이익을 거뒀다. 주식시장 침체에 따른 위탁매매와 운용 부문 수익 감소로 전년 동기 대비 수익성이...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668207",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:28:00+09:00"
+    },
+    {
+      "id": "DB증권-5a6ecc",
+      "title": "DB증권, 3분기 순익 69억원…전년比 80% 감소",
+      "description": "DB증권의 3분기 순이익이 1년 전의 5분의 1 수준으로 내려앉았다. DB증권은 연결 기준 올해 3분기 당기순이익이 69억원으로 집계됐다고 16일 공시했다. 전년 동기(356억원)보다 80.6% 줄었고, 직전 분기(404억원)와...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202611160195",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8fdf83",
+      "title": "코스피 3.59% 급락 5100선 턱걸이…삼성전자·SK하이닉스 하락",
+      "description": "보험주에서는 DB손해보험과 삼성화재가 각각 7.33%, 2.46% 상승했다. HMM은 해상운임 상승 효과 속에 3.26% 올랐다. HMM의 3분기 영업이익은 1조3947억원이었다. 업종 지수로 보면 운송·창고가 1.67%, 보험이 1.78...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625537",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:24:00+09:00"
+    },
+    {
+      "id": "DB증권-25982b",
+      "title": "DB증권, 3분기 순이익 69억원…전분기比 82.9%↓",
+      "description": "DB증권이 올해 3분기 연결 기준 당기순이익 69억원을 기록했다. 전분기보다 80% 넘게 감소한 수치로 영업이익도 큰 폭으로 줄었다. 다만 고객자산은 증가세를 이어가며 수익 기반을 확대했다. 16일 DB증권에 따르면...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026111614120971057",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d6d41f",
+      "title": "포테그라 첫 연결 효과 490억원…DB손보, 삼성화재와 순익 경쟁",
+      "description": "DB손해보험이 삼성화재와의 분기 순이익 격차를 1년 만에 4분의 1 수준으로 줄였다. 미국 특수보험사 포테그라가 연결 실적에 처음 보탠 490억원에 장기보험과 자동차보험의 손익 개선이 더해진 결과다. 삼성화재는...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369845",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-102864",
+      "title": "코스피, 반도체 투톱 급락에 5100선 턱걸이...코스닥 660선 후퇴",
+      "description": "DB손해보험은 1만2000원(7.33%) 상승한 17만5600원에 거래를 마쳤다. 한화손해보험은 300원(5.01%) 오른 6290원, 현대해상은 1600원(4.42%) 상승한 3만7800원에 마감했다. 삼성화재도 1만3000원(2.46%) 오른 54만2000원을...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504636",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-69fbf7",
+      "title": "코스피 3%대 급락하며 5100선 후퇴…외국인 1.7조 순매도",
+      "description": "삼양식품(6.20%), KT&G(2.78%), DB손해보험(7.33%), 삼성화재(2.46%)가 올랐다. 3분기 영업이익 1조3947억원을 낸 HMM도 3.26% 상승했다. 기계·장비(-4.02%), 의료·정밀기기(-3.94%), 건설(-2.44%)은 하락했다. 이 가운데...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202611160186",
+      "source": "www.sentv.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a0d4ce",
+      "title": "코스피 3%대 급락…외국인 1조7000억원 매도에 AI·반도체주 직격탄",
+      "description": "보험주 가운데 DB손해보험은 7.33%, 삼성화재는 2.46% 상승했다. 해상운임 강세와 호실적에 힘입어 HMM도 3.26% 오름세를 나타냈다. KB금융 역시 1.64% 상승하며 금융주의 강세 흐름을 이끌었다. 반면 기계·장비 업종은 4.02...",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=466407",
+      "source": "www.queen.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T16:00:00+09:00"
+    },
+    {
+      "id": "DB증권-66da9f",
+      "title": "리튬값 4분기 들어 35% 넘게 하락…K배터리 수익성 변수로",
+      "description": "안회수 DB증권 연구원은 “전기차와 달리 ESS는 리드 타임이 짧기 때문에 메탈(광물) 가격과 판가가 연동되지 않은 구조일 때가 많다”며 “리튬 가격이 하락하면 고정된 판가에서 셀 기업들의 원가 부담은 경감되고...",
+      "url": "https://www.etoday.co.kr/news/view/2648729",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T16:00:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c00bb3",
+      "title": "[거래소 외국인] 삼성전자·SK하이닉스 대거 팔았다…SK스퀘어는 집중 ...",
+      "description": "대덕전자와 한미반도체, 디아이, DB하이텍 등 반도체 관련주도 외국인 순매수 명단에 이름을 올렸다. 대덕전자는 반도체 패키지용 기판과 인쇄회로기판(PCB)을 생산하는 기업으로, 고성능 반도체와 첨단 패키징 시장...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504644",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-16T16:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7be011",
+      "title": "[마감시황] 코스피, 190.03포인트(-3.59%) 내린 5100.50 마감",
+      "description": "테마별로는 DB손해보험(+7.33%), 한화손해보험(+5.01%), 현대해상(+4.42%) 등 손해보험주와 한진칼(+5.90%), 제주항공(+5.55%), 에어부산(+1.95%) 등 항공사주의 강세가 두드러졌다. 코스닥도 코스피와 더불어 상승...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211469",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:58:00+09:00"
+    },
+    {
+      "id": "DB증권-08967f",
+      "title": "DB증권, 3분기 영업익 116억원…전년대비 74%↓",
+      "description": "DB증권 로고. 연합뉴스. | 서울=한스경제 이지홍 기자 | DB증권은 올해 3분기 영업이익 116억원과 당기순이익 69억원을 기록했다고 16일 밝혔다. 전년 동기 대비 각각 74%, 80% 감소한 수준이다. 누적으로는 영업이익...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883755",
+      "source": "www.hansbiz.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2773c6",
+      "title": "DB손해보험, 인터넷 전용 ‘참좋은미니암보험’ 출시…고액 치료비 공백...",
+      "description": "DB손해보험은 주요 암 치료비를 집중적으로 보장하는 인터넷 가입 전용 미니 암보험을 새롭게 선보이며 다이렉트 시장 공략을 강화하고 있다. 암 주요치료비부터 계속받는 항암·표적치료까지…핵심 보장 집약 16일...",
+      "url": "https://www.globalepic.co.kr/view.php?ud=2026111615451329187cc35ccc5c_29",
+      "source": "www.globalepic.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:50:00+09:00"
+    },
+    {
+      "id": "DB증권-472ec1",
+      "title": "DB증권, 3분기 순이익 69억원 전년比 80% 감소…영업이익도 급감",
+      "description": "DB증권이 올해 3분기 당기순이익 69억원을 기록하며 전년 동기 대비 80% 넘게 감소했다. 영업이익도 70% 이상 줄어들며 수익성이 악화했다. 주식시장 침체로 위탁매매 수익과 운용 수익이 감소한 영향이다. 16일...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369838",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3e7461",
+      "title": "외국인 매도 폭탄에…코스피 3%대 급락해 5100선 '턱걸이'",
+      "description": "보험에서는 DB손해보험이 7.33%, 삼성화재가 2.46% 올랐다. 운송·창고 업종에서는 3분기 영업이익 1조3947억원을 기록한 HMM이 해상운임 상승 효과 속에 3.26% 상승했다. 기계·장비에서는 두산에너빌리티가 4.16...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005354309?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cb34e3",
+      "title": "DB손해보험, 인터넷 전용 미니암보험 출시…암 치료비 보장 강화",
+      "description": "암 주요치료비·항암방사선약물치료비 등 보장 기존 암보험 가입자도 추가 가입 가능…40세 남성 기준 월 2만원대 ▲ DB손해보험이 인터넷 가입 전용 미니암보험인 '참좋은암보험(미니암플랜)'을 선보였다...",
+      "url": "https://sateconomy.co.kr/news/view/1065591912009929",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-74e364",
+      "title": "DB하이텍, 삼성 8인치 빈자리 노린다…'2.1조 베팅' 승산은",
+      "description": "반도체 공룡들이 발을 빼는 8인치 시장에 DB하이텍이 2조원이 넘는 대규모 투자에 나섰다. 경쟁사들의 감산을 고객 확보 기회로 삼아 고부가 전력반도체 사업을 키우겠다는 판단이다. 다만 고객을 늘리는 데...",
+      "url": "https://n.news.naver.com/mnews/article/293/0000093315?sid=101",
+      "source": "www.bloter.net",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-16T15:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d89bca",
+      "title": "생보는 삼성생명 독주, 손보는 본업 회복…3분기 실적 희비",
+      "description": "같은 기간 삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험 등 주요 손보사 5곳의 누적 별도 기준 순이익은 5조8406억원으로 전년 동기 대비 5.7% 늘었다. 두 업권 모두 외형상 성장세를 유지했지만 속사정은...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147134",
+      "source": "www.opinionnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:22:00+09:00"
+    },
+    {
+      "id": "DB증권-089fed",
+      "title": "DB증권, 3분기 순익 80% 급감…증시 부진에 직격탄",
+      "description": "DB증권의 3분기 순이익이 1년 전보다 80% 넘게 줄었다. 증시가 부진하면서 위탁매매 수익과 운용 수익이 함께 감소한 탓이다. DB증권은 연결 기준 올해 3분기 당기순이익이 69억원으로 전년 동기 대비 80.56...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441733?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:22:00+09:00"
+    },
+    {
+      "id": "DB증권-aad8ae",
+      "title": "DB증권, 3분기 영업익 116억…전년比 74%↓",
+      "description": "DB증권은 16일 공시한 분기보고서를 통해 올해 3분기(7~9월) 연결기준 영업이익이 116억원으로 전년 동기(442억원)보다 73.8% 감소했다고 밝혔다. 같은 기간 당기순이익은 69억원으로 80.6% 줄었다. 지배주주 순이익도...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161518219780281",
+      "source": "www.dnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:22:00+09:00"
+    },
+    {
+      "id": "DB증권-235ffe",
+      "title": "DB증권, 3분기 영업익 '급감'…IB는 적자 전환",
+      "description": "WM 흑전에도 금융상품 손익 악화·비용 부담에 수익성 뒷걸음 ﻿DB증권의 올해 3분기 영업이익과 당기순이익이 나란히 급감했다. 수탁수수료 증가에 힘입은 자산관리(WM)부문의 흑자 전환에도 금융상품 관련 손익...",
+      "url": "https://news.dealsitetv.com/articles/178660",
+      "source": "news.dealsitetv.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:14:00+09:00"
+    },
+    {
+      "id": "DB증권-d0fa3a",
+      "title": "DB증권, 영업이익 급감 속에서도 고객자산 14.4% 증가의 비결은?",
+      "description": "DB증권은 올해 3분기에 116억 원의 영업이익과 69억 원의 순이익을 기록했다고 발표했다. 이는 전년 같은 기간과 비교했을 때 각각 74%와 80% 감소한 수치이다. 누적 실적으로 보면, 영업이익은 893억 원, 순이익은 778억...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=885843",
+      "source": "www.gokorea.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7f611b",
+      "title": "주요 손보사 3분기 순익 5.1% 하락…DB만 '약진'",
+      "description": "보험손익은 모두 개선됐지만 실적이 증가한 곳은 DB손해보험 한 곳뿐이었다. (자료=각사) 16일 각사 공시에 따르면 국내 주요 손보사 다섯 곳(삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재)의 올해...",
+      "url": "https://www.asiatime.co.kr/article/20261116500279",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:06:00+09:00"
+    },
+    {
+      "id": "DB증권-4c2604",
+      "title": "DB증권, 3분기 순이익 전년比 80% 급감…69억원 그쳐",
+      "description": "영업이익도 74% 감소한 116억원 누적 순이익 778억원…고객자산은 14.4% 증가 DB증권이 올해 3분기 주식시장 침체 여파로 부진한 성적표를 받아들었다. 위탁매매와 운용 부문 수익이 동반 감소하면서 분기 당기순이익이...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000552361?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8b0193",
+      "title": "DB손보, 기존 암보험 보완 인터넷가입전용 미니암플랜 출시",
+      "description": "DB손해보험이 주요 암 치료비를 보장하는 인터넷가입전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 이번 상품은 DB손해보험이 처음 선보이는 인터넷 가입전용 미니암보험으로 암 주요치료비를 비롯해...",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441717?sid=101",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T15:04:00+09:00"
+    },
+    {
+      "id": "DB증권-d5c7b9",
+      "title": "증권사 3분기 순익 85% 급감했는데…4분기 거래대금도 24%↓",
+      "description": "중형사인 DB증권도 3분기 수탁수수료 수익이 289억원으로 전 분기보다 40.4% 줄었다. 같은 기간 연결 순이익은 69억원으로 82.9% 감소했다. 11일 발표된 국고채 입찰 담합 과징금도 실적에 있어 변수다. KB증권과...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003486137?sid=101",
+      "source": "www.etnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T15:01:00+09:00"
+    },
+    {
+      "id": "DB하이텍-cab3d9",
+      "title": "DB하이텍, 장중 8.95% 하락…8인치 파운드리 가동률과 증설 점검",
+      "description": "유가증권시장에서 DB하이텍 주가가 16일 오후 들어 8.95% 내렸다. 이날 가격은 7만4100원에서 8만1900원 사이를 오갔고, 8인치 파운드리 가동률과 증설 관련 지표가 별도의 판단 축으로 남았다. 16일 오후 2시40분 기준...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238639",
+      "source": "www.job-post.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-16T15:00:00+09:00"
+    },
+    {
+      "id": "DB증권-f77a7e",
+      "title": "DB증권, 3분기 누적 영업익 893억원…전년比 11.5% 감소",
+      "description": "DB증권이 주식시장 침체에 따른 위탁매매 및 운용 수익 감소로 3분기 누적 실적이 전년 동기보다 줄었다. 다만 고객자산이 증가세를 이어가고 회사채 발행으로 조달 구조를 다변화하는 등 수익 기반과 재무 대응력을...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005843226?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:58:00+09:00"
+    },
+    {
+      "id": "DB자산운용-b90963",
+      "title": "미래에셋자산운용, 11월 자산운용 브랜드평판 1위 유지",
+      "description": "현대자산운용과 신한자산운용이 각각 6위, 7위를 기록했으며 IBK자산운용, 유진자산운용, 신영자산운용, 삼성액티브자산운용, 에셋플러스자산운용, 흥국자산운용, DB자산운용, 우리자산운용...",
+      "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74688",
+      "source": "www.babytimes.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-16T14:56:00+09:00"
+    },
+    {
+      "id": "DB증권-e2c0b9",
+      "title": "[실적] DB증권, 누적 순익 778억원…고객자산 126조·주주환원으로 성장...",
+      "description": "DB증권이 올해 3분기 누적 연결 순이익 778억원을 기록했다. 연결 이익은 전년 동기보다 감소했지만 고객자산이 126조원을 넘어서고 자산관리 관련 수수료 수익이 증가하면서 수익 기반을 확대했다. 또 고객 기반...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203330",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:54:00+09:00"
+    },
+    {
+      "id": "DB증권-d9d26e",
+      "title": "DB증권, 올 3분기 순이익 69억원… 전년比 80.6% 감소",
+      "description": "위탁매매·운용 수익 감소 영향 DB증권의 올해 3분기 당기순이익이 전년 동기보다 80% 이상 급감했다. 주식시장 부진에 따른 위탁매매와 운용 수익이 감소하면서 수익성이 크게 줄어든 것으로 분석된다. 16일...",
+      "url": "https://n.news.naver.com/mnews/article/366/0001205089?sid=101",
+      "source": "biz.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:51:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e71770",
+      "title": "[금융家 브리핑] 수험생부터 군 장병까지···금융권, 청년 맞춤 혜택 ...",
+      "description": "DB손해보험, 인터넷가입전용 암보험 출시 DB손해보험이 인터넷가입전용 '참좋은암보험(미니암플랜)'을 출시했다. 이번 상품은 DB손해보험의 첫 번째 인터넷 가입전용 미니암보험이다. 암 피료에 필요한 핵심보장을...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=159562",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T14:48:00+09:00"
+    },
+    {
+      "id": "DB증권-1d480e",
+      "title": "DB증권, 3분기 당기순익 69억원…전년比 80.6% 급감",
+      "description": "영업이익도 73.8% 감소한 116억원 수수료 수익 증가에도 금융상품 손실 확대 DB증권의 올해 3분기 순이익이 지난해 같은 기간보다 80% 넘게 급감했다. 수수료 수익은 증가했지만 금융상품 관련 손실 확대와...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444974",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:48:00+09:00"
+    },
+    {
+      "id": "DB증권-0f7ae4",
+      "title": "영업익 74% 급감한 DB증권…\"고객자산 늘고, 조달 구조는 다변화\"",
+      "description": "DB증권이 올해 3분기 부진한 실적을 내놓았다. 다만 고객자산은 꾸준히 늘고 있고, 조달 구조를 다변화하며 체질 개선에 나섰다고 회사 측은 설명했다. DB증권은 16일 공시를 통해 3분기 연결 기준 영업이익 116억 원...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67832",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:48:00+09:00"
+    },
+    {
+      "id": "DB증권-8ba3c2",
+      "title": "DB증권, 실적 감소 속 고객자산 126조 돌파",
+      "description": "DB증권이 올해 3분기까지 수익성은 뒷걸음질 쳤지만 고객자산을 늘리며 영업 기반을 확대했다. 회사채 발행을 통한 자금 조달 구조 다변화에도 나서면서 향후 수익 기반과 재무 대응력을 함께 강화하는 모습이다. 16일...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=271299",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:46:00+09:00"
+    },
+    {
+      "id": "DB증권-390518",
+      "title": "[금융실적] DB증권, 3분기 누적 순이익 778억원…전년 동기 대비 6.2% 감...",
+      "description": "DB증권 기업이미지(CI). 사진=DB증권 DB증권은 올해 3분기까지 연결 기준 영업이익이 893억원, 당기순이익이 778억원으로 집계됐다고 16일 밝혔다. 지난해 같은 기간보다 영업이익은 11.5%, 순이익은 6.2% 줄었다. 회사...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=152024",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:42:00+09:00"
+    },
+    {
+      "id": "DB증권-5c3010",
+      "title": "DB증권, 3분기 순익 69억원…전년比 80% '뚝'",
+      "description": "DB증권의 3분기 순이익이 주식시장 침체에 따른 위탁매매·운용 수익 감소로 1년 전 대비 80% 급감했다. DB증권은 올해 3분기 영업이익이 116억원, 당기순이익은 69억원으로 집계됐다고 16일 밝혔다. 전년 동기 대비 각각...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272897?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:30:00+09:00"
+    },
+    {
+      "id": "DB증권-aeff89",
+      "title": "DB증권, 3분기 누적 순이익 778억원…전년보다 6.2% 줄어",
+      "description": "DB증권이 올해 3분기까지 778억원의 누적 당기순이익을 기록했다. 주식시장 침체로 위탁매매와 운용 부문 수익이 줄면서 지난해보다 실적이 악화했지만, 고객자산은 두 자릿수 증가율을 보였다. 16일 DB증권에 따르면...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724092?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-14c1c3",
+      "title": "신상훈 첫 대상·'31세' 왕정훈 신인상…2026 KPGA 시즌 결산",
+      "description": "시즌 첫 홀인원은 개막전인 DB손해보험 프로미 오픈 2라운드 4번홀(파3)에서 김연섭(39)이 기록했다. 렉서스 마스터즈에서는 1라운드부터 3라운드까지 3일 연속 홀인원이 나오는 이례적인 장면이 연출됐다. 1라운드...",
+      "url": "https://m.sports.naver.com/golf/article/421/0009291577",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T14:25:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f064b1",
+      "title": "[보험업계 동향] 한화금융ㆍDB손해보험ㆍKB손해보험(11.16)",
+      "description": "■ DB손해보험, 인터넷 전용 '참좋은암보험(미니암플랜)' 출시 - 암 주요치료비·표적항암약물허가치료비 보장···기존 암보험 보완용 - 남자 40세 기준 보험료 2만원대···암 5년 상대생존율 73.7% DB손해보험이 암...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802158",
+      "source": "www.weeklytoday.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T14:22:00+09:00"
+    },
+    {
+      "id": "DB증권-276617",
+      "title": "DB증권, 3분기 누적 순이익 778억원…고객자산 126조원 돌파",
+      "description": "DB증권 사옥 전경. [DB증권]  DB증권이 고객자산 확대를 바탕으로 수익 기반을 강화하고 조달 구조를 다변화해 안정적인 경영 기반 마련에 나선다. DB증권은 올해 3분기 누적 연결기준 영업이익 893억원, 당기순이익...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=153452",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:22:00+09:00"
+    },
+    {
+      "id": "DB증권-ea6c08",
+      "title": "DB증권, 3분기 순익 69억원...전년비 80.6% 급감",
+      "description": "사진=DB증권  DB증권은 지난 3분기 연결 당기순이익은 69억원으로 전년 동기(356억원) 대비 80.6% 줄었다고 16일 공시했다. 올해 누적으로는 778억원으로 지난해 대비 6.2% 감소했다. DB증권 측은 주식시장 침체로 위탁매매...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425488",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:20:00+09:00"
+    },
+    {
+      "id": "DB증권-f63ec8",
+      "title": "DB증권, 3분기 누적 순이익 778억원…전년比 6.2% 감소",
+      "description": "인더스트리뉴스 김수련 기자  DB증권은 올해 3분기 누적 연결 기준 영업이익이 893억원으로 전년 동기 대비 11.5% 감소했다고 16일 공시했다. 같은 기간 당기순이익은 778억원으로 6.2% 줄었다. DB증권은 주식시장 침체에...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89597",
+      "source": "www.industrynews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:18:00+09:00"
+    },
+    {
+      "id": "DB증권-868ec4",
+      "title": "DB증권, 3분기 누적 순이익 778억원…1년 전보다 6.2% 감소",
+      "description": "DB증권은 연결 기준 올해 3분기 누적 순이익 778억원을 기록했다고 오늘(16일) 공시했습니다. 주식시장 침체로 위탁매매 수익과 운용 수익이 줄어들면서, 순이익은 지난해 같은 기간보다 6.2% 감소했습니다. 3분기 누적...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000543948?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:11:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dfe174",
+      "title": "DB손보, 인터넷 전용 미니암플랜 '참좋은암보험' 내놔",
+      "description": "DB손해보험이 암 치료에 필요한 주요 비용을 보장하는 인터넷 가입 전용 상품 '참좋은암보험(미니암플랜)'을 출시했다. 16일 DB손보에 따르면, 이번 상품은 DB손보가 처음 선보이는 인터넷 전용 미니암보험이다. 특히, 암...",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5049207",
+      "source": "www.newsinside.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T14:10:00+09:00"
+    },
+    {
+      "id": "DB증권-588110",
+      "title": "DB증권, 3분기 영업익 116억원…전년比 74%↓",
+      "description": "DB증권은 올해 3분기 영업이익 116억원과 당기순이익 69억원을 기록했다고 16일 밝혔다. 전년 동기 대비 각각 74%, 80% 감소한 수준이다. 누적으로는 영업이익 893억원, 당기순이익 778억원을 기록, 지난해 같은 기간보다...",
+      "url": "https://n.news.naver.com/mnews/article/001/0016444077?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:10:00+09:00"
+    },
+    {
+      "id": "DB증권-c9cdb7",
+      "title": "DB증권, 3분기 누적순익 778억원...전년 동기 대비 6.2%↓",
+      "description": "DB증권이 3분기 고객자산 증가세을 지속하며 수익 창출 기반을 확대했다. 지난 9월 공모 회사채 2,000억원 발행으로 유동성 대응력 제고 및 조달 구조를 다변화했다. DB증권(대표이사 곽봉석)은 16일 공시를 통해 올해...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67821",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:06:00+09:00"
+    },
+    {
+      "id": "DB증권-c03490",
+      "title": "DB증권, 3분기 순이익 69억원…전년比 80.6% 감소",
+      "description": "DB증권의 올해 3분기 당기순이익이 전년 동기 대비 80% 넘게 감소했다. 수수료수익은 증가했지만 금융상품 관련 손실과 판매관리비 확대가 수익성에 부담으로 작용했다. 16일 DB증권이 공시한 분기보고서에...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=217691",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T14:02:00+09:00"
+    },
+    {
+      "id": "DB증권-30d283",
+      "title": "DB증권, 3분기 누적 순익 778억...전년 比 6.2%↓",
+      "description": "DB증권은 3분기 주식시장 침체에 위탁매매·운용수익 모두 감소했다. [사진: DB증권] DB증권이 국내 주식시장 침체와 거래 위축 영향으로 올해 3분기 누적 실적이 전년보다 감소했다. 다만 고객자산은 증가했고 회사채...",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715707",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:54:00+09:00"
+    },
+    {
+      "id": "DB증권-c9a0ea",
+      "title": "DB증권, 실적 둔화에도 신사업 확장… 디지털자산 사업화 추진",
+      "description": "곽봉석 DB증권 대표이사 DB증권이 올해 3분기 누적 실적 감소에도 고객자산 확대와 조달구조 다변화를 바탕으로 디지털자산 신사업 확장에 나서고 있다. 16일 DB증권에 따르면 올해 3분기 누적 연결 기준 영업이익...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362559",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:50:00+09:00"
+    },
+    {
+      "id": "DB증권-e49864",
+      "title": "DB증권, 3분기 영업이익 116억원···전년比 73.8%↓",
+      "description": "DB증권이 올해 3분기 영업이익과 당기순이익 모두 전년 동기 대비 큰 폭으로 감소했다. 16일 DB증권이 공시한 분기보고서에 따르면 올해 3분기 연결기준 영업이익은 116억원으로 전년 동기 대비 73.8% 감소했다. 같은...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=642936",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aefaee",
+      "title": "손보사 본업 실적 개선…실손·자동차보험 영향 촉각",
+      "description": "16일 금융권에 따르면 3분기 누적 보험손익은 △삼성화재(000810) 1조4830억원(10.7%↑) △DB손해보험(005830) 1조1190억원(44.8%↑) △메리츠화재 1조1022억원(7.6%↑) △현대해상(001450) 9690억원(76.2%↑) △KB손해보험 7421억원(13.1...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1320541&inflow=N",
+      "source": "www.newstomato.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:46:00+09:00"
+    },
+    {
+      "id": "DB증권-3ed4bd",
+      "title": "DB증권, 3분기 누적 영업이익 893억원…고객자산 126조원 돌파",
+      "description": "순이익 778억원으로 전년보다 6.2% 감소…수탁수수료는 132.4% 증가 전자단기사채 잔액 26.6% 줄여…회사채 2000억원 발행해 조달구조 다변화 ▲ DB증권 [토요경제] DB증권(대표 곽봉석)이 올해 3분기 누적 연결...",
+      "url": "https://sateconomy.co.kr/news/view/1065586215449796",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:46:00+09:00"
+    },
+    {
+      "id": "DB자산운용-3ed4bd",
+      "title": "DB증권, 3분기 누적 영업이익 893억원…고객자산 126조원 돌파",
+      "description": "연결 고객자산은 DB증권과 DB자산운용, DB저축은행의 고객자산을 합산한 관리지표다. 회사가 직접 보유한 자산이 아니라 고객으로부터 유치하거나 관리하는 자산 규모를 나타낸다. 자금조달 구조에도 변화가...",
+      "url": "https://sateconomy.co.kr/news/view/1065586215449796",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-16T13:46:00+09:00"
+    },
+    {
+      "id": "DB저축은행-3ed4bd",
+      "title": "DB증권, 3분기 누적 영업이익 893억원…고객자산 126조원 돌파",
+      "description": "연결 고객자산은 DB증권과 DB자산운용, DB저축은행의 고객자산을 합산한 관리지표다. 회사가 직접 보유한 자산이 아니라 고객으로부터 유치하거나 관리하는 자산 규모를 나타낸다. 자금조달 구조에도 변화가...",
+      "url": "https://sateconomy.co.kr/news/view/1065586215449796",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-16T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ecbc7e",
+      "title": "한화손보, LH 보험 담합 대법 무죄 확정 6%대 강세[핫종목]",
+      "description": "시정명령과 과징금 납부명령 취소를 구하는 행정소송을 제기했다고 밝혔다. 이날 다른 손해보험주도 상승하고 있다. 같은 시각 DB손해보험(005830)은 4.58%, 현대해상(001450)은 3.59%, 흥국화재(000540)는 2.58% 오르고 있다.",
+      "url": "https://n.news.naver.com/mnews/article/421/0009291439?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fcfee8",
+      "title": "[카드] DB손해보험, 암 치료비 보장 강화…미니암보험 출시",
+      "description": "DB손해보험(005830)은 주요 암 치료비를 보장하는 인터넷가입전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다.",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=755071",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:42:00+09:00"
+    },
+    {
+      "id": "DB증권-bd4adf",
+      "title": "DB증권, 3분기 누적 순이익 778억원…전년比 6.2% 감소",
+      "description": "DB증권이 올해 3·4분기까지 778억원의 누적 순이익을 거뒀다. 증시 부진에 따른 위탁매매 및 운용 부문 수익 감소로 실적은 지난해보다 뒷걸음질쳤지만, 고객자산은 두 자릿수 증가율을 기록했다. 16일 DB증권에 따르면...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604819?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:42:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-e4fef1",
+      "title": "대출 늘리는 캐피탈사… 이자수익 증가에도 수익성은 '제각각'",
+      "description": "DB캐피탈은 대출채권이 같은 기간 6071억원에서 7889억원으로 1818억원 늘었다. 반면 리스채권은 감소하면서 대출 비중이 97.6%에서 98.6%로 높아졌다. 영업자산 대부분이 대출로 구성된 만큼 대출채권의 수익성과...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731461",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-16T13:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-27e661",
+      "title": "[금융 라운지] 카카오뱅크, '한달적금 with 다이슨' 출시…할인 쿠폰·경...",
+      "description": "◆ DB손해보험, 인터넷 가입 전용 암보험 출시 DB손해보험은 주요 암 치료비를 보장하는 인터넷 가입 전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 이번 상품은 DB손해보험이 처음 선보이는 인터넷 가입...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293494",
+      "source": "www.goodkyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:38:00+09:00"
+    },
+    {
+      "id": "DB증권-0c56bf",
+      "title": "DB증권, 3분기 누적 영업익 893억원…전년比 11.5% 감소",
+      "description": "순이익 778억원…전년比 6.2% 줄어 고객자산 126조원 돌파…14.4% 증가 /DB증권 DB증권이 올해 3분기까지 누적 영업이익 893억원을 기록하며 전년 동기 대비 두 자릿수 감소세를 나타냈다. 주식시장 침체에 따른 위탁매매...",
+      "url": "http://www.metroseoul.co.kr/article/20261116500240",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1b8c6e",
+      "title": "대형 손해보험사들의 엇갈린 성장 전략…'해외확장 vs 내실경영'",
+      "description": "삼성화재와 DB손해보험이 수조 원대 대형 해외 보험사 인수합병(M&A)을 단행하며 글로벌 영토 확장을 통한 신성장동력 확보에 사활을 건 반면, 메리츠화재는 무리한 외형 확장보다 국내 본업의 수익성 극대화와 장기...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026111611024350842",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a662f2",
+      "title": "DB손보, 포테그라 위탁운용사 교체…ETF로 수익 안정화 모색",
+      "description": "DB손해보험이 미국 특화보험사 포테그라 인수 이후 자산운용 체계 개편에 나섰다. 위탁운용사를 교체하고 개별주식을 상장지수펀드(ETF)로 전환해 투자손익 변동성을 낮추려는 것이다. 포테그라의 보험영업...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86386",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:26:00+09:00"
+    },
+    {
+      "id": "DB증권-18f67c",
+      "title": "DB증권, 3Q 누적 영업익 893억원…전년比 11.5% 감소",
+      "description": "DB증권은 올해 3분기 누적 연결 기준 영업이익이 893억원으로 전년 동기 대비 11.5% 감소했다고 16일 밝혔다. 증시 변동성에 따른 위탁매매와 운용 부문의 수익 둔화가 영향을 미쳤다. 같은 기간 당기순이익은...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86398",
+      "source": "www.press9.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:26:00+09:00"
+    },
+    {
+      "id": "DB증권-57c896",
+      "title": "DB증권, 3분기 영업이익 116억원…전년 대비 73.8% 감소",
+      "description": "우먼타임스 = 성민 기자 DB증권의 올해 누적 실적이 증시 부진 여파로 1년 전보다 뒷걸음질쳤다. DB증권은 올해 1~9월 연결 기준 영업이익이 893억원, 순이익이 778억원으로 집계됐다고 16일 밝혔다. 지난해 같은...",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107963",
+      "source": "www.womentimes.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-10ace0",
+      "title": "5세대 실손보험 갈아탄 계약자 10%대 그쳐…반년 째 지지부진",
+      "description": "16일 손해보험협회에 따르면 지난달 기준 주요 손해보험사 9곳(삼성화재·DB손해보험·메리츠화재·현대해상·KB손해보험·한화손해보험·롯데손해보험·흥국화재·NH농협손해보험)에서 5세대 실손보험을 가입한...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194079",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:14:00+09:00"
+    },
+    {
+      "id": "DB증권-e4c2f4",
+      "title": "DB증권, 3분기 순이익 69억원…전년比 80.6% 감소",
+      "description": "DB증권(016610)의 올해 3분기 연결 순이익이 전년 동기 대비 80% 넘게 감소했다. 수수료수익은 늘었지만 금융상품 관련 손익이 악화하고 판매관리비 등이 증가하면서 수익성이 떨어졌다. 16일 DB증권이...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009291318?sid=101",
+      "source": "www.news1.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:10:00+09:00"
+    },
+    {
+      "id": "DB증권-ca68f8",
+      "title": "DB증권, 3분기 누적 순익 778억…전년비 6.2% 감소",
+      "description": "DB증권이 올해 3분기 누적 기준 778억원의 순이익을 거뒀다. 주식시장 침체에 따른 위탁매매 및 운용 수익 감소로 영업이익과 순이익이 전년 동기 대비 뒷걸음질쳤다. 다만 고객 자산 규모가 확대되면서 영업 기반은...",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=227434",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-16T13:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-41d9c0",
+      "title": "\"암 치료비 폭탄에 두 번 울지 마라\"… DB손해보험, 실속 극대화 '미니 ...",
+      "description": "DB손해보험은 16일 주요 암 치료비를 집중 보장하는 인터넷 가입 전용 '참좋은암보험(미니암플랜)'을 출시했다고 밝혔다. 이번 상품은 DB손해보험이 처음으로 선보이는 인터넷 가입 전용 미니 암보험이다. 암 주요...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132601",
+      "source": "www.dailysmart.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T13:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-635359",
+      "title": "최민욱 G투어 통산 16승 달성, ‘하이브리드 킹’ 김홍택과 어깨 나란히...",
+      "description": "시즌 3승째를 거머쥔 최민욱은 통산 16승을 달성해 ‘하이브리드 킹’ 김홍택(33·DB손해보험)과 역대 최다승 동률을 이뤘다. 최민욱은 “항상 많은 지원을 해주시는 후원사와 관계자들께 감사드린다. 사랑하는...",
+      "url": "https://m.sports.naver.com/golf/article/468/0001281189",
+      "source": "www.sportsseoul.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T12:17:00+09:00"
+    },
+    {
+      "id": "DB손해보험-85985f",
+      "title": "DB손해보험, 온라인 전용 미니암플랜 선봬",
+      "description": "DB손해보험이 인터넷 가입 전용 미니암보험을 선보였다. DB손보는 주요 암 치료비를 보장하는 온라인 가입 전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 이 상품은 암 주요치료비와 기타피부암·갑상선암...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1023900",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T12:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7ba790",
+      "title": "DB손보, 고액 치료비 보완…인터넷 전용 암플랜 선봬",
+      "description": "DB손해보험이 고액 치료비로 인한 고객의 경제적 부담을 줄여줄 수 있는 새로운 암보험을 선보였다. 주요 암 치료비 보장에 주력한 인터넷 가입 전용 상품으로 기존 암보험 고객도 추가 가입을 통해 장기 암치료에...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125830",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:52:00+09:00"
+    },
+    {
+      "id": "DB생명-6d3dd0",
+      "title": "‘보험금 언제 나오나’ 옛말… 2시간내 ‘초고속 입금’",
+      "description": "생명보험업계도 AI 자동화 시스템을 현장에 안착시켜 0.2일대 속도에 진입해 있다. 교보생명(0.24일)과 DB생명(0.30일)이 약 2시간대 지급 속도로 선두권을 유지하고 있다. 교보생명은 AI 자동 심사 시스템과 광학...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002833070?sid=101",
+      "source": "www.munhwa.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-11-16T11:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8aedc4",
+      "title": "DB손보, 암 주요치료비·항암치료비 보장하는 인터넷 전용 암보험 출시",
+      "description": "라이센스뉴스 = 이소라 기자 | DB손해보험이 암 진단 이후 발생하는 치료비를 보장하는 인터넷 전용 암보험을 출시했다. 기존 암보험에 가입한 고객도 치료비 보장을 추가할 수 있도록 설계했다. 16일 보험업계에 따르면...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211435",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c2bd34",
+      "title": "DB손보, 인터넷 전용 '참좋은암보험' 출시",
+      "description": "현대경제신문 함동희 기자 | DB손해보험이 암 주요 치료비와 항암치료 보장을 담은 인터넷 전용 미니암보험을 선보였다. 기존 암보험 가입자도 추가 가입을 통해 치료비 보장을 보완할 수 있도록 설계했다....",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=266768",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bd1036",
+      "title": "보험사들, 본업 개선·해외 실적효과로 3분기 방어",
+      "description": "DB손해보험(연결)이 302.6%로 증가폭이 가장 높았고 이어 현대해상이 63.0%, 메리츠화재가 34.9%, 삼성화재가 6.9%로 각각 늘어났다. 메리츠화재는 도수치료 관리급여화와 진단비 감소로 예실차가 개선됐다고...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723978?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2ddbf7",
+      "title": "[경제소식] 키움증권 '22기 고객패널' 모집..금융상품 만족도 조사",
+      "description": "사진=DB손해보험 DB손해보험, 인터넷 가입 전용 '참좋은암보험 미니암플랜' 출시 DB손해보험은 주요 암 치료비를 보장하는 인터넷 가입 전용 '참좋은암보험 미니암플랜'을 출시했다고 16일 밝혔다. 상품은 암...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2121903",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c5e5c9",
+      "title": "같은 보험 호황인데 순익은 제각각…'손보 빅5' 실적 어디서 갈렸나",
+      "description": "삼성화재와 DB손해보험, 현대해상은 순이익이 증가한 반면 메리츠화재와 KB손해보험은 감소했다. 보험금 지급 부담이 줄어 보험손익은 개선됐지만 투자 부문에서는 삼성화재를 제외한 4개사의 이익이 감소했다....",
+      "url": "https://www.peoplewatch.co.kr/article/view/ppw202611160006",
+      "source": "www.peoplewatch.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-27323c",
+      "title": "'빅5' 손보사, 투자 손익이 3분기 성적표 갈랐다",
+      "description": "삼성화재와 메리츠화재, 현대해상, KB손해보험, DB손해보험 등 이른바 '빅5'는 보험 본업에서 대체로 개선된 성적을 거뒀다. 하지만 주식시장 변동성과 투자자산 평가손실 등이 발목을 잡으면서 전체 순이익은 오히려...",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=49061",
+      "source": "www.newstopkorea.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7c846a",
+      "title": "금융권, 제휴카드·암보험 신상품 출시",
+      "description": "하나카드가 키움증권과 제휴카드를 출시했고, DB손해보험은 인터넷 가입 전용 암보험을 내놨다. 카카오뱅크는 스텔스통장 출시를 기념해 연말까지 가입 고객 대상 행사를 한다. 하나카드는 16일 키움증권과 '키움증권...",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=104478",
+      "source": "www.pressman.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a4055c",
+      "title": "암 진단 넘어 치료비까지… DB손해보험, '미니 암보험' 출시",
+      "description": "DB손해보험이 암 치료 과정에서 발생하는 경제적 부담을 덜어주기 위해 인터넷 전용 미니암보험을 선보였습니다. 이번에 출시한 '참좋은암보험 미니암플랜'은 주요 암 치료비를 비롯해 갑상선암과 기타 피부암 치료비...",
+      "url": "http://www.newswell.co.kr/news/articleView.html?idxno=23636",
+      "source": "www.newswell.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6c3e45",
+      "title": "\"2027년 산업 전망은?\"…AI 수익화·반도체 실적 성장 주목",
+      "description": "은행업종 최선호주로는 KB금융을, 보험에서는 삼성화재·DB손해보험·삼성생명을, 증권에서는 키움증권을 각각 제시했다. 김태동, / 저작권자 ⓒ ER 이코노믹리뷰(https://www.econovill.com) 무단전재 및 재배포금지",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=757108",
+      "source": "www.econovill.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-e19f2c",
+      "title": "DB손보, 인터넷 전용 미니암플랜 '참좋은암보험' 출시",
+      "description": "DB손해보험은 암 치료에 필요한 주요 비용을 보장하는 인터넷 가입 전용 상품 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다. 이번 상품은 DB손보가 처음 선보이는 인터넷 전용 미니암보험으로, 암 진단 이후...",
+      "url": "https://n.news.naver.com/mnews/article/119/0003155605?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T11:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-95d8ca",
+      "title": "“비싼 보험 붙들고 있는 이유”...5세대 실손, ‘할인 효과’ 시험대",
+      "description": "16일 손해보험협회에 따르면 메리츠화재·한화손해보험·롯데손해보험·흥국화재·삼성화재·현대해상·KB손해보험·DB손해보험·NH농협손해보험 등 9개 손해보험사의 지난달 5세대 실손보험 가입 건수는 9만4237건으로...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261116028259989",
+      "source": "www.ekn.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T10:52:00+09:00"
+    },
+    {
+      "id": "DB자산운용-3c2f99",
+      "title": "자산운용사 브랜드평판 11월 빅데이터…1위 미래에셋자산운용·2위 삼성...",
+      "description": "흥국자산운용, DB자산운용, 우리자산운용 순으로 집계됐다. 1위를 기록한 미래에셋자산운용 브랜드는 참여지수 973,275, 미디어지수 1,307,290, 소통지수 4,300,628, 커뮤니티지수 1,605,606, 사회공헌지수 248...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627252",
+      "source": "www.cbci.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-16T10:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0c3f52",
+      "title": "DB손보, 인터넷전용 ‘미니암보험’ 출시…기존 암보험 가입자 치료비 ...",
+      "description": "DB손해보험은 주요 암 치료비를 보장하는 인터넷가입전용 ‘참좋은암보험(미니암플랜)’을 출시했다고 16일 밝혔다. 이번 상품은 DB손해보험이 처음 내놓은 인터넷 가입 전용 미니암보험이다. 암 주요치료비를...",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723901?sid=101",
+      "source": "biz.heraldcorp.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T10:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-871f77",
+      "title": "[금융권 이모저모]한국투자신탁운용, 美 주식·국채 혼합 ETF 2종에 1조원...",
+      "description": "그래픽=DB손해보험 ◇DB손해보험, 인터넷 전용 미니암보험 출시…진단비 외 치료비 보장 DB손해보험은 주요 암 치료비를 보장하는 인터넷 가입 전용 '참좋은암보험(미니암플랜)'을 출시했다고 16일 밝혔다....",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=119916",
+      "source": "www.businessplus.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-16T10:40:00+09:00"
+    },
+    {
+      "id": "DB자산운용-910167",
+      "title": "[빅데이터투데이] 자산운용사 2026년 11월 브랜드평판 랭킹... 1위 미래에...",
+      "description": "흥국자산운용, DB자산운용, 우리자산운용, 키움투자자산운용, 트러스톤자산운용, KCGI자산운용, 한국투자밸류자산운용, 이지스자산운용, BNK자산운용, 베어링자산운용, 플러스자산운용, HDC자산운용...",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=398304",
+      "source": "www.fntoday.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-16T09:58:00+09:00"
+    },
+    {
+      "id": "DB자산운용-03b3f0",
+      "title": "미래에셋자산운용, 자산운용사 2026년 11월 브랜드평판 1위",
+      "description": "흥국자산운용, DB자산운용, 우리자산운용, 키움투자자산운용, 트러스톤자산운용, KCGI자산운용, 한국투자밸류자산운용, 이지스자산운용, BNK자산운용, 베어링자산운용, 플러스자산운용, HDC자산운용...",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229789",
+      "source": "www.energy-news.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-16T08:52:00+09:00"
+    },
+    {
+      "id": "DB하이텍-273f16",
+      "title": "삼성 8인치 철수…빈자리 노리는 DB하이텍·SK키파운드리",
+      "description": "DB하이텍·SK키파운드리 생산능력 확대…가격 인상 기대 삼성전자가 8인치 파운드리(반도체 위탁생산) 사업 철수를 추진하면서 DB하이텍과 SK키파운드리 등 국내 업체들의 반사이익 기대감이 커지고 있다. 글로벌 8인치...",
+      "url": "https://dealsite.co.kr/articles/172701",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-16T08:04:00+09:00"
+    },
     {
       "id": "DB자산운용-4170a5",
       "title": "미래에셋자산운용, 11월 자산운용사 브랜드평판 빅데이터 1위…삼성자산...",
@@ -37,24 +1288,6 @@ const NEWS_DATA = {
       "source": "www.enetnews.co.kr",
       "subsidiary": "DB자산운용",
       "publishedAt": "2026-11-16T07:26:00+09:00"
-    },
-    {
-      "id": "DB손해보험-adf83f",
-      "title": "[단독] DB증권, 816억 계열사 계약 '이사회 패싱'...법 위반 논란",
-      "description": "이에 대해 금융집단 대표회사인 DB손해보험은 관리 책임에 선을 긋고 있어 지배주주의 이익을 견제해야 할 계열사 이사회와 그룹 차원의 내부통제 장치가 제대로 작동했는지 의문이다.■ '이해상충' 위험 계약에...",
-      "url": "https://theviewers.co.kr/View.aspx?No=4309155",
-      "source": "theviewers.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-16T07:02:00+09:00"
-    },
-    {
-      "id": "DB증권-adf83f",
-      "title": "[단독] DB증권, 816억 계열사 계약 '이사회 패싱'...법 위반 논란",
-      "description": "뷰어스 안효건/문재혁 기­자 hg3to8@viewers.co.kr DB증권이 지배주주 일가에 유리할 수 있는 816억원 규모의 계열사 내부거래를 이사회 승인도 없이 체결했던 것으로 확인됐다. 같은 DB금융집단 계열사들은 모두 유사한...",
-      "url": "https://theviewers.co.kr/View.aspx?No=4309155",
-      "source": "theviewers.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-11-16T07:02:00+09:00"
     },
     {
       "id": "DB하이텍-adf83f",
@@ -145,15 +1378,6 @@ const NEWS_DATA = {
       "source": "www.wikitree.co.kr",
       "subsidiary": "DB하이텍",
       "publishedAt": "2026-11-15T19:48:00+09:00"
-    },
-    {
-      "id": "DB손해보험-5d2103",
-      "title": "피에스케이 10%대 급등…밸류업 관련 종목 매수 온기 '눈에 띄네'",
-      "description": "보험주인 DB손해보험과 삼성화재도 상승 흐름에 동참했다. 자동차와 부품 관련 종목에서는 현대차와 기아, 현대모비스, 명신산업, KG모빌리티플랫폼이 오름세를 나타냈다. 완성차 업체의 판매 흐름과 전장·부품...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504205",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-15T18:56:00+09:00"
     },
     {
       "id": "DB하이텍-5d2103",
