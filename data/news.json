@@ -1,6 +1,240 @@
 {
-  "lastUpdated": "2026-11-22",
+  "lastUpdated": "2026-11-23",
   "articles": [
+    {
+      "id": "DB저축은행-68381d",
+      "title": "[더벨]DB하이텍, AI 데이터센터 사업 진출 '신사동 부지 확보'",
+      "description": "◇신사동 부동산 취득, 데이터센터 부지로 활용 18일 DB하이텍은 이날 이사회를 열고 DB저축은행이 보유한 토지와 건물을 1473억원에 취득하기로 결의했다. 서울 강남구 신사동 639-2 외 3필지에 위치해 있으며 토지 면적은...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181945530560109540",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-23T07:02:00+09:00"
+    },
+    {
+      "id": "DB하이텍-68381d",
+      "title": "[더벨]DB하이텍, AI 데이터센터 사업 진출 '신사동 부지 확보'",
+      "description": "DB하이텍이 추론용 엣지 AI 데이터센터 사업에 진출한다. 서울 강남구 신사동에 위치한 부동산을 취득해 데이터센터를 구축할 계획이다. 그동안 주력해온 반도체 위탁생산(파운드리)을 넘어 새로운 성장동력을...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181945530560109540",
+      "source": "www.thebell.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-23T07:02:00+09:00"
+    },
+    {
+      "id": "DB저축은행-c2cf2d",
+      "title": "우리은행 정기예금, 브랜드평판 1위 탈환…농협은행과 격차는 5만여 점",
+      "description": "전체 분석 대상은 88개 브랜드로, 30위권 밖에는 JT친애저축은행, 애큐온저축은행, BNK저축은행, DB저축은행, IBK저축은행, 예가람저축은행, 키움저축은행 등이 포함됐다. 정기예금 상품을 선택할 때는...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506792",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-23T06:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cdb822",
+      "title": "희비 엇갈린 보험사 주가...DB손보 나홀로 23% 껑충, 삼성생명 40% '뚝'",
+      "description": "DB손해보험(대표 정종표)는 실적 개선과 배당여력 확대에 대한 기대감이 반영되며 큰 폭 상승했지만 '보험 대장주'인 삼성생명(대표 홍원학)은 하반기 들어 40% 이상 주가가 하락하며 부진했다. 6개 주요 보험사의 20일...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768662",
+      "source": "www.consumernews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-23T06:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8f493c",
+      "title": "5대 손보사, 보유 CSM 늘었지만 신계약 기대이익은 온도차",
+      "description": "■ 보유 CSM 증가세에도 신계약 기대이익은 엇갈려 지난 19일 국내 5대 손보사(삼성·DB·현대·KB·메리츠)의 2026년 3분기 실적을 분석한 결과 9월 말 별도 기준 보유계약 CSM은 삼성화재 14조8350억원, DB손해보험...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93942",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-23T00:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bc6a6e",
+      "title": "[2026 강원 시니어산업 박람회]신한은행, DB손해보험 등 참여 기관 부스...",
+      "description": "DB손해보험 춘천원주지점은 무료 상담 부스에서 어르신들이 놓친 보험금이 있는지 확인하고, 추첨으로 경품을 나눠 호응을 얻었다. 춘천미래동행재단 부스에서는 자신의 노후 준비 상황을 점검하는 부스를 운영했다. 또...",
+      "url": "https://n.news.naver.com/mnews/article/087/0001232513?sid=101",
+      "source": "www.kwnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-23T00:02:00+09:00"
+    },
+    {
+      "id": "DB증권-32d833",
+      "title": "“AI 신용 재평가, 위기 아닌 옥석 가리기”",
+      "description": "DB증권은 미국 중간선거 이후 시장이 AI 기업의 차입 부담을 더 엄격하게 따지기 시작했다며 내년부터 돌아오는 부채 만기와 사모대출 펀드 환매를 주요 변수로 꼽았다. 박성우 DB증권 연구원은 23일 ‘AI 신용 재평가...",
+      "url": "https://n.news.naver.com/mnews/article/018/0006413816?sid=101",
+      "source": "www.edaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-22T22:58:00+09:00"
+    },
+    {
+      "id": "DB하이텍-e4ce9a",
+      "title": "[공시] 11월 23일, 코스피 상장사 61개 종목 자사주 매수 신청",
+      "description": "◆ 신탁 매매 (38개 종목) △DB하이텍(000990) 매수 30,000주, 장중 △BYC(001460) 매수 300주, 장중 △BYC우(001465) 매수 1,000주, 장중 △대한제당(001790) 매수 50,000주, 장중 △아세아(002030) 매수 500주, 장중...",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=729753",
+      "source": "www.newstnt.com",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-22T20:40:00+09:00"
+    },
+    {
+      "id": "DB증권-8211f7",
+      "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈...",
+      "description": "DB증권은 클래시스의 3분기 영업이익이 270억원으로 시장 기대치(380억원)를 28.9% 밑돌았다고 분석했다. 일본 직판 전환 과정에서 기존 유통사의 영업이 위축되고 남미 직판 성과도 부진한 영향으로 분석됐다....",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356800?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-22T20:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-cea877",
+      "title": "주주환원 늘린 기업 집중투자… 배당금으로 월 분배금 지급[이런 펀드 ...",
+      "description": "주요 편입 종목은 DB손해보험(6.52%), 우리금융지주(5.92%), 기업은행(5.64%), 제일기획(5.06%), 하나금융지주(5.00%) 등이다. 삼성카드(4.62%)와 NH투자증권(4.58%), GS(4.50%), KT(4.16%), JB금융지주(4.06%)도 담고 있다. 은행과 보험·증권...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607855?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T18:13:00+09:00"
+    },
+    {
+      "id": "DB손해보험-763e2e",
+      "title": "5대 손보사 민원 75.9% '보험금 보상 불만'",
+      "description": "DB손해보험이 올 3·4분기 국내 5대 손해보험사 가운데 유일하게 보유계약 10만건당 소비자 민원이 증가했고, 증가율도 20%가 넘은 것으로 파악됐다. 또, 5개사 전체 민원 중 보험금 산정과 지급 등 보상 관련 민원이...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607846?sid=101",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T18:09:00+09:00"
+    },
+    {
+      "id": "DB하이텍-c7577f",
+      "title": "미국 반도체 한파 국내로 번졌다…팹리스·후공정주 동반 약세",
+      "description": "파운드리와 전력·아날로그 반도체 사업을 주력으로 하는 DB하이텍은 11.33% 급락해 상대적으로 큰 낙폭을 기록했다. 팹리스와 설계자산(IP), 디자인하우스 분야에서도 매도세가 이어졌다. LX세미콘은 디스플레이 구동칩(DDI)...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506745",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-22T16:48:00+09:00"
+    },
+    {
+      "id": "DB하이텍-162d1e",
+      "title": "전기차·AI 데이터센터 성장 기대에도 역풍…전력반도체주 동반 하락",
+      "description": "파운드리 사업을 영위하는 DB하이텍의 낙폭은 더욱 컸다. 8인치 파운드리와 전력반도체 사업을 주력으로 하는 DB하이텍은 전 거래일보다 11.33% 하락한 6만7300원에 거래를 마쳤다. 반도체 생산과 전력 소자 공급망에 대한...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506727",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-22T15:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a8cfa1",
+      "title": "폭설에 집·가게 피해 걱정된다면…재해보험료 최대 100% 지원",
+      "description": "보험은 삼성화재·DB손해보험·현대해상·KB손해보험·메리츠화재·한화손해보험·NH농협손해보험 등 7개 보험사를 통해 가입할 수 있습니다. 주택 세입자와 기초생활수급자, 차상위계층, 한부모가족 등은 관할...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545135?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T14:03:00+09:00"
+    },
+    {
+      "id": "DB생명-742209",
+      "title": "생보업계, 사회공헌 활동 다각화…기부 넘어 '자립·교육·고용' 지원도",
+      "description": "생명보험사들이 사회공헌 활동을 다각화하고 있다. 기부금 규모를 늘리는 데 그치지 않고 노숙인의 농촌... DB생명은 독서 취약계층 아동을 위한 목소리 기부에 나섰다. 임직원 20명은 지난 5일 동화책 낭독 음원을...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427525",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-11-22T14:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f5377",
+      "title": "대설·강풍 피해도 보험으로 대비…풍수해보험료 최대 100% 지원",
+      "description": "보험 가입은 삼성화재·메리츠화재·DB손해보험·현대해상·KB손해보험·한화손해보험·NH농협손해보험 등 7개 손해보험사를 통해 가능하다. 주택 세입자와 기초생활수급자, 차상위계층, 한부모가족 등은 관할...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086251",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T13:32:00+09:00"
+    },
+    {
+      "id": "DB증권-eaa55b",
+      "title": "[채권-주간] 기술주 투매가 밀어붙인 강세…금통위가 브레이크 걸까",
+      "description": "문홍철 DB증권 자산전략팀장은 채권 강세 쪽에 더 무게를 뒀다. 문 팀장은 \"채권을 제외한 모든 자산 시장이 큰 가격 하락을 경험하고 있어 당분간 채권에는 금리 하락 압력이 가해질 것\"이라고 말했다. 그는 \"AI 투자가...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445889",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-22T13:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-711ea5",
+      "title": "“아랫집에 물 샜는데 우리 집 수리비는?”…누수 보험, 어디까지 보상...",
+      "description": "DB손해보험은 다이렉트 가정보장보험(화재)에서 ‘주택급배수시설누출손해Ⅱ’ 담보를 안내하고 있다. 보험증권에서 누수 특약에 가입했는지, 건물과 가재도구 중 어디까지 보장하는지 확인해야 한다. 세 준 집은?...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005767131?sid=101",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T12:37:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3a28c7",
+      "title": "폭설 등 겨울철 재난, 풍수해·지진재해보험으로 대비하세요",
+      "description": "보험은 DB손해보험과 현대해상, 삼성화재, KB손해보험, NH농협손해보험, 한화손해보험, 메리츠화재 등 7개 손해보험사이나 중소기업중앙회를 통해 전화나 온라인으로 가입할 수 있다. 주택 세입자와 기초생활수급자...",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212433?sid=103",
+      "source": "www.nocutnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T12:01:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bbd7a9",
+      "title": "행안부, 겨울철 자연재난 대비…풍수해·지진재해보험 가입 지원 확대",
+      "description": "보험은 DB손해보험과 현대해상, 삼성화재, KB손해보험, NH농협손해보험, 한화손해보험, 메리츠화재 등 7개 민간 손해보험사와 중소기업중앙회를 통해 전화 또는 온라인으로 가입할 수 있다. 주택 세입자와 기초생활수급자...",
+      "url": "https://www.public25.com/news/articleView.html?idxno=58791",
+      "source": "www.public25.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T12:00:00+09:00"
+    },
+    {
+      "id": "DB증권-ee5317",
+      "title": "[금통위poll]②전문가 90% \"내년에도 3%대 성장\"…高물가 압력 계속된다",
+      "description": "설문에 참여한 전문가(가나다 순) 강승원 NH투자증권 연구원, 공동락 대신증권 연구원, 김성수 한화투자증권 연구원, 김진욱 씨티은행 수석이코노미스트, 문홍철(박성우) DB증권 연구원, 박상현 iM증권 연구원, 박석길...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845999?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-22T11:54:00+09:00"
+    },
+    {
+      "id": "DB증권-68e1ee",
+      "title": "[금통위poll]①11월 금리 인상…향후 관건은 \"점도표 3.75%\" 주목",
+      "description": "문홍철 DB증권 연구원은 \"내년 상반기 금리가 3.50%까지 오른 후 이번 인상 사이클은 종료될 것\"이라고 예상했다. 응답자 13명(92.9%)은 내년 상반기 말 금리 수준을 3.50%로 점쳤다. 1명(박석길 이코노미스트)은 2월과 5월 두...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846000?sid=101",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-22T11:53:00+09:00"
+    },
+    {
+      "id": "DB손해보험-639b89",
+      "title": "DBCSI손해사정, 문체부 '여가친화인증' 재인증",
+      "description": "사진=DB손해보험 DB손해보험은 자회사 DBCSI손해사정이 문화체육관광부의 '여가친화인증' 재인증을 받았다고 22일 밝혔다. 2023년 첫 인증 이후 직원들의 여가시간과 활동을 지원하는 제도를 꾸준히 운영한 점을...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=152252",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T11:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c77ad4",
+      "title": "[위클리 생활금융] 상담·보상에 AI 더하는 손보사… 고객 맞춤 지원 확...",
+      "description": "DB손해보험은 보상 AI 에이전트와 AI 자동 과실판정 시스템을 도입해 고객이 모바일로 보상 진행 상황을 실시간 조회할 수 있는 서비스를 운영한다. 사고를 접수한 뒤 처리가 어디까지 진행됐는지 확인할 수 있도록 한...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731767",
+      "source": "www.the-biz.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T11:00:00+09:00"
+    },
+    {
+      "id": "DB저축은행-961f78",
+      "title": "“주식 빠져도 너무 빠지네” 쪽박 찬 엄마 결국 이곳으로 눈 돌렸다",
+      "description": "대신저축은행 ‘더드리고입출금통장’은 2억 원까지 최고 연 3.4%, DB저축은행 ‘DreamBig 보통예금‘은 1억 원까지 최고 연 3.3%, 예가람저축은행 ‘The프리미엄 멤버십 파킹통장’은 2억 원 미만에 조건 없이 연 3.2%를...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684727?sid=101",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-22T10:13:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2f2f63",
+      "title": "\"보험료 반값이라는데\"… 옛 실손, 5세대로 갈아타도 될까",
+      "description": "이어 ▲롯데손해보험 21만9331원 ▲삼성화재 20만2570원 ▲DB손해보험 19만8042원 ▲현대해상 18만7792원 ▲메리츠화재 17만6260원 순이다. 보험료가 높은 회사에 가입했을수록 전환으로 줄어드는 보험료도 커질 수 있다....",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001520",
+      "source": "it.chosun.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-22T09:00:00+09:00"
+    },
     {
       "id": "DB손해보험-d90b38",
       "title": "“투자가 아쉽네”…3분기 웃지 못한 손보사들",
@@ -54,15 +288,6 @@
       "source": "www.mk.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-11-21T16:44:00+09:00"
-    },
-    {
-      "id": "DB손해보험-ad7399",
-      "title": "반도체부터 금융·소비재까지 매물 출회…기업가치 제고주 '흔들'",
-      "description": "DB손해보험과 삼성화재, 한국금융지주가 하락했으며 대신증권과 현대차증권, 서울보증보험도 약세를 보였다. 기업가치 제고 정책의 수혜가 기대되는 금융주 역시 단기 차익실현 압력에서 자유롭지 못한 모습이다. 제약...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506599",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-21T14:58:00+09:00"
     },
     {
       "id": "DB하이텍-ad7399",
