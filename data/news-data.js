@@ -1,7 +1,2221 @@
-// 자동 생성 파일 — 2026-11-27
+// 자동 생성 파일 — 2026-11-28
 const NEWS_DATA = {
-  "lastUpdated": "2026-11-27",
+  "lastUpdated": "2026-11-28",
   "articles": [
+    {
+      "id": "DB손해보험-e008a9",
+      "title": "보험사부터 현지 은행·증권까지…보험업계, 글로벌 M&A 속도",
+      "description": "DB손해보험은 올해 상반기 인수를 마친 해외 자회사가 실적 성장세를 본격적으로 뒷받침하고 있다. DB손보의 3분기 연결 영업이익은 6183억원으로 전년 동기 대비 40.1% 증가했다. 특히 연결 보험손익이 4673억원으로 302.6...",
+      "url": "http://www.segyebiz.com/newsView/20261127513015?OutUrl=naver",
+      "source": "www.segyebiz.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-28T07:02:00+09:00"
+    },
+    {
+      "id": "DB생명-ce0b01",
+      "title": "암 이력자도 가입·치료비 2배… 생보사, 암보험 손질",
+      "description": "DB생명은 '백년친구 더블업 암치료 보장보험'을 내놨다. 기본 사망 보장에 암 진단부터 치료·회복까지 단계별 보장을 더한 상품이다. 암 수술과 항암방사선·항암약물치료 같은 주요 치료는 물론...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000002034",
+      "source": "it.chosun.com",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-11-28T06:30:00+09:00"
+    },
+    {
+      "id": "DB하이텍-9fbfd0",
+      "title": "[주간 거래소 외국인] 두산에너빌리티·LS ELECTRIC 사고 반도체 대형주...",
+      "description": "반도체 관련주에서는 이수페타시스와 대덕전자, 한미반도체, DB하이텍 등이 순매수 상위권에 이름을 올렸다. AI 서버 시장 확대와 고성능 반도체 수요 증가에 따른 관련 부품·장비 기업들의 성장 기대가 이어지는...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509065",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB하이텍",
+      "publishedAt": "2026-11-28T06:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-144726",
+      "title": "한미반도체 공매도 233억…티씨케이 비중 37%",
+      "description": "41~45위는 와이엔텍(16.59%), 두산로보틱스(16.58%), 에스엠(16.55%), DB손해보험(16.40%), 컴투스(16.29%) 순이다. DB손해보험과 두산로보틱스의 공매도 거래대금은 각각 약 50억원이다. 46~50위에는 한전KPS(16.08%), SK리츠...",
+      "url": "http://www.kjdaily.com/article.php?aid=1795792029693760276",
+      "source": "www.kjdaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-28T00:10:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9b60fb",
+      "title": "보험 9개사 모두 ‘구름’…미래에셋생명 호주펀드 만기 10년 연장",
+      "description": "DB손해보험도 DB자산운용이 운용하는 펀드에 4000만 달러 한도 투자를 약정했다. 두 회사 모두 자산운용 목적의 수익증권 거래로 ‘구름’에 포함했다. 한화생명은 개인형퇴직연금(IRP) 자산을 운용하면서 연금을 받는...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=838152",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T22:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-9b60fb",
+      "title": "보험 9개사 모두 ‘구름’…미래에셋생명 호주펀드 만기 10년 연장",
+      "description": "DB손해보험도 DB자산운용이 운용하는 펀드에 4000만 달러 한도 투자를 약정했다. 두 회사 모두 자산운용 목적의 수익증권 거래로 ‘구름’에 포함했다. 한화생명은 개인형퇴직연금(IRP) 자산을 운용하면서 연금을 받는...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=838152",
+      "source": "www.nspna.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T22:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a256c",
+      "title": "[포토] 김홍택, 그린적중률상 수상",
+      "description": "27일 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스 5층 그랜드볼룸에서 '2026 KPGA 제네시스 대상 시상식'이 열렸다. 이날 김홍택(33.DB손해보험)이 그린적중률상을 수상하고 있다.",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749396",
+      "source": "www.polinews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T19:15:00+09:00"
+    },
+    {
+      "id": "DB증권-dcab83",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "[DB자산운용] ◇임원 승진 ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당> ▲경영기획본부장 최문석 [DB캐피탈] ◇임원 승진 <담당...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628232",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T18:58:00+09:00"
+    },
+    {
+      "id": "DB자산운용-dcab83",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "[DB자산운용] ◇임원 승진 ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당> ▲경영기획본부장 최문석 [DB캐피탈] ◇임원 승진 <담당...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628232",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T18:58:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-dcab83",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "[DB자산운용] ◇임원 승진 ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당> ▲경영기획본부장 최문석 [DB캐피탈] ◇임원 승진 <담당...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628232",
+      "source": "www.mdtoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T18:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8dd47e",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498278",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T18:25:00+09:00"
+    },
+    {
+      "id": "DB증권-5d191d",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498280",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T18:25:00+09:00"
+    },
+    {
+      "id": "DB자산운용-77d03b",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498279",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T18:25:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-77d03b",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498279",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T18:25:00+09:00"
+    },
+    {
+      "id": "DB저축은행-95dcad",
+      "title": "[기획] 저축은행 해킹, 하반기 13만건…대책 없나",
+      "description": "하반기 개인정보 침해 사고가 발생한 저축은행은 한국투자저축은행을 포함해 ▲예가람저축은행 ▲웰컴저축은행 ▲DB저축은행 ▲OK저축은행 ▲하나저축은행 등 6곳이다. 공개된 유출 건은 총 13만건을 넘는다. 사고가...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668964",
+      "source": "www.kfenews.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-27T18:22:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-7ee5d9",
+      "title": "[인사] DB캐피탈",
+      "description": "◇ 담당 승진 ▲ 금융사업본부장 김영진 토요경제 / 토요경제",
+      "url": "https://sateconomy.co.kr/news/view/1065593681888634",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T18:16:00+09:00"
+    },
+    {
+      "id": "DB증권-81bc10",
+      "title": "[인사] DB증권 ; DB자산운용 ; DB캐피탈",
+      "description": "◈DB증권◎승진<상무>▷Equity솔루션본부장 이동규<담당>▷경영기획본부장 최문석 ◈DB자산운용◎승진<사장>▷신탁대표 박용명<담당>▷LDI운용2본부장 박상면 ◈DB캐피탈◎승진<담당>▷금융사업본부장 김영진 부고",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359199?sid=102",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T18:09:00+09:00"
+    },
+    {
+      "id": "DB자산운용-81bc10",
+      "title": "[인사] DB증권 ; DB자산운용 ; DB캐피탈",
+      "description": "◈DB증권◎승진<상무>▷Equity솔루션본부장 이동규<담당>▷경영기획본부장 최문석 ◈DB자산운용◎승진<사장>▷신탁대표 박용명<담당>▷LDI운용2본부장 박상면 ◈DB캐피탈◎승진<담당>▷금융사업본부장 김영진 부고",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359199?sid=102",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T18:09:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-81bc10",
+      "title": "[인사] DB증권 ; DB자산운용 ; DB캐피탈",
+      "description": "◈DB증권◎승진<상무>▷Equity솔루션본부장 이동규<담당>▷경영기획본부장 최문석 ◈DB자산운용◎승진<사장>▷신탁대표 박용명<담당>▷LDI운용2본부장 박상면 ◈DB캐피탈◎승진<담당>▷금융사업본부장 김영진 부고",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359199?sid=102",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T18:09:00+09:00"
+    },
+    {
+      "id": "DB손해보험-51b02d",
+      "title": "코리아 핀테크 위크 폐막··· AI 전환 시작됐다",
+      "description": "DB손해보험은 핀테크 스타트업 투자와 개방형 혁신 전략, 실제 협업 사례를 소개했다. 은행권의 디지털 혁신과 스타트업 지원사업도 함께 다뤄지면서 금융회사와 기술기업 간 협업이 사업 경쟁력을 높이는 방안으로...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498136",
+      "source": "www.enewstoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T18:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b170e6",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트     김재형          ▲ 시스템기획파트     이성재 ▲ 시스템운영파트       엄태오          ▲ 경영관리파트       류일현 ▲ 자금파트             정진경          ▲ 자산RM파트         서완주...",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=288128",
+      "source": "www.paxetv.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:56:00+09:00"
+    },
+    {
+      "id": "DB손해보험-69c996",
+      "title": "[업앤다운]보험주 14종목 상승…‘유일 하락’ DB손보, 2거래일 연속↓",
+      "description": "DB손해보험 2.55% 내려, 전일보다 낙폭 확대 흥국화재 5.17% 올라 상승 1위, 생보 3종목 동반 강세 11월 27일 정규장 마감 기준 보험 관련 전체 15종목 가운데 14개 종목이 상승했고 0개 종목은 보합, 1개 종목은...",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=838224",
+      "source": "www.nspna.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1ba7de",
+      "title": "신상훈, 생애 첫 제네시스 대상 수상…장유빈 상금왕·왕정훈 신인상",
+      "description": "김홍택(33·DB손해보험)은 그린적중률상(80.6584%)을 품에 안았고, 강경남(43·대선주조)은 페어웨이안착률상(65.7459%)의 주인공이 됐다. 우수 지도자상은 이재혁(32), 해외특별상은 김시우(31·CJ)에게 돌아갔다....",
+      "url": "http://www.stoo.com/article.php?aid=110123927346",
+      "source": "www.stoo.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8b2f61",
+      "title": "[오늘의 인사 : 11월 27일] DB증권·DB자산운용·DB캐피탈·DB손해보험·...",
+      "description": "김영진 ■ DB손해보험 ◇ 부서장 승진 △ 프로젝트지원파트 김재형 △ 시스템기획파트 이성재 △ 시스템운영파트 엄태오 △ 경영관리파트 류일현 △ 자금파트 정진경 △ 자산RM파트 서완주 △ 장기심사파트 문성철...",
+      "url": "https://www.news2day.co.kr/article/20261127500291",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:30:00+09:00"
+    },
+    {
+      "id": "DB증권-8b2f61",
+      "title": "[오늘의 인사 : 11월 27일] DB증권·DB자산운용·DB캐피탈·DB손해보험·...",
+      "description": "■ DB증권 ◇ 승진 △ 상무 Equity솔루션본부장 이동규 △ 담당 경영기획본부장 최문석 ■ DB자산운용 ◇ 승진 △ 사장 신탁대표 박용명 △ 담당 LDI운용2본부장 박상면 ■ DB캐피탈 ◇ 승진 △ 담당 금융사업본부장 김영진...",
+      "url": "https://www.news2day.co.kr/article/20261127500291",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T17:30:00+09:00"
+    },
+    {
+      "id": "DB자산운용-8b2f61",
+      "title": "[오늘의 인사 : 11월 27일] DB증권·DB자산운용·DB캐피탈·DB손해보험·...",
+      "description": "■ DB증권 ◇ 승진 △ 상무 Equity솔루션본부장 이동규 △ 담당 경영기획본부장 최문석 ■ DB자산운용 ◇ 승진 △ 사장 신탁대표 박용명 △ 담당 LDI운용2본부장 박상면 ■ DB캐피탈 ◇ 승진 △ 담당 금융사업본부장 김영진...",
+      "url": "https://www.news2day.co.kr/article/20261127500291",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T17:30:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-8b2f61",
+      "title": "[오늘의 인사 : 11월 27일] DB증권·DB자산운용·DB캐피탈·DB손해보험·...",
+      "description": "■ DB증권 ◇ 승진 △ 상무 Equity솔루션본부장 이동규 △ 담당 경영기획본부장 최문석 ■ DB자산운용 ◇ 승진 △ 사장 신탁대표 박용명 △ 담당 LDI운용2본부장 박상면 ■ DB캐피탈 ◇ 승진 △ 담당 금융사업본부장 김영진...",
+      "url": "https://www.news2day.co.kr/article/20261127500291",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T17:30:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d0ce59",
+      "title": "글로벌 로펌이 맡던 해외 M&A…K로펌, 이젠 '兆단위 빅딜' 총괄",
+      "description": "2조3000억원 규모인 DB손해보험의 미국 보험사 포테그라 인수는 법무법인 율촌이, 4조8000억원 규모인 프랑스 산업가스기업 에어리퀴드의 DIG에어가스 인수는 법무법인 광장이 리드 카운슬을 맡았다. 한 대형 로펌 변호사는...",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359147?sid=101",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-646e28",
+      "title": "[인사] DB손해보험",
+      "description": "| 이코노미사이언스 박성현 기자 | 부서장 승진 △프로젝트지원파트 김재형  △시스템기획파트 이성재 △시스템운영파트 엄태오  △경영관리파트 류일현 △자금파트 정진경  △자산RM파트 서완주 △장기심사파트 문성철...",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140899",
+      "source": "www.e-science.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1f02e0",
+      "title": "[인사] HDC그룹 / 팬오션 / DB손해보험 등",
+      "description": "김영석 ◇상무 △박성진 ◇상무보 △장석각 ■DB손해보험 ◇부서장 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005770067?sid=102",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:05:00+09:00"
+    },
+    {
+      "id": "DB증권-1f02e0",
+      "title": "[인사] HDC그룹 / 팬오션 / DB손해보험 등",
+      "description": "신현철 ■DB증권 ◇상무 △Equity솔루션본부장 이동규 ◇담당 △경영기획본부장 최문석 ■DB자산운용 ◇사장 △신탁대표 박용명 ◇담당 △LDI운용2본부장 박상면 ■DB캐피탈 ◇담당 △금융사업본부장 김영진...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005770067?sid=102",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T17:05:00+09:00"
+    },
+    {
+      "id": "DB자산운용-1f02e0",
+      "title": "[인사] HDC그룹 / 팬오션 / DB손해보험 등",
+      "description": "최문석 ■DB자산운용 ◇사장 △신탁대표 박용명 ◇담당 △LDI운용2본부장 박상면 ■DB캐피탈 ◇담당 △금융사업본부장 김영진 ■동국홀딩스 ◇상무 △미국법인장 김명수 ◇이사 △그룹지원실장 이현희 △일본법인장...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005770067?sid=102",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T17:05:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-1f02e0",
+      "title": "[인사] HDC그룹 / 팬오션 / DB손해보험 등",
+      "description": "박상면 ■DB캐피탈 ◇담당 △금융사업본부장 김영진 ■동국홀딩스 ◇상무 △미국법인장 김명수 ◇이사 △그룹지원실장 이현희 △일본법인장 강지원 ■동국제강 ◇상무 △인천공장장 양성호 △중앙기술연구소장...",
+      "url": "https://n.news.naver.com/mnews/article/009/0005770067?sid=102",
+      "source": "www.mk.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T17:05:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7a3bf4",
+      "title": "[인사종합·27일] 경찰청·현대해상·HDC 등",
+      "description": "김영진 ■ DB손해보험  ◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247976",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T17:00:00+09:00"
+    },
+    {
+      "id": "DB증권-7a3bf4",
+      "title": "[인사종합·27일] 경찰청·현대해상·HDC 등",
+      "description": "함영욱 ■ DB증권 ◇ 상무 승진 ▲Equity솔루션본부장 이동규 ◇ 담당 승진 ▲경영기획본부장 최문석 ▲ 경영기획본부장 최문석 ■ DB자산운용  ◇ 사장 승진 ▲신탁대표 박용명 ◇  담당 승진 ▲LDI운용2본부장 박상면...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247976",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T17:00:00+09:00"
+    },
+    {
+      "id": "DB자산운용-7a3bf4",
+      "title": "[인사종합·27일] 경찰청·현대해상·HDC 등",
+      "description": "최문석 ■ DB자산운용  ◇ 사장 승진 ▲신탁대표 박용명 ◇  담당 승진 ▲LDI운용2본부장 박상면 ■ DB캐피탈  ◇ 담당 승진 ▲ 금융사업본부장 김영진 ■ DB손해보험  ◇ 부서장 승진 ▲프로젝트지원파트 김재형...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247976",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T17:00:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-7a3bf4",
+      "title": "[인사종합·27일] 경찰청·현대해상·HDC 등",
+      "description": "박상면 ■ DB캐피탈  ◇ 담당 승진 ▲ 금융사업본부장 김영진 ■ DB손해보험  ◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247976",
+      "source": "www.safetimes.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T17:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-731ae9",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102170",
+      "source": "www.newsian.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:56:00+09:00"
+    },
+    {
+      "id": "DB증권-0218e7",
+      "title": "DB자산운용·DB증권·DB캐피탈, 12월 1일자 임원 승진 인사 단행",
+      "description": "DB자산운용ㆍDB증권ㆍDB캐피탈이 임원 승진 인사를 단행했다. 박용명이 DB자산운용 신탁대표로 승진하는 등 각 사 임원 인사를 통해 주요 본부장을 선임했다. DB자산운용(대표 정경수, 박용명)ㆍDB증권(대표 곽봉석)...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3167008",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T16:52:00+09:00"
+    },
+    {
+      "id": "DB자산운용-0218e7",
+      "title": "DB자산운용·DB증권·DB캐피탈, 12월 1일자 임원 승진 인사 단행",
+      "description": "DB자산운용ㆍDB증권ㆍDB캐피탈이 임원 승진 인사를 단행했다. 박용명이 DB자산운용 신탁대표로 승진하는 등 각 사 임원 인사를 통해 주요 본부장을 선임했다. DB자산운용(대표 정경수, 박용명)ㆍDB증권(대표 곽봉석)...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3167008",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T16:52:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-0218e7",
+      "title": "DB자산운용·DB증권·DB캐피탈, 12월 1일자 임원 승진 인사 단행",
+      "description": "DB자산운용ㆍDB증권ㆍDB캐피탈이 임원 승진 인사를 단행했다. 박용명이 DB자산운용 신탁대표로 승진하는 등 각 사 임원 인사를 통해 주요 본부장을 선임했다. DB자산운용(대표 정경수, 박용명)ㆍDB증권(대표 곽봉석)...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3167008",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T16:52:00+09:00"
+    },
+    {
+      "id": "DB손해보험-792289",
+      "title": "DB손해보험, 12월 1일자 부서장 승진 인사 단행… 김재형 등 34명",
+      "description": "DB손해보험이 부서장 승진 인사를 단행했다. 프로젝트지원파트부터 괌지점까지 각 부서와 사업단의 승진 인사를 발표했다. DB손해보험(대표 정종표)은 12월 1일자로 부서장 승진 인사를 단행했다고 밝혔다....",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3167064",
+      "source": "www.ttlnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-159982",
+      "title": "메리츠화재, '손보 빅4' 중 나홀로 뒷걸음...\"3분기 투자손익 88% 급감\"",
+      "description": "삼성화재·DB손해보험·현대해상은 보험 본업 개선 등에 힘입어 이익을 늘렸지만, 메리츠화재는 본업 개선 폭이 가장 작은 가운데 주식 관련 손실과 충당금 부담으로 투자손익이 급감했다. 투자손익 증가로...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=105075",
+      "source": "www.dailypop.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-77ff67",
+      "title": "[인사] DB손해보험",
+      "description": "DB손해보험(대표 정종표)은 12월 1일자로 부서장에 대한 승진을 아래와 같이 단행했다. ◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45758",
+      "source": "www.s-journal.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:40:00+09:00"
+    },
+    {
+      "id": "DB증권-e3ef6b",
+      "title": "만성질환약으로 몸집 키운 마더스제약, 코스닥 도전…“제네릭 약가 인...",
+      "description": "27일 DB증권 보고서에 따르면 마더스제약은 이날부터 다음 달 3일까지 기관투자자 수요예측을 진행한다. 일반청약은 12월 8~9일이며, 같은 달 코스닥 상장을 목표로 한다. 공모 물량은 전량 신주 240만주다. 희망...",
+      "url": "https://www.kukinews.com/article/view/kuk202611270128",
+      "source": "www.kukinews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T16:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-813da1",
+      "title": "[실손청구서②] 도수치료 청구 96% 급감... 다른 비급여로 번진 '풍선효...",
+      "description": "김윤 더불어민주당 의원이 삼성화재·DB손해보험·현대해상·메리츠화재·한화손해보험 등 5개 손해보험사로부터 받은 자료에 따르면, 8월 도수치료 실손 청구액은 19억3400만원으로 전년 같은 달(481억400만원)보다 96...",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=104713",
+      "source": "www.pressman.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:32:00+09:00"
+    },
+    {
+      "id": "DB증권-94f908",
+      "title": "[인사] HDC 외",
+      "description": "김영진 ◇DB증권 <상무 승진> △Equity솔루션본부장 이동규 <담당 승진> △경영기획본부장 최문석 ◇팬오션 <전무 승진> △양찬현 △김영석 <상무 승진> △박성진 <상무보 신규 선임> △장석각",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686965?sid=102",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T16:31:00+09:00"
+    },
+    {
+      "id": "DB자산운용-94f908",
+      "title": "[인사] HDC 외",
+      "description": "승진> △이춘성 ◇DB자산운용 <사장 승진> △신탁대표 박용명 <담당 승진> △LDI운용2본부장 박상면 ◇DB캐피탈 <담당 승진> △금융사업본부장 김영진 ◇DB증권 <상무 승진> △Equity솔루션본부장 이동규 <담당 승진...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686965?sid=102",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T16:31:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-94f908",
+      "title": "[인사] HDC 외",
+      "description": "박상면 ◇DB캐피탈 <담당 승진> △금융사업본부장 김영진 ◇DB증권 <상무 승진> △Equity솔루션본부장 이동규 <담당 승진> △경영기획본부장 최문석 ◇팬오션 <전무 승진> △양찬현 △김영석 <상무 승진> △박성진...",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686965?sid=102",
+      "source": "www.sedaily.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T16:31:00+09:00"
+    },
+    {
+      "id": "DB손해보험-bf667d",
+      "title": "보험사 CEO 9명 임기 만료…금융지주 인사·실적 변수에 연임 촉각",
+      "description": "금융지주 계열 보험사 CEO 7명이 올해 말 임기 만료를 앞둔 데 이어 교보생명과 DB손해보험 CEO 임기도 내년 3월 끝난다. 각사의 실적과 지주사의 그룹 전략, 조직 재편 기조가 맞물리며 연임 여부는 엇갈릴 전망이다....",
+      "url": "https://www.newspim.com/news/view/20261127001177",
+      "source": "www.newspim.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:27:00+09:00"
+    },
+    {
+      "id": "DB손해보험-39de0a",
+      "title": "[거래소 기관] 삼성SDI·SK바이오팜 담고…KB금융·신한지주는 폭풍매",
+      "description": "KB금융과 신한지주가 기관 매도 대상에 올랐으며, DB손해보험도 순매도 상위권에 포함됐다. 금융업종의 배당 매력과 실적 안정성에도 불구하고 단기적인 차익 실현과 업종별 자금 이동이 나타난 것으로 풀이된다. 소비재...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508959",
+      "source": "www.pinpointnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c4a7d7",
+      "title": "차보험 손해율 예상 밖 선방…손보사 연말 실적 변수되나",
+      "description": "27일 보험업계에 따르면 손해보험 상위사 5곳(삼성화재·DB손해보험·KB손해보험·현대해상·메리츠화재)의 지난 10월 자동차보험 단순 평균 손해율은 80.4%로 집계됐다. 전년 동월(87.6%)보다 7.2%포인트(p) 낮은 수준이다....",
+      "url": "https://www.topdaily.kr/articles/113169",
+      "source": "www.topdaily.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T16:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1101fd",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.jasm.co.kr/news/view/326734/?sc=Naver",
+      "source": "www.jasm.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f389a8",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://www.g-enews.com/view.php?ud=202611271540217499a6e8311f64_1",
+      "source": "www.g-enews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:42:00+09:00"
+    },
+    {
+      "id": "DB증권-c9d26f",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "◇DB증권 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 ◇DB자산운용 <사장 승진> ▲신탁대표 박용명 <담당 승진> ▲LDI운용2본부장 박상면 ◇DB캐피탈 <담당 승진> ▲금융사업본부장 김영진 [뉴스웍스=]",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904732",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T15:36:00+09:00"
+    },
+    {
+      "id": "DB자산운용-c9d26f",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "◇DB증권 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 ◇DB자산운용 <사장 승진> ▲신탁대표 박용명 <담당 승진> ▲LDI운용2본부장 박상면 ◇DB캐피탈 <담당 승진> ▲금융사업본부장 김영진 [뉴스웍스=]",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904732",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T15:36:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-c9d26f",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "◇DB증권 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 ◇DB자산운용 <사장 승진> ▲신탁대표 박용명 <담당 승진> ▲LDI운용2본부장 박상면 ◇DB캐피탈 <담당 승진> ▲금융사업본부장 김영진 [뉴스웍스=]",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904732",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T15:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1eb708",
+      "title": "[인사] DB손해보험",
+      "description": "DB손해보험은 내달 1일 부서장 승진 인사를 단행했다고 27일 밝혔다. ◆부서장 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=756867",
+      "source": "www.newsprime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-455a00",
+      "title": "보험상품 차별화 경쟁⋯올해 배타적사용권 성적표는",
+      "description": "DB손해보험과 현대해상, 흥국화재는 각각 2건을 기록했다. 새로운 상품을 지속적으로 개발하기 어렵다는 점과 지난해 획득 건수가 많았던 데 따른 기저효과 등이 작용한 것으로 풀이된다. 다만 시장 동향에 따라...",
+      "url": "https://www.etoday.co.kr/news/view/2653956",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:34:00+09:00"
+    },
+    {
+      "id": "DB생명-455a00",
+      "title": "보험상품 차별화 경쟁⋯올해 배타적사용권 성적표는",
+      "description": "이어 한화생명(3건), 흥국생명·DB생명·라이나생명·AIA생명(각 2건), 신한라이프(1건) 순이었다. 새 국제회계기준(IFRS17) 도입 이후 생보사들이 보장성보험 중심으로 상품 포트폴리오를 재편하면서 판매 경쟁력을 확보하기...",
+      "url": "https://www.etoday.co.kr/news/view/2653956",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB생명",
+      "publishedAt": "2026-11-27T15:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0bc24f",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://www.mediapen.com/news/view/1140657",
+      "source": "www.mediapen.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:32:00+09:00"
+    },
+    {
+      "id": "DB증권-70719c",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=108350",
+      "source": "www.womentimes.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T15:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-993350",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7196134",
+      "source": "weekly.hankooki.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-53a74b",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 △ 프로젝트지원파트 김재형 △ 시스템기획파트 이성재 △ 시스템운영파트 엄태오 △ 경영관리파트 류일현 △ 자금파트 정진경 △ 자산RM파트 서완주 △ 장기심사파트 문성철 △ 장기보상관리파트 나현준...",
+      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=273407",
+      "source": "www.asiaa.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a8647c",
+      "title": "[인사]DB손해보험",
+      "description": "◇부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://n.news.naver.com/mnews/article/003/0014349817?sid=101",
+      "source": "www.newsis.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:19:00+09:00"
+    },
+    {
+      "id": "DB손해보험-6c95cc",
+      "title": "[인사] DB손해보험",
+      "description": "◆ DB손해보험 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=160840",
+      "source": "www.smartbizn.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c96b77",
+      "title": "Sh수협은행, ESG 평가서 최고 AA등급…DB손해보험, 국가품질혁신상 대통...",
+      "description": "DB손해보험, 국가품질혁신상 고객만족 부문 대통령 표창 DB손해보험은 지난 25일 서울 코엑스에서 열린 '제52회 국가품질경영대회'에서 국가품질혁신상 고객만족 부문 대통령 표창을 받았다. 상품 개발부터 판매...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206470",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T15:02:00+09:00"
+    },
+    {
+      "id": "DB저축은행-b2f08f",
+      "title": "금융권 해킹 두 달째…은행·저축은행 각각 6곳 피해",
+      "description": "DB저축은행에서는 임직원과 외주인력 등 142명의 정보가 웰컴저축은행에서는 개인정보가 포함된 데이터 2299건이 유출됐다. 현재까지 정보 유출 또는 유출 정황이 공개된 저축은행은 6곳이다. 한성저축은행에서도...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904719",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-27T14:54:00+09:00"
+    },
+    {
+      "id": "DB손해보험-dd5b2b",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://sateconomy.co.kr/news/view/1065584719278073",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:50:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4a9103",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68600",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:44:00+09:00"
+    },
+    {
+      "id": "DB증권-7a2c78",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68601",
+      "source": "www.newsroad.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T14:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7b5e47",
+      "title": "[인사] DB손해보험",
+      "description": "아주경제=권가림 기자 hidden@ajunews.com ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철...",
+      "url": "https://www.ajunews.com/view/20261127143952686",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d5f620",
+      "title": "[인사] DB손해보험",
+      "description": "DB손해보험은 내달 1일자로 부서장 승진 인사를 단행했다고 27일 밝혔다. 다음은 승진자 명단 ◇ 부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현...",
+      "url": "https://n.news.naver.com/mnews/article/629/0000556279?sid=101",
+      "source": "news.tf.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f00669",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904722",
+      "source": "www.newsworks.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:32:00+09:00"
+    },
+    {
+      "id": "DB증권-6d21d1",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429836",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T14:24:00+09:00"
+    },
+    {
+      "id": "DB자산운용-6d21d1",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429836",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T14:24:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-6d21d1",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429836",
+      "source": "daily.hankooki.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T14:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-415015",
+      "title": "AI보험시대 '위임의 경계' 묻다…\"판단은 AI, 책임은 인간\"",
+      "description": "26일 코리아핀테크위크에서 열린 보험·AI 세미나에서는 좌장을 맡은 박소정 서울대 교수의 진행 아래 정윤호 해빗팩토리 공동대표, 이승준 DB손해보험 소장, 손재희 보험연구원 박사가 참여해 보험산업의 AI 위임 범위와...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733241",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-706581",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088677",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:22:00+09:00"
+    },
+    {
+      "id": "DB자산운용-ed3215",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "〈승진〉 ◇사장 ▲신탁대표 박용명 ◇담당 ▲LDI운용2본부장 박상면 [DB캐피탈] 〈승진〉 ◇담당 ▲금융사업본부장 김영진 [뉴스인사이드 윤아솜 기자 ]",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5058144",
+      "source": "www.newsinside.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T14:20:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-ed3215",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "〈승진〉 ◇사장 ▲신탁대표 박용명 ◇담당 ▲LDI운용2본부장 박상면 [DB캐피탈] 〈승진〉 ◇담당 ▲금융사업본부장 김영진 [뉴스인사이드 윤아솜 기자 ]",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5058144",
+      "source": "www.newsinside.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T14:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d200d3",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.meconomynews.com/news/articleView.html?idxno=204233",
+      "source": "www.meconomynews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a52a5",
+      "title": "[인사] DB손해보험",
+      "description": "▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준 ▲강서대인보상부...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026112714155445759",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:16:00+09:00"
+    },
+    {
+      "id": "DB증권-cb0393",
+      "title": "[인사] DB증권",
+      "description": "◇상무 ▲Equity솔루션본부장 이동규 ◇담당 ▲경영기획본부장 최문석 [뉴스인사이드 윤아솜 기자 ]",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5058080",
+      "source": "www.newsinside.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T14:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-852cb1",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=363315",
+      "source": "www.biztribune.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:12:00+09:00"
+    },
+    {
+      "id": "DB손해보험-a93cc6",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=75628",
+      "source": "www.newswhoplus.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8a0b30",
+      "title": "10월 차보험 손해율, 한숨 돌렸지만…'연말 급등' 우려",
+      "description": "(사진=연합뉴스) 27일 손해보험업계에 따르면, 대형 손보사 다섯곳(메리츠화재·삼성화재·현대해상·KB손해보험·DB손해보험)의 1~10월 누적 자동차보험 손해율은 단순 평균 83.9%로 집계됐다. 전년동기(85.5%)대비 1.5...",
+      "url": "https://www.asiatime.co.kr/article/20261125500411",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:06:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9301c3",
+      "title": "[인사]DB손해보험",
+      "description": "◆DB손해보험 ◇부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트...",
+      "url": "http://www.metroseoul.co.kr/article/20261127500221",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0a7d32",
+      "title": "[인사] DB손해보험",
+      "description": "◆DB손해보험 ◇부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트...",
+      "url": "https://n.news.naver.com/mnews/article/030/0003490737?sid=102",
+      "source": "www.etnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:03:00+09:00"
+    },
+    {
+      "id": "DB손해보험-fd9188",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://www.asiatime.co.kr/article/20261127500202",
+      "source": "www.asiatime.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB증권-38aefe",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] <임원 승진> ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] <임원 승진> ◇ 담당 ▲ 금융사업본부장...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026112714011807028",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-38aefe",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] <임원 승진> ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] <임원 승진> ◇ 담당 ▲ 금융사업본부장...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026112714011807028",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-40eec3",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154964",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-40eec3",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154964",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-38aefe",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] <임원 승진> ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] <임원 승진> ◇ 담당 ▲ 금융사업본부장...",
+      "url": "https://www.ceoscoredaily.com/page/view/2026112714011807028",
+      "source": "www.ceoscoredaily.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T14:02:00+09:00"
+    },
+    {
+      "id": "DB손해보험-d05d4e",
+      "title": "[인사] DB손해보험, 김재형 프로젝트지원파트장 등 34명 부서장 승진",
+      "description": "DB손해보험(대표이사 정종표)은 오는 12월 1일자로 김재형 프로젝트지원파트장 등 34명에 대한 부서장 승진 인사를 단행했다. 서울시 강남구에 위치한 DB금융센터 전경. [사진=DB손해보험] ◇ 부서장 승진...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203751",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T14:00:00+09:00"
+    },
+    {
+      "id": "DB증권-4d7212",
+      "title": "[인사] DB금융 계열사, 12월 1일자 임원 인사…DB자산운용 박용명 사장 ...",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 오는 12월 1일자로 임원 승진 인사를 단행한다. DB자산운용에서는 박용명 신탁대표가 사장으로 승진했고, DB증권에서는 이동규 Equity솔루션본부장이 상무로 승진했다. 서울시...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203752",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T14:00:00+09:00"
+    },
+    {
+      "id": "DB자산운용-4d7212",
+      "title": "[인사] DB금융 계열사, 12월 1일자 임원 인사…DB자산운용 박용명 사장 ...",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 오는 12월 1일자로 임원 승진 인사를 단행한다. DB자산운용에서는 박용명 신탁대표가 사장으로 승진했고, DB증권에서는 이동규 Equity솔루션본부장이 상무로 승진했다. 서울시...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203752",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T14:00:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-4d7212",
+      "title": "[인사] DB금융 계열사, 12월 1일자 임원 인사…DB자산운용 박용명 사장 ...",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 오는 12월 1일자로 임원 승진 인사를 단행한다. DB자산운용에서는 박용명 신탁대표가 사장으로 승진했고, DB증권에서는 이동규 Equity솔루션본부장이 상무로 승진했다. 서울시...",
+      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203752",
+      "source": "www.thevaluenews.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T14:00:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c45296",
+      "title": "[인사] DB손해보험",
+      "description": "〈승진〉 ◇부서장 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5057956",
+      "source": "www.newsinside.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:58:00+09:00"
+    },
+    {
+      "id": "DB손해보험-1891c3",
+      "title": "[현장] AI와 같은 답 낸 직원, 잘한 걸까?···보험업계 '위임의 딜레마...",
+      "description": "박 교수가 좌장을 맡고 정윤호 해빗팩토리 공동대표와 이승준 DB손해보험 수석, 손재희 보험연구원 소비자·디지털연구실장이 발표와 토론에 참여했다. 참석자들은 목표에 따라 스스로 계획하고 판단·실행하는...",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261675",
+      "source": "www.womaneconomy.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:54:00+09:00"
+    },
+    {
+      "id": "DB증권-a97def",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇DB자산운용 사장 ▲신탁대표 박용명 ◇DB자산운용 담당 ▲LDI운용2본부장 박상면 ◇DB증권 상무 ▲Equity솔루션본부장 이동규 ◇DB증권 담당 ▲경영기획본부장 최문석 ◇DB캐피탈 담당 ▲금융사업본부장 김영진",
+      "url": "http://www.metroseoul.co.kr/article/20261127500210",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T13:48:00+09:00"
+    },
+    {
+      "id": "DB자산운용-a97def",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇DB자산운용 사장 ▲신탁대표 박용명 ◇DB자산운용 담당 ▲LDI운용2본부장 박상면 ◇DB증권 상무 ▲Equity솔루션본부장 이동규 ◇DB증권 담당 ▲경영기획본부장 최문석 ◇DB캐피탈 담당 ▲금융사업본부장 김영진",
+      "url": "http://www.metroseoul.co.kr/article/20261127500210",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T13:48:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-a97def",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇DB자산운용 사장 ▲신탁대표 박용명 ◇DB자산운용 담당 ▲LDI운용2본부장 박상면 ◇DB증권 상무 ▲Equity솔루션본부장 이동규 ◇DB증권 담당 ▲경영기획본부장 최문석 ◇DB캐피탈 담당 ▲금융사업본부장 김영진",
+      "url": "http://www.metroseoul.co.kr/article/20261127500210",
+      "source": "www.metroseoul.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T13:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-7ba38c",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733232",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-f482ff",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328837",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:42:00+09:00"
+    },
+    {
+      "id": "DB손해보험-36512d",
+      "title": "[인사]DB손해보험",
+      "description": "▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112710505266631",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-4cb26c",
+      "title": "<오늘의 인사>",
+      "description": "아주경제=정세희 기자 ssss308@ajunews.com ◇DB손해보험 △부서장 승진 ▷프로젝트지원파트 김재형 ▷시스템기획파트 이성재 ▷시스템운영파트 엄태오 ▷경영관리파트 류일현 ▷자금파트 정진경 ▷자산RM파트 서완주...",
+      "url": "https://www.ajunews.com/view/20261127131949408",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:36:00+09:00"
+    },
+    {
+      "id": "DB증권-4cb26c",
+      "title": "<오늘의 인사>",
+      "description": "신현철 ◇DB증권 △승진 <상무> ▷Equity솔루션본부장 이동규 <담당> ▷경영기획본부장 최문석 ◇DB자산운용·DB캐피탈 [DB자산운용] △승진 <사장> ▷신탁대표 박용명 <담당> ▷LDI운용2본부장 박상면 [DB캐피탈] △승진...",
+      "url": "https://www.ajunews.com/view/20261127131949408",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T13:36:00+09:00"
+    },
+    {
+      "id": "DB자산운용-4cb26c",
+      "title": "<오늘의 인사>",
+      "description": "이동규 <담당> ▷경영기획본부장 최문석 ◇DB자산운용·DB캐피탈 [DB자산운용] △승진 <사장> ▷신탁대표 박용명 <담당> ▷LDI운용2본부장 박상면 [DB캐피탈] △승진 <담당> ▷금융사업본부장 김영진",
+      "url": "https://www.ajunews.com/view/20261127131949408",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T13:36:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-4cb26c",
+      "title": "<오늘의 인사>",
+      "description": "이동규 <담당> ▷경영기획본부장 최문석 ◇DB자산운용·DB캐피탈 [DB자산운용] △승진 <사장> ▷신탁대표 박용명 <담당> ▷LDI운용2본부장 박상면 [DB캐피탈] △승진 <담당> ▷금융사업본부장 김영진",
+      "url": "https://www.ajunews.com/view/20261127131949408",
+      "source": "www.ajunews.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T13:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-61d5d5",
+      "title": "홍원학·이문화 유임 가닥… 삼성생명·화재 해외사업 성과 주목",
+      "description": "실제 DB손해보험은 2조3000억원을 들여 미국 특화보험사 포테그라를 인수했고, 한화생명은 미국 증권사 벨로시티 지분 75%를 2500억원에 인수했다. 삼성생명·화재 또한 해외사업 확대를 추진하고 있다. 특히...",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89422",
+      "source": "www.ekoreanews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-8181ac",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=268154",
+      "source": "www.finomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:14:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-fc3c29",
+      "title": "[인사] DB캐피탈",
+      "description": "◇ 임원 승진 ▲ 금융사업본부장 김영진 전하경 한국금융신문 기자",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026112713063883908a55064dd1_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T13:08:00+09:00"
+    },
+    {
+      "id": "DB손해보험-5d71c7",
+      "title": "\"내년 보험사 기본자본 K-ICS 규제…'자본의 질' 관건\"<하나證>",
+      "description": "2분기 말 기준 주요 보험사의 기본자본비율은 삼성화재 220.2%, 삼성생명 177.2%, DB손해보험 96.0%, 현대해상 83.8%, 한화손해보험 67.2%, 한화생명 56.8% 순이었다. 자본확충 수단은 좁아졌다. 국제회계기준(IFRS17)과 K-ICS 도입...",
+      "url": "https://www.news2day.co.kr/article/20261127500168",
+      "source": "www.news2day.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:04:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9209fc",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888683",
+      "source": "www.getnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T13:04:00+09:00"
+    },
+    {
+      "id": "DB증권-944676",
+      "title": "[인사] DB증권",
+      "description": "[인사] DB증권 ◇ 임원 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 12월 1일자 인사. 정선은 한국금융신문 기자",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611271239533937179ad43907_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T13:04:00+09:00"
+    },
+    {
+      "id": "DB자산운용-f54d7a",
+      "title": "[인사] DB자산운용",
+      "description": "[인사] DB자산운용 ◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 12월 1일자 인사. 정선은 한국금융신문 기자",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611271243013363179ad43907_18",
+      "source": "www.fntimes.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T13:04:00+09:00"
+    },
+    {
+      "id": "DB증권-9c56c0",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 더퍼블릭",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328781",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T12:38:00+09:00"
+    },
+    {
+      "id": "DB손해보험-04300b",
+      "title": "[인사] DB손해보험",
+      "description": "|중앙이코노미뉴스 정재혁 기자| ◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567144",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T12:36:00+09:00"
+    },
+    {
+      "id": "DB자산운용-5f9c76",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 더퍼블릭",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328798",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T12:36:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-5f9c76",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 더퍼블릭",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328798",
+      "source": "www.thepublic.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T12:36:00+09:00"
+    },
+    {
+      "id": "DB증권-5cab97",
+      "title": "[인사] DB증권",
+      "description": "|중앙이코노미뉴스 정재혁 기자| ◇ 승진 <상무> ▲Equity솔루션본부장 이동규 <담당> ▲경영기획본부장 최문석",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567142",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T12:34:00+09:00"
+    },
+    {
+      "id": "DB자산운용-329804",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "|중앙이코노미뉴스 정재혁 기자| ◇ 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲금융사업본부장 김영진",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567143",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T12:34:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-329804",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "|중앙이코노미뉴스 정재혁 기자| ◇ 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲금융사업본부장 김영진",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567143",
+      "source": "www.joongangenews.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T12:34:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c4b187",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진(12월 1일자) △ 프로젝트지원파트 김재형 △ 시스템기획파트 이성재 △ 시스템운영파트 엄태오 △ 경영관리파트 류일현 △ 자금파트 정진경 △ 자산RM파트 서완주 △ 장기심사파트 문성철...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206471",
+      "source": "www.sisaon.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T12:32:00+09:00"
+    },
+    {
+      "id": "DB손해보험-9f1830",
+      "title": "[인사] DB손해보험",
+      "description": "△ 프로젝트지원파트 김재형 △ 시스템기획파트 이성재 △ 시스템운영파트 엄태오 △ 경영관리파트 류일현 △ 자금파트 정진경 △ 자산RM파트 서완주 △ 장기심사파트 문성철 △ 장기보상관리파트 나현준...",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=556370",
+      "source": "www.ngetnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T12:32:00+09:00"
+    },
+    {
+      "id": "DB저축은행-295139",
+      "title": "한국투자저축은행, 개인정보 8만6611명 유출…긴급 보안조치에도 추가 ...",
+      "description": "한국투자저축은행에 앞서 예가람저축은행, OK저축은행, 웰컴저축은행, DB저축은행, 하나저축은행에서도 해킹에 따른 개인정보 유출 사고가 발생했다. 특히 예가람저축은행의 개인정보 유출 규모는 4만3246명으로...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=141184",
+      "source": "www.newslock.co.kr",
+      "subsidiary": "DB저축은행",
+      "publishedAt": "2026-11-27T12:30:00+09:00"
+    },
+    {
+      "id": "DB증권-8941b3",
+      "title": "금투업계, 자립준비청년 139명에 ISA 3년간 15억 지원",
+      "description": "참여사는 DB증권, IBK투자증권, KB증권, NH투자증권, 교보증권, 다올투자증권, 대신증권, 메리츠증권, 신한투자증권, 우리투자증권, 유안타증권, 키움증권, 현대차증권, 하나증권 14곳이다. 참여 증권사는 청년 명의의...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269258",
+      "source": "www.whitepaper.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T12:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-42c8e0",
+      "title": "[인사]DB손해보험",
+      "description": "▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준 ▲강서대인보상부...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=87162",
+      "source": "www.press9.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T12:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-37ca66",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002250150?sid=105",
+      "source": "www.ddaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T12:17:00+09:00"
+    },
+    {
+      "id": "DB증권-0da402",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316611",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:48:00+09:00"
+    },
+    {
+      "id": "DB자산운용-b91ec8",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316612",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T11:48:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-b91ec8",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316612",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T11:48:00+09:00"
+    },
+    {
+      "id": "DB손해보험-95f749",
+      "title": "[인사]DB손해보험",
+      "description": "◆DB손해보험 ▷부서장 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트...",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313943?sid=102",
+      "source": "www.news1.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:47:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2ceb45",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316613",
+      "source": "www.jeonmae.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:46:00+09:00"
+    },
+    {
+      "id": "DB손해보험-ac6d5a",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025650",
+      "source": "www.cnbnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:44:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2b930f",
+      "title": "[인사] DB손해보험",
+      "description": "▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=321145",
+      "source": "www.wolyo.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-aacef0",
+      "title": "[인사] DB손해보험",
+      "description": "▲프로젝트지원파트 김재형  ▲시스템기획파트 이성재  ▲시스템운영파트 엄태오  ▲경영관리파트 류일현  ▲자금파트 정진경  ▲자산RM파트 서완주  ▲장기심사파트 문성철  ▲장기보상관리파트 나현준...",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=126157",
+      "source": "www.newscape.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-3730d5",
+      "title": "[인사] DB손해보험",
+      "description": "◇부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.insnews.co.kr/news/articleView.html?idxno=94106",
+      "source": "www.insnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:40:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b84478",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51645",
+      "source": "www.1conomynews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:38:00+09:00"
+    },
+    {
+      "id": "DB증권-d50c5e",
+      "title": "[인사] DB그룹 금융 계열사",
+      "description": "◆사장 ▲신탁대표 박용명 ◆담당 ▲LDI운용2본부장    박상면 [DB증권] <승진> ◆상무 ▲Equity솔루션본부장 이동규 ◆담당 ▲경영기획본부장 최문석 [DB캐피탈] <승진> ◆담당 ▲금융사업본부장 김영진...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370725",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:38:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-d50c5e",
+      "title": "[인사] DB그룹 금융 계열사",
+      "description": "◆사장 ▲신탁대표 박용명 ◆담당 ▲LDI운용2본부장    박상면 [DB증권] <승진> ◆상무 ▲Equity솔루션본부장 이동규 ◆담당 ▲경영기획본부장 최문석 [DB캐피탈] <승진> ◆담당 ▲금융사업본부장 김영진...",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370725",
+      "source": "www.ftoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T11:38:00+09:00"
+    },
+    {
+      "id": "DB증권-c75390",
+      "title": "[인사] DB증권",
+      "description": "DB증권 임원 인사 ◆ 상무 ▲ Equity솔루션본부장 이동규 ◆ 담당 ▲ 경영기획본부장 최문석",
+      "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4028074",
+      "source": "www.nbntv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:36:00+09:00"
+    },
+    {
+      "id": "DB손해보험-030a93",
+      "title": "[인사] DB손해보험",
+      "description": "라이센스뉴스 = 이소라 기자 | ◇부서장 승진 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212151",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:30:00+09:00"
+    },
+    {
+      "id": "DB증권-c3c6ea",
+      "title": "[인사] DB증권",
+      "description": "◇DB증권 상무 △Equity솔루션본부장 이동규 담당 △경영기획본부장 최문석",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358999?sid=102",
+      "source": "www.hankyung.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:28:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0589cf",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://www.public25.com/news/articleView.html?idxno=59208",
+      "source": "www.public25.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:26:00+09:00"
+    },
+    {
+      "id": "DB손해보험-810383",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=123188",
+      "source": "www.newsdream.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:24:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b548f3",
+      "title": "미·이란 대치에 길어진 고유가…금융권 부담 확대",
+      "description": "삼성화재·현대해상·DB손해보험·KB손해보험의 10월 자동차보험 손해율 단순 평균은 80.5%였다. 올해 1~10월 누적 손해율은 84.3%로, 10월 수치가 누적 평균보다 3.8%p 낮게 나타났다. 손해율은 거둔 보험료 대비 사고로...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316396",
+      "source": "www.straightnews.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-720028",
+      "title": "[인사] DB손해보험 부서장 승진",
+      "description": "포쓰저널 박소연 기자 ■ DB손해보험 ◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2122833",
+      "source": "www.4th.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:22:00+09:00"
+    },
+    {
+      "id": "DB손해보험-017932",
+      "title": "생활비에 빚투까지 … 보험 해약환급금 1년 새 13.7조 급증",
+      "description": "현대해상과 DB손해보험 등도 대출 한도를 10%p가량 축소했다. 업계에서는 경기 부진과 고물가·고금리 여파로 가계의 자금 사정이 어려워지면서 생활자금을 마련하기 위해 보험을 해지하거나 보험계약대출을 받는...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/27/2026112750122.html",
+      "source": "biz.newdaily.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-c41859",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.socialvalue.kr/news/view/1065579443192466",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:20:00+09:00"
+    },
+    {
+      "id": "DB손해보험-475870",
+      "title": "[인사] DB손해보험",
+      "description": "DB손해보험은 2026년 12월 1일자로 부서장에 대한 승진을 아래와 같이 단행했다. ◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293951",
+      "source": "www.goodkyung.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-0800a9",
+      "title": "[인사] DB손해보험",
+      "description": "◇ 부서장 승진 ▲ 프로젝트지원파트 김재형 ▲ 시스템기획파트 이성재 ▲ 시스템운영파트 엄태오 ▲ 경영관리파트 류일현 ▲ 자금파트 정진경 ▲ 자산RM파트 서완주 ▲ 장기심사파트 문성철 ▲ 장기보상관리파트 나현준...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242279",
+      "source": "www.ezyeconomy.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:18:00+09:00"
+    },
+    {
+      "id": "DB손해보험-b4e81b",
+      "title": "[인사] DB손해보험",
+      "description": "◆부서장 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트 나현준...",
+      "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226545",
+      "source": "www.kbanker.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:16:00+09:00"
+    },
+    {
+      "id": "DB손해보험-2ae8d6",
+      "title": "[인사] DB손해보험",
+      "description": "〈승진〉 ◇부서장 ▲프로젝트지원파트 김재형 ▲시스템기획파트 이성재 ▲시스템운영파트 엄태오 ▲경영관리파트 류일현 ▲자금파트 정진경 ▲자산RM파트 서완주 ▲장기심사파트 문성철 ▲장기보상관리파트 나현준...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/114128",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:14:00+09:00"
+    },
+    {
+      "id": "DB손해보험-be7c42",
+      "title": "[인사] DB손해보험",
+      "description": "◆ DB손해보험 ◇부서장 승진 △프로젝트지원파트 김재형 △시스템기획파트 이성재 △시스템운영파트 엄태오 △경영관리파트 류일현 △자금파트 정진경 △자산RM파트 서완주 △장기심사파트 문성철 △장기보상관리파트...",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610759?sid=102",
+      "source": "www.fnnews.com",
+      "subsidiary": "DB손해보험",
+      "publishedAt": "2026-11-27T11:13:00+09:00"
+    },
+    {
+      "id": "DB증권-c27656",
+      "title": "[인사] DB그룹",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> ▲ 금융사업본부장...",
+      "url": "https://sateconomy.co.kr/news/view/1065576788002142",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:10:00+09:00"
+    },
+    {
+      "id": "DB증권-51c03f",
+      "title": "[인사] DB증권",
+      "description": "◇상무 ▲Equity솔루션본부장 이동규 ◇담당 ▲경영기획본부장 최문석 (서울=연합인포맥스)",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446939",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:10:00+09:00"
+    },
+    {
+      "id": "DB자산운용-ed7aeb",
+      "title": "[인사] DB자산운용",
+      "description": "◇사장 ▲신탁대표 박용명 ◇담당 ▲LDI운용2본부장 박상면 (서울=연합인포맥스)",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446940",
+      "source": "news.einfomax.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T11:10:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-c27656",
+      "title": "[인사] DB그룹",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> ▲ 금융사업본부장...",
+      "url": "https://sateconomy.co.kr/news/view/1065576788002142",
+      "source": "sateconomy.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T11:10:00+09:00"
+    },
+    {
+      "id": "DB증권-a701b5",
+      "title": "[인사] DB증권",
+      "description": "◇ 임원 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "https://dealsite.co.kr/articles/173657",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T11:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-f19c2f",
+      "title": "[인사] DB자산운용",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면",
+      "url": "https://dealsite.co.kr/articles/173656",
+      "source": "dealsite.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T11:02:00+09:00"
+    },
+    {
+      "id": "DB자산운용-ae39fc",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 △신탁대표 박용명 △LDI운용2본부장 박상면 ◇ 승진 △금융사업본부장 김영진 노혁진 객원기자",
+      "url": "https://www.public25.com/news/articleView.html?idxno=59205",
+      "source": "www.public25.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T11:00:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-ae39fc",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 △신탁대표 박용명 △LDI운용2본부장 박상면 ◇ 승진 △금융사업본부장 김영진 노혁진 객원기자",
+      "url": "https://www.public25.com/news/articleView.html?idxno=59205",
+      "source": "www.public25.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T11:00:00+09:00"
+    },
+    {
+      "id": "DB증권-491492",
+      "title": "[인사] DB증권",
+      "description": "DB자산운용, DB증권, DB캐피탈은 오는 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001274170?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:52:00+09:00"
+    },
+    {
+      "id": "DB자산운용-491492",
+      "title": "[인사] DB증권",
+      "description": "DB자산운용, DB증권, DB캐피탈은 오는 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001274170?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:52:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-491492",
+      "title": "[인사] DB증권",
+      "description": "DB자산운용, DB증권, DB캐피탈은 오는 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001274170?sid=101",
+      "source": "www.wowtv.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:52:00+09:00"
+    },
+    {
+      "id": "DB자산운용-967851",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◆DB자산운용 ◇사장 승진 ▲신탁대표 박용명 ◇담당 승진 ▲LDI운용2본부장 박상면 ◆DB캐피탈 ◇담당 승진 ▲금융사업본부장 김영진 [신아일보]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088588",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:48:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-967851",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◆DB자산운용 ◇사장 승진 ▲신탁대표 박용명 ◇담당 승진 ▲LDI운용2본부장 박상면 ◆DB캐피탈 ◇담당 승진 ▲금융사업본부장 김영진 [신아일보]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088588",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:48:00+09:00"
+    },
+    {
+      "id": "DB증권-b1852b",
+      "title": "[인사] DB증권",
+      "description": "◇상무 승진 ▲Equity솔루션본부장 이동규 ◇담당 승진 ▲경영기획본부장 최문석 [신아일보]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088586",
+      "source": "www.shinailbo.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:46:00+09:00"
+    },
+    {
+      "id": "DB증권-96470d",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [이지뉴스]",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242272",
+      "source": "www.ezyeconomy.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:42:00+09:00"
+    },
+    {
+      "id": "DB자산운용-43c3ae",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 머니스톰",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8925",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:41:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-43c3ae",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 머니스톰",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8925",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:41:00+09:00"
+    },
+    {
+      "id": "DB증권-eb5016",
+      "title": "[인사] DB금융계열 연말 승진·이동…박용명 사장·심재철 부사장 승진",
+      "description": "DB증권은 이동규 Equity솔루션본부장을 상무로, 최문석 경영기획본부장을 담당으로 승진시켰으며, DB캐피탈은 김영진 금융사업본부장을 담당으로 발령했다. DB생명은 준법감시·제휴사업 부문에서 승진 인사를 냈다....",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576905259560",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:40:00+09:00"
+    },
+    {
+      "id": "DB자산운용-445187",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.socialvalue.kr/news/view/1065576828099978",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:40:00+09:00"
+    },
+    {
+      "id": "DB자산운용-eb5016",
+      "title": "[인사] DB금융계열 연말 승진·이동…박용명 사장·심재철 부사장 승진",
+      "description": "올해 미국 보험사 포테그라를 인수한 DB손해보험은 신사업부문과 미주사업본부에서 승진 인사를 냈고, DB자산운용은 박용명 신탁대표를 사장으로 승진시켰다. 증권·캐피탈·생명보험도 임원 인사를 발표했다. 27일...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576905259560",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:40:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-445187",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진",
+      "url": "https://www.socialvalue.kr/news/view/1065576828099978",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:40:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-eb5016",
+      "title": "[인사] DB금융계열 연말 승진·이동…박용명 사장·심재철 부사장 승진",
+      "description": "DB증권은 이동규 Equity솔루션본부장을 상무로, 최문석 경영기획본부장을 담당으로 승진시켰으며, DB캐피탈은 김영진 금융사업본부장을 담당으로 발령했다. DB생명은 준법감시·제휴사업 부문에서 승진 인사를 냈다....",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576905259560",
+      "source": "www.megaeconomy.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:40:00+09:00"
+    },
+    {
+      "id": "DB증권-3a8859",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 오늘경제",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=820286",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:38:00+09:00"
+    },
+    {
+      "id": "DB증권-af4dfc",
+      "title": "[인사] DB증권",
+      "description": "▲DB자산운용 ◇사장 ▷신탁대표 박용명 ◇담당 ▷DI운용2본부장 박상면 ▲DB증권 <임원 승진> ◇상무 ▷Equity솔루션본부장 이동규 ◇담당 ▷경영기획본부장 최문석 ▲DB캐피탈 <임원 승진> ◇담당...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001983",
+      "source": "it.chosun.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:38:00+09:00"
+    },
+    {
+      "id": "DB자산운용-af4dfc",
+      "title": "[인사] DB증권",
+      "description": "▲DB자산운용 ◇사장 ▷신탁대표 박용명 ◇담당 ▷DI운용2본부장 박상면 ▲DB증권 <임원 승진> ◇상무 ▷Equity솔루션본부장 이동규 ◇담당 ▷경영기획본부장 최문석 ▲DB캐피탈 <임원 승진> ◇담당...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001983",
+      "source": "it.chosun.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:38:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-af4dfc",
+      "title": "[인사] DB증권",
+      "description": "▲DB자산운용 ◇사장 ▷신탁대표 박용명 ◇담당 ▷DI운용2본부장 박상면 ▲DB증권 <임원 승진> ◇상무 ▷Equity솔루션본부장 이동규 ◇담당 ▷경영기획본부장 최문석 ▲DB캐피탈 <임원 승진> ◇담당...",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001983",
+      "source": "it.chosun.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:38:00+09:00"
+    },
+    {
+      "id": "DB증권-51ba78",
+      "title": "[인사] DB증권",
+      "description": "이투데이=정수천 기자 | ◇승진 △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석",
+      "url": "https://www.etoday.co.kr/news/view/2653843",
+      "source": "www.etoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:32:00+09:00"
+    },
+    {
+      "id": "DB자산운용-a2ed12",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 오늘경제",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=820282",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:32:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-a2ed12",
+      "title": "[인사] DB자산운용·DB캐피탈",
+      "description": "◇ 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB캐피탈] ◇ 승진 <담당> ▲ 금융사업본부장 김영진 오늘경제",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=820282",
+      "source": "www.startuptoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:32:00+09:00"
+    },
+    {
+      "id": "DB증권-6772b1",
+      "title": "[인사] DB증권",
+      "description": "◇ 상무 승진 ▲Equity솔루션본부장 이동규 ◇ 담당 승진 ▲경영기획본부장 최문석",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718668",
+      "source": "www.digitaltoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:28:00+09:00"
+    },
+    {
+      "id": "DB자산운용-536268",
+      "title": "[인사] DB자산운용",
+      "description": "◇사장 승진 △ 신탁대표 박용명 ◇담당 승진 △ LDI운용2본부장 박상면",
+      "url": "https://n.news.naver.com/mnews/article/031/0001078976?sid=102",
+      "source": "www.inews24.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:27:00+09:00"
+    },
+    {
+      "id": "DB증권-a05ec8",
+      "title": "[인사] DB증권",
+      "description": "◇ 상무 승진 △ Equity솔루션본부장 이동규 ◇담당 승진 △경영기획본부장 최문석",
+      "url": "https://n.news.naver.com/mnews/article/031/0001078972?sid=102",
+      "source": "www.inews24.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:26:00+09:00"
+    },
+    {
+      "id": "DB증권-be4942",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 △ Equity솔루션본부장 이동규 △ 경영기획본부장 최문석 노혁진 객원기자",
+      "url": "https://www.public25.com/news/articleView.html?idxno=59195",
+      "source": "www.public25.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:16:00+09:00"
+    },
+    {
+      "id": "DB증권-b67d95",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲신탁대표 박용명 ◇ 담당 승진 ▲LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲Equity솔루션본부장 이동규 ◇ 담당 승진 ▲경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲금융사업본부장 김영진",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51631",
+      "source": "www.1conomynews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:10:00+09:00"
+    },
+    {
+      "id": "DB자산운용-b67d95",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲신탁대표 박용명 ◇ 담당 승진 ▲LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲Equity솔루션본부장 이동규 ◇ 담당 승진 ▲경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲금융사업본부장 김영진",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51631",
+      "source": "www.1conomynews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:10:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-b67d95",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲신탁대표 박용명 ◇ 담당 승진 ▲LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲Equity솔루션본부장 이동규 ◇ 담당 승진 ▲경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲금융사업본부장 김영진",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51631",
+      "source": "www.1conomynews.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:10:00+09:00"
+    },
+    {
+      "id": "DB증권-3be477",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 27일 임원 승진 인사를 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3452571",
+      "source": "www.newscj.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-3be477",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 27일 임원 승진 인사를 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3452571",
+      "source": "www.newscj.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:08:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-3be477",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용과 DB증권, DB캐피탈이 27일 임원 승진 인사를 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면 [DB증권] ◇임원 승진 <상무> ▲Equity솔루션본부장 이동규 <담당...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3452571",
+      "source": "www.newscj.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:08:00+09:00"
+    },
+    {
+      "id": "DB증권-971636",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "https://www.socialvalue.kr/news/view/1065575071228165",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:06:00+09:00"
+    },
+    {
+      "id": "DB증권-d0a8e4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용·DB증권·DB캐피탈 12월 1일자 임원 승진 인사. ■ DB자산운용 ◇ 사장 ▲신탁대표 박용명 ◇ 담당 ▲LDI운용2본부장 박상면 ■ DB증권 <승진> ◇ 상무 ▲Equity솔루션본부장 이동규 ◇ 담당...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=153474",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T10:04:00+09:00"
+    },
+    {
+      "id": "DB자산운용-d0a8e4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용·DB증권·DB캐피탈 12월 1일자 임원 승진 인사. ■ DB자산운용 ◇ 사장 ▲신탁대표 박용명 ◇ 담당 ▲LDI운용2본부장 박상면 ■ DB증권 <승진> ◇ 상무 ▲Equity솔루션본부장 이동규 ◇ 담당...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=153474",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T10:04:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-d0a8e4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "DB자산운용·DB증권·DB캐피탈 12월 1일자 임원 승진 인사. ■ DB자산운용 ◇ 사장 ▲신탁대표 박용명 ◇ 담당 ▲LDI운용2본부장 박상면 ■ DB증권 <승진> ◇ 상무 ▲Equity솔루션본부장 이동규 ◇ 담당...",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=153474",
+      "source": "www.bizwnews.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T10:04:00+09:00"
+    },
+    {
+      "id": "DB증권-0dc558",
+      "title": "[인사] DB증권",
+      "description": "◇사장 ▲ 신탁대표  박용명 ◇담당 ▲ LDI운용2본부장  박상면 [DB증권] <임원 승진> ◇상무 ▲ Equity솔루션본부장  이동규 ◇담당 ▲ 경영기획본부장  최문석 [DB캐피탈] <임원 승진> ◇담당 ▲ 금융사업본부장...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154915",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:58:00+09:00"
+    },
+    {
+      "id": "DB증권-70f3e7",
+      "title": "[인사] DB증권",
+      "description": "◇ 승진 ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 머니스톰",
+      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8918",
+      "source": "www.moneystorm.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:58:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-0dc558",
+      "title": "[인사] DB증권",
+      "description": "◇사장 ▲ 신탁대표  박용명 ◇담당 ▲ LDI운용2본부장  박상면 [DB증권] <임원 승진> ◇상무 ▲ Equity솔루션본부장  이동규 ◇담당 ▲ 경영기획본부장  최문석 [DB캐피탈] <임원 승진> ◇담당 ▲ 금융사업본부장...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154915",
+      "source": "www.ziksir.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:58:00+09:00"
+    },
+    {
+      "id": "DB증권-f6207f",
+      "title": "금융투자업계, 자립준비청년 자산 형성 지원…3년간 15억원 후원",
+      "description": "사업에는 ▲DB증권 ▲IBK투자증권 ▲KB증권 ▲NH투자증권 ▲교보증권 ▲다올투자증권 ▲대신증권 ▲메리츠증권 ▲신한투자증권 ▲우리투자증권 ▲유안타증권 ▲키움증권 ▲현대차증권 ▲하나증권 등이 참여한다....",
+      "url": "https://www.esgeconomy.com/news/articleView.html?idxno=17573",
+      "source": "www.esgeconomy.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:54:00+09:00"
+    },
+    {
+      "id": "DB증권-094527",
+      "title": "[인사] DB증권",
+      "description": "승진 <상무> ▲ Equity솔루션본부장 이동규 ▲ 경영기획본부장 최문석 (서울=연합뉴스)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016467114?sid=101",
+      "source": "www.yna.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:51:00+09:00"
+    },
+    {
+      "id": "DB증권-17f997",
+      "title": "[인사] DB증권",
+      "description": "〈임원 승진〉 ◇사장 △ 신탁대표 박용명 ◇담당 △ LDI운용2본부장 박상면 [DB증권] 〈임원 승진〉 ◇상무 △ Equity솔루션본부장 이동규 ◇담당 △ 경영기획본부장 최문석 [DB캐피탈] 〈임원 승진〉 ◇담당...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/114127",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:48:00+09:00"
+    },
+    {
+      "id": "DB증권-bbbbe5",
+      "title": "[인사] DB증권",
+      "description": "◆임원 승진 ▲Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=218817",
+      "source": "www.srtimes.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:48:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-17f997",
+      "title": "[인사] DB증권",
+      "description": "〈임원 승진〉 ◇사장 △ 신탁대표 박용명 ◇담당 △ LDI운용2본부장 박상면 [DB증권] 〈임원 승진〉 ◇상무 △ Equity솔루션본부장 이동규 ◇담당 △ 경영기획본부장 최문석 [DB캐피탈] 〈임원 승진〉 ◇담당...",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/114127",
+      "source": "www.smarttoday.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:48:00+09:00"
+    },
+    {
+      "id": "DB증권-f46393",
+      "title": "[인사] DB증권",
+      "description": "◇임원 승진 ▲Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160151?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:42:00+09:00"
+    },
+    {
+      "id": "DB증권-ef88cd",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> ▲ 금융사업본부장...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112709261379437",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:42:00+09:00"
+    },
+    {
+      "id": "DB자산운용-ef88cd",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> ▲ 금융사업본부장...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112709261379437",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:42:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-ef88cd",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> ▲ 금융사업본부장...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112709261379437",
+      "source": "www.newsway.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:42:00+09:00"
+    },
+    {
+      "id": "DB증권-7b5214",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "임원 승진 ◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] 임원 승진 ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] 임원 승진 ◇ 담당...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=644128",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:41:00+09:00"
+    },
+    {
+      "id": "DB자산운용-7b5214",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "임원 승진 ◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] 임원 승진 ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] 임원 승진 ◇ 담당...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=644128",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:41:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-7b5214",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "임원 승진 ◇ 사장 ▲ 신탁대표 박용명 ◇ 담당 ▲ LDI운용2본부장 박상면 [DB증권] 임원 승진 ◇ 상무 ▲ Equity솔루션본부장 이동규 ◇ 담당 ▲ 경영기획본부장 최문석 [DB캐피탈] 임원 승진 ◇ 담당...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=644128",
+      "source": "www.seoulfn.com",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:41:00+09:00"
+    },
+    {
+      "id": "DB자산운용-82af64",
+      "title": "[인사] DB자산운용",
+      "description": "◇ 임원 승진 ▲신탁대표 박용명 <담당> ▲LDI운용2본부장 박상면",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160149?sid=101",
+      "source": "www.dailian.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:39:00+09:00"
+    },
+    {
+      "id": "DB증권-8add87",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "DB자산운용 ◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 DB증권 ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 DB캐피탈 ◇ 임원 승진 <담당...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000546237?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:30:00+09:00"
+    },
+    {
+      "id": "DB자산운용-8add87",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "DB자산운용 ◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 DB증권 ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 DB캐피탈 ◇ 임원 승진 <담당...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000546237?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:30:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-8add87",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "DB자산운용 ◇ 임원 승진 ▲ 신탁대표 박용명 <담당> ▲ LDI운용2본부장 박상면 DB증권 ◇ 임원 승진 <상무> ▲ Equity솔루션본부장 이동규 <담당> ▲ 경영기획본부장 최문석 DB캐피탈 ◇ 임원 승진 <담당...",
+      "url": "https://n.news.naver.com/mnews/article/374/0000546237?sid=101",
+      "source": "biz.sbs.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:30:00+09:00"
+    },
+    {
+      "id": "DB증권-dde353",
+      "title": "[인사]DB증권",
+      "description": "DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848650?sid=102",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:29:00+09:00"
+    },
+    {
+      "id": "DB자산운용-dde353",
+      "title": "[인사]DB증권",
+      "description": "DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848650?sid=102",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:29:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-dde353",
+      "title": "[인사]DB증권",
+      "description": "DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. ◇임원 승진 <사장> ▲신탁대표 박용명 <담당> ▲LDI운용2본부장...",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848650?sid=102",
+      "source": "view.asiae.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:29:00+09:00"
+    },
+    {
+      "id": "DB증권-2599e0",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◆DB자산운용 ▷사장 △박용명 신탁대표 ▷담당 △박상면 LDI운용2본부장 ◆DB증권 <승진> ▷상무 △이동규 Equity솔루션본부장 ▷담당 △최문석 경영기획본부장 ◆DB캐피탈 <승진> ▷담당 △김영진 금융사업본부장",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447267?sid=102",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB증권-62575f",
+      "title": "[인사] DB증권",
+      "description": "□DB자산운용 ◇임원 승진 ▲신탁대표 박용명 ▲LDI운용2본부장 박상면 □DB증권 ◇임원 승진 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 □DB캐피탈 ◇임원 승진 ▲금융사업본부장 김영진 [시사캐스트]",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=102439",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB자산운용-2599e0",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◆DB자산운용 ▷사장 △박용명 신탁대표 ▷담당 △박상면 LDI운용2본부장 ◆DB증권 <승진> ▷상무 △이동규 Equity솔루션본부장 ▷담당 △최문석 경영기획본부장 ◆DB캐피탈 <승진> ▷담당 △김영진 금융사업본부장",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447267?sid=102",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB자산운용-62575f",
+      "title": "[인사] DB증권",
+      "description": "□DB자산운용 ◇임원 승진 ▲신탁대표 박용명 ▲LDI운용2본부장 박상면 □DB증권 ◇임원 승진 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 □DB캐피탈 ◇임원 승진 ▲금융사업본부장 김영진 [시사캐스트]",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=102439",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-2599e0",
+      "title": "[인사]DB자산운용·DB증권·DB캐피탈",
+      "description": "◆DB자산운용 ▷사장 △박용명 신탁대표 ▷담당 △박상면 LDI운용2본부장 ◆DB증권 <승진> ▷상무 △이동규 Equity솔루션본부장 ▷담당 △최문석 경영기획본부장 ◆DB캐피탈 <승진> ▷담당 △김영진 금융사업본부장",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447267?sid=102",
+      "source": "www.mt.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-62575f",
+      "title": "[인사] DB증권",
+      "description": "□DB자산운용 ◇임원 승진 ▲신탁대표 박용명 ▲LDI운용2본부장 박상면 □DB증권 ◇임원 승진 ▲Equity솔루션본부장 이동규 ▲경영기획본부장 최문석 □DB캐피탈 ◇임원 승진 ▲금융사업본부장 김영진 [시사캐스트]",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=102439",
+      "source": "www.sisacast.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:28:00+09:00"
+    },
+    {
+      "id": "DB증권-5e6abb",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "라이센스뉴스 = 김재용 기자 | DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. 자세한 내용은 아래와 같다. ◇ 상무...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212124",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:24:00+09:00"
+    },
+    {
+      "id": "DB자산운용-5e6abb",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "라이센스뉴스 = 김재용 기자 | DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. 자세한 내용은 아래와 같다. ◇ 상무...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212124",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:24:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-5e6abb",
+      "title": "[인사] DB증권·DB자산운용·DB캐피탈",
+      "description": "라이센스뉴스 = 김재용 기자 | DB자산운용(대표 정경수, 박용명), DB증권(대표 곽봉석), DB캐피탈(대표 박재범)은 12월 1일자로 임원에 대한 승진 인사를 아래와 같이 단행했다. 자세한 내용은 아래와 같다. ◇ 상무...",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=212124",
+      "source": "www.lcnews.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:24:00+09:00"
+    },
+    {
+      "id": "DB증권-36a925",
+      "title": "DB자산운용 박용명 신탁대표, 사장 승진…DB 금융계열사 3곳서 5명 인사",
+      "description": "DB자산운용과 DB증권, DB캐피탈은 이 같은 내용을 포함한 임원 5명의 승진 인사를 27일 발표했다. DB자산운용에서는 박용명 신탁대표의 사장 승진과 함께 박상면 LDI운용2본부장이 담당으로 승진한다. DB증권에서는...",
+      "url": "https://www.socialvalue.kr/news/view/1065571867641027",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:14:00+09:00"
+    },
+    {
+      "id": "DB자산운용-36a925",
+      "title": "DB자산운용 박용명 신탁대표, 사장 승진…DB 금융계열사 3곳서 5명 인사",
+      "description": "▲ DB자산운용 CI./사진=DB자산운용  박용명 DB자산운용 신탁대표가 오는 12월 1일자로 사장에 오른다. DB자산운용과 DB증권, DB캐피탈은 이 같은 내용을 포함한 임원 5명의 승진 인사를 27일 발표했다....",
+      "url": "https://www.socialvalue.kr/news/view/1065571867641027",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:14:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-36a925",
+      "title": "DB자산운용 박용명 신탁대표, 사장 승진…DB 금융계열사 3곳서 5명 인사",
+      "description": "DB자산운용과 DB증권, DB캐피탈은 이 같은 내용을 포함한 임원 5명의 승진 인사를 27일 발표했다. DB자산운용에서는 박용명 신탁대표의 사장 승진과 함께 박상면 LDI운용2본부장이 담당으로 승진한다. DB증권에서는...",
+      "url": "https://www.socialvalue.kr/news/view/1065571867641027",
+      "source": "www.socialvalue.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:14:00+09:00"
+    },
+    {
+      "id": "DB증권-8c05b4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲ 신탁대표 박용명 ◇ 담당 승진 ▲ LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲ Equity솔루션본부장 이동규 ◇ 담당 승진 ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲ 금융사업본부장...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=230404",
+      "source": "www.youthdaily.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:12:00+09:00"
+    },
+    {
+      "id": "DB자산운용-8c05b4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲ 신탁대표 박용명 ◇ 담당 승진 ▲ LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲ Equity솔루션본부장 이동규 ◇ 담당 승진 ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲ 금융사업본부장...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=230404",
+      "source": "www.youthdaily.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:12:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-8c05b4",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 사장 승진 ▲ 신탁대표 박용명 ◇ 담당 승진 ▲ LDI운용2본부장 박상면 [DB증권] ◇ 상무 승진 ▲ Equity솔루션본부장 이동규 ◇ 담당 승진 ▲ 경영기획본부장 최문석 [DB캐피탈] ◇ 담당 승진 ▲ 금융사업본부장...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=230404",
+      "source": "www.youthdaily.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:12:00+09:00"
+    },
+    {
+      "id": "DB증권-54fdec",
+      "title": "DB그룹 금융 계열사 임원인사…박용명 사장 승진 등 5명 발탁",
+      "description": "DB자산운용과 DB증권, DB캐피탈에서 총 5명이 승진 명단에 이름을 올렸다. 27일 DB자산운용·DB증권·DB캐피탈은 12월 1일자로 임원 승진 인사를 실시한다고 밝혔다. DB자산운용에서는 박용명 신탁대표가 사장으로...",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=227841",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB증권-7981bb",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733183",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-54fdec",
+      "title": "DB그룹 금융 계열사 임원인사…박용명 사장 승진 등 5명 발탁",
+      "description": "DB자산운용과 DB증권, DB캐피탈에서 총 5명이 승진 명단에 이름을 올렸다. 27일 DB자산운용·DB증권·DB캐피탈은 12월 1일자로 임원 승진 인사를 실시한다고 밝혔다. DB자산운용에서는 박용명 신탁대표가 사장으로...",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=227841",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB자산운용-7981bb",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733183",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-54fdec",
+      "title": "DB그룹 금융 계열사 임원인사…박용명 사장 승진 등 5명 발탁",
+      "description": "DB자산운용과 DB증권, DB캐피탈에서 총 5명이 승진 명단에 이름을 올렸다. 27일 DB자산운용·DB증권·DB캐피탈은 12월 1일자로 임원 승진 인사를 실시한다고 밝혔다. DB자산운용에서는 박용명 신탁대표가 사장으로...",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=227841",
+      "source": "www.newspost.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-7981bb",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈",
+      "description": "◇ 임원 승진 △ 신탁대표 박용명 <담당> △ LDI운용2본부장 박상면 [DB증권] ◇ 임원 승진 <상무> △ Equity솔루션본부장 이동규 <담당> △ 경영기획본부장 최문석 [DB캐피탈] ◇ 임원 승진 <담당> △ 금융사업본부장...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733183",
+      "source": "www.ebn.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:08:00+09:00"
+    },
+    {
+      "id": "DB증권-6a9135",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈, 임원 승진 인사 단행",
+      "description": "DB자산운용과 DB증권, DB캐피탈 등 DB그룹 주요 금융계열사가 내달 1일자로 총 5명 규모의 임원 승진 인사를 실시했다. 박용명 DB자산운용 신탁대표 사장 승진…DB증권 이동규 상무 발탁 27일 DB금융계열사에 따르면...",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88536",
+      "source": "www.pointe.co.kr",
+      "subsidiary": "DB증권",
+      "publishedAt": "2026-11-27T09:06:00+09:00"
+    },
+    {
+      "id": "DB자산운용-6a9135",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈, 임원 승진 인사 단행",
+      "description": "DB자산운용과 DB증권, DB캐피탈 등 DB그룹 주요 금융계열사가 내달 1일자로 총 5명 규모의 임원 승진 인사를 실시했다. 박용명 DB자산운용 신탁대표 사장 승진…DB증권 이동규 상무 발탁 27일 DB금융계열사에 따르면...",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88536",
+      "source": "www.pointe.co.kr",
+      "subsidiary": "DB자산운용",
+      "publishedAt": "2026-11-27T09:06:00+09:00"
+    },
+    {
+      "id": "DB캐피탈-6a9135",
+      "title": "[인사] DB자산운용·DB증권·DB캐피탈, 임원 승진 인사 단행",
+      "description": "DB자산운용과 DB증권, DB캐피탈 등 DB그룹 주요 금융계열사가 내달 1일자로 총 5명 규모의 임원 승진 인사를 실시했다. 박용명 DB자산운용 신탁대표 사장 승진…DB증권 이동규 상무 발탁 27일 DB금융계열사에 따르면...",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88536",
+      "source": "www.pointe.co.kr",
+      "subsidiary": "DB캐피탈",
+      "publishedAt": "2026-11-27T09:06:00+09:00"
+    },
     {
       "id": "DB하이텍-6631fb",
       "title": "아산스마트팩토리마이스터고 학생, 근로복지공단 고졸 채용 최종 합격",
@@ -174,15 +2388,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-26T18:00:00+09:00"
     },
     {
-      "id": "DB손해보험-ca6480",
-      "title": "[보험 뉴스브리핑] DB생명 '백년친구 더블업 암치료 보장보험' 출시",
-      "description": "□ DB손보 국가품질혁신상 고객만족 부문 대통령표창 수상 DB손해보험은 서울 코엑스에서 열린 '제52회 국가품질경영대회'에서 국가품질혁신상 고객만족 부문 대통령표창을 수상했다. 국가품질혁신상은 산업통상자원부...",
-      "url": "https://www.asiatime.co.kr/article/20261126500450",
-      "source": "www.asiatime.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T17:58:00+09:00"
-    },
-    {
       "id": "DB생명-ca6480",
       "title": "[보험 뉴스브리핑] DB생명 '백년친구 더블업 암치료 보장보험' 출시",
       "description": "□ DB생명 '백년친구 더블업 암치료 보장보험' 출시 DB생명은 기본 사망보장에 암 진단부터 치료·회복까지 보장하는 '백년친구 더블업 암치료 보장보험'을 출시했다. 이 보험은 △암 수술 △항암방사선·약물치료...",
@@ -190,15 +2395,6 @@ const NEWS_DATA = {
       "source": "www.asiatime.co.kr",
       "subsidiary": "DB생명",
       "publishedAt": "2026-11-26T17:58:00+09:00"
-    },
-    {
-      "id": "DB손해보험-9cec64",
-      "title": "[보험사 풍향계] DB손해보험, 고객 신뢰도 향상 노력 인정 받아 外",
-      "description": "◇DB손해보험, 고객 신뢰도 향상 노력 인정 받아 DB손해보험이 '제52회 국가품질경연대회'에서 대통령 표창을 받았다. 소비자보호를 위한 인프라를 구축하고 고객 중심의 서비스 혁신을 지속한 결과다. DB손보는 상품...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261126022545363",
-      "source": "www.ekn.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T17:56:00+09:00"
     },
     {
       "id": "DB생명-9cec64",
@@ -226,15 +2422,6 @@ const NEWS_DATA = {
       "source": "www.ceoscoredaily.com",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-11-26T17:50:00+09:00"
-    },
-    {
-      "id": "DB손해보험-c4a7b2",
-      "title": "[보험업계 동향] 삼성생명ㆍ삼성화재ㆍDB손해보험ㆍDB생명(11.26)",
-      "description": "■ DB손해보험, 국가품질혁신상 고객만족부문 대통령 표창 - 제52회 국가품질경영대회서 수상···선제적 불완전판매 예방·VOC 통합 관리 - 업계 첫 '보상 AI 에이전트'·AI 자동 과실판정···보상 과정 실시간 조회 지원...",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=803623",
-      "source": "www.weeklytoday.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T17:48:00+09:00"
     },
     {
       "id": "DB생명-c4a7b2",
@@ -316,15 +2503,6 @@ const NEWS_DATA = {
       "source": "www.smarttoday.co.kr",
       "subsidiary": "DB증권",
       "publishedAt": "2026-11-26T17:06:00+09:00"
-    },
-    {
-      "id": "DB손해보험-0412c9",
-      "title": "다올證, 매각 추진 속 저축銀 지분 222억 추가 취득…무슨 거래?",
-      "description": "인수 후보로 거론된 DB손해보험과 유진그룹도 인수를 검토하고 있지 않다고 밝혀 매각전은 안갯속에 놓였다. 26일 금융투자업계에 따르면 다올투자증권은 지난 24일 이사회를 열고 다올저축은행 주식 280만4346주를...",
-      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242252",
-      "source": "www.ezyeconomy.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T17:00:00+09:00"
     },
     {
       "id": "DB증권-0412c9",
@@ -498,24 +2676,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-26T15:34:00+09:00"
     },
     {
-      "id": "DB손해보험-523c4a",
-      "title": "다올투자증권 매각설…기존 주주부터 증권업 진출 기업까지 후보군 주목",
-      "description": "다올투자증권의 경영권 인수 유력 후보로는 DB손해보험과 유진그룹, JB금융지주, LF 등이 꼽힌다. 먼저, DB손해보험은 다올투자증권의 지분 9.73%를 가진 2대 주주로, 앞서 이병철 회장과 경영권 분쟁을 치른 김기수 전...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429435",
-      "source": "daily.hankooki.com",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T15:26:00+09:00"
-    },
-    {
-      "id": "DB증권-523c4a",
-      "title": "다올투자증권 매각설…기존 주주부터 증권업 진출 기업까지 후보군 주목",
-      "description": "또 자회사인 DB증권과 함께 DB저축은행, DB자산운용 등 다올투자증권과 유사한 사업 구조를 갖추고 있어 빠른 연착륙을 기대할 수 있다. 유진그룹은 2021년 지금의 다올저축은행을 매각하면서 거래 관계를 쌓았으며...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429435",
-      "source": "daily.hankooki.com",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-11-26T15:26:00+09:00"
-    },
-    {
       "id": "DB저축은행-523c4a",
       "title": "다올투자증권 매각설…기존 주주부터 증권업 진출 기업까지 후보군 주목",
       "description": "또 자회사인 DB증권과 함께 DB저축은행, DB자산운용 등 다올투자증권과 유사한 사업 구조를 갖추고 있어 빠른 연착륙을 기대할 수 있다. 유진그룹은 2021년 지금의 다올저축은행을 매각하면서 거래 관계를 쌓았으며...",
@@ -595,15 +2755,6 @@ const NEWS_DATA = {
       "source": "www.businesspost.co.kr",
       "subsidiary": "DB손해보험",
       "publishedAt": "2026-11-26T14:22:00+09:00"
-    },
-    {
-      "id": "DB손해보험-7c2a5a",
-      "title": "미래에셋증권·JYP Ent. 폭등쇼…코리아 밸류업 지수 관련주에 무슨 이슈...",
-      "description": "메리츠금융지주와 하나금융지주, KB금융, JB금융지주, DB손해보험, 삼성화재 등 금융 관련 종목도 차별화된 흐름을 보이고 있다. 산업·자동차 분야에서는 현대로템과 두산밥캣, KG모빌리티플랫폼, 기아, 현대차...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508391",
-      "source": "www.pinpointnews.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T14:16:00+09:00"
     },
     {
       "id": "DB하이텍-7c2a5a",
@@ -723,24 +2874,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-26T13:18:00+09:00"
     },
     {
-      "id": "DB손해보험-50058d",
-      "title": "다올투자증권 매각설… 저축은행 잔여 지분 매입 부담 '변수'",
-      "description": "◆잠재 인수 후보 DB손보… 금융계열사 시너지·자금 여력 관건 이러한 거래 구조는 다올투자증권의 잠재 인수 후보로 거론되는 DB손해보험에도 고려 대상이다. DB손보는 다올투자증권 지분 9.73%를 보유한 2대 주주다....",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=732194",
-      "source": "www.the-biz.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T13:16:00+09:00"
-    },
-    {
-      "id": "DB증권-50058d",
-      "title": "다올투자증권 매각설… 저축은행 잔여 지분 매입 부담 '변수'",
-      "description": "다만 DB그룹이 이미 DB증권과 DB저축은행을 보유하고 있다는 점에서 추가 인수에 따른 실익을 따져봐야 한다. 증권·저축은행 사업의 외형을 확대할 수 있지만 기존 금융계열사와 사업 영역이 겹치는 만큼 인수를 통해...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=732194",
-      "source": "www.the-biz.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-11-26T13:16:00+09:00"
-    },
-    {
       "id": "DB저축은행-50058d",
       "title": "다올투자증권 매각설… 저축은행 잔여 지분 매입 부담 '변수'",
       "description": "다만 DB그룹이 이미 DB증권과 DB저축은행을 보유하고 있다는 점에서 추가 인수에 따른 실익을 따져봐야 한다. 증권·저축은행 사업의 외형을 확대할 수 있지만 기존 금융계열사와 사업 영역이 겹치는 만큼 인수를 통해...",
@@ -757,24 +2890,6 @@ const NEWS_DATA = {
       "source": "www.pinpointnews.co.kr",
       "subsidiary": "DB증권",
       "publishedAt": "2026-11-26T13:06:00+09:00"
-    },
-    {
-      "id": "DB손해보험-95a7a7",
-      "title": "다올투자증권, 매각설 '수면 위'…인수 부담에 흥행은 '미지수'",
-      "description": "현재 거론되는 유력 인수 후보자로는 다올투자증권의 2대 주주인 DB손해보험, 2024년 한양증권 인수전에 참여한 LF그룹 등이 있다. 특히 DB손해보험의 경우 동종 업계 그룹사로서 가장 유력한 인수 후보자로 거론된다....",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=314372",
-      "source": "www.fetv.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T12:44:00+09:00"
-    },
-    {
-      "id": "DB증권-95a7a7",
-      "title": "다올투자증권, 매각설 '수면 위'…인수 부담에 흥행은 '미지수'",
-      "description": "최대주주인 DB증권이 신라젠 신주인수권부사채(BW) 위장 거래 지원 사건과 관련해 벌금 5억원을 확정받은 탓에 2028년까지는 대주주 적격성 문제가 상존한다. 다올투자증권의 잔존 부동산금융 위험 익스포저도 인수...",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=314372",
-      "source": "www.fetv.co.kr",
-      "subsidiary": "DB증권",
-      "publishedAt": "2026-11-26T12:44:00+09:00"
     },
     {
       "id": "DB저축은행-95a7a7",
@@ -921,15 +3036,6 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-26T10:42:00+09:00"
     },
     {
-      "id": "DB손해보험-2d0043",
-      "title": "DB손해보험, 국가품질혁신상 대통령 표창…DB생명 암보험 출시",
-      "description": "DB손보, 소비자보호 내부통제·AI 보상체계 성과 인정 DB생명, 암 진단부터 치료·회복까지 단계별 보장 ▲ 지난 25일 서울 코엑스에서 열린 '제52회 국가품질경영대회'에서 정종표 DB손해보험 사장(가운데)과 임직원들이...",
-      "url": "https://sateconomy.co.kr/news/view/1065574235800311",
-      "source": "sateconomy.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T10:40:00+09:00"
-    },
-    {
       "id": "DB생명-2d0043",
       "title": "DB손해보험, 국가품질혁신상 대통령 표창…DB생명 암보험 출시",
       "description": "DB생명은 암 치료부터 회복까지 보장 범위를 넓힌 신상품을 출시했다. DB손해보험(대표 정종표)은 지난 25일 서울 코엑스에서 열린 ‘제52회 국가품질경영대회’에서 국가품질혁신상 고객만족부문 대통령 표창을...",
@@ -957,12 +3063,12 @@ const NEWS_DATA = {
       "publishedAt": "2026-11-26T10:36:00+09:00"
     },
     {
-      "id": "DB손해보험-5366a5",
+      "id": "DB생명-5366a5",
       "title": "[금융권 이모저모]삼성자산운용, 커버드콜 ETF에 삼성전자 특별배당 반...",
-      "description": "지난 25일 서울 코엑스에서 열린 제52회 국가품질경영대회에서 DB손해보험 관계자들이 대통령 표창을 받은 뒤 기념 촬영을 하고 있다. / 사진=DB손해보험 ◇DB손해보험, 국가품질혁신상 고객만족부문 대통령 표창 수상...",
+      "description": "그래픽=DB생명 ◇DB생명, 가입 10년 이후 암 치료 보장 확대하는 보험 출시 DB생명은 기본 사망 보장에 암 진단 이후 치료와 회복 단계별 보장을 더한 '(무)백년친구 더블업 암치료 보장보험(해약환급금 일부지급형)'을...",
       "url": "https://www.businessplus.kr/news/articleView.html?idxno=120527",
       "source": "www.businessplus.kr",
-      "subsidiary": "DB손해보험",
+      "subsidiary": "DB생명",
       "publishedAt": "2026-11-26T10:34:00+09:00"
     },
     {
@@ -972,15 +3078,6 @@ const NEWS_DATA = {
       "url": "https://www.g-enews.com/view.php?ud=202611261023079692a6e8311f64_1",
       "source": "www.g-enews.com",
       "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T10:34:00+09:00"
-    },
-    {
-      "id": "DB생명-5366a5",
-      "title": "[금융권 이모저모]삼성자산운용, 커버드콜 ETF에 삼성전자 특별배당 반...",
-      "description": "그래픽=DB생명 ◇DB생명, 가입 10년 이후 암 치료 보장 확대하는 보험 출시 DB생명은 기본 사망 보장에 암 진단 이후 치료와 회복 단계별 보장을 더한 '(무)백년친구 더블업 암치료 보장보험(해약환급금 일부지급형)'을...",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120527",
-      "source": "www.businessplus.kr",
-      "subsidiary": "DB생명",
       "publishedAt": "2026-11-26T10:34:00+09:00"
     },
     {
@@ -1315,15 +3412,6 @@ const NEWS_DATA = {
       "source": "www.popcornnews.net",
       "subsidiary": "DB증권",
       "publishedAt": "2026-11-26T08:10:00+09:00"
-    },
-    {
-      "id": "DB손해보험-ce84d8",
-      "title": "다올투증 매물에 원매자 '두 갈래 셈법'…DB손보 지분 우위 속 금융지주...",
-      "description": "다만 2대 주주인 DB손해보험의 지분과 금융지주회사법상 지분 요건, 국회에 계류 중인 의무공개매수제 등이 원매자별 손익계산을 가를 변수로 꼽힌다. 26일 금융투자업계에 따르면 매각 대상은 이 회장 개인 지분 28.75...",
-      "url": "https://www.youthdaily.co.kr/news/article.html?no=230314",
-      "source": "www.youthdaily.co.kr",
-      "subsidiary": "DB손해보험",
-      "publishedAt": "2026-11-26T08:02:00+09:00"
     },
     {
       "id": "DB증권-ce84d8",
